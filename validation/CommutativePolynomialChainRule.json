@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CommutativePolynomialChainRule.lean",
+  "source_sha256": "8b98903d9ab1df070bd7436c02315ca04c6cc100872610f95f49ab4c15eded74",
+  "exit_code": 0,
+  "seconds": 17.65,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CommutativePolynomialChainRule.lean:59:14: warning: This simp argument is unused:\n  Finsupp.single_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [hj]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CommutativePolynomialChainRule.lean:67:19: warning: This simp argument is unused:\n  hd\n\nHint: Omit it from the simp argument list.\n  [apply] simp [coeff_C, Ne.symm hd, hcoeff]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

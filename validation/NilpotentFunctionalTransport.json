@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NilpotentFunctionalTransport.lean",
+  "source_sha256": "cf5827f645700f454cbdfaee9a83397a0152ff20a3e74136cdead5edd85c3ca1",
+  "exit_code": 0,
+  "seconds": 15.92,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 8.53s\n.olean serialization took 214ms\ncumulative profiling times:\n\t.olean serialization 214ms\n\tattribute application 0.0196ms\n\tcongr simp thm 0.807ms\n\telaboration 16.1ms\n\tfix level params 0.488ms\n\timport 8.53s\n\tinitialization 27.8ms\n\tinstantiate metavars 0.37ms\n\tinterpretation 6.85s\n\tlet-to-have transformation 0.0713ms\n\tlinting 4.61ms\n\tmodule linting 0.0018ms\n\tnorm_num 2.13ms\n\toverlappingInstancesLinter 32.4ms\n\tparsing 2.07ms\n\tprocess pre-definitions 1.38ms\n\tring 61.6ms\n\tshare common exprs 1.02ms\n\tsimp 16.6ms\n\ttactic execution 46ms\n\ttacticAnalysis 43.4ms\n\ttype checking 8.79ms\n\ttypeclass inference 154ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FiniteCoefficientScalarEquiv.lean",
+  "source_sha256": "fa7231e0498a1eaff44a7fd04c8e9b787d37a666030db3a30bc540a34f7604de",
+  "exit_code": 0,
+  "seconds": 15.94,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 9.15s\n.olean serialization took 204ms\ncumulative profiling times:\n\t.olean serialization 204ms\n\tattribute application 0.0569ms\n\tblocked (unaccounted) 0.0436ms\n\telaboration 12.3ms\n\tfix level params 0.216ms\n\timport 9.15s\n\tinitialization 26.9ms\n\tinstantiate metavars 0.117ms\n\tinterpretation 6.49s\n\tlet-to-have transformation 0.0458ms\n\tlinting 2.71ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 29.6ms\n\tparsing 1.76ms\n\tprocess pre-definitions 1.32ms\n\tshare common exprs 0.478ms\n\ttactic execution 14ms\n\ttacticAnalysis 40.9ms\n\ttype checking 5.48ms\n\ttypeclass inference 85.1ms\n"
+}

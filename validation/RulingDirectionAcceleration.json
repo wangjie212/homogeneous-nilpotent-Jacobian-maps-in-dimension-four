@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RulingDirectionAcceleration.lean",
+  "source_sha256": "8cfe74365a0bc12383606079aa0c6354487681ba3a49f97a2f885774526a5b2b",
+  "exit_code": 0,
+  "seconds": 15.22,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 118ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 7.69s\n.olean serialization took 211ms\ncumulative profiling times:\n\t.olean serialization 211ms\n\tattribute application 0.476ms\n\tblocked (unaccounted) 115ms\n\tcompilation (IR) 0.728ms\n\tcompilation (LCNF base) 21.2ms\n\tcompilation (LCNF impure) 3.22ms\n\tcompilation (LCNF mono) 6.67ms\n\tcongr simp thm 1.23ms\n\telaboration 114ms\n\tfix level params 1.81ms\n\timport 7.69s\n\tinitialization 27.5ms\n\tinstantiate metavars 2.47ms\n\tinterpretation 6.67s\n\tlet-to-have transformation 0.25ms\n\tlinting 16.9ms\n\tmodule linting 0.0016ms\n\tnorm_num 8.19ms\n\toverlappingInstancesLinter 32.2ms\n\tparsing 4.75ms\n\tprocess pre-definitions 7.44ms\n\tring 95.6ms\n\tshare common exprs 6.21ms\n\tsimp 97.7ms\n\ttactic execution 150ms\n\ttacticAnalysis 92.6ms\n\ttype checking 79.8ms\n\ttypeclass inference 478ms\n"
+}

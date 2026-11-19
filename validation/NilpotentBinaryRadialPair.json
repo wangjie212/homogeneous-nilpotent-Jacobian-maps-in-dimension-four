@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NilpotentBinaryRadialPair.lean",
+  "source_sha256": "ba405fa6db65c614488834b70554f2f67ba543561d44c90aecf5d2719584bbc4",
+  "exit_code": 0,
+  "seconds": 18.67,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NilpotentBinaryRadialPair.lean:57:8: warning: This simp argument is unused:\n  pderiv_mul\n\nHint: Omit it from the simp argument list.\n  [apply] simp [v, Matrix.vecMul, dotProduct, jac, Fin.sum_univ_succ, pderiv_X] at he ⊢\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

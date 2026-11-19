@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PolynomialJacobianPointEvaluation.lean",
+  "source_sha256": "f929a350b9a8c22ee0b6f25cc65290bfb4f4d31af841a02471f1134a3691c27a",
+  "exit_code": 0,
+  "seconds": 20.03,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PolynomialJacobianPointEvaluation.lean:51:42: warning: This simp argument is unused:\n  algebraMap_eq\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [Matrix.map_apply, aeval_C, Algebra.algebraMap_self, RingHom.id_apply]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PolynomialJacobianPointEvaluation.lean:54:42: warning: This simp argument is unused:\n  algebraMap_eq\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [Matrix.map_apply, aeval_C, Algebra.algebraMap_self, RingHom.id_apply]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

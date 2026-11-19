@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FiniteProjectionIndependence.lean",
+  "source_sha256": "fa8c86f377b00280e423d08791cd87f6acfe6f7a933c48f394a8884aedb6aae6",
+  "exit_code": 0,
+  "seconds": 20.64,
+  "log": "typeclass inference of FaithfulSMul took 620ms\ntypeclass inference of Algebra.IsAlgebraic took 190ms\ntypeclass inference of Algebra.IsAlgebraic took 199ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 104ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 182ms\nimport took 10.1s\n.olean serialization took 295ms\ncumulative profiling times:\n\t.olean serialization 295ms\n\tattribute application 0.029ms\n\tblocked (unaccounted) 1.06s\n\tcongr simp thm 0.356ms\n\telaboration 19.3ms\n\tfix level params 0.228ms\n\timport 10.1s\n\tinitialization 28.5ms\n\tinstantiate metavars 0.179ms\n\tinterpretation 8.8s\n\tlet-to-have transformation 0.0491ms\n\tlinting 4.45ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 40ms\n\tparsing 1.97ms\n\tprocess pre-definitions 1.18ms\n\tshare common exprs 0.562ms\n\tsimp 15.8ms\n\ttactic execution 62.1ms\n\ttacticAnalysis 88.4ms\n\ttype checking 49.6ms\n\ttypeclass inference 1.55s\n"
+}

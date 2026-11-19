@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/DeterminantShearCoefficientPolarization.lean",
+  "source_sha256": "0afa3a6c10cd71efe322a9d5a62c97103535d2ea3133d5a17732fdd6c4be8bd7",
+  "exit_code": 0,
+  "seconds": 17.41,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\DeterminantShearCoefficientPolarization.lean:40:58: warning: This simp argument is unused:\n  Matrix.cons_val_two\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [f, coefficientParameterShift3, map_mul, map_pow, aeval_C, algebraMap_eq, aeval_X,\n    Matrix.cons_val_zero, Matrix.cons_val_one, MvPolynomial.smul_eq_C_mul]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

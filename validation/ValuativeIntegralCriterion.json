@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ValuativeIntegralCriterion.lean",
+  "source_sha256": "0ff00b81b55a9e5961215066b53e0a9ca3b9f1957d30b8ef1e755ed5d32e89b6",
+  "exit_code": 0,
+  "seconds": 15.06,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 8.24s\n.olean serialization took 199ms\ncumulative profiling times:\n\t.olean serialization 199ms\n\tattribute application 0.0147ms\n\tblocked (unaccounted) 0.0935ms\n\telaboration 4.78ms\n\tfix level params 0.0853ms\n\timport 8.24s\n\tinitialization 28.5ms\n\tinstantiate metavars 0.0784ms\n\tinterpretation 6.3s\n\tlet-to-have transformation 0.022ms\n\tlinting 1.79ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 41.2ms\n\tparsing 0.879ms\n\tprocess pre-definitions 0.552ms\n\tshare common exprs 0.21ms\n\ttactic execution 25.2ms\n\ttacticAnalysis 56.1ms\n\ttype checking 25.7ms\n\ttypeclass inference 59.1ms\n"
+}

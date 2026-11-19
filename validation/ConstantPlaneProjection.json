@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConstantPlaneProjection.lean",
+  "source_sha256": "72ed85e089068a7491c979badb4398df8ddde13bd53ebfa385208295595a899d",
+  "exit_code": 0,
+  "seconds": 15.08,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ConstantPlaneProjection.lean:54:54: warning: This simp argument is unused:\n  Matrix.one_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [directionPlaneProjection, Matrix.mul_apply, hij]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

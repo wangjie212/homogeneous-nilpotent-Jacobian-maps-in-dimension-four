@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConeParameterJacobianSlope.lean",
+  "source_sha256": "14e2d15735318824b5b48f3d19d80ad66452e4c23f4a834beb8ddd02b44cc114",
+  "exit_code": 0,
+  "seconds": 17.52,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ConeParameterJacobianSlope.lean:84:79: warning: This simp argument is unused:\n  Fin.castPred\n\nHint: Omit it from the simp argument list.\n  [apply] simp [coneGraphParameterDifferential, coneParameterUpdateColumn, Fin.snoc, Fin.castLT, dotProduct,\n    Fin.sum_univ_succ]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ConeParameterJacobianSlope.lean:92:52: warning: This simp argument is unused:\n  Fin.castPred\n\nHint: Omit it from the simp argument list.\n  [apply] simp [coneGraphParameterDifferential, Fin.snoc, Fin.castLT, dotProduct, Fin.sum_univ_succ]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

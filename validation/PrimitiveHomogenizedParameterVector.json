@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PrimitiveHomogenizedParameterVector.lean",
+  "source_sha256": "7abff7c125eebb995dd6b7678fab7ddae10670e487ff9540c4574be69442bc56",
+  "exit_code": 0,
+  "seconds": 20.72,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PrimitiveHomogenizedParameterVector.lean:84:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.homogenized_primitive_parameter_common_zero_forces_pencil_base_point`:\n  [IsAlgClosed K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsAlgClosed K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

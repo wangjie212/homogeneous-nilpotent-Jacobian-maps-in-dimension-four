@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PositiveCharacteristicExample.lean",
+  "source_sha256": "f919d9d2b0902b21ceeed018fd853cf4e46b3d0144999aa1c8bcd33526c9dae7",
+  "exit_code": 0,
+  "seconds": 17.27,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PositiveCharacteristicExample.lean:46:82: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

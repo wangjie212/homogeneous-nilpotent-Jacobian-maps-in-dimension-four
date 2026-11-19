@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/VandermondeSubmodulePolarization.lean",
+  "source_sha256": "3af8540d5578ec46f6061a228b8398753610dd8ae4bc69af79d178dc4f93e7f7",
+  "exit_code": 0,
+  "seconds": 17.99,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\VandermondeSubmodulePolarization.lean:67:20: warning: This simp argument is unused:\n  smul_smul\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [v, Algebra.smul_def, map_mul, map_pow, map_natCast, mul_pow]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\VandermondeSubmodulePolarization.lean:67:49: warning: This simp argument is unused:\n  map_mul\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [v, smul_smul, Algebra.smul_def, map_pow, map_natCast, mul_pow]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectionFieldGenerator.lean",
+  "source_sha256": "acc09a84cfb12414f16e93fae244d85ffa575ef78280e50805bf7ca5503a02f7",
+  "exit_code": 0,
+  "seconds": 19.08,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 135ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 122ms\nimport took 10.3s\n.olean serialization took 224ms\ncumulative profiling times:\n\t.olean serialization 224ms\n\tattribute application 0.0097ms\n\tcongr simp thm 0.0783ms\n\telaboration 5.95ms\n\tfix level params 0.155ms\n\timport 10.3s\n\tinitialization 28.5ms\n\tinstantiate metavars 0.152ms\n\tinterpretation 8.21s\n\tlet-to-have transformation 0.023ms\n\tlinting 1.64ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 23ms\n\tparsing 0.772ms\n\tprocess pre-definitions 0.477ms\n\tshare common exprs 0.292ms\n\tsimp 0.701ms\n\ttactic execution 14.1ms\n\ttacticAnalysis 39.9ms\n\ttype checking 4.36ms\n\ttypeclass inference 28.7ms\n"
+}

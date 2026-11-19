@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/IntegralSchemeNormalizationIso.lean",
+  "source_sha256": "fce8c8eb74ab3854645e730bb8c5ccdfd4d9c3c0ed1d25504d5672da659a68cc",
+  "exit_code": 0,
+  "seconds": 14.87,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 8.05s\n.olean serialization took 199ms\ncumulative profiling times:\n\t.olean serialization 199ms\n\tattribute application 0.0169ms\n\telaboration 9.16ms\n\tfix level params 0.0648ms\n\timport 8.05s\n\tinitialization 28ms\n\tinstantiate metavars 0.0589ms\n\tinterpretation 6.71s\n\tlet-to-have transformation 0.226ms\n\tlinting 2.04ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 35.3ms\n\tparsing 1.5ms\n\tprocess pre-definitions 0.653ms\n\tshare common exprs 0.134ms\n\ttactic execution 9.93ms\n\ttacticAnalysis 113ms\n\ttype checking 1.66ms\n\ttypeclass inference 26.9ms\n"
+}

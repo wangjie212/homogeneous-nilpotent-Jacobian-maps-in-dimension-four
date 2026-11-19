@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CategoricalPencilCommonFactor.lean",
+  "source_sha256": "963c650ab03b1c9eb9d5255d518c6e73e8214e567a0c8a56d110a9fcc44b2e8b",
+  "exit_code": 0,
+  "seconds": 17.55,
+  "log": "type checking took 126ms\ntype checking took 128ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 108ms\nimport took 8.1s\n.olean serialization took 239ms\ncumulative profiling times:\n\t.olean serialization 239ms\n\tattribute application 1.3ms\n\tblocked (unaccounted) 89.9ms\n\tcompilation (IR) 1.03ms\n\tcompilation (LCNF base) 44.3ms\n\tcompilation (LCNF impure) 5.42ms\n\tcompilation (LCNF mono) 12.1ms\n\telaboration 319ms\n\tfix level params 0.758ms\n\timport 8.1s\n\tinitialization 27.8ms\n\tinstantiate metavars 0.123ms\n\tinterpretation 6.53s\n\tlet-to-have transformation 0.334ms\n\tlinting 13.7ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 38.4ms\n\tparsing 2.28ms\n\tprocess pre-definitions 5.65ms\n\tshare common exprs 2.41ms\n\ttactic execution 21.8ms\n\ttacticAnalysis 143ms\n\ttype checking 257ms\n\ttypeclass inference 2.1s\n"
+}

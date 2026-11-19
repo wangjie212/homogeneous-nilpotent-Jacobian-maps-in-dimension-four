@@ -1,0 +1,42 @@
+@DimensionFourDependence.actual_original_tensor_pencil_finite_linear_projection : ∀ {K : Type u_1} [inst : Field K]
+  [CharZero K] (H : Fin 4 → MvPolynomial (Fin 4) K) (I : DimensionFourDependence.ImageRelationWitness H) (E : Type u_1)
+  [inst_2 : Field E] [inst_3 : Algebra (↥(DimensionFourDependence.closedGaussParameterField H I)) E]
+  (e : RatFunc K ≃ₐ[K] ↥(DimensionFourDependence.closedGaussParameterField H I)) (p q : MvPolynomial (Fin 4) K) {D : ℕ},
+  q ≠ 0 →
+    IsRelPrime p q →
+      p.IsHomogeneous D →
+        q.IsHomogeneous D →
+          (DimensionFourDependence.closedGaussParameterSourceHom H I e) RatFunc.X =
+              (algebraMap (MvPolynomial (Fin 4) K) (FractionRing (MvPolynomial (Fin 4) K))) p /
+                (algebraMap (MvPolynomial (Fin 4) K) (FractionRing (MvPolynomial (Fin 4) K))) q →
+            ∀ (s : Fin 4 ≃ Option (Fin 3)),
+              ∃ T,
+                have r := finSuccEquiv' 0;
+                have y := fun i =>
+                  DimensionFourDependence.linearProjectionCoordinate T
+                    (DimensionFourDependence.originalTensorPencilCoordinate H I E s) (r.symm i);
+                have f :=
+                  (MvPolynomial.renameEquiv E r)
+                    (DimensionFourDependence.linearPolynomialPullback (LinearMap.toMatrix' ↑T)
+                      ((MvPolynomial.map (algebraMap (↥(DimensionFourDependence.closedGaussParameterField H I)) E))
+                        (DimensionFourDependence.closedGaussPencilChartEquation H I e p q s)));
+                Algebra.adjoin E (Set.range y) = ⊤ ∧
+                  f ≠ 0 ∧
+                    MvPolynomial.degreeOf none f = f.totalDegree ∧
+                      f.totalDegree ≤ D ∧
+                        (MvPolynomial.aeval y) f = 0 ∧
+                          Module.Finite (↥(DimensionFourDependence.affineProjectionAlgebra y))
+                            (TensorProduct (↥(DimensionFourDependence.closedGaussParameterField H I))
+                              (↥(DimensionFourDependence.projectiveCoordinateChartAlgebra
+                                  DimensionFourDependence.rationalCoordinate (s.symm none)))
+                              E)
+@DimensionFourDependence.canonical_normalization_finite_projection_transcendental_residue : ∀ {k A : Type u_1}
+  [inst : Field k] [CharZero k] [inst_2 : CommRing A] [IsDomain A] [inst_4 : Algebra k A] [Algebra.FiniteType k A]
+  (y : Option (Fin 2) → A),
+  Module.Finite (↥(DimensionFourDependence.affineProjectionAlgebra y)) A →
+    2 ≤ Algebra.trdeg k A →
+      ∀ (Q : Ideal ↥(DimensionFourDependence.normalizationRing A)) [inst_6 : Q.IsPrime],
+        Q.height = 1 →
+          ∃ j,
+            Transcendental k
+              ((IsLocalRing.residue (Localization.AtPrime Q)) ((algebraMap A (Localization.AtPrime Q)) (y (some j))))

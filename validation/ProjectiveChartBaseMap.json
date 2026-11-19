@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveChartBaseMap.lean",
+  "source_sha256": "b3ff3634bc3c7df3aafb915d7adf5c0615e7c643e84a478de98a6c870ce6323e",
+  "exit_code": 0,
+  "seconds": 16.43,
+  "log": "type checking took 766ms\ntype checking took 737ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 8.05s\n.olean serialization took 207ms\ncumulative profiling times:\n\t.olean serialization 207ms\n\tattribute application 0.616ms\n\tcongr simp thm 0.926ms\n\telaboration 41.9ms\n\tfix level params 0.423ms\n\timport 8.05s\n\tinitialization 28.9ms\n\tinstantiate metavars 0.506ms\n\tinterpretation 6.44s\n\tlet-to-have transformation 0.0656ms\n\tlinting 3.12ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 29.3ms\n\tparsing 2.07ms\n\tprocess pre-definitions 1.28ms\n\tshare common exprs 1.33ms\n\tsimp 21.6ms\n\ttactic execution 267ms\n\ttacticAnalysis 107ms\n\ttype checking 1.5s\n\ttypeclass inference 115ms\n"
+}

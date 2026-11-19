@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryPrescribedPencilProjection.lean",
+  "source_sha256": "70b978552d0a3e85600a60d9f02233694b18158a42cea7df480a135390416b8e",
+  "exit_code": 0,
+  "seconds": 35.65,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryPrescribedPencilProjection.lean:22:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.ternary_prescribed_normalized_nilpotent_pencil_constructs_primitive_axis_base_prime`:\n  [IsAlgClosed K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsAlgClosed K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

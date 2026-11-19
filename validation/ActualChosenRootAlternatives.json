@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualChosenRootAlternatives.lean",
+  "source_sha256": "68ba2091a065dcff3477e219d2aee3a5d07a16e908a3f72a5696b10f0beb2fae",
+  "exit_code": 0,
+  "seconds": 21.06,
+  "log": "type checking took 119ms\ntype checking took 111ms\ntype checking took 110ms\ntype checking took 115ms\ntype checking took 142ms\ntype checking took 131ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 9.4s\n.olean serialization took 251ms\ncumulative profiling times:\n\t.olean serialization 251ms\n\tattribute application 3.32ms\n\tblocked (unaccounted) 134ms\n\tcompilation (IR) 1.47ms\n\tcompilation (LCNF base) 67.2ms\n\tcompilation (LCNF impure) 7.61ms\n\tcompilation (LCNF mono) 18.3ms\n\tcongr simp thm 0.119ms\n\telaboration 646ms\n\tfix level params 2.61ms\n\timport 9.4s\n\tinitialization 29.7ms\n\tinstantiate metavars 2.03ms\n\tinterpretation 6.73s\n\tlet-to-have transformation 0.543ms\n\tlinting 21.4ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 39.9ms\n\tparsing 4.92ms\n\tprocess pre-definitions 21.8ms\n\tshare common exprs 7.64ms\n\tsimp 3.46ms\n\ttactic execution 195ms\n\ttacticAnalysis 152ms\n\ttype checking 781ms\n\ttypeclass inference 3.65s\n"
+}

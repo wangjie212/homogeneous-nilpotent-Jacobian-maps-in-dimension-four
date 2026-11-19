@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SimpleRootLocalIntersection.lean",
+  "source_sha256": "aafef271038b2b29c40bef06fe355588da0e759c84b16b7bb6e2c421f6e57c4a",
+  "exit_code": 0,
+  "seconds": 9.27,
+  "log": "interpretation of Mathlib.Tactic._aux_Mathlib_Tactic_Convert___elabRules_Mathlib_Tactic_convert_1._boxed took 106ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 4.01s\ncumulative profiling times:\n\t.olean serialization 78ms\n\tattribute application 0.037ms\n\tblocked (unaccounted) 0.187ms\n\tcongr simp thm 0.718ms\n\tdsimp 2.51ms\n\telaboration 39.4ms\n\tfix level params 1.95ms\n\timport 4.01s\n\tinitialization 28ms\n\tinstantiate metavars 3.03ms\n\tinterpretation 5.3s\n\tlet-to-have transformation 0.135ms\n\tlinting 19ms\n\tmodule linting 0.0031ms\n\tnorm_num 24.3ms\n\toverlappingInstancesLinter 27.9ms\n\tparsing 5.23ms\n\tprocess pre-definitions 6.32ms\n\tring 206ms\n\tshare common exprs 8.71ms\n\tsimp 10.4ms\n\ttactic execution 136ms\n\ttacticAnalysis 102ms\n\ttype checking 33.5ms\n\ttypeclass inference 278ms\n"
+}

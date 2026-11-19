@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalPlaneConstantIntersection.lean",
+  "source_sha256": "a553c030b6ccaa45173a0266728f9bddef86dbafc71944c19b72ecf316aa4246",
+  "exit_code": 0,
+  "seconds": 15.61,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 108ms\nimport took 8.14s\n.olean serialization took 220ms\ncumulative profiling times:\n\t.olean serialization 220ms\n\tattribute application 0.0263ms\n\tcongr simp thm 0.504ms\n\telaboration 26.4ms\n\tfix level params 0.849ms\n\timport 8.14s\n\tinitialization 27.6ms\n\tinstantiate metavars 0.533ms\n\tinterpretation 6.82s\n\tlet-to-have transformation 0.129ms\n\tlinting 7.38ms\n\tmodule linting 0.0022ms\n\tnorm_num 1.82ms\n\toverlappingInstancesLinter 28.9ms\n\tparsing 2.93ms\n\tprocess pre-definitions 2.56ms\n\tring 38ms\n\tshare common exprs 1.9ms\n\tsimp 21.3ms\n\ttactic execution 90.9ms\n\ttacticAnalysis 71.1ms\n\ttype checking 32.8ms\n\ttypeclass inference 255ms\n"
+}

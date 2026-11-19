@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CoprimeFractionCoefficientDescent.lean",
+  "source_sha256": "aa5197350b5466dac88590513c273790bd75635b052a1cca6b7328aa2423a7bd",
+  "exit_code": 0,
+  "seconds": 16.13,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CoprimeFractionCoefficientDescent.lean:62:15: warning: This simp argument is unused:\n  Ne.symm h\n\nHint: Omit it from the simp argument list.\n  [apply] simp [h]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveHomogeneousPullbackCoefficients.lean",
+  "source_sha256": "0ffe03f00d3744829eff68831c98caa7b51ba321331ccafed7e874ef30c7c395",
+  "exit_code": 0,
+  "seconds": 14.91,
+  "log": "type checking took 413ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 108ms\nimport took 7.44s\n.olean serialization took 227ms\ncumulative profiling times:\n\t.olean serialization 227ms\n\tattribute application 1.14ms\n\tblocked (unaccounted) 39.6ms\n\tcompilation (IR) 0.48ms\n\tcompilation (LCNF base) 18.9ms\n\tcompilation (LCNF impure) 2.81ms\n\tcompilation (LCNF mono) 5.42ms\n\tcongr simp thm 1.78ms\n\telaboration 188ms\n\tfix level params 0.976ms\n\timport 7.44s\n\tinitialization 27.4ms\n\tinstantiate metavars 0.576ms\n\tinterpretation 6.46s\n\tlet-to-have transformation 15.8ms\n\tlinting 8.31ms\n\tmodule linting 0.0021ms\n\toverlappingInstancesLinter 33.5ms\n\tparsing 3.45ms\n\tprocess pre-definitions 6.7ms\n\tshare common exprs 3.02ms\n\tsimp 30ms\n\ttactic execution 117ms\n\ttacticAnalysis 116ms\n\ttype checking 487ms\n\ttypeclass inference 506ms\n"
+}

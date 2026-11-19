@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NativePencilSourceDivisorExclusion.lean",
+  "source_sha256": "89169b96b35808a713003056c35e495c2054f0b36c96a8717f702a844a9b009a",
+  "exit_code": 0,
+  "seconds": 22.26,
+  "log": "type checking took 117ms\ntype checking took 109ms\ntype checking took 138ms\ntype checking took 149ms\ntype checking took 141ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 116ms\nimport took 8.02s\n.olean serialization took 342ms\ncumulative profiling times:\n\t.olean serialization 342ms\n\tattribute application 4.14ms\n\tblocked (unaccounted) 110ms\n\tcompilation (IR) 1.35ms\n\tcompilation (LCNF base) 55.9ms\n\tcompilation (LCNF impure) 6.33ms\n\tcompilation (LCNF mono) 15.5ms\n\telaboration 643ms\n\tfix level params 2.16ms\n\timport 8.02s\n\tinitialization 27.2ms\n\tinstantiate metavars 0.439ms\n\tinterpretation 7.04s\n\tlet-to-have transformation 0.935ms\n\tlinting 27.5ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 44.3ms\n\tparsing 6.07ms\n\tprocess pre-definitions 12.5ms\n\tshare common exprs 6.63ms\n\ttactic execution 105ms\n\ttacticAnalysis 154ms\n\ttype checking 673ms\n\ttypeclass inference 5.88s\n"
+}

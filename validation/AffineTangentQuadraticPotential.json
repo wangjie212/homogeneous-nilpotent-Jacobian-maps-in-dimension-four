@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineTangentQuadraticPotential.lean",
+  "source_sha256": "62536039c3458b46724eace29803d3b02647b5720e90a51718cb647ac2adb2f9",
+  "exit_code": 0,
+  "seconds": 17.7,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\AffineTangentQuadraticPotential.lean:26:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.affineTangentQuadraticPotential_degree_le_two`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\AffineTangentQuadraticPotential.lean:49:74: warning: This simp argument is unused:\n  pderiv_pow\n\nHint: Omit it from the simp argument list.\n  [apply] simp [affineTangentQuadraticPotential, Derivation.leibniz, smul_eq_mul]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\AffineTangentQuadraticPotential.lean:62:74: warning: This simp argument is unused:\n  pderiv_pow\n\nHint: Omit it from the simp argument list.\n  [apply] simp [affineTangentQuadraticPotential, Derivation.leibniz, smul_eq_mul]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

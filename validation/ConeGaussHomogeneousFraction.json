@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConeGaussHomogeneousFraction.lean",
+  "source_sha256": "f0f1b9d0a0fa13f1a62c9f324548603e3e100fc8385021e58893aba2501b0046",
+  "exit_code": 0,
+  "seconds": 15.05,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 132ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.69s\n.olean serialization took 210ms\ncumulative profiling times:\n\t.olean serialization 210ms\n\tattribute application 0.0173ms\n\tcongr simp thm 0.371ms\n\telaboration 36.3ms\n\tfix level params 1.49ms\n\timport 7.69s\n\tinitialization 28.2ms\n\tinstantiate metavars 2.23ms\n\tinterpretation 6.53s\n\tlet-to-have transformation 0.104ms\n\tlinting 8.38ms\n\tmodule linting 0.0015ms\n\tnorm_num 4.14ms\n\toverlappingInstancesLinter 22.1ms\n\tparsing 2.53ms\n\tprocess pre-definitions 4.65ms\n\tshare common exprs 3.71ms\n\tsimp 21.9ms\n\ttactic execution 223ms\n\ttacticAnalysis 46.5ms\n\ttype checking 88.4ms\n\ttypeclass inference 383ms\n"
+}

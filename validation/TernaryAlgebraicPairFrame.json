@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryAlgebraicPairFrame.lean",
+  "source_sha256": "87df435783ae8f34872bef80d933318ff9394152c905f5056239e23c6204caaf",
+  "exit_code": 0,
+  "seconds": 18.95,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryAlgebraicPairFrame.lean:51:66: warning: This simp argument is unused:\n  Matrix.one_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [T, S, Matrix.mul_apply, Fin.sum_univ_three]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryAlgebraicPairFrame.lean:54:66: warning: This simp argument is unused:\n  Matrix.one_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [T, S, Matrix.mul_apply, Fin.sum_univ_three]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

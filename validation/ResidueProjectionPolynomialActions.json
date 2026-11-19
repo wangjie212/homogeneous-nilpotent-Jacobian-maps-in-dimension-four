@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ResidueProjectionPolynomialActions.lean",
+  "source_sha256": "7968d012b057eacb459c182f9a4e62e62d733669328342f441ac2209895601bf",
+  "exit_code": 0,
+  "seconds": 19.34,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 132ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 140ms\nimport took 9.78s\n.olean serialization took 230ms\ncumulative profiling times:\n\t.olean serialization 230ms\n\tattribute application 0.0867ms\n\telaboration 34.3ms\n\tfix level params 0.608ms\n\timport 9.78s\n\tinitialization 27.9ms\n\tinstantiate metavars 0.372ms\n\tinterpretation 8.84s\n\tlet-to-have transformation 9.89ms\n\tlinting 6.6ms\n\tmodule linting 0.0021ms\n\toverlappingInstancesLinter 30.2ms\n\tparsing 4.69ms\n\tprocess pre-definitions 4.05ms\n\tshare common exprs 1.46ms\n\ttactic execution 72.8ms\n\ttacticAnalysis 70ms\n\ttype checking 51.3ms\n\ttypeclass inference 409ms\n"
+}

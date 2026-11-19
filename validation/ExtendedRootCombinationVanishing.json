@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedRootCombinationVanishing.lean",
+  "source_sha256": "a800d8aaa4177f1bfd6ec76633a82ba80702e13f1f259c572554e6cb75d99963",
+  "exit_code": 0,
+  "seconds": 18.13,
+  "log": "type checking took 116ms\ntype checking took 115ms\ntype checking took 111ms\ntype checking took 151ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 7.98s\n.olean serialization took 254ms\ncumulative profiling times:\n\t.olean serialization 254ms\n\tattribute application 5.02ms\n\tblocked (unaccounted) 95.5ms\n\tcompilation (IR) 1ms\n\tcompilation (LCNF base) 50.6ms\n\tcompilation (LCNF impure) 5.23ms\n\tcompilation (LCNF mono) 13.1ms\n\tcongr simp thm 0.101ms\n\telaboration 384ms\n\tfix level params 1.5ms\n\timport 7.98s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.659ms\n\tinterpretation 6.9s\n\tlet-to-have transformation 0.387ms\n\tlinting 27.4ms\n\tmodule linting 0.002ms\n\tnorm_num 3.05ms\n\toverlappingInstancesLinter 36.8ms\n\tparsing 4.8ms\n\tprocess pre-definitions 11.9ms\n\tring 61.4ms\n\tshare common exprs 4.51ms\n\tsimp 0.979ms\n\ttactic execution 166ms\n\ttacticAnalysis 142ms\n\ttype checking 513ms\n\ttypeclass inference 2.15s\n"
+}

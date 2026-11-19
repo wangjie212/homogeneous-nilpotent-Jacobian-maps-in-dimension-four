@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualGaussPlaneSpecialization.lean",
+  "source_sha256": "0bd20a9de002c88896c85adf1b6d50f116da90406c079ffa7ef711a03232372d",
+  "exit_code": 0,
+  "seconds": 15.05,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 8.05s\n.olean serialization took 209ms\ncumulative profiling times:\n\t.olean serialization 209ms\n\tattribute application 0.0092ms\n\telaboration 12.9ms\n\tfix level params 0.817ms\n\timport 8.05s\n\tinitialization 27.5ms\n\tinstantiate metavars 0.551ms\n\tinterpretation 6.36s\n\tlet-to-have transformation 0.0573ms\n\tlinting 2.16ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 24.5ms\n\tparsing 0.771ms\n\tprocess pre-definitions 1.64ms\n\tshare common exprs 1.29ms\n\ttactic execution 15ms\n\ttacticAnalysis 27ms\n\ttype checking 8.95ms\n\ttypeclass inference 40.8ms\n"
+}

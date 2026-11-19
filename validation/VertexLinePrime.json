@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/VertexLinePrime.lean",
+  "source_sha256": "c6e03f5476cb1ecda9393bf5d977110f0ad0b69aa2c51c9f9fa9db45fa05f4d6",
+  "exit_code": 0,
+  "seconds": 17.63,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\VertexLinePrime.lean:48:4: warning: Try `simp at h` instead of `simpa using h`\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\VertexLinePrime.lean:57:2: warning: Try `simp at he` instead of `simpa using he`\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\n"
+}

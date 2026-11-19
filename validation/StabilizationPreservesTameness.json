@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/StabilizationPreservesTameness.lean",
+  "source_sha256": "34ce48ce4f33488074bc4243a28ade91527ecac040fd8d6e6aba51321689a32f",
+  "exit_code": 0,
+  "seconds": 15.02,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\StabilizationPreservesTameness.lean:29:28: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\StabilizationPreservesTameness.lean:34:12: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\StabilizationPreservesTameness.lean:34:22: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead\n"
+}

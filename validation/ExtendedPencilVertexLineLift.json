@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedPencilVertexLineLift.lean",
+  "source_sha256": "1c27096299a536c4c015d60e79d3f2334e85787fd5c25e6f776cc8b9eb685ec4",
+  "exit_code": 0,
+  "seconds": 182.82,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ExtendedPencilVertexLineLift.lean:46:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.extendedClosedGaussPencilIdeal_le_vertexLinePrime`:\n  [CharZero K]\n  [Algebra.IsAlgebraic (↥C₀) E]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] [Algebra.IsAlgebraic (↥C₀) E] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

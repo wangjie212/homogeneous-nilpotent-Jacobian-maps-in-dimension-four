@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConstructedMonicProjectionCoordinates.lean",
+  "source_sha256": "4328a84ecc699a67c229b454843ebe86e9800efca9d22fc8778b389f75129401",
+  "exit_code": 0,
+  "seconds": 15.21,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 108ms\nimport took 8.23s\n.olean serialization took 211ms\ncumulative profiling times:\n\t.olean serialization 211ms\n\tattribute application 0.0107ms\n\tcongr simp thm 0.669ms\n\telaboration 13.6ms\n\tfix level params 0.534ms\n\timport 8.23s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.491ms\n\tinterpretation 6.44s\n\tlet-to-have transformation 4.04ms\n\tlinting 3.46ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 30.1ms\n\tparsing 1.72ms\n\tprocess pre-definitions 1.54ms\n\tshare common exprs 1.28ms\n\tsimp 9.67ms\n\ttactic execution 35.7ms\n\ttacticAnalysis 79.4ms\n\ttype checking 9.74ms\n\ttypeclass inference 68.9ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/LinearlyDisjointProjectiveHilbert.lean",
+  "source_sha256": "34be42eb6d4568f9944c2fdd2606aab51ef2ebdb598cd40b2b8fe27d0db9b8a6",
+  "exit_code": 0,
+  "seconds": 19.44,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\LinearlyDisjointProjectiveHilbert.lean:75:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

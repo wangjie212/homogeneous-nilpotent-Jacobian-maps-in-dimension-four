@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreOriginalSecondSquareIdentity.lean",
+  "source_sha256": "0b085be553233aeba189e665307504a6d0e5426eb9453fcdb09af2a0e9535e27",
+  "exit_code": 0,
+  "seconds": 20.47,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreOriginalSecondSquareIdentity.lean:71:4: warning: Unused tactic linter: `change algebraMap R₀ S₀ (MvPolynomial.C (S i) * H i) = _` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\n"
+}

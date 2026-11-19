@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GeneratedPointPrimeDimension.lean",
+  "source_sha256": "7ed966dc0c41441ffbf1e985c3418a39b08f6c6170ee1f62c29a838c52039c14",
+  "exit_code": 0,
+  "seconds": 15.87,
+  "log": "typeclass inference of Algebra took 165ms\ntypeclass inference of Algebra took 172ms\ntypeclass inference of Algebra took 116ms\ntype checking took 104ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 7.7s\n.olean serialization took 207ms\ncumulative profiling times:\n\t.olean serialization 207ms\n\tattribute application 0.0591ms\n\tcongr simp thm 0.174ms\n\telaboration 60.5ms\n\tfix level params 0.314ms\n\timport 7.7s\n\tinitialization 28.3ms\n\tinstantiate metavars 0.16ms\n\tinterpretation 6.17s\n\tlet-to-have transformation 0.104ms\n\tlinting 3.32ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 28.6ms\n\tparsing 1.94ms\n\tprocess pre-definitions 3.2ms\n\tshare common exprs 0.968ms\n\tsimp 2.19ms\n\ttactic execution 15.1ms\n\ttacticAnalysis 49.1ms\n\ttype checking 143ms\n\ttypeclass inference 1.46s\n"
+}

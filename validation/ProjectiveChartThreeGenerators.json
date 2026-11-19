@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveChartThreeGenerators.lean",
+  "source_sha256": "1e3257d7f2aa6f95fdc38ba39d5cfd7ba360a21a1a057685361c1bca5a40eb0c",
+  "exit_code": 0,
+  "seconds": 15.88,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 9.09s\n.olean serialization took 198ms\ncumulative profiling times:\n\t.olean serialization 198ms\n\tattribute application 0.0105ms\n\telaboration 5.25ms\n\tfix level params 0.114ms\n\timport 9.09s\n\tinitialization 29.4ms\n\tinstantiate metavars 0.155ms\n\tinterpretation 6.45s\n\tlet-to-have transformation 0.0222ms\n\tlinting 1.58ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 19.8ms\n\tparsing 0.921ms\n\tprocess pre-definitions 0.564ms\n\tshare common exprs 0.278ms\n\ttactic execution 13.6ms\n\ttacticAnalysis 42ms\n\ttype checking 1.81ms\n\ttypeclass inference 12.5ms\n"
+}

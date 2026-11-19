@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalPointLocalModel.lean",
+  "source_sha256": "56129194fa195f44ba26ce9c280319a4886de6995a0c23b26aefdcf75d0225ac",
+  "exit_code": 0,
+  "seconds": 9.13,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 3.77s\ncumulative profiling times:\n\t.olean serialization 98.5ms\n\tattribute application 2.14ms\n\tcongr simp thm 0.759ms\n\telaboration 125ms\n\tfix level params 1.6ms\n\timport 3.77s\n\tinitialization 27.4ms\n\tinstantiate metavars 1.11ms\n\tinterpretation 4.87s\n\tlet-to-have transformation 0.294ms\n\tlinting 12.5ms\n\tmodule linting 0.002ms\n\tnorm_num 17.5ms\n\toverlappingInstancesLinter 39.1ms\n\tparsing 7.86ms\n\tprocess pre-definitions 13.3ms\n\tring 49.4ms\n\tshare common exprs 4.39ms\n\tsimp 19.6ms\n\ttactic execution 185ms\n\ttacticAnalysis 67.5ms\n\ttype checking 105ms\n\ttypeclass inference 712ms\n"
+}

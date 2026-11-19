@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/MonicAffineFiniteProjection.lean",
+  "source_sha256": "43d98dcf63e69b70c906d37e02846d09bed1cfc4caf0a80107cc7fe9186a42f8",
+  "exit_code": 0,
+  "seconds": 28.56,
+  "log": "tactic execution of Lean.Parser.Tactic.exact took 11.9s\nprocess pre-definitions took 493ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 8.66s\n.olean serialization took 227ms\ncumulative profiling times:\n\t.olean serialization 227ms\n\tattribute application 0.0245ms\n\tcongr simp thm 1.65ms\n\telaboration 15ms\n\tfix level params 0.745ms\n\timport 8.66s\n\tinitialization 28.2ms\n\tinstantiate metavars 0.946ms\n\tinterpretation 6.63s\n\tlet-to-have transformation 0.0481ms\n\tlinting 6.84ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 29.3ms\n\tparsing 3.03ms\n\tprocess pre-definitions 495ms\n\tshare common exprs 1.77ms\n\tsimp 27.9ms\n\ttactic execution 12s\n\ttacticAnalysis 73.3ms\n\ttype checking 35.2ms\n\ttypeclass inference 499ms\n"
+}

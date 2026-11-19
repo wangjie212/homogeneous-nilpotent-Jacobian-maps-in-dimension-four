@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GlobalDivisorImagePrime.lean",
+  "source_sha256": "37bb0dfbe6d3a2cdfef36aa2db9d1e987dd9b11a5220b8f20462c96eca27db29",
+  "exit_code": 0,
+  "seconds": 25.62,
+  "log": "typeclass inference of Module took 416ms\ntactic execution of Lean.Parser.Tactic.obtain took 2.16s\ntype checking took 534ms\ntypeclass inference of Module took 423ms\ntype checking took 217ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 114ms\nimport took 8.53s\n.olean serialization took 4.85s\ncumulative profiling times:\n\t.olean serialization 4.85s\n\tattribute application 1.2ms\n\tblocked (unaccounted) 70.1ms\n\tcompilation (IR) 0.914ms\n\tcompilation (LCNF base) 34.9ms\n\tcompilation (LCNF impure) 4.68ms\n\tcompilation (LCNF mono) 9.6ms\n\tcongr simp thm 0.295ms\n\telaboration 363ms\n\tfix level params 1.33ms\n\timport 8.53s\n\tinitialization 27.8ms\n\tinstantiate metavars 0.505ms\n\tinterpretation 7.11s\n\tlet-to-have transformation 0.49ms\n\tlinting 12.3ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 39.5ms\n\tparsing 2.83ms\n\tprocess pre-definitions 5.94ms\n\tshare common exprs 3.83ms\n\tsimp 4.24ms\n\ttactic execution 2.21s\n\ttacticAnalysis 229ms\n\ttype checking 754ms\n\ttypeclass inference 3.34s\n"
+}

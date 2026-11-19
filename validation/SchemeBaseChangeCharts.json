@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SchemeBaseChangeCharts.lean",
+  "source_sha256": "acf69b59c3e36bcdadf6b3aaf03ee0a9f170d2d742e5d3e22cc1701112c9d42b",
+  "exit_code": 0,
+  "seconds": 15.07,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 8.08s\n.olean serialization took 207ms\ncumulative profiling times:\n\t.olean serialization 207ms\n\tattribute application 0.0158ms\n\tcongr simp thm 0.641ms\n\telaboration 17.2ms\n\tfix level params 0.108ms\n\timport 8.08s\n\tinitialization 28.2ms\n\tinstantiate metavars 0.101ms\n\tinterpretation 6.51s\n\tlet-to-have transformation 0.0304ms\n\tlinting 2.27ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 22.8ms\n\tparsing 1.31ms\n\tprocess pre-definitions 0.486ms\n\tshare common exprs 0.286ms\n\tsimp 5.67ms\n\ttactic execution 7.88ms\n\ttacticAnalysis 77.7ms\n\ttype checking 19ms\n\ttypeclass inference 24.9ms\n"
+}

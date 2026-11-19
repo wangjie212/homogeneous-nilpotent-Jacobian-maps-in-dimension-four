@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/HomogeneousMatrixBlockNilpotence.lean",
+  "source_sha256": "64c750bdf7b7194f3dd117e995658bea088e65aa30bd2621b10c64bdf911a73f",
+  "exit_code": 0,
+  "seconds": 17.0,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\HomogeneousMatrixBlockNilpotence.lean:76:2: warning: Unused tactic linter: `change lastCoordinateDehomogenize ((M ^ k) i j) = lastCoordinateDehomogenize 0` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalComparisonFractionField.lean",
+  "source_sha256": "b525420a29ceeec22b83ccab1b993298e0a403f7e6455324f1b537dd9b0a1d5e",
+  "exit_code": 0,
+  "seconds": 15.32,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 115ms\nimport took 8.19s\n.olean serialization took 209ms\ncumulative profiling times:\n\t.olean serialization 209ms\n\tattribute application 0.0215ms\n\tcongr simp thm 0.759ms\n\telaboration 14.4ms\n\tfix level params 0.811ms\n\timport 8.19s\n\tinitialization 28.7ms\n\tinstantiate metavars 0.576ms\n\tinterpretation 6.48s\n\tlet-to-have transformation 0.0424ms\n\tlinting 4.79ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 30.7ms\n\tparsing 1.92ms\n\tprocess pre-definitions 2.11ms\n\tshare common exprs 1.45ms\n\tsimp 9.97ms\n\ttactic execution 69.6ms\n\ttacticAnalysis 43.7ms\n\ttype checking 32.8ms\n\ttypeclass inference 105ms\n"
+}

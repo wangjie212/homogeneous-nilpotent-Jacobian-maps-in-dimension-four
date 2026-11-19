@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryPrimeCovectorDimension.lean",
+  "source_sha256": "bf3479ceaa220eb80b6479a985322f4f5db9970f454410604022953240706dd9",
+  "exit_code": 0,
+  "seconds": 18.88,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryPrimeCovectorDimension.lean:77:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.ternary_sourceConstantLinearFormMap_apply`:\n  [IsAlgClosed K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsAlgClosed K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

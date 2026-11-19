@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveSectionOrderMultiplicity.lean",
+  "source_sha256": "25a9d8def38d0a0b07b8efc684032619cda298dcf3293e2836094c54c3bc230d",
+  "exit_code": 0,
+  "seconds": 15.87,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 8.66s\n.olean serialization took 211ms\ncumulative profiling times:\n\t.olean serialization 211ms\n\tattribute application 0.948ms\n\tblocked (unaccounted) 42.7ms\n\tcompilation (IR) 0.491ms\n\tcompilation (LCNF base) 21.6ms\n\tcompilation (LCNF impure) 2.69ms\n\tcompilation (LCNF mono) 5.64ms\n\telaboration 68.1ms\n\tfix level params 0.774ms\n\timport 8.66s\n\tinitialization 28.6ms\n\tinstantiate metavars 0.411ms\n\tinterpretation 6.75s\n\tlet-to-have transformation 0.133ms\n\tlinting 6.41ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 39.5ms\n\tparsing 1.76ms\n\tprocess pre-definitions 5.89ms\n\tshare common exprs 2.3ms\n\ttactic execution 24.6ms\n\ttacticAnalysis 135ms\n\ttype checking 54.7ms\n\ttypeclass inference 153ms\n"
+}

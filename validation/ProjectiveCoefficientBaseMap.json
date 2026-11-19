@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveCoefficientBaseMap.lean",
+  "source_sha256": "00890c0d0bcf31fbee847c64533e9b21b7eb9dcdc65bffa2228f1449a253df18",
+  "exit_code": 0,
+  "seconds": 15.86,
+  "log": "simp took 215ms\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ProjectiveCoefficientBaseMap.lean:47:4: warning: This simp argument is unused:\n  Proj.awayι_toSpecZero\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [Category.assoc, Proj.awayι_toSpecZero_assoc, ← Spec.map_comp]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.46s\n.olean serialization took 207ms\ncumulative profiling times:\n\t.olean serialization 207ms\n\tattribute application 0.68ms\n\tcongr simp thm 3.35ms\n\telaboration 38.8ms\n\tfix level params 0.451ms\n\timport 8.46s\n\tinitialization 26.9ms\n\tinstantiate metavars 0.256ms\n\tinterpretation 6.85s\n\tlet-to-have transformation 0.1ms\n\tlinting 2.81ms\n\tmodule linting 0.0022ms\n\toverlappingInstancesLinter 35.9ms\n\tparsing 1.28ms\n\tprocess pre-definitions 1.34ms\n\tshare common exprs 1.28ms\n\tsimp 240ms\n\ttactic execution 81ms\n\ttacticAnalysis 131ms\n\ttype checking 45.4ms\n\ttypeclass inference 111ms\n"
+}

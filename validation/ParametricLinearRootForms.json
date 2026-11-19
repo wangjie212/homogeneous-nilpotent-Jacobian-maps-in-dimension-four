@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ParametricLinearRootForms.lean",
+  "source_sha256": "8f8e0cf929dd027143735c0d17c76be2ab3b3ab8fb2e61fa31ac8f614a7c12d5",
+  "exit_code": 0,
+  "seconds": 16.01,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 8.4s\n.olean serialization took 229ms\ncumulative profiling times:\n\t.olean serialization 229ms\n\tattribute application 0.018ms\n\tcongr simp thm 0.888ms\n\telaboration 56.1ms\n\tfix level params 2.66ms\n\timport 8.4s\n\tinitialization 28.5ms\n\tinstantiate metavars 2.03ms\n\tinterpretation 6.53s\n\tlet-to-have transformation 0.196ms\n\tlinting 12.1ms\n\tmodule linting 0.0018ms\n\tnorm_num 1.82ms\n\toverlappingInstancesLinter 27.9ms\n\tparsing 4.43ms\n\tprocess pre-definitions 5.14ms\n\tring 57.5ms\n\tshare common exprs 4.78ms\n\tsimp 27.3ms\n\ttactic execution 296ms\n\ttacticAnalysis 75.3ms\n\ttype checking 57.6ms\n\ttypeclass inference 389ms\n"
+}

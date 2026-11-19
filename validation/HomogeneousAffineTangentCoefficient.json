@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/HomogeneousAffineTangentCoefficient.lean",
+  "source_sha256": "5266e175ad2e80a0f566fbce7e22f6dd1268d6ac5e1501b88f1fbfba6a45cbba",
+  "exit_code": 0,
+  "seconds": 16.85,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\HomogeneousAffineTangentCoefficient.lean:66:48: warning: try 'simp' instead of 'simpa'\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PolynomialNormalizationSectionBound.lean",
+  "source_sha256": "6adca6c1d596cecb907bebb301eeba5c07f8f3072d3be05db95255dc0f36498d",
+  "exit_code": 0,
+  "seconds": 17.95,
+  "log": "typeclass inference of SMul took 285ms\ntypeclass inference of SMul took 298ms\ntypeclass inference of Module.IsTorsionFree took 168ms\ntypeclass inference of Module.IsTorsionFree took 182ms\ntype checking took 102ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 8.4s\n.olean serialization took 204ms\ncumulative profiling times:\n\t.olean serialization 204ms\n\tattribute application 0.0129ms\n\telaboration 21.2ms\n\tfix level params 0.495ms\n\timport 8.4s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.466ms\n\tinterpretation 6.88s\n\tlet-to-have transformation 0.0724ms\n\tlinting 4.66ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 31.4ms\n\tparsing 1.44ms\n\tprocess pre-definitions 4.95ms\n\tshare common exprs 1.64ms\n\ttactic execution 229ms\n\ttacticAnalysis 94.5ms\n\ttype checking 102ms\n\ttypeclass inference 1.91s\n"
+}

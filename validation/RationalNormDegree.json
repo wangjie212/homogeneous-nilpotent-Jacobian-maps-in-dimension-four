@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalNormDegree.lean",
+  "source_sha256": "96d55b49994418485529f65fa401c0bbabb8da627d13abfd56f3c94ec80bcff0",
+  "exit_code": 0,
+  "seconds": 16.88,
+  "log": "typeclass inference of SMul took 289ms\ntypeclass inference of SMul took 275ms\ntypeclass inference of SMul took 290ms\ntypeclass inference of SMul took 285ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 8.08s\n.olean serialization took 205ms\ncumulative profiling times:\n\t.olean serialization 205ms\n\tattribute application 0.0192ms\n\tcongr simp thm 0.273ms\n\telaboration 20.9ms\n\tfix level params 0.411ms\n\timport 8.08s\n\tinitialization 27.4ms\n\tinstantiate metavars 0.283ms\n\tinterpretation 6.26s\n\tlet-to-have transformation 0.0842ms\n\tlinting 3.89ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 28.9ms\n\tparsing 1.68ms\n\tprocess pre-definitions 1.67ms\n\tshare common exprs 0.926ms\n\tsimp 6.02ms\n\ttactic execution 35.2ms\n\ttacticAnalysis 68.2ms\n\ttype checking 26.8ms\n\ttypeclass inference 2.14s\n"
+}

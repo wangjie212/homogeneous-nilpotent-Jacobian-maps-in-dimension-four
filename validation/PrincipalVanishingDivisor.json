@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PrincipalVanishingDivisor.lean",
+  "source_sha256": "f761452e98a18197ade5def987607580402315d0a6e458b5d2d89074827f4c70",
+  "exit_code": 0,
+  "seconds": 14.16,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 108ms\nimport took 7.34s\n.olean serialization took 197ms\ncumulative profiling times:\n\t.olean serialization 197ms\n\tattribute application 0.0192ms\n\tblocked (unaccounted) 0.224ms\n\tcongr simp thm 0.227ms\n\telaboration 7.93ms\n\tfix level params 0.208ms\n\timport 7.34s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.214ms\n\tinterpretation 6.48s\n\tlet-to-have transformation 0.0306ms\n\tlinting 3.09ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 53.6ms\n\tparsing 1.5ms\n\tprocess pre-definitions 0.982ms\n\tshare common exprs 0.5ms\n\tsimp 2.42ms\n\ttactic execution 18.3ms\n\ttacticAnalysis 49.5ms\n\ttype checking 2.93ms\n\ttypeclass inference 32.7ms\n"
+}

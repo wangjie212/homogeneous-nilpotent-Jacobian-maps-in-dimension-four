@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualBoundaryGraphDirection.lean",
+  "source_sha256": "4179c3020364f4a768a04d3b5a1913ee3608c50514f0675d4caa8f3ccd7f3dcb",
+  "exit_code": 0,
+  "seconds": 16.09,
+  "log": "type checking took 129ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 8.32s\n.olean serialization took 607ms\ncumulative profiling times:\n\t.olean serialization 607ms\n\tattribute application 0.607ms\n\tcongr simp thm 0.131ms\n\telaboration 53.8ms\n\tfix level params 0.493ms\n\timport 8.32s\n\tinitialization 28.8ms\n\tinstantiate metavars 0.1ms\n\tinterpretation 6.67s\n\tlet-to-have transformation 0.208ms\n\tlinting 4.04ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 31.5ms\n\tparsing 2.23ms\n\tprocess pre-definitions 1.05ms\n\tshare common exprs 1.41ms\n\tsimp 2.21ms\n\ttactic execution 6.52ms\n\ttacticAnalysis 74.5ms\n\ttype checking 130ms\n\ttypeclass inference 279ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RankThreeDerivationKernel.lean",
+  "source_sha256": "e26bc534d7870152aa9700f3775ea7b0a85a019104b3135ee162702eb4fbf2bc",
+  "exit_code": 0,
+  "seconds": 168.84,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\RankThreeDerivationKernel.lean:27:4: warning: try 'simp' instead of 'simpa'\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\n"
+}

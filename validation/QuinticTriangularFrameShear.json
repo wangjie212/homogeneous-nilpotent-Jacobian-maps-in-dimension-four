@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/QuinticTriangularFrameShear.lean",
+  "source_sha256": "ae424d31bcd341720f86570cd5721969caf1b1c2da7241183b1d9c57627de454",
+  "exit_code": 0,
+  "seconds": 65.73,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\QuinticTriangularFrameShear.lean:27:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.Quintic.quintic_first_lift_frame_is_tame`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreNonzeroPairingExclusion.lean",
+  "source_sha256": "a44a0d326a7773935d41a47a84575a9fb62e9eab133eaaa145d91652861372c0",
+  "exit_code": 0,
+  "seconds": 19.61,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreNonzeroPairingExclusion.lean:81:7: warning: Variable name `R` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _R\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\n"
+}

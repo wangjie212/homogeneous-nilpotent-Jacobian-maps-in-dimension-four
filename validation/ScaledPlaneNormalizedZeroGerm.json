@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ScaledPlaneNormalizedZeroGerm.lean",
+  "source_sha256": "69c2ba4bfaf565f003761ed13189a51231394c1cf636f5d6facc96561458c50b",
+  "exit_code": 0,
+  "seconds": 19.64,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ScaledPlaneNormalizedZeroGerm.lean:102:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

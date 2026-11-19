@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalCoverJetComparison.lean",
+  "source_sha256": "eaf706d3c9eefb4192ef2ffa566f21e2c6dbf1f312810faf953814f6741efa0b",
+  "exit_code": 0,
+  "seconds": 15.17,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.92s\n.olean serialization took 214ms\ncumulative profiling times:\n\t.olean serialization 214ms\n\tattribute application 0.0323ms\n\tcongr simp thm 0.302ms\n\telaboration 30.8ms\n\tfix level params 1.33ms\n\timport 7.92s\n\tinitialization 28ms\n\tinstantiate metavars 0.967ms\n\tinterpretation 6.99s\n\tlet-to-have transformation 0.19ms\n\tlinting 6.6ms\n\tmodule linting 0.0017ms\n\tnorm_num 3.33ms\n\toverlappingInstancesLinter 37.9ms\n\tparsing 3.84ms\n\tprocess pre-definitions 3.62ms\n\tring 66.7ms\n\tshare common exprs 2.74ms\n\tsimp 3.78ms\n\ttactic execution 126ms\n\ttacticAnalysis 78.9ms\n\ttype checking 36.6ms\n\ttypeclass inference 258ms\n"
+}

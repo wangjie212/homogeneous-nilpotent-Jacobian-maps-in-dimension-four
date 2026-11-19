@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/DoubleLinePolynomialLocalModel.lean",
+  "source_sha256": "5ddd836c68747786a967398f7409dba1a5037eceb3c3c4b2669e849218fc068b",
+  "exit_code": 0,
+  "seconds": 9.31,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 3.69s\ncumulative profiling times:\n\t.olean serialization 80.8ms\n\tattribute application 0.104ms\n\tblocked (unaccounted) 98.4ms\n\tcongr simp thm 1.66ms\n\telaboration 68ms\n\tfix level params 1.21ms\n\timport 3.69s\n\tinitialization 27.8ms\n\tinstantiate metavars 1.52ms\n\tinterpretation 4.71s\n\tlet-to-have transformation 0.24ms\n\tlinting 7.29ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 39.6ms\n\tparsing 5.07ms\n\tprocess pre-definitions 8.01ms\n\tshare common exprs 4.42ms\n\tsimp 81.4ms\n\ttactic execution 146ms\n\ttacticAnalysis 51.2ms\n\ttype checking 84.9ms\n\ttypeclass inference 891ms\n"
+}

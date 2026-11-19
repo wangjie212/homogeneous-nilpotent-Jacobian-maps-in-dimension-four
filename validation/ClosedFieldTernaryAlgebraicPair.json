@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ClosedFieldTernaryAlgebraicPair.lean",
+  "source_sha256": "a2f8a784d74b7c208ae170592b8e4ccb305a0c21bc2ba2ba622dbea71b18fd8f",
+  "exit_code": 0,
+  "seconds": 28.6,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ClosedFieldTernaryAlgebraicPair.lean:70:4: warning: Unused tactic linter: `change\n  AlgebraicIndependent K (Out₂ (linearPolynomialConjugate (T * (A * U)) ((V * B) * S) H))` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ClosedFieldTernaryAlgebraicPair.lean:73:4: warning: Unused tactic linter: `change\n  IsAlgebraic (IntermediateField.adjoin K {ι (linearPolynomialConjugate (T * (A * U)) ((V * B) * S) H 0)})\n    (ι (linearPolynomialConjugate (T * (A * U)) ((V * B) * S) H 2))` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\n"
+}

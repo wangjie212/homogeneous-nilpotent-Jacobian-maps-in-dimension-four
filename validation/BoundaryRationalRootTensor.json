@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/BoundaryRationalRootTensor.lean",
+  "source_sha256": "4b4dbfb3db50fe0130f2b8ba31dd7bf7bbc133c5cf6229b1b36201507ec5ab78",
+  "exit_code": 0,
+  "seconds": 14.92,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 7.83s\n.olean serialization took 216ms\ncumulative profiling times:\n\t.olean serialization 216ms\n\tattribute application 0.476ms\n\tcongr simp thm 1.53ms\n\telaboration 26.4ms\n\tfix level params 0.794ms\n\timport 7.83s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.548ms\n\tinterpretation 6.41s\n\tlet-to-have transformation 0.105ms\n\tlinting 5.63ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 33ms\n\tparsing 2.72ms\n\tprocess pre-definitions 3.28ms\n\tshare common exprs 2.09ms\n\tsimp 43.2ms\n\ttactic execution 59ms\n\ttacticAnalysis 86.8ms\n\ttype checking 50.3ms\n\ttypeclass inference 250ms\n"
+}

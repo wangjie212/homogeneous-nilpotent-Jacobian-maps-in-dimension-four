@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PolynomialProjectiveProperties.lean",
+  "source_sha256": "ae0fa5daece250b4cac3727c443ea0b3e2ceea85e905af93d73c598acb35c3fb",
+  "exit_code": 0,
+  "seconds": 15.47,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 108ms\nimport took 7.89s\n.olean serialization took 214ms\ncumulative profiling times:\n\t.olean serialization 214ms\n\tattribute application 1ms\n\tblocked (unaccounted) 71.7ms\n\tcompilation (IR) 0.431ms\n\tcompilation (LCNF base) 16.9ms\n\tcompilation (LCNF impure) 2.35ms\n\tcompilation (LCNF mono) 4.47ms\n\telaboration 68.5ms\n\tfix level params 0.596ms\n\timport 7.89s\n\tinitialization 28ms\n\tinstantiate metavars 0.412ms\n\tinterpretation 6.86s\n\tlet-to-have transformation 0.122ms\n\tlinting 7.82ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 38.7ms\n\tparsing 3.74ms\n\tprocess pre-definitions 6.11ms\n\tshare common exprs 1.7ms\n\ttactic execution 173ms\n\ttacticAnalysis 143ms\n\ttype checking 142ms\n\ttypeclass inference 433ms\n"
+}

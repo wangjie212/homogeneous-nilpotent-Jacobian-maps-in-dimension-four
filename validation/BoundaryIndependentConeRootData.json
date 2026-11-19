@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/BoundaryIndependentConeRootData.lean",
+  "source_sha256": "3fb9ef111618cbbccdaeca137f5ba51e2eaaaa7dd5b5a0f340de11913180c6e2",
+  "exit_code": 0,
+  "seconds": 25.69,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\BoundaryIndependentConeRootData.lean:60:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.specified_boundary_root_forms_construct_independent_fixed_vertex_data`:\n  [Algebra K κ]\n  [IsScalarTower K (↥(coefficientField fun i => (algebraMap (MvPolynomial (Fin 4) K) S₀) (H (p i.castSucc)))) κ]\n  [Algebra.IsAlgebraic (↥(coefficientField fun i => (algebraMap (MvPolynomial (Fin 4) K) S₀) (H (p i.castSucc)))) κ]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [Algebra K\n  κ] [IsScalarTower K (↥(coefficientField fun i => (algebraMap (MvPolynomial (Fin 4) K) S₀) (H (p i.castSucc))))\n  κ] [Algebra.IsAlgebraic (↥(coefficientField fun i => (algebraMap (MvPolynomial (Fin 4) K) S₀) (H (p i.castSucc))))\n  κ] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

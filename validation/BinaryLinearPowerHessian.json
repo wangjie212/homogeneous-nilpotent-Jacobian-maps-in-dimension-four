@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/BinaryLinearPowerHessian.lean",
+  "source_sha256": "a4962cb944a9840b480c02a727b5d5fa89c24511c47bd641eb59597183a67cb7",
+  "exit_code": 0,
+  "seconds": 18.21,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\BinaryLinearPowerHessian.lean:31:8: warning: This simp argument is unused:\n  pderiv_mul\n\nHint: Omit it from the simp argument list.\n  [apply] simp [pderiv_pow, linearFormPolynomial_pderiv, Nat.sub_sub]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\BinaryLinearPowerHessian.lean:31:20: warning: This simp argument is unused:\n  pderiv_pow\n\nHint: Omit it from the simp argument list.\n  [apply] simp [pderiv_mul, linearFormPolynomial_pderiv, Nat.sub_sub]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

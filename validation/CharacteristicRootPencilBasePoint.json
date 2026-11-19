@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CharacteristicRootPencilBasePoint.lean",
+  "source_sha256": "827ed90ecc49996e1fcec6ef1f3cfa1ee6da45793620b6eca1c1891e7d5670aa",
+  "exit_code": 0,
+  "seconds": 39.5,
+  "log": "elaboration took 122ms\nelaboration took 105ms\nelaboration took 108ms\nelaboration took 105ms\nelaboration took 108ms\nelaboration took 120ms\nelaboration took 109ms\ntype checking took 135ms\ntype checking took 115ms\ntypeclass inference of Module took 483ms\nelaboration took 242ms\nelaboration took 136ms\ntype checking took 968ms\ntactic execution of Lean.Parser.Tactic.obtain took 218ms\nelaboration took 739ms\ntype checking took 703ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 103ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 121ms\nimport took 9.5s\n.olean serialization took 3.44s\ncumulative profiling times:\n\t.olean serialization 3.44s\n\tattribute application 6.83ms\n\tblocked (unaccounted) 359ms\n\tcompilation (IR) 3.22ms\n\tcompilation (LCNF base) 167ms\n\tcompilation (LCNF impure) 16.4ms\n\tcompilation (LCNF mono) 44.4ms\n\telaboration 2.43s\n\tfix level params 3.91ms\n\timport 9.5s\n\tinitialization 28.3ms\n\tinstantiate metavars 1.33ms\n\tinterpretation 8.62s\n\tlet-to-have transformation 1.07ms\n\tlinting 51.9ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 49.7ms\n\tparsing 6.05ms\n\tprocess pre-definitions 35.1ms\n\tshare common exprs 11.1ms\n\ttactic execution 408ms\n\ttacticAnalysis 242ms\n\ttype checking 1.95s\n\ttypeclass inference 14.4s\n"
+}

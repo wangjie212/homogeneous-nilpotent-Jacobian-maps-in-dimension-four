@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CoefficientCanonicalRationalOrders.lean",
+  "source_sha256": "af53f631a836656e90cb16614996b60e5db201978de209c352fa061d1a7fdf38",
+  "exit_code": 0,
+  "seconds": 50.69,
+  "log": "typeclass inference of FaithfulSMul took 274ms\ntypeclass inference of CommRing took 124ms\ntypeclass inference of IsDomain took 137ms\nelaboration took 110ms\ntactic execution of Lean.Parser.Tactic.exact took 148ms\ntype checking took 32.9s\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 8.3s\n.olean serialization took 251ms\ncumulative profiling times:\n\t.olean serialization 251ms\n\tattribute application 0.463ms\n\tblocked (unaccounted) 35.6ms\n\tcompilation (IR) 0.519ms\n\tcompilation (LCNF base) 17.3ms\n\tcompilation (LCNF impure) 2.58ms\n\tcompilation (LCNF mono) 4.92ms\n\telaboration 203ms\n\tfix level params 0.278ms\n\timport 8.3s\n\tinitialization 28.7ms\n\tinstantiate metavars 0.0754ms\n\tinterpretation 6.41s\n\tlet-to-have transformation 0.159ms\n\tlinting 6.57ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 26.8ms\n\tparsing 1.67ms\n\tprocess pre-definitions 3.85ms\n\tshare common exprs 0.862ms\n\ttactic execution 148ms\n\ttacticAnalysis 37.9ms\n\ttype checking 32.9s\n\ttypeclass inference 2.04s\n"
+}

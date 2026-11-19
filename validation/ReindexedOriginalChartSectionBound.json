@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ReindexedOriginalChartSectionBound.lean",
+  "source_sha256": "4452958e9f451dedb223282cedf434ea3697306cecded55824c4a6a35dce5a5f",
+  "exit_code": 0,
+  "seconds": 20.48,
+  "log": "typeclass inference of SMul took 283ms\ntypeclass inference of SMul took 305ms\ntypeclass inference of SMul took 307ms\ntypeclass inference of SMul took 368ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 110ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 132ms\nimport took 9.11s\n.olean serialization took 253ms\ncumulative profiling times:\n\t.olean serialization 253ms\n\tattribute application 0.0387ms\n\tcongr simp thm 0.584ms\n\telaboration 71.5ms\n\tfix level params 1ms\n\timport 9.11s\n\tinitialization 28ms\n\tinstantiate metavars 2.69ms\n\tinterpretation 8.36s\n\tlet-to-have transformation 0.203ms\n\tlinting 9.81ms\n\tmodule linting 0.0033ms\n\toverlappingInstancesLinter 31.5ms\n\tparsing 3.53ms\n\tprocess pre-definitions 3.65ms\n\tshare common exprs 4.1ms\n\tsimp 9.88ms\n\ttactic execution 58.4ms\n\ttacticAnalysis 92.2ms\n\ttype checking 53ms\n\ttypeclass inference 2.51s\n"
+}

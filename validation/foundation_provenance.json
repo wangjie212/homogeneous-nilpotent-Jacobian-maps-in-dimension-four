@@ -1,0 +1,32 @@
+{
+  "Defs": {
+    "source": "D:\\data\\Jacobi\\quartic_dependence\\RequestProject\\QuarticDependence\\Defs.lean",
+    "sha256": "971896aeb92c1ec2dac50bb45d0cc8b7560c22479d2eacc05818ec329f41e098",
+    "adaptation": "Namespace and import paths changed; proofs retained and recompiled."
+  },
+  "Homogeneous": {
+    "source": "D:\\data\\Jacobi\\quartic_dependence\\RequestProject\\QuarticDependence\\Homogeneous.lean",
+    "sha256": "49f8e46f94471a2875f33a8b0f571365e129b5987aa12d3699274666038264ab",
+    "adaptation": "Namespace and import paths changed; proofs retained and recompiled."
+  },
+  "Basic": {
+    "source": "D:\\data\\Jacobi\\quartic_dependence\\RequestProject\\QuarticDependence\\Basic.lean",
+    "sha256": "4e4834c3d1b1f772283f7679b147600282ad14d996439a0bc4d8b64ee68b9c1d",
+    "adaptation": "Namespace and import paths changed; proofs retained and recompiled."
+  },
+  "LinearSubst": {
+    "source": "D:\\data\\Jacobi\\quartic_dependence\\RequestProject\\QuarticDependence\\LinearSubst.lean",
+    "sha256": "8fd13e477754563e022ff6f5c0d829ca87595e34f37c02e7b4d9a685324ba2bd",
+    "adaptation": "Namespace and import paths changed; proofs retained and recompiled."
+  },
+  "RationalDerivative": {
+    "source": "D:\\data\\Jacobi\\quartic_dependence\\RequestProject\\QuarticDependence\\Rank2\\Gradient.lean",
+    "sha256": "118a1b9bb6f194b9f6a0828f5215ebba09281b9b3b629077823d690d99db45d6",
+    "adaptation": "Rational derivative foundations; namespace and import paths changed; recompiled."
+  },
+  "SourceTranscendence": {
+    "source": "D:\\data\\Jacobi\\quartic_dependence\\RequestProject\\QuarticDependence\\Rank2\\Jacobian.lean",
+    "sha256": "fc7f30023139161f513e97fdee79798eb4c7a2d8d78f979ce893f2f2606c4f03",
+    "adaptation": "Only the coordinate-generated-field algebraicity lemma and rational trdeg upper bound were adapted; relative trdeg and constant-field results are new."
+  }
+}

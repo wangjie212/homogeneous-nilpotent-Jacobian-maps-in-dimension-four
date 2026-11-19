@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalJetTangentDecomposition.lean",
+  "source_sha256": "f369e549a1c92cb12976a0d92ec13f46cb9a552203c7c038454c92ded47b7533",
+  "exit_code": 0,
+  "seconds": 16.65,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NormalJetTangentDecomposition.lean:61:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.parameter_normal_jets_construct_algebraic_directrix_decomposition`:\n  [CharZero F]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero F] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

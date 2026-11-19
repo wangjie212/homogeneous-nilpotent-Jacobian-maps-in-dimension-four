@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedChosenGaussCharacteristic.lean",
+  "source_sha256": "8c5faa10b8630eb187b40e4688480a7508bebd86995cabc389483e3eef6a9ba4",
+  "exit_code": 0,
+  "seconds": 24.65,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 15.6s\n.olean serialization took 222ms\ncumulative profiling times:\n\t.olean serialization 222ms\n\tattribute application 1.21ms\n\tblocked (unaccounted) 182ms\n\tcompilation (IR) 1.81ms\n\tcompilation (LCNF base) 91.9ms\n\tcompilation (LCNF impure) 10.2ms\n\tcompilation (LCNF mono) 25ms\n\tcongr simp thm 0.0971ms\n\telaboration 286ms\n\tfix level params 1.66ms\n\timport 15.6s\n\tinitialization 27.8ms\n\tinstantiate metavars 1.25ms\n\tinterpretation 6.66s\n\tlet-to-have transformation 0.391ms\n\tlinting 18.1ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 43.6ms\n\tparsing 3.7ms\n\tprocess pre-definitions 17.9ms\n\tshare common exprs 5.33ms\n\tsimp 2.27ms\n\ttactic execution 199ms\n\ttacticAnalysis 142ms\n\ttype checking 327ms\n\ttypeclass inference 1.65s\n"
+}

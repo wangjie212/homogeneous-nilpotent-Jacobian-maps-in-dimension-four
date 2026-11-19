@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalParameterCoefficientAlgebraicity.lean",
+  "source_sha256": "ef06d34fe5454ebbf59586dad9a32a213bd62fa05d996471cc69cacdd790ea4b",
+  "exit_code": 0,
+  "seconds": 15.51,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.71s\n.olean serialization took 196ms\ncumulative profiling times:\n\t.olean serialization 196ms\n\tattribute application 0.0189ms\n\tcongr simp thm 0.521ms\n\telaboration 15.1ms\n\tfix level params 0.385ms\n\timport 8.71s\n\tinitialization 26.3ms\n\tinstantiate metavars 0.146ms\n\tinterpretation 6.26s\n\tlet-to-have transformation 0.0608ms\n\tlinting 3.17ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 28ms\n\tparsing 1.55ms\n\tprocess pre-definitions 1.95ms\n\tshare common exprs 0.799ms\n\tsimp 6.06ms\n\ttactic execution 59.7ms\n\ttacticAnalysis 22.8ms\n\ttype checking 29.8ms\n\ttypeclass inference 157ms\n"
+}

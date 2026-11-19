@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreRulingGlobalPowerReduction.lean",
+  "source_sha256": "a6f24ed4f8b315154668cbbbf9c93f7e486031ae41695946c1799b5bb618bac9",
+  "exit_code": 0,
+  "seconds": 18.26,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreRulingGlobalPowerReduction.lean:50:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreRulingGlobalPowerReduction.lean:51:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

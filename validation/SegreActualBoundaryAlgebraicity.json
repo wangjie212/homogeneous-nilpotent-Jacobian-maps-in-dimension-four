@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreActualBoundaryAlgebraicity.lean",
+  "source_sha256": "c9eeed9068b865eb4bfa9e421375ee553a17a2ecbaff448e840e398c0683f651",
+  "exit_code": 0,
+  "seconds": 23.61,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreActualBoundaryAlgebraicity.lean:36:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreActualBoundaryAlgebraicity.lean:39:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreActualBoundaryAlgebraicity.lean:77:21: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

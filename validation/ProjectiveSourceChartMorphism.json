@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveSourceChartMorphism.lean",
+  "source_sha256": "f9b7b4c7ea69635f500276812731622ee3484c95a12d3931498dc5c3befece98",
+  "exit_code": 0,
+  "seconds": 20.39,
+  "log": "type checking took 399ms\nsimp took 125ms\nsimp took 110ms\nelaboration took 155ms\ntactic execution of Lean.Parser.Tactic.refine took 134ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 203ms\ninterpretation of Mathlib.Tactic._aux_Mathlib_Tactic_Convert___elabRules_Mathlib_Tactic_convert_1._boxed took 1.66s\ntype checking took 2.78s\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.6s\n.olean serialization took 344ms\ncumulative profiling times:\n\t.olean serialization 344ms\n\tattribute application 1.16ms\n\tblocked (unaccounted) 58.4ms\n\tcompilation (IR) 0.738ms\n\tcompilation (LCNF base) 28.8ms\n\tcompilation (LCNF impure) 4.17ms\n\tcompilation (LCNF mono) 8.59ms\n\tcongr simp thm 7.52ms\n\telaboration 314ms\n\tfix level params 1.49ms\n\timport 7.6s\n\tinitialization 26.7ms\n\tinstantiate metavars 0.61ms\n\tinterpretation 8.64s\n\tlet-to-have transformation 0.386ms\n\tlinting 9.55ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 45.2ms\n\tparsing 3.09ms\n\tprocess pre-definitions 22.6ms\n\tshare common exprs 3.26ms\n\tsimp 235ms\n\ttactic execution 428ms\n\ttacticAnalysis 154ms\n\ttype checking 3.27s\n\ttypeclass inference 557ms\n"
+}

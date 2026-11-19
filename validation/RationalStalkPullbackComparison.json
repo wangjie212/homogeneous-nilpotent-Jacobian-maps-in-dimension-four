@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalStalkPullbackComparison.lean",
+  "source_sha256": "f56deca004f1b4b4e504a594d76b96a6a2d08037e9ff374904be58ebd3d5a8a1",
+  "exit_code": 0,
+  "seconds": 15.79,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 112ms\nimport took 8.49s\n.olean serialization took 212ms\ncumulative profiling times:\n\t.olean serialization 212ms\n\tattribute application 0.0226ms\n\tcongr simp thm 0.267ms\n\telaboration 16ms\n\tfix level params 0.42ms\n\timport 8.49s\n\tinitialization 28.4ms\n\tinstantiate metavars 0.217ms\n\tinterpretation 6.61s\n\tlet-to-have transformation 2.67ms\n\tlinting 2.82ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 23.6ms\n\tparsing 1.65ms\n\tprocess pre-definitions 2.71ms\n\tshare common exprs 0.882ms\n\tsimp 3.81ms\n\ttactic execution 15.2ms\n\ttacticAnalysis 20.4ms\n\ttype checking 25.6ms\n\ttypeclass inference 64ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalDivisorStalkDvr.lean",
+  "source_sha256": "5fede74563564c5ad8f96f3d24216c5414c53783afb2ad8c2bbcc55796ba4bbf",
+  "exit_code": 0,
+  "seconds": 18.09,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 154ms\nimport took 9.15s\n.olean serialization took 231ms\ncumulative profiling times:\n\t.olean serialization 231ms\n\tattribute application 0.0192ms\n\telaboration 7.03ms\n\tfix level params 0.0965ms\n\timport 9.15s\n\tinitialization 27.5ms\n\tinstantiate metavars 0.0929ms\n\tinterpretation 8.63s\n\tlet-to-have transformation 0.019ms\n\tlinting 2.97ms\n\tmodule linting 0.0026ms\n\tnorm_num 45.6ms\n\toverlappingInstancesLinter 53.9ms\n\tparsing 1.59ms\n\tprocess pre-definitions 0.579ms\n\tshare common exprs 0.357ms\n\ttactic execution 14.9ms\n\ttacticAnalysis 152ms\n\ttype checking 21.1ms\n\ttypeclass inference 65.2ms\n"
+}

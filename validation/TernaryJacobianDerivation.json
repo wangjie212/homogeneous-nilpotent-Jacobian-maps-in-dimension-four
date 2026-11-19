@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryJacobianDerivation.lean",
+  "source_sha256": "4e828d645510ca035fdf770111d49f78dfeed31904e7bed832fcf0d98e14685b",
+  "exit_code": 0,
+  "seconds": 18.25,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryJacobianDerivation.lean:35:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.ternaryJacobianDerivation_apply_coordinate`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryJacobianDerivation.lean:39:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.ternaryJacobianDerivation_kills_pair`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/Lemma42.lean",
+  "source_sha256": "fff6f4f45db6aae25247e8a1c9ff835ffa5766db02ed0575902f678811ac4082",
+  "exit_code": 0,
+  "seconds": 18.84,
+  "log": "type checking took 137ms\ntype checking took 130ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 8.16s\n.olean serialization took 258ms\ncumulative profiling times:\n\t.olean serialization 258ms\n\tattribute application 1.18ms\n\tblocked (unaccounted) 69ms\n\tcompilation (IR) 0.863ms\n\tcompilation (LCNF base) 35.7ms\n\tcompilation (LCNF impure) 4.44ms\n\tcompilation (LCNF mono) 9.47ms\n\telaboration 357ms\n\tfix level params 1.58ms\n\timport 8.16s\n\tinitialization 28.2ms\n\tinstantiate metavars 0.681ms\n\tinterpretation 6.48s\n\tlet-to-have transformation 0.43ms\n\tlinting 12.8ms\n\tmodule linting 0.0021ms\n\toverlappingInstancesLinter 36.1ms\n\tparsing 2.91ms\n\tprocess pre-definitions 5.57ms\n\tshare common exprs 3.49ms\n\ttactic execution 90.8ms\n\ttacticAnalysis 133ms\n\ttype checking 268ms\n\ttypeclass inference 3.43s\n"
+}

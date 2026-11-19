@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/LocalZeroPoleCriterion.lean",
+  "source_sha256": "61d23a0c0d50150d8c291f6a3cd916a3c28e2e6b632900817b2ee9df6e05db9c",
+  "exit_code": 0,
+  "seconds": 24.19,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\LocalZeroPoleCriterion.lean:14:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.normal_height_one_nonregular_constructs_inverse_zero_germ`:\n  [IsLocalRing R]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsLocalRing R] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

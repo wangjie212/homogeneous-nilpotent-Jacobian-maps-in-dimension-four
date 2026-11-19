@@ -1,0 +1,63 @@
+@DimensionFourDependence.actual_projective_divisor_image_common_factor_degree.{u_1,
+    u_2} : ∀ {K : Type u_1} [inst : Field.{u_1} K] [CharZero.{u_1} K] (H : Fin 4 → MvPolynomial.{0, u_1} (Fin 4) K)
+  (I : DimensionFourDependence.ImageRelationWitness.{u_1} H) (s : Equiv.{1, 1} (Fin 4) (Option.{0} (Fin 3))) {d₀ : ℕ},
+  DimensionFourDependence.IsHomogMap.{u_1, 0} H d₀ →
+    ∀ (e : AlgEquiv.{u_1, u_1, u_1} K (RatFunc.{u_1} K) ↥(DimensionFourDependence.closedGaussParameterField.{u_1} H I))
+      (P : Fin 4 → MvPolynomial.{0, u_1} (Fin 4) K) (g : MvPolynomial.{0, u_1} (Fin 4) K) {c D : ℕ},
+      Ne.{u_1 + 1} g 0 →
+        MvPolynomial.IsHomogeneous.{0, u_1} g c →
+          DimensionFourDependence.IsHomogMap.{u_1, 0} P D →
+            DimensionFourDependence.IsPrimitiveVec.{u_1, 0} P →
+              (Eq.{u_1 + 1} H fun i => HMul.hMul.{u_1, u_1, u_1} g (P i)) →
+                ∀ (a : ℕ) (E : Type u_2) [inst_2 : Field.{u_2} E]
+                  [inst_3 : Algebra.{u_1, u_2} (↥(DimensionFourDependence.closedGaussParameterField.{u_1} H I)) E]
+                  [Module.Finite.{u_1, u_2} (↥(DimensionFourDependence.closedGaussParameterField.{u_1} H I)) E]
+                  (q :
+                    Ideal.{max u_1 u_2}
+                      ↥(DimensionFourDependence.normalizationRing.{max u_2 u_1}
+                          (TensorProduct.{u_1, u_1, u_2}
+                            (↥(DimensionFourDependence.closedGaussParameterField.{u_1} H I))
+                            (↥(DimensionFourDependence.projectiveCoordinateChartAlgebra.{u_1, u_1}
+                                DimensionFourDependence.rationalCoordinate.{u_1} ((Equiv.symm.{1, 1} s) none.{0})))
+                            E)))
+                  [inst_5 : Ideal.IsPrime.{max u_1 u_2} q]
+                  (Q :
+                    Ideal.{u_1}
+                      ↥(DimensionFourDependence.projectiveCoordinateChartAlgebra.{u_1, u_1}
+                          DimensionFourDependence.rationalCoordinate.{u_1} ((Equiv.symm.{1, 1} s) none.{0})))
+                  [Ideal.IsPrime.{u_1} Q],
+                  Eq.{1} (Ideal.height.{u_1} Q) 1 →
+                    Eq.{u_1 + 1}
+                        (DimensionFourDependence.projectiveSourceChartImageClosure.{u_1, max u_1 u_2} s
+                          (algebraMap.{u_1, max u_1 u_2}
+                            ↥(DimensionFourDependence.projectiveCoordinateChartAlgebra.{u_1, u_1}
+                                DimensionFourDependence.rationalCoordinate.{u_1} ((Equiv.symm.{1, 1} s) none.{0}))
+                            ↥(DimensionFourDependence.normalizationRing.{max u_2 u_1}
+                                (TensorProduct.{u_1, u_1, u_2}
+                                  (↥(DimensionFourDependence.closedGaussParameterField.{u_1} H I))
+                                  (↥(DimensionFourDependence.projectiveCoordinateChartAlgebra.{u_1, u_1}
+                                      DimensionFourDependence.rationalCoordinate.{u_1}
+                                      ((Equiv.symm.{1, 1} s) none.{0})))
+                                  E)))
+                          q)
+                        (PrimeSpectrum.zeroLocus.{u_1} ↑Q) →
+                      (∀ (i : Fin 4),
+                          Membership.mem.{max u_1 u_2, max u_1 u_2}
+                            (HPow.hPow.{max u_1 u_2, 0, max u_1 u_2}
+                              (IsLocalRing.maximalIdeal.{max u_1 u_2} (Localization.AtPrime.{max u_1 u_2} q)) a)
+                            ((algebraMap.{u_1, max u_1 u_2}
+                                (↥(DimensionFourDependence.projectiveCoordinateChartAlgebra.{u_1, u_1}
+                                    DimensionFourDependence.rationalCoordinate.{u_1} ((Equiv.symm.{1, 1} s) none.{0})))
+                                (Localization.AtPrime.{max u_1 u_2} q))
+                              ((DimensionFourDependence.projectiveSourceSectionHom.{u_1} s) (H i)))) →
+                        ∃ Δ,
+                          Irreducible.{u_1} Δ ∧
+                            MvPolynomial.IsHomogeneous.{0, u_1} Δ (MvPolynomial.totalDegree.{u_1, 0} Δ) ∧
+                              Eq.{u_1 + 1} Q
+                                  (Ideal.span.{u_1}
+                                    (singleton.{u_1, u_1}
+                                      ((DimensionFourDependence.projectiveSourceSectionHom.{u_1} s) Δ))) ∧
+                                Dvd.dvd.{u_1} (HPow.hPow.{u_1, 0, u_1} Δ a) g ∧
+                                  LE.le.{0} (HMul.hMul.{0, 0, 0} a (MvPolynomial.totalDegree.{u_1, 0} Δ))
+                                      (MvPolynomial.totalDegree.{u_1, 0} g) ∧
+                                    LE.le.{0} a (MvPolynomial.totalDegree.{u_1, 0} g)

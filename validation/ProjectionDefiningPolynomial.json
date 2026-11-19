@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectionDefiningPolynomial.lean",
+  "source_sha256": "998e863c68f0de2d0af0a9334cb8dd333005bb8f075257ae3bc7bce14a89e21a",
+  "exit_code": 0,
+  "seconds": 14.35,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 7.57s\n.olean serialization took 205ms\ncumulative profiling times:\n\t.olean serialization 205ms\n\tattribute application 0.0292ms\n\tcongr simp thm 1.78ms\n\telaboration 15.9ms\n\tfix level params 0.488ms\n\timport 7.57s\n\tinitialization 27.4ms\n\tinstantiate metavars 0.406ms\n\tinterpretation 6.37s\n\tlet-to-have transformation 0.0641ms\n\tlinting 4.36ms\n\tmodule linting 0.0024ms\n\toverlappingInstancesLinter 45.9ms\n\tparsing 2.24ms\n\tprocess pre-definitions 1.71ms\n\tshare common exprs 1.15ms\n\tsimp 30.3ms\n\ttactic execution 26.5ms\n\ttacticAnalysis 63.7ms\n\ttype checking 14.3ms\n\ttypeclass inference 71.1ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PlanarShearCoefficientRing.lean",
+  "source_sha256": "be3363d11ce7b0d6fb3bc709e8c91a983f397224740823a6070312473aacbe31",
+  "exit_code": 0,
+  "seconds": 16.7,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PlanarShearCoefficientRing.lean:76:8: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PlanarShearCoefficientRing.lean:75:29: warning: This simp argument is unused:\n  map_add\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [pderiv_mul, map_mul, hp, he, pderiv_C, pderiv_X, Pi.single_apply, if_neg (Ne.symm hne), map_zero,\n    mul_zero, add_zero]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PlanarShearCoefficientRing.lean:76:30: warning: This simp argument is unused:\n  map_zero\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [pderiv_mul, map_add, map_mul, hp, he, pderiv_C, pderiv_X, Pi.single_apply, if_neg (Ne.symm hne),\n    mul_zero, add_zero]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

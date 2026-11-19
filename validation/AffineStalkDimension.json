@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineStalkDimension.lean",
+  "source_sha256": "1a9c1262a021a865ddb8198e150f0e07bca7cf4b6de942100c04156d7ebeebe2",
+  "exit_code": 0,
+  "seconds": 15.36,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 8.56s\n.olean serialization took 196ms\ncumulative profiling times:\n\t.olean serialization 196ms\n\tattribute application 0.012ms\n\telaboration 4.98ms\n\tfix level params 0.0521ms\n\timport 8.56s\n\tinitialization 29.1ms\n\tinstantiate metavars 0.0375ms\n\tinterpretation 6.8s\n\tlet-to-have transformation 0.021ms\n\tlinting 1.5ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 23.5ms\n\tparsing 0.499ms\n\tprocess pre-definitions 0.412ms\n\tshare common exprs 0.176ms\n\ttactic execution 7.34ms\n\ttacticAnalysis 104ms\n\ttype checking 1.21ms\n\ttypeclass inference 30.3ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/DeterminantShearCoefficientConjugacy.lean",
+  "source_sha256": "74bf0b7eafe36bb0dd675618f2ae0f381dbc0352d004e428ca02ebf911cba4d0",
+  "exit_code": 0,
+  "seconds": 18.16,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\DeterminantShearCoefficientConjugacy.lean:18:4: warning: Try `simp at h` instead of `simpa using h`\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\n"
+}

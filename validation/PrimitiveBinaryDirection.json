@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PrimitiveBinaryDirection.lean",
+  "source_sha256": "c69d5e12a1c3f149e203e37b162e6ec577e914fdb6cdd285e70ed28872c2ea41",
+  "exit_code": 0,
+  "seconds": 18.29,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PrimitiveBinaryDirection.lean:15:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.positive_homogeneous_polynomial_not_isUnit`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

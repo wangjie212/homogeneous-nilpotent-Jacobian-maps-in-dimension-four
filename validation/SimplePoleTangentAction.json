@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SimplePoleTangentAction.lean",
+  "source_sha256": "1da95ff41d04ece1ea881c90e10b3043446f2617820a65348d3feb076456a5e6",
+  "exit_code": 0,
+  "seconds": 15.61,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 163ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 8.15s\n.olean serialization took 219ms\ncumulative profiling times:\n\t.olean serialization 219ms\n\tattribute application 0.0317ms\n\tcompilation (IR) 0.0843ms\n\tcompilation (LCNF base) 1.26ms\n\tcompilation (LCNF impure) 0.38ms\n\tcompilation (LCNF mono) 0.965ms\n\tcongr simp thm 1.51ms\n\telaboration 31ms\n\tfix level params 1.48ms\n\timport 8.15s\n\tinitialization 28.6ms\n\tinstantiate metavars 0.96ms\n\tinterpretation 7.15s\n\tlet-to-have transformation 0.14ms\n\tlinting 7.12ms\n\tmodule linting 0.0018ms\n\tnorm_num 3.89ms\n\toverlappingInstancesLinter 50.6ms\n\tparsing 3.86ms\n\tprocess pre-definitions 3.25ms\n\tring 95.5ms\n\tshare common exprs 3.24ms\n\tsimp 106ms\n\ttactic execution 111ms\n\ttacticAnalysis 122ms\n\ttype checking 23.6ms\n\ttypeclass inference 540ms\n"
+}

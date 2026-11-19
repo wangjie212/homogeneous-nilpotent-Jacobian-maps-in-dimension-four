@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GlobalPencilHyperplaneAtlas.lean",
+  "source_sha256": "6dfae47cef61ea75da91188dc4fa7f399af6094fa77ec554a9c5603d5ee9115e",
+  "exit_code": 0,
+  "seconds": 22.34,
+  "log": "typeclass inference of Module took 357ms\ntactic execution of Lean.Parser.Tactic.obtain took 2.1s\ntype checking took 346ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 7.89s\n.olean serialization took 2.95s\ncumulative profiling times:\n\t.olean serialization 2.95s\n\tattribute application 1ms\n\tblocked (unaccounted) 73.8ms\n\tcompilation (IR) 0.932ms\n\tcompilation (LCNF base) 36.3ms\n\tcompilation (LCNF impure) 5.2ms\n\tcompilation (LCNF mono) 9.83ms\n\telaboration 284ms\n\tfix level params 0.939ms\n\timport 7.89s\n\tinitialization 28.7ms\n\tinstantiate metavars 0.413ms\n\tinterpretation 6.65s\n\tlet-to-have transformation 0.304ms\n\tlinting 11.1ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 45.7ms\n\tparsing 2.43ms\n\tprocess pre-definitions 5.69ms\n\tshare common exprs 2.5ms\n\ttactic execution 2.19s\n\ttacticAnalysis 161ms\n\ttype checking 348ms\n\ttypeclass inference 2.02s\n"
+}

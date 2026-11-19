@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalChartNonfieldSectionBound.lean",
+  "source_sha256": "f167d43e4be4cbd23685605a3e9f2a3da5b617a49526baa480d42cc637b8c61a",
+  "exit_code": 0,
+  "seconds": 24.36,
+  "log": "typeclass inference of SMul took 416ms\ntypeclass inference of SMul took 420ms\ntypeclass inference of SMul took 414ms\ntypeclass inference of SMul took 357ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 115ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 143ms\nimport took 11.5s\n.olean serialization took 228ms\ncumulative profiling times:\n\t.olean serialization 228ms\n\tattribute application 0.0268ms\n\tcongr simp thm 0.558ms\n\telaboration 67.6ms\n\tfix level params 0.852ms\n\timport 11.5s\n\tinitialization 27.7ms\n\tinstantiate metavars 1.25ms\n\tinterpretation 9.38s\n\tlet-to-have transformation 0.248ms\n\tlinting 9.38ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 43.5ms\n\tparsing 4.25ms\n\tprocess pre-definitions 2.65ms\n\tshare common exprs 2.25ms\n\tsimp 7.76ms\n\ttactic execution 40ms\n\ttacticAnalysis 86.7ms\n\ttype checking 60.5ms\n\ttypeclass inference 3.05s\n"
+}

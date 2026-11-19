@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalInfinityDegree.lean",
+  "source_sha256": "9b5cd0035986a8f5013c2ccfb296d246b56cb161154cf5bb85264e0f524ef6c5",
+  "exit_code": 0,
+  "seconds": 15.06,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 8.05s\n.olean serialization took 208ms\ncumulative profiling times:\n\t.olean serialization 208ms\n\tattribute application 0.0228ms\n\tcongr simp thm 0.532ms\n\telaboration 7.25ms\n\tfix level params 0.282ms\n\timport 8.05s\n\tinitialization 29.1ms\n\tinstantiate metavars 0.296ms\n\tinterpretation 6.8s\n\tlet-to-have transformation 0.0351ms\n\tlinting 3.75ms\n\tmodule linting 0.0019ms\n\tnorm_num 22.2ms\n\toverlappingInstancesLinter 73.8ms\n\tparsing 1.55ms\n\tprocess pre-definitions 1.36ms\n\tring 107ms\n\tshare common exprs 0.925ms\n\tsimp 8.24ms\n\ttactic execution 32ms\n\ttacticAnalysis 106ms\n\ttype checking 21.3ms\n\ttypeclass inference 107ms\n"
+}

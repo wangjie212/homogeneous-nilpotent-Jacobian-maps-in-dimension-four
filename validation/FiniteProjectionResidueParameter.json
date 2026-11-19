@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FiniteProjectionResidueParameter.lean",
+  "source_sha256": "e937d4d18f6d234d5d14013a36a27542013bb9586465a2c4bd2b2dc3728a5d8c",
+  "exit_code": 0,
+  "seconds": 19.58,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 118ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 157ms\nimport took 10.4s\n.olean serialization took 262ms\ncumulative profiling times:\n\t.olean serialization 262ms\n\tattribute application 0.0175ms\n\telaboration 11ms\n\tfix level params 0.346ms\n\timport 10.4s\n\tinitialization 28.5ms\n\tinstantiate metavars 0.234ms\n\tinterpretation 8.54s\n\tlet-to-have transformation 0.0785ms\n\tlinting 4.23ms\n\tmodule linting 0.0035ms\n\toverlappingInstancesLinter 28.9ms\n\tparsing 1.31ms\n\tprocess pre-definitions 5ms\n\tshare common exprs 0.837ms\n\ttactic execution 114ms\n\ttacticAnalysis 98.7ms\n\ttype checking 15.8ms\n\ttypeclass inference 258ms\n"
+}

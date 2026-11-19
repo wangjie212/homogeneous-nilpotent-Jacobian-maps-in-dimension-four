@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActivePencilPerturbationConjugacy.lean",
+  "source_sha256": "c73254c5b8557596e087c5016795d1243cbf9848899ac45ddd3c061ee0539cae",
+  "exit_code": 0,
+  "seconds": 16.3,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ActivePencilPerturbationConjugacy.lean:42:12: warning: This simp argument is unused:\n  Fin.castSucc_ne_last\n\nHint: Omit it from the simp argument list.\n  [apply] simp [h2]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

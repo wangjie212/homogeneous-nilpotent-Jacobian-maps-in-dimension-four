@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/BivariateBilinearCoefficients.lean",
+  "source_sha256": "399f9e52e8cd62b74d735211fe2c631fd0013977ab4ba1f181e832032f2239de",
+  "exit_code": 0,
+  "seconds": 18.75,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\BivariateBilinearCoefficients.lean:38:49: warning: This simp argument is unused:\n  Ne.symm\n\nHint: Omit it from the simp argument list.\n  [apply] simp [Polynomial.coeff_monomial, hi, hj]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

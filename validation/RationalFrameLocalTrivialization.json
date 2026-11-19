@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalFrameLocalTrivialization.lean",
+  "source_sha256": "2ec1bd8c47e8ecfe5d20d75a94e0a1963ae8a33fe06b1aad3e38caf3b8e8b680",
+  "exit_code": 0,
+  "seconds": 15.05,
+  "log": "import took 7.87s\n.olean serialization took 221ms\ncumulative profiling times:\n\t.olean serialization 221ms\n\tattribute application 0.0261ms\n\tcongr simp thm 0.259ms\n\telaboration 60.2ms\n\tfix level params 0.824ms\n\timport 7.87s\n\tinitialization 28ms\n\tinstantiate metavars 0.781ms\n\tinterpretation 6.48s\n\tlet-to-have transformation 0.232ms\n\tlinting 7ms\n\tmodule linting 0.0022ms\n\tnorm_num 1.76ms\n\toverlappingInstancesLinter 26.6ms\n\tparsing 2.46ms\n\tprocess pre-definitions 8.84ms\n\tring 39.7ms\n\tshare common exprs 2.69ms\n\tsimp 6.34ms\n\ttactic execution 47.6ms\n\ttacticAnalysis 93.5ms\n\ttype checking 68.8ms\n\ttypeclass inference 303ms\n"
+}

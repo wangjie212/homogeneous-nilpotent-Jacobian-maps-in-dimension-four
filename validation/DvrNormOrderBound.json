@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/DvrNormOrderBound.lean",
+  "source_sha256": "f967857123a909d4c36615b3778e7b1a5a977559da76cc358256232fb3f55358",
+  "exit_code": 0,
+  "seconds": 15.62,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 108ms\nimport took 8.48s\n.olean serialization took 210ms\ncumulative profiling times:\n\t.olean serialization 210ms\n\tattribute application 0.0209ms\n\tblocked (unaccounted) 0.0694ms\n\tcongr simp thm 0.31ms\n\telaboration 16.4ms\n\tfix level params 0.323ms\n\timport 8.48s\n\tinitialization 30ms\n\tinstantiate metavars 0.198ms\n\tinterpretation 6.59s\n\tlet-to-have transformation 0.0674ms\n\tlinting 4.6ms\n\tmodule linting 0.0021ms\n\toverlappingInstancesLinter 36.3ms\n\tparsing 1.69ms\n\tprocess pre-definitions 1.12ms\n\tshare common exprs 0.729ms\n\tsimp 2.51ms\n\ttactic execution 32.8ms\n\ttacticAnalysis 58.3ms\n\ttype checking 13.9ms\n\ttypeclass inference 168ms\n"
+}

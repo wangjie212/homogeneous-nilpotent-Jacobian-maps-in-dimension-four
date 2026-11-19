@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ScaledSourceRelativeCurveComparison.lean",
+  "source_sha256": "9578ff86c40a24f00722b027724b29b098c91811d063266f9e07fbfd41789dbf",
+  "exit_code": 0,
+  "seconds": 15.34,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ScaledSourceRelativeCurveComparison.lean:61:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ScaledSourceRelativeCurveComparison.lean:62:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ScaledSourceRelativeCurveComparison.lean:63:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

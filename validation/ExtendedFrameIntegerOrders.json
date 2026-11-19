@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedFrameIntegerOrders.lean",
+  "source_sha256": "02d924eea78ef193ae45b1317fa822bb5cf62a225d3949ad29ae0b8304ee7cf7",
+  "exit_code": 0,
+  "seconds": 18.01,
+  "log": "type checking took 115ms\ntype checking took 115ms\ntype checking took 115ms\ntype checking took 135ms\ntype checking took 123ms\ntype checking took 121ms\ntype checking took 131ms\ntype checking took 133ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.63s\n.olean serialization took 315ms\ncumulative profiling times:\n\t.olean serialization 315ms\n\tattribute application 3.86ms\n\tblocked (unaccounted) 93.2ms\n\tcompilation (IR) 1ms\n\tcompilation (LCNF base) 47.1ms\n\tcompilation (LCNF impure) 5.26ms\n\tcompilation (LCNF mono) 13ms\n\tcongr simp thm 0.793ms\n\tdsimp 1.96ms\n\telaboration 505ms\n\tfix level params 1.79ms\n\timport 7.63s\n\tinitialization 26.4ms\n\tinstantiate metavars 0.462ms\n\tinterpretation 6.69s\n\tlet-to-have transformation 0.605ms\n\tlinting 29ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 41.1ms\n\tparsing 4.74ms\n\tprocess pre-definitions 13.7ms\n\tshare common exprs 5.46ms\n\tsimp 2.5ms\n\ttactic execution 115ms\n\ttacticAnalysis 133ms\n\ttype checking 991ms\n\ttypeclass inference 2.68s\n"
+}

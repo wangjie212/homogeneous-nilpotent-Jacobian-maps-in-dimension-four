@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NativeCharacteristicRootDegreeObstruction.lean",
+  "source_sha256": "0bbce9c9fdbccce6d5b592dd140d139646d661d462ffb0a906ba05e7273b2a87",
+  "exit_code": 0,
+  "seconds": 54.03,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NativeCharacteristicRootDegreeObstruction.lean:112:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NativeCharacteristicRootDegreeObstruction.lean:113:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

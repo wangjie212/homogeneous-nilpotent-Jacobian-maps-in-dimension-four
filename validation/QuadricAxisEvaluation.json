@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/QuadricAxisEvaluation.lean",
+  "source_sha256": "b26f6b372ee2b18ba65008c9991b83c65747bcfaf004415e9bbb63a451815718",
+  "exit_code": 0,
+  "seconds": 15.44,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\QuadricAxisEvaluation.lean:28:12: warning: This simp argument is unused:\n  Pi.single_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [h, hs i h]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

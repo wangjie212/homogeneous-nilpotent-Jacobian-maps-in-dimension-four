@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalizedAffineCoordinateMultiplicity.lean",
+  "source_sha256": "0c2efb633ed4aa4b297aecbf1c1eb1b7a387cd2144c0e375e9f7e7d4b84f343c",
+  "exit_code": 0,
+  "seconds": 21.73,
+  "log": "typeclass inference of FaithfulSMul took 184ms\ntypeclass inference of SMul took 327ms\ntypeclass inference of Algebra took 130ms\ntypeclass inference of SMul took 326ms\ntypeclass inference of Algebra took 136ms\ntypeclass inference of SMul took 330ms\ntactic execution of Lean.Parser.Tactic.exact took 206ms\ntype checking took 443ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 7.98s\n.olean serialization took 214ms\ncumulative profiling times:\n\t.olean serialization 214ms\n\tattribute application 0.0227ms\n\telaboration 23.6ms\n\tfix level params 0.657ms\n\timport 7.98s\n\tinitialization 27.6ms\n\tinstantiate metavars 1.04ms\n\tinterpretation 6.67s\n\tlet-to-have transformation 0.0719ms\n\tlinting 7.37ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 35.1ms\n\tparsing 2.34ms\n\tprocess pre-definitions 23.7ms\n\tshare common exprs 2.03ms\n\ttactic execution 458ms\n\ttacticAnalysis 111ms\n\ttype checking 443ms\n\ttypeclass inference 5.82s\n"
+}

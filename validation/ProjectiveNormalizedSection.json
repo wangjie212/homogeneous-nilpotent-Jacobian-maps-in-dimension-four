@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveNormalizedSection.lean",
+  "source_sha256": "180adcac37f7de6aedf14dd458f12e552e39d93f647ceb94996eb6b6fecb14cf",
+  "exit_code": 0,
+  "seconds": 15.72,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.27s\n.olean serialization took 230ms\ncumulative profiling times:\n\t.olean serialization 230ms\n\tattribute application 0.0265ms\n\tblocked (unaccounted) 141ms\n\tcongr simp thm 2.46ms\n\telaboration 33.5ms\n\tfix level params 0.296ms\n\timport 8.27s\n\tinitialization 28.2ms\n\tinstantiate metavars 0.209ms\n\tinterpretation 6.65s\n\tlet-to-have transformation 0.0691ms\n\tlinting 4.26ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 28.2ms\n\tparsing 2.32ms\n\tprocess pre-definitions 1.32ms\n\tshare common exprs 0.727ms\n\tsimp 0.465ms\n\ttactic execution 45.9ms\n\ttacticAnalysis 69.4ms\n\ttype checking 320ms\n\ttypeclass inference 52.4ms\n"
+}

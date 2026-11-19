@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectivePullbackHyperplaneSheaf.lean",
+  "source_sha256": "43b26e6135298f94bd563bb0ad4ceb3fa1ec83c56f1916721ce93ecece6f8db2",
+  "exit_code": 0,
+  "seconds": 15.52,
+  "log": "import took 8.15s\n.olean serialization took 220ms\ncumulative profiling times:\n\t.olean serialization 220ms\n\tattribute application 1.02ms\n\tblocked (unaccounted) 33.7ms\n\tcompilation (IR) 0.49ms\n\tcompilation (LCNF base) 16.1ms\n\tcompilation (LCNF impure) 2.89ms\n\tcompilation (LCNF mono) 5.14ms\n\telaboration 201ms\n\tfix level params 0.553ms\n\timport 8.15s\n\tinitialization 28ms\n\tinstantiate metavars 0.113ms\n\tinterpretation 6.43s\n\tlet-to-have transformation 0.225ms\n\tlinting 7.32ms\n\tmodule linting 0.0021ms\n\toverlappingInstancesLinter 33.1ms\n\tparsing 2.5ms\n\tprocess pre-definitions 5.58ms\n\tshare common exprs 1.83ms\n\ttactic execution 24.9ms\n\ttacticAnalysis 106ms\n\ttype checking 73ms\n\ttypeclass inference 386ms\n"
+}

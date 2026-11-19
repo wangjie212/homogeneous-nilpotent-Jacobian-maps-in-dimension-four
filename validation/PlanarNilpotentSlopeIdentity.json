@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PlanarNilpotentSlopeIdentity.lean",
+  "source_sha256": "01c3de82e432506ab1153b864cf499341eb7759617dfb2387c14a3e17e44096c",
+  "exit_code": 0,
+  "seconds": 17.8,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PlanarNilpotentSlopeIdentity.lean:42:31: warning: This simp argument is unused:\n  Derivation.add_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [planarSlopeDerivation, Derivation.smul_apply, rationalPartial_coordinate, smul_eq_mul]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PlanarNilpotentSlopeIdentity.lean:47:31: warning: This simp argument is unused:\n  Derivation.add_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [planarSlopeDerivation, Derivation.smul_apply, rationalPartial_coordinate, smul_eq_mul]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

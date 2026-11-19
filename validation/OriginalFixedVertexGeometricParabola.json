@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalFixedVertexGeometricParabola.lean",
+  "source_sha256": "d7cf520c07a65d11b4bc8ee732f881f9b12234f1b8050f1fc9d942ca3fc46c2c",
+  "exit_code": 0,
+  "seconds": 15.86,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\OriginalFixedVertexGeometricParabola.lean:32:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.original_fixed_vertex_map_nonlinear_geometric_component_is_parabola`:\n  [Algebra K E]\n  [IsScalarTower K (↥(polynomialOutputField H)) E]\n  [Algebra.IsAlgebraic (↥(polynomialOutputField H)) E]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [Algebra K\n  E] [IsScalarTower K (↥(polynomialOutputField H))\n  E] [Algebra.IsAlgebraic (↥(polynomialOutputField H)) E] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

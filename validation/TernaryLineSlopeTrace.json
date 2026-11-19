@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryLineSlopeTrace.lean",
+  "source_sha256": "136e66922b9e837634e92ae07386b02cd42c8d3bf22c3df56c8daa272ba9623f",
+  "exit_code": 0,
+  "seconds": 17.33,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryLineSlopeTrace.lean:26:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.ternaryLineSlopeDerivation_commute_partial`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryLineSlopeTrace.lean:69:31: warning: This simp argument is unused:\n  Pi.single_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [jac, hy, hz]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

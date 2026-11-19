@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CanonicalGraphRootFactor.lean",
+  "source_sha256": "912aa319993aa9fe1b635867ada8ce5417115182b0e1107df9fcf2227f420f66",
+  "exit_code": 0,
+  "seconds": 26.09,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CanonicalGraphRootFactor.lean:83:6: warning: this tactic is never executed\n\nNote: This linter can be disabled with `set_option linter.unreachableTactic false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CanonicalGraphRootFactor.lean:83:6: warning: Unused tactic linter: `ring` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\n"
+}

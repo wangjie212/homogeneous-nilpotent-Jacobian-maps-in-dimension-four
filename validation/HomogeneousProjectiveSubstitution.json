@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/HomogeneousProjectiveSubstitution.lean",
+  "source_sha256": "2870a42401cea5351261bb706f5ebf5140435cab175d90b47d7e53af7d02e251",
+  "exit_code": 0,
+  "seconds": 15.61,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 102ms\nimport took 8.31s\n.olean serialization took 225ms\ncumulative profiling times:\n\t.olean serialization 225ms\n\tattribute application 0.622ms\n\telaboration 34.3ms\n\tfix level params 0.807ms\n\timport 8.31s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.749ms\n\tinterpretation 6.76s\n\tlet-to-have transformation 0.139ms\n\tlinting 8.27ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 29.6ms\n\tparsing 3.17ms\n\tprocess pre-definitions 3.7ms\n\tshare common exprs 2.37ms\n\ttactic execution 118ms\n\ttacticAnalysis 77.6ms\n\ttype checking 31.7ms\n\ttypeclass inference 88.4ms\n"
+}

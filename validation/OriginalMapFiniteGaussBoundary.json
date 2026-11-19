@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalMapFiniteGaussBoundary.lean",
+  "source_sha256": "ce03541005da0969d830885bb67612ea97726928200541c1ca13f1486e5e7f8e",
+  "exit_code": 0,
+  "seconds": 15.39,
+  "log": "tactic execution of Lean.Parser.Tactic.obtain took 195ms\ntype checking took 135ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.97s\n.olean serialization took 229ms\ncumulative profiling times:\n\t.olean serialization 229ms\n\tattribute application 0.011ms\n\telaboration 32.1ms\n\tfix level params 2.31ms\n\timport 7.97s\n\tinitialization 27.8ms\n\tinstantiate metavars 1.98ms\n\tinterpretation 6.29s\n\tlet-to-have transformation 0.162ms\n\tlinting 14.6ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 29.2ms\n\tparsing 1.17ms\n\tprocess pre-definitions 4.87ms\n\tshare common exprs 4.79ms\n\ttactic execution 355ms\n\ttacticAnalysis 87.1ms\n\ttype checking 135ms\n\ttypeclass inference 183ms\n"
+}

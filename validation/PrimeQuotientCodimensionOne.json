@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PrimeQuotientCodimensionOne.lean",
+  "source_sha256": "c5a05b9f3eb52354fb8b313d0886ba354ccbadb8820c9bb600eda3e7fbb0ed0e",
+  "exit_code": 0,
+  "seconds": 15.66,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 8.14s\n.olean serialization took 197ms\ncumulative profiling times:\n\t.olean serialization 197ms\n\tattribute application 0.0154ms\n\tblocked (unaccounted) 0.152ms\n\telaboration 9.89ms\n\tfix level params 0.276ms\n\timport 8.14s\n\tinitialization 26.4ms\n\tinstantiate metavars 0.211ms\n\tinterpretation 6.9s\n\tlet-to-have transformation 0.0312ms\n\tlinting 4.17ms\n\tmodule linting 0.0019ms\n\tnorm_num 22.3ms\n\toverlappingInstancesLinter 31.4ms\n\tparsing 1.49ms\n\tprocess pre-definitions 1.34ms\n\tshare common exprs 0.71ms\n\ttactic execution 36.9ms\n\ttacticAnalysis 91.5ms\n\ttype checking 9.43ms\n\ttypeclass inference 227ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FactorizationPowerRemainder.lean",
+  "source_sha256": "36279a7bf739c169f9478bd6c160d9f859fbc0f6c5716af497ce8960e1b407d0",
+  "exit_code": 0,
+  "seconds": 18.57,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\FactorizationPowerRemainder.lean:24:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.factorization_prime_power_product_eq_normalized_product`:\n  [Nontrivial R]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [Nontrivial R] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

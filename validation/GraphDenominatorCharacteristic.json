@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GraphDenominatorCharacteristic.lean",
+  "source_sha256": "beae09aade745b6841d828b08c51285de6cc52faa9ad33fd022450fde612cbbf",
+  "exit_code": 0,
+  "seconds": 14.65,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.58s\n.olean serialization took 206ms\ncumulative profiling times:\n\t.olean serialization 206ms\n\tattribute application 0.0279ms\n\tcongr simp thm 0.845ms\n\telaboration 22.7ms\n\tfix level params 0.846ms\n\timport 7.58s\n\tinitialization 29.1ms\n\tinstantiate metavars 0.615ms\n\tinterpretation 6.47s\n\tlet-to-have transformation 0.107ms\n\tlinting 5.87ms\n\tmodule linting 0.0022ms\n\tnorm_num 3.1ms\n\toverlappingInstancesLinter 51.2ms\n\tparsing 3.46ms\n\tprocess pre-definitions 2.95ms\n\tring 57.5ms\n\tshare common exprs 2.36ms\n\tsimp 50.3ms\n\ttactic execution 77.5ms\n\ttacticAnalysis 109ms\n\ttype checking 20.1ms\n\ttypeclass inference 184ms\n"
+}

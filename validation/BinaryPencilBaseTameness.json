@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/BinaryPencilBaseTameness.lean",
+  "source_sha256": "04d3a09826caaea1718df90c06e8e0e2169d5e1807f94fe616252675860daea9",
+  "exit_code": 0,
+  "seconds": 20.17,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\BinaryPencilBaseTameness.lean:58:60: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\BinaryPencilBaseTameness.lean:60:69: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

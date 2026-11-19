@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NativePencilStalkConstants.lean",
+  "source_sha256": "4325ed22aa6e256a8fc053ffce1f6fe42899286459902ebc4a45715004b13dee",
+  "exit_code": 0,
+  "seconds": 15.71,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NativePencilStalkConstants.lean:41:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

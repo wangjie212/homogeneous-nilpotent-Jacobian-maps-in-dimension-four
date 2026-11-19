@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalSectionGermNonzero.lean",
+  "source_sha256": "c5ccf4d4df3de684774f0816e68e9892c4fe27d7f0d08ec2218972fc0033baea",
+  "exit_code": 0,
+  "seconds": 19.9,
+  "log": "typeclass inference of AddMonoid took 109ms\ntypeclass inference of DistribMulAction took 146ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 145ms\nimport took 9.72s\n.olean serialization took 302ms\ncumulative profiling times:\n\t.olean serialization 302ms\n\tattribute application 0.024ms\n\telaboration 31ms\n\tfix level params 1.3ms\n\timport 9.72s\n\tinitialization 27.5ms\n\tinstantiate metavars 0.218ms\n\tinterpretation 8.68s\n\tlet-to-have transformation 0.172ms\n\tlinting 4.16ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 32.9ms\n\tparsing 1.05ms\n\tprocess pre-definitions 5.32ms\n\tshare common exprs 2.82ms\n\ttactic execution 33ms\n\ttacticAnalysis 44.9ms\n\ttype checking 66.8ms\n\ttypeclass inference 655ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualBoundaryNonGeneric.lean",
+  "source_sha256": "c6fdb7bdd3e9bef9fb1e04372b34fae1bbc0b4d5f53bcb1e3237022d88aaa0d6",
+  "exit_code": 0,
+  "seconds": 18.57,
+  "log": "type checking took 158ms\ntactic execution of Lean.Parser.Tactic.obtain took 494ms\ntactic execution of Lean.Parser.Tactic.obtain took 518ms\ntactic execution of Lean.Parser.Tactic.obtain took 505ms\ntype checking took 212ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 8.25s\n.olean serialization took 970ms\ncumulative profiling times:\n\t.olean serialization 970ms\n\tattribute application 0.861ms\n\tdsimp 3ms\n\telaboration 124ms\n\tfix level params 3.53ms\n\timport 8.25s\n\tinitialization 27.8ms\n\tinstantiate metavars 1.97ms\n\tinterpretation 6.59s\n\tlet-to-have transformation 118ms\n\tlinting 10.7ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 35.1ms\n\tparsing 3.22ms\n\tprocess pre-definitions 6.71ms\n\tshare common exprs 6.42ms\n\ttactic execution 1.59s\n\ttacticAnalysis 122ms\n\ttype checking 373ms\n\ttypeclass inference 719ms\n"
+}

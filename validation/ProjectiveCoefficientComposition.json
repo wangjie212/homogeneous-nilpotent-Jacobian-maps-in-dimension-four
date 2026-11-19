@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveCoefficientComposition.lean",
+  "source_sha256": "62c274a32c09636427740c458a797567e191c85d544831c560338ebe3a6ce8b2",
+  "exit_code": 0,
+  "seconds": 14.59,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 7.76s\n.olean serialization took 205ms\ncumulative profiling times:\n\t.olean serialization 205ms\n\tattribute application 0.602ms\n\tcongr simp thm 0.844ms\n\telaboration 8.76ms\n\tfix level params 0.118ms\n\timport 7.76s\n\tinitialization 27.8ms\n\tinstantiate metavars 0.0892ms\n\tinterpretation 6.53s\n\tlet-to-have transformation 0.0404ms\n\tlinting 1.98ms\n\tmodule linting 0.0033ms\n\toverlappingInstancesLinter 35.2ms\n\tparsing 0.809ms\n\tprocess pre-definitions 0.749ms\n\tshare common exprs 0.402ms\n\tsimp 2.91ms\n\ttactic execution 28.4ms\n\ttacticAnalysis 83.7ms\n\ttype checking 17.6ms\n\ttypeclass inference 34ms\n"
+}

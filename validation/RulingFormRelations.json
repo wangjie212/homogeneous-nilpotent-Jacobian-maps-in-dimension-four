@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RulingFormRelations.lean",
+  "source_sha256": "dcde54c52f3e98643135d04a2765e9aad2c7d6b8a00a9100fde14259e85d4d07",
+  "exit_code": 0,
+  "seconds": 15.63,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 108ms\nimport took 7.97s\n.olean serialization took 214ms\ncumulative profiling times:\n\t.olean serialization 214ms\n\tattribute application 0.0206ms\n\tcongr simp thm 0.473ms\n\telaboration 22.2ms\n\tfix level params 0.758ms\n\timport 7.97s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.713ms\n\tinterpretation 6.75s\n\tlet-to-have transformation 0.128ms\n\tlinting 5.42ms\n\tmodule linting 0.002ms\n\tnorm_num 2.57ms\n\toverlappingInstancesLinter 24.2ms\n\tparsing 2.1ms\n\tprocess pre-definitions 1.73ms\n\tring 68.2ms\n\tshare common exprs 2.38ms\n\tsimp 23.8ms\n\ttactic execution 77.2ms\n\ttacticAnalysis 55.4ms\n\ttype checking 20.5ms\n\ttypeclass inference 288ms\n"
+}

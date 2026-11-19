@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalizedHyperplaneGluing.lean",
+  "source_sha256": "5019259dc82dd5542fd6e3b9168d307d76828dd95828f19c88d046d9e9062218",
+  "exit_code": 0,
+  "seconds": 18.95,
+  "log": "typeclass inference of CoeFun took 360ms\ntypeclass inference of CoeFun took 340ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 121ms\nimport took 9.61s\n.olean serialization took 363ms\ncumulative profiling times:\n\t.olean serialization 363ms\n\tattribute application 0.586ms\n\tblocked (unaccounted) 249ms\n\tcongr simp thm 6.97ms\n\telaboration 72.1ms\n\tfix level params 0.502ms\n\timport 9.61s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.242ms\n\tinterpretation 7.23s\n\tlet-to-have transformation 0.0411ms\n\tlinting 3.11ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 22ms\n\tparsing 2.11ms\n\tprocess pre-definitions 4.75ms\n\tshare common exprs 0.712ms\n\tsimp 1.27ms\n\ttactic execution 6.39ms\n\ttacticAnalysis 27.7ms\n\ttype checking 591ms\n\ttypeclass inference 777ms\n"
+}

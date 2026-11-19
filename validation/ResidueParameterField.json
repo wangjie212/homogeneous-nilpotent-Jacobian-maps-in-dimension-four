@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ResidueParameterField.lean",
+  "source_sha256": "eddce5fb81a3c7871f86a0a72543cb3a93fc378a8c726b52f6b024086b5a1ee5",
+  "exit_code": 0,
+  "seconds": 14.54,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.66s\n.olean serialization took 203ms\ncumulative profiling times:\n\t.olean serialization 203ms\n\tattribute application 0.0235ms\n\telaboration 23.3ms\n\tfix level params 0.234ms\n\timport 7.66s\n\tinitialization 27.1ms\n\tinstantiate metavars 0.094ms\n\tinterpretation 6.24s\n\tlet-to-have transformation 0.0528ms\n\tlinting 2.41ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 29ms\n\tparsing 1.46ms\n\tprocess pre-definitions 2.73ms\n\tshare common exprs 0.503ms\n\ttactic execution 13.1ms\n\ttacticAnalysis 37.1ms\n\ttype checking 23.7ms\n\ttypeclass inference 131ms\n"
+}

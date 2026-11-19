@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GlobalOriginalSectionMultiplicity.lean",
+  "source_sha256": "b20b05d5ff937c3952e64a4a1ebadddfeb9aef11483e977bbc91b4a81da2ed8f",
+  "exit_code": 0,
+  "seconds": 128.36,
+  "log": "elaboration took 102ms\nelaboration took 102ms\ntypeclass inference of Module took 462ms\ntypeclass inference of Module took 438ms\ntypeclass inference of Module took 530ms\ntypeclass inference of Algebra took 665ms\ntypeclass inference of Algebra took 210ms\nlet-to-have transformation took 242ms\nelaboration took 335ms\ntypeclass inference of Module took 453ms\ndsimp took 2.98s\ntactic execution of Lean.Parser.Tactic.exact took 1.32s\nlet-to-have transformation took 283ms\nelaboration took 219ms\ntype checking took 1.72s\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 142ms\nimport took 9.15s\n.olean serialization took 95.3s\ncumulative profiling times:\n\t.olean serialization 95.3s\n\tattribute application 1.95ms\n\tblocked (unaccounted) 171ms\n\tcompilation (IR) 2.08ms\n\tcompilation (LCNF base) 85ms\n\tcompilation (LCNF impure) 10.5ms\n\tcompilation (LCNF mono) 21.1ms\n\tdsimp 2.98s\n\telaboration 1.07s\n\tfix level params 7.49ms\n\timport 9.15s\n\tinitialization 28ms\n\tinstantiate metavars 1.03ms\n\tinterpretation 7.76s\n\tlet-to-have transformation 524ms\n\tlinting 28.3ms\n\tmodule linting 0.0023ms\n\toverlappingInstancesLinter 45ms\n\tparsing 3.45ms\n\tprocess pre-definitions 27ms\n\tshare common exprs 9.85ms\n\ttactic execution 1.44s\n\ttacticAnalysis 200ms\n\ttype checking 1.72s\n\ttypeclass inference 8.3s\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalChartProjectiveSectionBound.lean",
+  "source_sha256": "a053204ff22f6c4b522f8e6368ac3154caa0f184df4524a7742f2454bdbc210b",
+  "exit_code": 0,
+  "seconds": 16.97,
+  "log": "typeclass inference of SMul took 290ms\ntypeclass inference of SMul took 287ms\ntypeclass inference of SMul took 288ms\ntypeclass inference of SMul took 287ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 7.99s\n.olean serialization took 226ms\ncumulative profiling times:\n\t.olean serialization 226ms\n\tattribute application 0.0226ms\n\tcongr simp thm 0.378ms\n\telaboration 48.6ms\n\tfix level params 0.954ms\n\timport 7.99s\n\tinitialization 28.9ms\n\tinstantiate metavars 1.35ms\n\tinterpretation 6.42s\n\tlet-to-have transformation 0.184ms\n\tlinting 8.45ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 31.8ms\n\tparsing 3.36ms\n\tprocess pre-definitions 3.41ms\n\tshare common exprs 2.68ms\n\tsimp 5.95ms\n\ttactic execution 55.4ms\n\ttacticAnalysis 83ms\n\ttype checking 44.9ms\n\ttypeclass inference 2.03s\n"
+}

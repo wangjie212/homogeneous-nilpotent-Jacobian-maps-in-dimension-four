@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ScaledPlaneBaseProjection.lean",
+  "source_sha256": "ac0a747cbc0fbc89f3aacee4f73758c87a3bbb2e62d3ef0634dec4f7882fbd33",
+  "exit_code": 0,
+  "seconds": 19.06,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ScaledPlaneBaseProjection.lean:65:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ScaledPlaneBaseProjection.lean:66:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

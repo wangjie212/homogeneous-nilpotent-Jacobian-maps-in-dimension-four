@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalChartSectionStalkTransport.lean",
+  "source_sha256": "e712e2ef0a42abac278c9cb255a39d8ec60e87cdf6c6862444e399ee6380a6d5",
+  "exit_code": 0,
+  "seconds": 19.68,
+  "log": "typeclass inference of DistribMulAction took 101ms\ntypeclass inference of DistribMulAction took 104ms\ntypeclass inference of AddMonoid took 131ms\ntypeclass inference of DistribMulAction took 119ms\ntypeclass inference of AddMonoid took 121ms\ntypeclass inference of DistribMulAction took 137ms\ntype checking took 105ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 144ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 127ms\nimport took 9.58s\n.olean serialization took 230ms\ncumulative profiling times:\n\t.olean serialization 230ms\n\tattribute application 0.0296ms\n\telaboration 75.9ms\n\tfix level params 0.629ms\n\timport 9.58s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.281ms\n\tinterpretation 7.83s\n\tlet-to-have transformation 0.215ms\n\tlinting 4.57ms\n\tmodule linting 0.0029ms\n\toverlappingInstancesLinter 23.1ms\n\tparsing 2.16ms\n\tprocess pre-definitions 7.43ms\n\tshare common exprs 1.79ms\n\ttactic execution 102ms\n\ttacticAnalysis 40.4ms\n\ttype checking 176ms\n\ttypeclass inference 1.89s\n"
+}

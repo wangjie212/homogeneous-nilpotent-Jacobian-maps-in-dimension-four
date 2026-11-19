@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreRulingHomogeneousProfiles.lean",
+  "source_sha256": "9baedde32f8f53d63e0dd4dcefcee6aa15ccc5c0e04461286fbf0adeb414da04",
+  "exit_code": 0,
+  "seconds": 25.33,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreRulingHomogeneousProfiles.lean:42:75: warning: this tactic is never executed\n\nNote: This linter can be disabled with `set_option linter.unreachableTactic false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreRulingHomogeneousProfiles.lean:42:75: warning: Unused tactic linter: `ring` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedChosenGaussRuling.lean",
+  "source_sha256": "b23152f5fd34e0f8fa7fc6e1db059f12e1d53cf630a329e16c943ad4ad72876e",
+  "exit_code": 0,
+  "seconds": 18.12,
+  "log": "type checking took 109ms\ntype checking took 113ms\ntype checking took 111ms\ntype checking took 120ms\ntype checking took 121ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.99s\n.olean serialization took 286ms\ncumulative profiling times:\n\t.olean serialization 286ms\n\tattribute application 2.85ms\n\tblocked (unaccounted) 88.5ms\n\tcompilation (IR) 1.06ms\n\tcompilation (LCNF base) 42.9ms\n\tcompilation (LCNF impure) 5.97ms\n\tcompilation (LCNF mono) 11.8ms\n\tcongr simp thm 0.856ms\n\telaboration 504ms\n\tfix level params 1.92ms\n\timport 7.99s\n\tinitialization 27.6ms\n\tinstantiate metavars 0.873ms\n\tinterpretation 6.53s\n\tlet-to-have transformation 0.681ms\n\tlinting 15.3ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 41.5ms\n\tparsing 4.28ms\n\tprocess pre-definitions 13.8ms\n\tshare common exprs 5.65ms\n\tsimp 10.8ms\n\ttactic execution 95.1ms\n\ttacticAnalysis 140ms\n\ttype checking 764ms\n\ttypeclass inference 2.6s\n"
+}

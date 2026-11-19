@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/DvrNormalizationMultiplicity.lean",
+  "source_sha256": "908f51605b8d314a315bb21a9ad1349fe5a55216e0d8e78bdf9e954c3963dbbf",
+  "exit_code": 0,
+  "seconds": 15.71,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 8.13s\n.olean serialization took 206ms\ncumulative profiling times:\n\t.olean serialization 206ms\n\tattribute application 0.0104ms\n\telaboration 10.1ms\n\tfix level params 0.241ms\n\timport 8.13s\n\tinitialization 29ms\n\tinstantiate metavars 0.149ms\n\tinterpretation 6.44s\n\tlet-to-have transformation 0.0404ms\n\tlinting 2.6ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 26.7ms\n\tparsing 1.29ms\n\tprocess pre-definitions 0.735ms\n\tshare common exprs 0.521ms\n\ttactic execution 140ms\n\ttacticAnalysis 53.3ms\n\ttype checking 22.7ms\n\ttypeclass inference 498ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/DirectionMultiplicityLeadingTerm.lean",
+  "source_sha256": "d04bba6b80634d1315c5c937665e821043f007fe21ce3fbf24b515b2be3efa50",
+  "exit_code": 0,
+  "seconds": 15.58,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\DirectionMultiplicityLeadingTerm.lean:36:48: warning: try 'simp' instead of 'simpa'\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\n"
+}

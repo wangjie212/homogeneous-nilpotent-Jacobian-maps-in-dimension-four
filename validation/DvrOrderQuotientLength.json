@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/DvrOrderQuotientLength.lean",
+  "source_sha256": "d522012778d2944dbd2c6336039ff048bd8830de71710914769f2882a1b38a08",
+  "exit_code": 0,
+  "seconds": 15.17,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 116ms\nimport took 8.11s\n.olean serialization took 204ms\ncumulative profiling times:\n\t.olean serialization 204ms\n\tattribute application 0.0147ms\n\tblocked (unaccounted) 0.0372ms\n\tcongr simp thm 0.273ms\n\telaboration 6.52ms\n\tfix level params 0.105ms\n\timport 8.11s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.0712ms\n\tinterpretation 6.57s\n\tlet-to-have transformation 0.0263ms\n\tlinting 2.35ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 28ms\n\tparsing 0.977ms\n\tprocess pre-definitions 0.451ms\n\tshare common exprs 0.275ms\n\tsimp 2.58ms\n\ttactic execution 12.4ms\n\ttacticAnalysis 51.3ms\n\ttype checking 3.75ms\n\ttypeclass inference 45.2ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ClosedGaussPencilOriginalAtlas.lean",
+  "source_sha256": "ae33ef7f7c4aff29ed163a4bb8bd05f4a5ae0b5194c48f0def1d3455b05792ab",
+  "exit_code": 0,
+  "seconds": 173.66,
+  "log": "let-to-have transformation took 443ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 166s\ncumulative profiling times:\n\t.olean serialization 6.17ms\n\tattribute application 0.0107ms\n\tcongr simp thm 0.939ms\n\telaboration 9.3ms\n\tfix level params 0.234ms\n\timport 166s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.162ms\n\tinterpretation 6.4s\n\tlet-to-have transformation 443ms\n\tlinting 2.94ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 30.1ms\n\tparsing 1.13ms\n\tprocess pre-definitions 7.27ms\n\tshare common exprs 0.591ms\n\tsimp 4.17ms\n\ttactic execution 34ms\n\ttacticAnalysis 91.5ms\n\ttype checking 337ms\n\ttypeclass inference 152ms\n"
+}

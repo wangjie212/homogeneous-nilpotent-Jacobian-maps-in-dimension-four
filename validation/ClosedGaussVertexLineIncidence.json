@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ClosedGaussVertexLineIncidence.lean",
+  "source_sha256": "0be9c2eabc27e8d365b85f055070453be5e2f2773709615a26440a7361371946",
+  "exit_code": 0,
+  "seconds": 19.7,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ClosedGaussVertexLineIncidence.lean:39:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.actual_closed_gauss_normal_transverse_direction_pairing_ne_zero`:\n  [Algebra.IsAlgebraic (↥(closedGaussParameterField H I)) E]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [Algebra.IsAlgebraic (↥(closedGaussParameterField H I)) E] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

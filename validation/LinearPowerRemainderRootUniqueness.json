@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/LinearPowerRemainderRootUniqueness.lean",
+  "source_sha256": "730c752dacee47465cbb2f7166fceb80aa5b68bc49a8e2002b7f0d8c1b63c783",
+  "exit_code": 0,
+  "seconds": 16.44,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\LinearPowerRemainderRootUniqueness.lean:29:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

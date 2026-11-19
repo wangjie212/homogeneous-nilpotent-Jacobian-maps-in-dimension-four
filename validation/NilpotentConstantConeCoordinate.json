@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NilpotentConstantConeCoordinate.lean",
+  "source_sha256": "6ad7671006e5b967fd2a908037f4bdad39da9bf64bbf0770c2f47616194f6681",
+  "exit_code": 0,
+  "seconds": 17.58,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NilpotentConstantConeCoordinate.lean:39:34: warning: This simp argument is unused:\n  Pi.single_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [hk, eq_comm, a]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NilpotentConstantConeCoordinate.lean:39:55: warning: This simp argument is unused:\n  eq_comm\n\nHint: Omit it from the simp argument list.\n  [apply] simp [Pi.single_apply, hk, a]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NilpotentConstantConeCoordinate.lean:39:67: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

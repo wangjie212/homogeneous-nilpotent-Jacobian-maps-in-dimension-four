@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/IntegralLevelReciprocal.lean",
+  "source_sha256": "c4821b97aaf6dde7f4ca6a82b13f912a2b1f6c9929a233c86e7b04ece1f3ce48",
+  "exit_code": 0,
+  "seconds": 17.04,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\IntegralLevelReciprocal.lean:37:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\IntegralLevelReciprocal.lean:57:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.normal_polynomial_relation_unit_value_regular_level_reciprocal`:\n  [IsDomain R]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsDomain R] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\IntegralLevelReciprocal.lean:57:8: warning: Overlapping instance parameters in `normal_polynomial_relation_unit_value_regular_level_reciprocal`:\n\n⚠️ `[Nontrivial R]` and `[IsDomain R]` each imply `[Nontrivial R]`.\n💡️ Of these, `[Nontrivial R]` may be removed.\n\nNote: This linter can be disabled with `set_option linter.overlappingInstances false`\n"
+}

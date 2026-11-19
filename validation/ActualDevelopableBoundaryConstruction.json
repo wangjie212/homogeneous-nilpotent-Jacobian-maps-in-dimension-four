@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualDevelopableBoundaryConstruction.lean",
+  "source_sha256": "acc815515d0bff11c815ce5f0d4bed783f2fb1c1a48ab84c9619f238565ea04e",
+  "exit_code": 0,
+  "seconds": 15.22,
+  "log": "tactic execution of Lean.Parser.Tactic.obtain took 198ms\ntype checking took 124ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 7.89s\n.olean serialization took 222ms\ncumulative profiling times:\n\t.olean serialization 222ms\n\tattribute application 0.0106ms\n\telaboration 32.8ms\n\tfix level params 2.34ms\n\timport 7.89s\n\tinitialization 27.3ms\n\tinstantiate metavars 2.04ms\n\tinterpretation 6.23s\n\tlet-to-have transformation 0.16ms\n\tlinting 13.5ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 29.8ms\n\tparsing 1.19ms\n\tprocess pre-definitions 4.85ms\n\tshare common exprs 4.82ms\n\ttactic execution 356ms\n\ttacticAnalysis 93.2ms\n\ttype checking 124ms\n\ttypeclass inference 183ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/IntrinsicDivisorPullbackEquiv.lean",
+  "source_sha256": "fa7992549243c27059169ed30a4d429f4b699d605b864415cb31fe58c2de071d",
+  "exit_code": 0,
+  "seconds": 14.61,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 7.59s\n.olean serialization took 204ms\ncumulative profiling times:\n\t.olean serialization 204ms\n\tattribute application 0.0124ms\n\tcongr simp thm 0.384ms\n\telaboration 4.94ms\n\tfix level params 0.552ms\n\timport 7.59s\n\tinitialization 27.9ms\n\tinstantiate metavars 0.44ms\n\tinterpretation 6.42s\n\tlet-to-have transformation 0.0236ms\n\tlinting 3.31ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 25.1ms\n\tparsing 1.48ms\n\tprocess pre-definitions 1.37ms\n\tshare common exprs 1ms\n\tsimp 5.43ms\n\ttactic execution 49.8ms\n\ttacticAnalysis 54.9ms\n\ttype checking 22ms\n\ttypeclass inference 69.5ms\n"
+}

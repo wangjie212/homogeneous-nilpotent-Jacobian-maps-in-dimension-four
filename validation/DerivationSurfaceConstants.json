@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/DerivationSurfaceConstants.lean",
+  "source_sha256": "5220a577928ff7692da76a3f229c9ca1f6aec0bf9d7e92a8a623ca8808f9f4af",
+  "exit_code": 0,
+  "seconds": 16.23,
+  "log": "typeclass inference of FaithfulSMul took 562ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 125ms\nimport took 8.31s\n.olean serialization took 211ms\ncumulative profiling times:\n\t.olean serialization 211ms\n\tattribute application 0.401ms\n\tcongr simp thm 0.0838ms\n\telaboration 27.8ms\n\tfix level params 0.787ms\n\timport 8.31s\n\tinitialization 27.2ms\n\tinstantiate metavars 0.483ms\n\tinterpretation 6.49s\n\tlet-to-have transformation 2.41ms\n\tlinting 5.94ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 25.6ms\n\tparsing 2.18ms\n\tprocess pre-definitions 10.1ms\n\tshare common exprs 1.67ms\n\tsimp 0.802ms\n\ttactic execution 196ms\n\ttacticAnalysis 49ms\n\ttype checking 76ms\n\ttypeclass inference 915ms\n"
+}

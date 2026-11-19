@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalSchemeRationalRoots.lean",
+  "source_sha256": "ce1bf1d5b6663fc36806dd58c60c69dca7ec4af45502fd68e3283965fba3da73",
+  "exit_code": 0,
+  "seconds": 16.03,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 144ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 114ms\nimport took 8.84s\n.olean serialization took 195ms\ncumulative profiling times:\n\t.olean serialization 195ms\n\tattribute application 0.0184ms\n\tcongr simp thm 0.654ms\n\telaboration 17.5ms\n\tfix level params 0.846ms\n\timport 8.84s\n\tinitialization 28.4ms\n\tinstantiate metavars 1.43ms\n\tinterpretation 6.73s\n\tlet-to-have transformation 0.0461ms\n\tlinting 6.55ms\n\tmodule linting 0.0016ms\n\tnorm_num 5.47ms\n\toverlappingInstancesLinter 52.9ms\n\tparsing 1.77ms\n\tprocess pre-definitions 2.33ms\n\tshare common exprs 2.24ms\n\tsimp 20.2ms\n\ttactic execution 61.4ms\n\ttacticAnalysis 134ms\n\ttype checking 24.8ms\n\ttypeclass inference 132ms\n"
+}

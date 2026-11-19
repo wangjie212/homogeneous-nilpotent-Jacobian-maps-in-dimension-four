@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SchemeDivisorPullback.lean",
+  "source_sha256": "20664ae3d4b9c41503465d3c8fcb0d986e3d2bb0ad4b015086b1cf7d5521c38a",
+  "exit_code": 0,
+  "seconds": 14.83,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 7.56s\n.olean serialization took 212ms\ncumulative profiling times:\n\t.olean serialization 212ms\n\tattribute application 0.0263ms\n\tcongr simp thm 0.342ms\n\telaboration 36ms\n\tfix level params 1.25ms\n\timport 7.56s\n\tinitialization 27.4ms\n\tinstantiate metavars 1.54ms\n\tinterpretation 6.53s\n\tlet-to-have transformation 0.131ms\n\tlinting 9.15ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 31.2ms\n\tparsing 3.11ms\n\tprocess pre-definitions 3.65ms\n\tshare common exprs 2.92ms\n\tsimp 1.14ms\n\ttactic execution 253ms\n\ttacticAnalysis 111ms\n\ttype checking 91.5ms\n\ttypeclass inference 335ms\n"
+}

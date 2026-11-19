@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ParametricModifiedQuadricJets.lean",
+  "source_sha256": "98cdb11b2659619328425ea7e5d3a31a51a754535dcdbb35795b33f408c1e3c1",
+  "exit_code": 0,
+  "seconds": 19.53,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 218ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 118ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 135ms\nimport took 10.3s\n.olean serialization took 269ms\ncumulative profiling times:\n\t.olean serialization 269ms\n\tattribute application 0.0335ms\n\tcongr simp thm 0.846ms\n\tdsimp 0.743ms\n\telaboration 78.7ms\n\tfix level params 1.99ms\n\timport 10.3s\n\tinitialization 28.9ms\n\tinstantiate metavars 1.6ms\n\tinterpretation 8.7s\n\tlet-to-have transformation 2.33ms\n\tlinting 11.7ms\n\tmodule linting 0.0019ms\n\tnorm_num 81.3ms\n\toverlappingInstancesLinter 46.2ms\n\tparsing 5.12ms\n\tprocess pre-definitions 3.71ms\n\tring 80ms\n\tshare common exprs 6.68ms\n\tsimp 11.5ms\n\ttactic execution 54.2ms\n\ttacticAnalysis 53.8ms\n\ttype checking 95.6ms\n\ttypeclass inference 254ms\n"
+}

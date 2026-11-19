@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ClosedGaussPencilBaseChangeSource.lean",
+  "source_sha256": "87aa93417d47d8345d0ade2f234853764d63d3ab8c20c13506d7e54992b7c71f",
+  "exit_code": 0,
+  "seconds": 17.46,
+  "log": "type checking took 107ms\ntype checking took 102ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 193ms\ntype checking took 231ms\ntype checking took 158ms\ntype checking took 115ms\ntype checking took 110ms\ntype checking took 117ms\ntype checking took 179ms\ntype checking took 169ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 7.93s\n.olean serialization took 286ms\ncumulative profiling times:\n\t.olean serialization 286ms\n\tattribute application 1.03ms\n\tblocked (unaccounted) 40.8ms\n\tcompilation (IR) 0.538ms\n\tcompilation (LCNF base) 19.7ms\n\tcompilation (LCNF impure) 3.04ms\n\tcompilation (LCNF mono) 5.7ms\n\telaboration 324ms\n\tfix level params 1.52ms\n\timport 7.93s\n\tinitialization 28.7ms\n\tinstantiate metavars 0.195ms\n\tinterpretation 6.57s\n\tlet-to-have transformation 0.577ms\n\tlinting 10.3ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 38.4ms\n\tparsing 3.81ms\n\tprocess pre-definitions 11.8ms\n\tshare common exprs 4.95ms\n\ttactic execution 245ms\n\ttacticAnalysis 141ms\n\ttype checking 1.4s\n\ttypeclass inference 1.69s\n"
+}

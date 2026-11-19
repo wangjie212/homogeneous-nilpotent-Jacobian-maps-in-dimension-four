@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PrimeExponentDivisibility.lean",
+  "source_sha256": "aa4ba557986653fc3d2cec2d242f8d48a6b4f8646ff891a4edd505b75da7b618",
+  "exit_code": 0,
+  "seconds": 16.58,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PrimeExponentDivisibility.lean:14:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.dvd_iff_actual_factorization_le`:\n  [Nontrivial R]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [Nontrivial R] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PrimeExponentDivisibility.lean:34:21: warning: `if_false` has been deprecated: Use `ite_false` instead\n"
+}

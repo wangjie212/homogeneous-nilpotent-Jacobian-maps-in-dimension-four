@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CharacteristicRootMultiplicity.lean",
+  "source_sha256": "328022131a738e170d1f41ebec2788afa02a073c48958a1cf1327ab45b6acc46",
+  "exit_code": 0,
+  "seconds": 18.9,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CharacteristicRootMultiplicity.lean:71:6: warning: Unused tactic linter: `ring` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CharacteristicRootMultiplicity.lean:71:6: warning: this tactic is never executed\n\nNote: This linter can be disabled with `set_option linter.unreachableTactic false`\n"
+}

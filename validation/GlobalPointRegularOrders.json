@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GlobalPointRegularOrders.lean",
+  "source_sha256": "5c2094996fc18fcf1046769aba8c537b7f3c32021089a06c631a2219e0684220",
+  "exit_code": 0,
+  "seconds": 18.33,
+  "log": "tactic execution of Lean.Parser.Tactic.obtain took 150ms\ntype checking took 251ms\ntype checking took 117ms\ntactic execution of Lean.Parser.Tactic.obtain took 149ms\ntype checking took 240ms\ntactic execution of Lean.Parser.Tactic.obtain took 166ms\ntype checking took 251ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 109ms\nimport took 8.33s\n.olean serialization took 253ms\ncumulative profiling times:\n\t.olean serialization 253ms\n\tattribute application 1.37ms\n\tblocked (unaccounted) 69.1ms\n\tcompilation (IR) 0.908ms\n\tcompilation (LCNF base) 34.3ms\n\tcompilation (LCNF impure) 4.74ms\n\tcompilation (LCNF mono) 9.38ms\n\telaboration 325ms\n\tfix level params 1.82ms\n\timport 8.33s\n\tinitialization 27.9ms\n\tinstantiate metavars 0.787ms\n\tinterpretation 6.94s\n\tlet-to-have transformation 0.469ms\n\tlinting 13ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 38.8ms\n\tparsing 2.94ms\n\tprocess pre-definitions 13.2ms\n\tshare common exprs 4.28ms\n\ttactic execution 588ms\n\ttacticAnalysis 148ms\n\ttype checking 861ms\n\ttypeclass inference 1.95s\n"
+}

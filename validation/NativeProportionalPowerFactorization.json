@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NativeProportionalPowerFactorization.lean",
+  "source_sha256": "b07d6020336b1c93c2b42e274405fdd13143112de70d0dabbc93ea14ac651b14",
+  "exit_code": 0,
+  "seconds": 20.68,
+  "log": "type checking took 120ms\ntype checking took 117ms\ntype checking took 121ms\ntype checking took 116ms\ntype checking took 119ms\ntype checking took 123ms\ntype checking took 152ms\ntype checking took 131ms\ntype checking took 123ms\ntype checking took 130ms\ntype checking took 151ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 7.9s\n.olean serialization took 302ms\ncumulative profiling times:\n\t.olean serialization 302ms\n\tattribute application 3.55ms\n\tblocked (unaccounted) 153ms\n\tcompilation (IR) 1.86ms\n\tcompilation (LCNF base) 75.4ms\n\tcompilation (LCNF impure) 9.66ms\n\tcompilation (LCNF mono) 22.6ms\n\tcongr simp thm 1.72ms\n\telaboration 825ms\n\tfix level params 5.23ms\n\timport 7.9s\n\tinitialization 28.4ms\n\tinstantiate metavars 3.38ms\n\tinterpretation 6.81s\n\tlet-to-have transformation 0.822ms\n\tlinting 34ms\n\tmodule linting 0.0023ms\n\tnorm_num 3.76ms\n\toverlappingInstancesLinter 47.7ms\n\tparsing 6.8ms\n\tprocess pre-definitions 38.4ms\n\tring 77.2ms\n\tshare common exprs 14ms\n\tsimp 25.6ms\n\ttactic execution 342ms\n\ttacticAnalysis 171ms\n\ttype checking 1.43s\n\ttypeclass inference 4.51s\n"
+}

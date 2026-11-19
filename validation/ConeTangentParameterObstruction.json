@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConeTangentParameterObstruction.lean",
+  "source_sha256": "9b817c8820139fb9695ae7986e93275442073552f97a98aa790e31afbf306ac3",
+  "exit_code": 0,
+  "seconds": 14.95,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 7.72s\n.olean serialization took 222ms\ncumulative profiling times:\n\t.olean serialization 222ms\n\tattribute application 0.395ms\n\tblocked (unaccounted) 93.2ms\n\tcompilation (IR) 0.479ms\n\tcompilation (LCNF base) 19.3ms\n\tcompilation (LCNF impure) 2.7ms\n\tcompilation (LCNF mono) 5.36ms\n\tcongr simp thm 0.862ms\n\telaboration 109ms\n\tfix level params 0.882ms\n\timport 7.72s\n\tinitialization 27.4ms\n\tinstantiate metavars 0.538ms\n\tinterpretation 6.36s\n\tlet-to-have transformation 0.26ms\n\tlinting 9.4ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 24.6ms\n\tparsing 3.46ms\n\tprocess pre-definitions 4.33ms\n\tshare common exprs 2.75ms\n\tsimp 48.8ms\n\ttactic execution 50.9ms\n\ttacticAnalysis 63.1ms\n\ttype checking 29.3ms\n\ttypeclass inference 357ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedOutputSpanMultiplicity.lean",
+  "source_sha256": "2f3e2ae1ca18aa708773ff4b0a11ada22a8a25f2d5983f6914d91e6ded9668d9",
+  "exit_code": 0,
+  "seconds": 17.71,
+  "log": "type checking took 122ms\ntype checking took 110ms\ntype checking took 113ms\ntype checking took 129ms\ntype checking took 138ms\ntype checking took 130ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 120ms\nimport took 7.77s\n.olean serialization took 283ms\ncumulative profiling times:\n\t.olean serialization 283ms\n\tattribute application 3.26ms\n\tblocked (unaccounted) 84.3ms\n\tcompilation (IR) 0.887ms\n\tcompilation (LCNF base) 45.4ms\n\tcompilation (LCNF impure) 4.69ms\n\tcompilation (LCNF mono) 11.8ms\n\tcongr simp thm 1.44ms\n\telaboration 395ms\n\tfix level params 1.49ms\n\timport 7.77s\n\tinitialization 27.1ms\n\tinstantiate metavars 0.489ms\n\tinterpretation 6.89s\n\tlet-to-have transformation 0.526ms\n\tlinting 18.5ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 38.7ms\n\tparsing 4.79ms\n\tprocess pre-definitions 8.06ms\n\tshare common exprs 3.95ms\n\tsimp 3.97ms\n\ttactic execution 93.4ms\n\ttacticAnalysis 122ms\n\ttype checking 765ms\n\ttypeclass inference 2.05s\n"
+}

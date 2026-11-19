@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GaussRootNumeratorCoefficients.lean",
+  "source_sha256": "b17f1cffb924c62b5939f74e179b221d4794e0db14a04b9a98678f28c0b61346",
+  "exit_code": 0,
+  "seconds": 15.64,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 8.66s\ncumulative profiling times:\n\t.olean serialization 5.97ms\n\tattribute application 0.813ms\n\telaboration 56.7ms\n\tfix level params 0.62ms\n\timport 8.66s\n\tinitialization 25.7ms\n\tinstantiate metavars 0.0275ms\n\tinterpretation 6.51s\n\tlet-to-have transformation 0.226ms\n\tlinting 4.46ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 35.5ms\n\tparsing 2.1ms\n\tprocess pre-definitions 8.57ms\n\tshare common exprs 1.65ms\n\ttacticAnalysis 125ms\n\ttype checking 219ms\n\ttypeclass inference 512ms\n"
+}

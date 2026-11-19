@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CurveCoefficientLinearDisjoint.lean",
+  "source_sha256": "382dcb8b8827cdb5c189a3746de769ec0bb649d193c381a2a70253279639cf03",
+  "exit_code": 0,
+  "seconds": 15.78,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CurveCoefficientLinearDisjoint.lean:25:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

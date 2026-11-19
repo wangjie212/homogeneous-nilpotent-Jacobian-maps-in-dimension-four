@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryPencilBaseFrameAvoidance.lean",
+  "source_sha256": "a1ccdf06aef9b6380b1f942aec8f8e2db5cc6e27aad86ed0a52b655e8009b6bc",
+  "exit_code": 0,
+  "seconds": 17.78,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryPencilBaseFrameAvoidance.lean:27:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryPencilBaseFrameAvoidance.lean:17:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.ternary_source_pencil_base_components_construct_finite_covector_plane_cover`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

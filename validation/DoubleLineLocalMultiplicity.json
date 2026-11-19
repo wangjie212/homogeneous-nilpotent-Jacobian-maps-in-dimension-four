@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/DoubleLineLocalMultiplicity.lean",
+  "source_sha256": "f756cc6d6fbdec34c8aa465f032f68bc6f0fa5e5e99e9f671c785cf873f6b1a0",
+  "exit_code": 0,
+  "seconds": 8.98,
+  "log": "tactic execution of Lean.Parser.Tactic.exact took 466ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 3.67s\ncumulative profiling times:\n\t.olean serialization 72.5ms\n\tattribute application 0.0372ms\n\tcongr simp thm 2.18ms\n\telaboration 19.9ms\n\tfix level params 1.29ms\n\timport 3.67s\n\tinitialization 27.5ms\n\tinstantiate metavars 1.23ms\n\tinterpretation 4.48s\n\tlet-to-have transformation 0.107ms\n\tlinting 8.45ms\n\tmodule linting 0.0023ms\n\toverlappingInstancesLinter 22.1ms\n\tparsing 3.1ms\n\tprocess pre-definitions 5.52ms\n\tshare common exprs 3.72ms\n\tsimp 276ms\n\ttactic execution 582ms\n\ttacticAnalysis 54.3ms\n\ttype checking 69.8ms\n\ttypeclass inference 1.13s\n"
+}

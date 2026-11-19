@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NativePencilCommonFactorContradiction.lean",
+  "source_sha256": "bd6f886e4fe01e34a75c87e22830802eb203356292c25f0b410f26110efbed29",
+  "exit_code": 0,
+  "seconds": 21.19,
+  "log": "type checking took 116ms\ntype checking took 111ms\ntype checking took 116ms\ntype checking took 124ms\ntype checking took 151ms\ntype checking took 133ms\nimport took 8s\n.olean serialization took 313ms\ncumulative profiling times:\n\t.olean serialization 313ms\n\tattribute application 4.01ms\n\tblocked (unaccounted) 112ms\n\tcompilation (IR) 1.22ms\n\tcompilation (LCNF base) 57ms\n\tcompilation (LCNF impure) 6.46ms\n\tcompilation (LCNF mono) 15.5ms\n\telaboration 572ms\n\tfix level params 1.85ms\n\timport 8s\n\tinitialization 27.3ms\n\tinstantiate metavars 0.477ms\n\tinterpretation 6.48s\n\tlet-to-have transformation 0.738ms\n\tlinting 25.5ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 41.2ms\n\tparsing 4.99ms\n\tprocess pre-definitions 11.5ms\n\tshare common exprs 5.64ms\n\ttactic execution 85.1ms\n\ttacticAnalysis 148ms\n\ttype checking 780ms\n\ttypeclass inference 5.58s\n"
+}

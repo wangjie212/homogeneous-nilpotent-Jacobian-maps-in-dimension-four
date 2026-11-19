@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectivePointCommonFactor.lean",
+  "source_sha256": "afde005cbea0d4e76024910c651ce16a46fa3f208212e2f641d44dabd53dcd10",
+  "exit_code": 0,
+  "seconds": 17.79,
+  "log": "typeclass inference of AddMonoid took 166ms\ntypeclass inference of DistribMulAction took 101ms\ntactic execution of Lean.Parser.Tactic.refine took 202ms\ntypeclass inference of CommRing took 101ms\ntactic execution of Lean.Parser.Tactic.refine took 163ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 149ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 116ms\ntype checking took 582ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 7.98s\n.olean serialization took 227ms\ncumulative profiling times:\n\t.olean serialization 227ms\n\tattribute application 1.01ms\n\tblocked (unaccounted) 43.3ms\n\tcompilation (IR) 0.491ms\n\tcompilation (LCNF base) 22.1ms\n\tcompilation (LCNF impure) 2.73ms\n\tcompilation (LCNF mono) 5.79ms\n\tcongr simp thm 0.635ms\n\telaboration 70.5ms\n\tfix level params 1.27ms\n\timport 7.98s\n\tinitialization 28.5ms\n\tinstantiate metavars 2ms\n\tinterpretation 6.74s\n\tlet-to-have transformation 0.156ms\n\tlinting 11.5ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 34.3ms\n\tparsing 2.49ms\n\tprocess pre-definitions 15.6ms\n\tshare common exprs 3.99ms\n\tsimp 2.64ms\n\ttactic execution 1s\n\ttacticAnalysis 138ms\n\ttype checking 584ms\n\ttypeclass inference 1.22s\n"
+}

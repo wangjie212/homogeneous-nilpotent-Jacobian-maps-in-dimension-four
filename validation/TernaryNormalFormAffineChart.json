@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryNormalFormAffineChart.lean",
+  "source_sha256": "dcfdd031360392c905ce7866511bac7f0018d2c28bfe0af6951d5ff9e969e555",
+  "exit_code": 0,
+  "seconds": 17.26,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalFormAffineChart.lean:40:22: warning: This simp argument is unused:\n  map_add\n\nHint: Omit it from the simp argument list.\n  [apply] simp [perturbation4, perturbation3, q4, correction4, dehomogenize_normal_numerator4, hx, hz, ht, h₂, map_sub,\n    map_mul, map_pow]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

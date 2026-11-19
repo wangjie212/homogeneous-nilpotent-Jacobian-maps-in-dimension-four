@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TranscendentalSeparatingDerivation.lean",
+  "source_sha256": "217997c79c2ef9f07e3ca9aae4c3eda988bb17792f77fa14686bf0862409426b",
+  "exit_code": 0,
+  "seconds": 15.62,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 7.88s\n.olean serialization took 205ms\ncumulative profiling times:\n\t.olean serialization 205ms\n\tattribute application 0.0229ms\n\tcongr simp thm 0.456ms\n\telaboration 80.9ms\n\tfix level params 0.638ms\n\timport 7.88s\n\tinitialization 30.3ms\n\tinstantiate metavars 0.797ms\n\tinterpretation 6.35s\n\tlet-to-have transformation 26.9ms\n\tlinting 4.96ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 24.2ms\n\tparsing 2.2ms\n\tprocess pre-definitions 3.42ms\n\tshare common exprs 1.62ms\n\tsimp 4.56ms\n\ttactic execution 254ms\n\ttacticAnalysis 64.2ms\n\ttype checking 59.8ms\n\ttypeclass inference 504ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FiniteGaussBoundaryBranch.lean",
+  "source_sha256": "6d4ede24c9bdcc49f188e58f3a1f9e42e55e6929940a44ac5897e0c8cfad9919",
+  "exit_code": 0,
+  "seconds": 21.81,
+  "log": "type checking took 116ms\ntype checking took 106ms\ntype checking took 108ms\ntypeclass inference of Module took 136ms\ntypeclass inference of Module took 124ms\ntypeclass inference of Module took 315ms\ntactic execution of Lean.Parser.Tactic.obtain took 458ms\ntype checking took 173ms\nimport took 7.96s\n.olean serialization took 941ms\ncumulative profiling times:\n\t.olean serialization 941ms\n\tattribute application 1.63ms\n\tblocked (unaccounted) 114ms\n\tcompilation (IR) 1.32ms\n\tcompilation (LCNF base) 58.9ms\n\tcompilation (LCNF impure) 7.22ms\n\tcompilation (LCNF mono) 15.3ms\n\tcongr simp thm 2.11ms\n\telaboration 597ms\n\tfix level params 3.49ms\n\timport 7.96s\n\tinitialization 28ms\n\tinstantiate metavars 1.2ms\n\tinterpretation 6.75s\n\tlet-to-have transformation 1.28ms\n\tlinting 21.3ms\n\tmodule linting 0.0026ms\n\toverlappingInstancesLinter 37.6ms\n\tparsing 5.58ms\n\tprocess pre-definitions 28.3ms\n\tshare common exprs 11.1ms\n\tsimp 21.9ms\n\ttactic execution 580ms\n\ttacticAnalysis 142ms\n\ttype checking 585ms\n\ttypeclass inference 5.24s\n"
+}

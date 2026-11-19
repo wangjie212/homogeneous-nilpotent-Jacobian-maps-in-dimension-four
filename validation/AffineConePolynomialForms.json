@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineConePolynomialForms.lean",
+  "source_sha256": "e5f7192fef6314cbb1af48526ecb30b617ebba428214b7b4ca4809d76d949061",
+  "exit_code": 0,
+  "seconds": 18.88,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\AffineConePolynomialForms.lean:69:18: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NativeIndependentRulingExclusion.lean",
+  "source_sha256": "7e9266208ebc665afa843d0c254401e6553898c6185f48838b1a1c0a248397f4",
+  "exit_code": 0,
+  "seconds": 21.34,
+  "log": "type checking took 110ms\ntype checking took 136ms\ntype checking took 176ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 109ms\nimport took 7.96s\n.olean serialization took 285ms\ncumulative profiling times:\n\t.olean serialization 285ms\n\tattribute application 3.32ms\n\tblocked (unaccounted) 128ms\n\tcompilation (IR) 1.47ms\n\tcompilation (LCNF base) 64ms\n\tcompilation (LCNF impure) 7.94ms\n\tcompilation (LCNF mono) 18.2ms\n\telaboration 557ms\n\tfix level params 1.49ms\n\timport 7.96s\n\tinitialization 27ms\n\tinstantiate metavars 0.662ms\n\tinterpretation 6.9s\n\tlet-to-have transformation 0.493ms\n\tlinting 17.8ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 44.8ms\n\tparsing 2.84ms\n\tprocess pre-definitions 11.9ms\n\tshare common exprs 4.81ms\n\ttactic execution 98ms\n\ttacticAnalysis 165ms\n\ttype checking 440ms\n\ttypeclass inference 5.22s\n"
+}

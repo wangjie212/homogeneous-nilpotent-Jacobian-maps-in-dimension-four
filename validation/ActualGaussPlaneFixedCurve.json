@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualGaussPlaneFixedCurve.lean",
+  "source_sha256": "c11bdacb16461cd912f126dc342877dd1ca843f32a071767d86d29c456ae4a6a",
+  "exit_code": 0,
+  "seconds": 15.52,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 8.19s\n.olean serialization took 234ms\ncumulative profiling times:\n\t.olean serialization 234ms\n\tattribute application 0.211ms\n\tblocked (unaccounted) 32ms\n\tcompilation (IR) 0.507ms\n\tcompilation (LCNF base) 15.7ms\n\tcompilation (LCNF impure) 2.93ms\n\tcompilation (LCNF mono) 4.68ms\n\telaboration 89.1ms\n\tfix level params 3.05ms\n\timport 8.19s\n\tinitialization 27.9ms\n\tinstantiate metavars 2.04ms\n\tinterpretation 6.68s\n\tlet-to-have transformation 0.204ms\n\tlinting 7.29ms\n\tmodule linting 0.0046ms\n\toverlappingInstancesLinter 50.3ms\n\tparsing 3.03ms\n\tprocess pre-definitions 7.63ms\n\tshare common exprs 5.26ms\n\ttactic execution 64ms\n\ttacticAnalysis 90.1ms\n\ttype checking 65.2ms\n\ttypeclass inference 142ms\n"
+}

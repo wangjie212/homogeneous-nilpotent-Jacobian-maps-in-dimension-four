@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConeDirectrixDerivativeNonzero.lean",
+  "source_sha256": "e99f8f7be214524fe3d78f2696541f22849517bb931ea01d731f1b362d5e8419",
+  "exit_code": 0,
+  "seconds": 18.51,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ConeDirectrixDerivativeNonzero.lean:65:30: warning: This simp argument is unused:\n  zero_mul\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [smul_eq_mul, mul_zero, add_zero]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

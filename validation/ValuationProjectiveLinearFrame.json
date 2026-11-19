@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ValuationProjectiveLinearFrame.lean",
+  "source_sha256": "bc88dc811aa8b597903ce4eb438e36b90ccc10ce9221c0aa298cb6c9b35e613f",
+  "exit_code": 0,
+  "seconds": 17.7,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 106ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 110ms\nimport took 9.09s\n.olean serialization took 212ms\ncumulative profiling times:\n\t.olean serialization 212ms\n\tattribute application 0.0206ms\n\tcongr simp thm 0.444ms\n\telaboration 11.5ms\n\tfix level params 0.336ms\n\timport 9.09s\n\tinitialization 28.3ms\n\tinstantiate metavars 0.331ms\n\tinterpretation 7.93s\n\tlet-to-have transformation 0.055ms\n\tlinting 4.17ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 30ms\n\tparsing 2.29ms\n\tprocess pre-definitions 1.06ms\n\tshare common exprs 1.08ms\n\tsimp 13.7ms\n\ttactic execution 42ms\n\ttacticAnalysis 68.9ms\n\ttype checking 12.9ms\n\ttypeclass inference 199ms\n"
+}

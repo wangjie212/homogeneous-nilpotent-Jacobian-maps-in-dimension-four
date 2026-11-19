@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/LinearPolynomialConjugacy.lean",
+  "source_sha256": "556e868621759b94df1753444b6fe39e1d629d08472a66d5b959089b6d8c60b6",
+  "exit_code": 0,
+  "seconds": 18.02,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\LinearPolynomialConjugacy.lean:138:25: warning: This simp argument is unused:\n  Finset.mul_sum\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [linearPolynomialConjugate, Finset.smul_sum, smul_eq_C_mul, linearPolynomialPullback, map_sum,\n    map_mul, aeval_C, algebraMap_eq, b, Finset.sum_mul]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

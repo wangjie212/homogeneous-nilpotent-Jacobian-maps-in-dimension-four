@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CategoricalPencilIntegerMultiplicity.lean",
+  "source_sha256": "0ea44a1d5d9ecc0bb6e8fb53543df987a736dd155209c1aa4c5dea3194cc1984",
+  "exit_code": 0,
+  "seconds": 17.59,
+  "log": "type checking took 150ms\ntype checking took 124ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 8.13s\n.olean serialization took 242ms\ncumulative profiling times:\n\t.olean serialization 242ms\n\tattribute application 1.36ms\n\tblocked (unaccounted) 87.2ms\n\tcompilation (IR) 1.03ms\n\tcompilation (LCNF base) 43ms\n\tcompilation (LCNF impure) 5.33ms\n\tcompilation (LCNF mono) 11.8ms\n\telaboration 331ms\n\tfix level params 1.43ms\n\timport 8.13s\n\tinitialization 28.6ms\n\tinstantiate metavars 0.602ms\n\tinterpretation 6.46s\n\tlet-to-have transformation 0.324ms\n\tlinting 14.6ms\n\tmodule linting 0.0021ms\n\toverlappingInstancesLinter 37.9ms\n\tparsing 2.82ms\n\tprocess pre-definitions 8.56ms\n\tshare common exprs 3.63ms\n\ttactic execution 55.8ms\n\ttacticAnalysis 135ms\n\ttype checking 278ms\n\ttypeclass inference 2.25s\n"
+}

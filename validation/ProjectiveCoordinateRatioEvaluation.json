@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveCoordinateRatioEvaluation.lean",
+  "source_sha256": "380a45e1a97cff9f169a658b1b552f847c6268b0e47baa0a889fd1a2376df10f",
+  "exit_code": 0,
+  "seconds": 14.38,
+  "log": "import took 7.63s\n.olean serialization took 218ms\ncumulative profiling times:\n\t.olean serialization 218ms\n\tattribute application 0.844ms\n\tblocked (unaccounted) 22.4ms\n\tcompilation (IR) 0.314ms\n\tcompilation (LCNF base) 10.7ms\n\tcompilation (LCNF impure) 1.87ms\n\tcompilation (LCNF mono) 3.1ms\n\tcongr simp thm 0.994ms\n\telaboration 38ms\n\tfix level params 0.542ms\n\timport 7.63s\n\tinitialization 26.8ms\n\tinstantiate metavars 0.309ms\n\tinterpretation 6.36s\n\tlet-to-have transformation 0.118ms\n\tlinting 4.18ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 33.1ms\n\tparsing 1.78ms\n\tprocess pre-definitions 2.04ms\n\tshare common exprs 1.52ms\n\tsimp 29.1ms\n\ttactic execution 53.6ms\n\ttacticAnalysis 123ms\n\ttype checking 46.6ms\n\ttypeclass inference 136ms\n"
+}

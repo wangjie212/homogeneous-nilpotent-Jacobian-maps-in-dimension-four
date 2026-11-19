@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NativePencilSpreadFamily.lean",
+  "source_sha256": "320266bc740d93b238cde7ed65ae1deddc1fd982d436608dce6714fbb455fde0",
+  "exit_code": 0,
+  "seconds": 19.31,
+  "log": "type checking took 132ms\ntype checking took 123ms\ntype checking took 115ms\ntype checking took 123ms\ntype checking took 121ms\ntype checking took 117ms\nimport took 8.29s\n.olean serialization took 260ms\ncumulative profiling times:\n\t.olean serialization 260ms\n\tattribute application 2.48ms\n\tblocked (unaccounted) 129ms\n\tcompilation (IR) 1.46ms\n\tcompilation (LCNF base) 63.5ms\n\tcompilation (LCNF impure) 7.6ms\n\tcompilation (LCNF mono) 17.2ms\n\tcongr simp thm 1.18ms\n\telaboration 591ms\n\tfix level params 1.09ms\n\timport 8.29s\n\tinitialization 27.5ms\n\tinstantiate metavars 0.115ms\n\tinterpretation 6.56s\n\tlet-to-have transformation 0.523ms\n\tlinting 15.5ms\n\tmodule linting 0.0015ms\n\toverlappingInstancesLinter 43ms\n\tparsing 3.65ms\n\tprocess pre-definitions 14.8ms\n\tshare common exprs 3.71ms\n\tsimp 7.98ms\n\ttactic execution 10.5ms\n\ttacticAnalysis 164ms\n\ttype checking 751ms\n\ttypeclass inference 3.43s\n"
+}

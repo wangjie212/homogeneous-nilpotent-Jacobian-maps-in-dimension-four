@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalGraphRootCoefficientData.lean",
+  "source_sha256": "feb197d8a20692b266d160a8128032ce03f2f4e5bca2be96c5e6490d2cc70bc9",
+  "exit_code": 0,
+  "seconds": 30.02,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\OriginalGraphRootCoefficientData.lean:71:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.finite_independent_original_graph_coefficient_data_bound_degree`:\n  [IsAlgClosed K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsAlgClosed K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

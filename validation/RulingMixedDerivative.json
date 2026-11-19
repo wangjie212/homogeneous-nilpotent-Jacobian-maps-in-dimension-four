@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RulingMixedDerivative.lean",
+  "source_sha256": "906442ce5a1d49d2c8bf5c1e3a6266fc7d8925d3bc06a0a5e6bde8f4b668111f",
+  "exit_code": 0,
+  "seconds": 20.37,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 108ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 165ms\nimport took 11.1s\n.olean serialization took 233ms\ncumulative profiling times:\n\t.olean serialization 233ms\n\tattribute application 0.0398ms\n\tblocked (unaccounted) 0.0767ms\n\tcongr simp thm 0.636ms\n\telaboration 38.4ms\n\tfix level params 1.24ms\n\timport 11.1s\n\tinitialization 29.1ms\n\tinstantiate metavars 1.05ms\n\tinterpretation 8.69s\n\tlet-to-have transformation 0.17ms\n\tlinting 8.67ms\n\tmodule linting 0.002ms\n\tnorm_num 3.02ms\n\toverlappingInstancesLinter 41.2ms\n\tparsing 5.02ms\n\tprocess pre-definitions 3.53ms\n\tring 72.1ms\n\tshare common exprs 3.42ms\n\tsimp 49.1ms\n\ttactic execution 114ms\n\ttacticAnalysis 54.4ms\n\ttype checking 38.5ms\n\ttypeclass inference 235ms\n"
+}

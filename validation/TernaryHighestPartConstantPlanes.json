@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryHighestPartConstantPlanes.lean",
+  "source_sha256": "3c8df8346def0e17202ea1c3699858ce5f41060bcb95e83ff81816a2710a8c4b",
+  "exit_code": 0,
+  "seconds": 17.34,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryHighestPartConstantPlanes.lean:20:8: warning: automatically included section variable(s) unused in theorem `_private.DimensionFourDependence.TernaryHighestPartConstantPlanes.0.DimensionFourDependence.ternary_linearPolynomialConjugate_one`:\n  [CharZero K]\n  [IsAlgClosed K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] [IsAlgClosed K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryHighestPartConstantPlanes.lean:24:49: warning: This simp argument is unused:\n  eq_comm\n\nHint: Omit it from the simp argument list.\n  [apply] simp [linearPolynomialMap, Matrix.one_apply]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/QuinticParameterShifting.lean",
+  "source_sha256": "833d9ad55c6f071c91f824fb58669ca2c88b790b5a94ff214580c22b9f8c82e1",
+  "exit_code": 0,
+  "seconds": 16.27,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\QuinticParameterShifting.lean:35:10: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

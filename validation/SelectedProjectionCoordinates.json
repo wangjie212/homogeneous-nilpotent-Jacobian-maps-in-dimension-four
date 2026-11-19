@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SelectedProjectionCoordinates.lean",
+  "source_sha256": "211d0588d725fa6369b4bf1dc999af3e2f56b3566b5f3097734752300d956739",
+  "exit_code": 0,
+  "seconds": 18.57,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 100ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 146ms\nimport took 9.86s\n.olean serialization took 241ms\ncumulative profiling times:\n\t.olean serialization 241ms\n\tattribute application 4.79ms\n\tcongr simp thm 0.361ms\n\telaboration 24.4ms\n\tfix level params 0.29ms\n\timport 9.86s\n\tinitialization 28.3ms\n\tinstantiate metavars 0.196ms\n\tinterpretation 8.38s\n\tlet-to-have transformation 0.761ms\n\tlinting 5.87ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 46.4ms\n\tparsing 2.84ms\n\tprocess pre-definitions 2.13ms\n\tshare common exprs 0.926ms\n\tsimp 6.02ms\n\ttactic execution 29.3ms\n\ttacticAnalysis 109ms\n\ttype checking 11.2ms\n\ttypeclass inference 57.7ms\n"
+}

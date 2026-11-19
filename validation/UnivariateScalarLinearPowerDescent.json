@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/UnivariateScalarLinearPowerDescent.lean",
+  "source_sha256": "cec89b4fa6f6c3870a463a6b44b3c6628e792ad64e9557b032deb258183297a5",
+  "exit_code": 0,
+  "seconds": 17.19,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\UnivariateScalarLinearPowerDescent.lean:15:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.affine_linear_power_homogenize`:\n  [CharZero E]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero E] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

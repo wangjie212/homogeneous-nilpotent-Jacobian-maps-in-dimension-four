@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalizationResidueDimension.lean",
+  "source_sha256": "537d2e5c7c82624e948fb577e456fab18f0708e67d8a06f079a0fafd006ca5b5",
+  "exit_code": 0,
+  "seconds": 17.76,
+  "log": "typeclass inference of FaithfulSMul took 182ms\ntypeclass inference of IsFractionRing took 237ms\ntypeclass inference of Algebra.IsIntegral took 471ms\ntype checking took 128ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 112ms\nimport took 8s\n.olean serialization took 188ms\ncumulative profiling times:\n\t.olean serialization 188ms\n\tattribute application 0.0132ms\n\telaboration 18.3ms\n\tfix level params 0.335ms\n\timport 8s\n\tinitialization 26.6ms\n\tinstantiate metavars 0.375ms\n\tinterpretation 6.49s\n\tlet-to-have transformation 0.047ms\n\tlinting 3.33ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 20ms\n\tparsing 0.889ms\n\tprocess pre-definitions 13ms\n\tshare common exprs 0.87ms\n\ttactic execution 119ms\n\ttacticAnalysis 47.5ms\n\ttype checking 128ms\n\ttypeclass inference 2.67s\n"
+}

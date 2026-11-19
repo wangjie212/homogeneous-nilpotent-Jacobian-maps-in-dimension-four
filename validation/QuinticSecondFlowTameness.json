@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/QuinticSecondFlowTameness.lean",
+  "source_sha256": "b5ee994fdeba1d85dab81c23738d04b3631c19df2a7892da478fdc3ac27516d9",
+  "exit_code": 0,
+  "seconds": 18.8,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\QuinticSecondFlowTameness.lean:38:4: warning: Unused tactic linter: `change ρ x = x + (1 - y) * t * half * u ^ 2` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\n"
+}

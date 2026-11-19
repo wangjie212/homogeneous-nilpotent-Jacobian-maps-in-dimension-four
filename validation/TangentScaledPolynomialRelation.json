@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TangentScaledPolynomialRelation.lean",
+  "source_sha256": "a1320866a55598eec60fc7317bc1a8f970eb6fa0df26317276a5b6971e03b081",
+  "exit_code": 0,
+  "seconds": 21.08,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TangentScaledPolynomialRelation.lean:24:38: warning: This simp argument is unused:\n  Polynomial.coeff_C_mul_X_pow\n\nHint: Omit it from the simp argument list.\n  [apply] simp [Polynomial.finsetSum_coeff, hj]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

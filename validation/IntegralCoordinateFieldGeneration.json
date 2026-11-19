@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/IntegralCoordinateFieldGeneration.lean",
+  "source_sha256": "9e1e83cb3a8cf4019d63e83735910b68c0f1d7264c5aa5734d684278cd13e154",
+  "exit_code": 0,
+  "seconds": 14.95,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 8s\n.olean serialization took 198ms\ncumulative profiling times:\n\t.olean serialization 198ms\n\tattribute application 0.0147ms\n\telaboration 11.5ms\n\tfix level params 0.3ms\n\timport 8s\n\tinitialization 28.8ms\n\tinstantiate metavars 0.22ms\n\tinterpretation 6.19s\n\tlet-to-have transformation 0.041ms\n\tlinting 2.98ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 20ms\n\tparsing 1.7ms\n\tprocess pre-definitions 1.87ms\n\tshare common exprs 0.684ms\n\ttactic execution 69.7ms\n\ttacticAnalysis 31.7ms\n\ttype checking 19ms\n\ttypeclass inference 169ms\n"
+}

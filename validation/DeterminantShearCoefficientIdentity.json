@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/DeterminantShearCoefficientIdentity.lean",
+  "source_sha256": "31bb29778a0ee7d492c3bea8a8209e8fe2cabb1ece9b064a1c720d789a35c323",
+  "exit_code": 0,
+  "seconds": 15.92,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\DeterminantShearCoefficientIdentity.lean:21:73: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

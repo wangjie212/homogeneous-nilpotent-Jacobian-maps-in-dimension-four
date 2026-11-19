@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/QuadraticFlowElementaryParameters.lean",
+  "source_sha256": "573d1c50af02a0622da086698a38df124a610a212040af27c5c75c58a9e1bb52",
+  "exit_code": 0,
+  "seconds": 18.43,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\QuadraticFlowElementaryParameters.lean:53:6: warning: Try `simp at h` instead of `simpa using h`\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\QuadraticFlowElementaryParameters.lean:78:11: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

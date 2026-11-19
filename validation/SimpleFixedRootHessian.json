@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SimpleFixedRootHessian.lean",
+  "source_sha256": "7760d64faaf69d0f7c7d9ddfe3352143f5b37fdd6daaf23f7954acbc11cc2cbb",
+  "exit_code": 0,
+  "seconds": 15.94,
+  "log": "ring took 130ms\ninterpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 282ms\ninterpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 208ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.39s\n.olean serialization took 232ms\ncumulative profiling times:\n\t.olean serialization 232ms\n\tattribute application 0.0591ms\n\tcongr simp thm 1.02ms\n\telaboration 86.9ms\n\tfix level params 2.78ms\n\timport 8.39s\n\tinitialization 28.7ms\n\tinstantiate metavars 3.08ms\n\tinterpretation 7.62s\n\tlet-to-have transformation 0.276ms\n\tlinting 19.6ms\n\tmodule linting 0.0021ms\n\tnorm_num 125ms\n\toverlappingInstancesLinter 25.5ms\n\tparsing 6.19ms\n\tprocess pre-definitions 6.4ms\n\tring 244ms\n\tshare common exprs 10.9ms\n\tsimp 109ms\n\ttactic execution 125ms\n\ttacticAnalysis 47.6ms\n\ttype checking 88.6ms\n\ttypeclass inference 423ms\n"
+}

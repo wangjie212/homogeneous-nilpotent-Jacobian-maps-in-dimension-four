@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveChartPolynomialSections.lean",
+  "source_sha256": "5c7884a96f04854a8374e80e9b0c81d21a12a122baec38b4ec246800157d65d7",
+  "exit_code": 0,
+  "seconds": 17.57,
+  "log": "type checking took 745ms\ntype checking took 494ms\ntype checking took 845ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.84s\n.olean serialization took 231ms\ncumulative profiling times:\n\t.olean serialization 231ms\n\tattribute application 0.658ms\n\tcongr simp thm 2.31ms\n\telaboration 43.4ms\n\tfix level params 0.635ms\n\timport 7.84s\n\tinitialization 28ms\n\tinstantiate metavars 0.711ms\n\tinterpretation 6.65s\n\tlet-to-have transformation 0.191ms\n\tlinting 4.28ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 35.8ms\n\tparsing 2.45ms\n\tprocess pre-definitions 6.89ms\n\tshare common exprs 3.21ms\n\tsimp 266ms\n\ttactic execution 165ms\n\ttacticAnalysis 192ms\n\ttype checking 2.11s\n\ttypeclass inference 261ms\n"
+}

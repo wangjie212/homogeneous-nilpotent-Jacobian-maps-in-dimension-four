@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConeRootSlopeIdentity.lean",
+  "source_sha256": "507c05fecc7c68fb8e922a1eee62118074ebbb6efa5175da712bef557c102bcf",
+  "exit_code": 0,
+  "seconds": 16.96,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ConeRootSlopeIdentity.lean:50:27: warning: This simp argument is unused:\n  zero_mul\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [hshape, map_add, D.leibniz, D.leibniz_div, ha, hb, hL, smul_eq_mul, mul_zero, zero_add, add_zero]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

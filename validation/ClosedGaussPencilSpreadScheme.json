@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ClosedGaussPencilSpreadScheme.lean",
+  "source_sha256": "ecf882626592bb180664ed767206ef79ca1fdd9520c48a84e6e5d3b7b2aebb9a",
+  "exit_code": 0,
+  "seconds": 19.99,
+  "log": "type checking took 125ms\ntype checking took 127ms\ntype checking took 129ms\ntype checking took 133ms\ntype checking took 129ms\ntype checking took 135ms\ntype checking took 123ms\ntype checking took 124ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.94s\n.olean serialization took 291ms\ncumulative profiling times:\n\t.olean serialization 291ms\n\tattribute application 2.06ms\n\tblocked (unaccounted) 570ms\n\tcompilation (IR) 1.53ms\n\tcompilation (LCNF base) 65.4ms\n\tcompilation (LCNF impure) 7.77ms\n\tcompilation (LCNF mono) 17.6ms\n\tcongr simp thm 2.16ms\n\telaboration 714ms\n\tfix level params 1.5ms\n\timport 7.94s\n\tinitialization 27.8ms\n\tinstantiate metavars 0.15ms\n\tinterpretation 6.58s\n\tlet-to-have transformation 0.643ms\n\tlinting 18.2ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 42.3ms\n\tparsing 5.58ms\n\tprocess pre-definitions 22.2ms\n\tshare common exprs 5.21ms\n\tsimp 0.619ms\n\ttactic execution 9.18ms\n\ttacticAnalysis 153ms\n\ttype checking 1.8s\n\ttypeclass inference 3.78s\n"
+}

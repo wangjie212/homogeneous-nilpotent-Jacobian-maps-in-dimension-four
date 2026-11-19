@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedCoefficientEuler.lean",
+  "source_sha256": "76e42e65df6e04a176470040ea53f847b5fa28339f0a672545406bc3037cd3d0",
+  "exit_code": 0,
+  "seconds": 16.42,
+  "log": "typeclass inference of AddMonoidHomClass took 166ms\ntype checking took 150ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 8.35s\n.olean serialization took 274ms\ncumulative profiling times:\n\t.olean serialization 274ms\n\tattribute application 0.87ms\n\tcongr simp thm 4.03ms\n\telaboration 57.9ms\n\tfix level params 0.49ms\n\timport 8.35s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.0152ms\n\tinterpretation 6.3s\n\tlet-to-have transformation 0.195ms\n\tlinting 1.93ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 23.3ms\n\tparsing 0.769ms\n\tprocess pre-definitions 0.775ms\n\tshare common exprs 1.36ms\n\tsimp 38ms\n\ttactic execution 4.51ms\n\ttacticAnalysis 50.4ms\n\ttype checking 150ms\n\ttypeclass inference 877ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConstructedOriginalSectionBound.lean",
+  "source_sha256": "866eac10b77ee1df819aba69a2fe09ff1a1d1f5a3ba93d6395f91bf4435e4906",
+  "exit_code": 0,
+  "seconds": 40.57,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 119ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 154ms\nimport took 13.4s\n.olean serialization took 18.3s\ncumulative profiling times:\n\t.olean serialization 18.3s\n\tattribute application 0.0109ms\n\telaboration 41.2ms\n\tfix level params 0.852ms\n\timport 13.4s\n\tinitialization 28.2ms\n\tinstantiate metavars 0.385ms\n\tinterpretation 8.45s\n\tlet-to-have transformation 33.3ms\n\tlinting 4.36ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 31.9ms\n\tparsing 1.52ms\n\tprocess pre-definitions 1.83ms\n\tshare common exprs 1.36ms\n\ttactic execution 68.1ms\n\ttacticAnalysis 119ms\n\ttype checking 50ms\n\ttypeclass inference 178ms\n"
+}

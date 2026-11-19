@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalVertexParabolaImpossible.lean",
+  "source_sha256": "23011247f102834ed71e6ae9ca3931cc7ac88c150632d6563e14d4c843b5227f",
+  "exit_code": 0,
+  "seconds": 20.32,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\OriginalVertexParabolaImpossible.lean:58:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

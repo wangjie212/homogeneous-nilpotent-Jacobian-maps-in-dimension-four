@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/Nilpotent.lean",
+  "source_sha256": "c17d2f65b1a04e58d5aefea7545907a5ea042718961bf35b902d0e6108c6bbc7",
+  "exit_code": 0,
+  "seconds": 14.92,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\Nilpotent.lean:90:10: warning: This simp argument is unused:\n  Pi.single_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [hji] at h\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

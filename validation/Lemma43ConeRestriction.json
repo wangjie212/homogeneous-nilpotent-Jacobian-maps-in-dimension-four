@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/Lemma43ConeRestriction.lean",
+  "source_sha256": "d2aae7671fa121bb2eee8e8aa6d5c3d15157d2b0f2c0a9a9f498677660e40528",
+  "exit_code": 0,
+  "seconds": 14.78,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 7.49s\n.olean serialization took 224ms\ncumulative profiling times:\n\t.olean serialization 224ms\n\tattribute application 0.286ms\n\tblocked (unaccounted) 28.2ms\n\tcompilation (IR) 0.397ms\n\tcompilation (LCNF base) 13.5ms\n\tcompilation (LCNF impure) 2.22ms\n\tcompilation (LCNF mono) 3.96ms\n\telaboration 112ms\n\tfix level params 2.33ms\n\timport 7.49s\n\tinitialization 27ms\n\tinstantiate metavars 1.53ms\n\tinterpretation 6.31s\n\tlet-to-have transformation 0.299ms\n\tlinting 9.85ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 27ms\n\tparsing 3.48ms\n\tprocess pre-definitions 8.1ms\n\tshare common exprs 4.79ms\n\ttactic execution 263ms\n\ttacticAnalysis 76.1ms\n\ttype checking 139ms\n\ttypeclass inference 423ms\n"
+}

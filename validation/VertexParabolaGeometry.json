@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/VertexParabolaGeometry.lean",
+  "source_sha256": "d1464a9e340aa0041af1cdf99c25b5cc886c94b2abe00f42859c8cdde2f762f7",
+  "exit_code": 0,
+  "seconds": 15.2,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\VertexParabolaGeometry.lean:16:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.vertex_parabola_direction_pair_independent`:\n  [CharZero E]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero E] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\VertexParabolaGeometry.lean:61:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\VertexParabolaGeometry.lean:82:38: warning: This simp argument is unused:\n  zero_mul\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [smul_eq_mul, mul_zero, add_zero]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

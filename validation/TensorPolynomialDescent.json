@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TensorPolynomialDescent.lean",
+  "source_sha256": "39efd731d457a07ffe8ad1ed9df72aa9b0c8f1507d8e20d69ecd50550f6e939e",
+  "exit_code": 0,
+  "seconds": 18.86,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TensorPolynomialDescent.lean:28:20: warning: `TensorProduct.induction_on` has been deprecated: Use `TensorProduction.inductionOn` instead\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TensorPolynomialDescent.lean:51:22: warning: `TensorProduct.induction_on` has been deprecated: Use `TensorProduction.inductionOn` instead\n"
+}

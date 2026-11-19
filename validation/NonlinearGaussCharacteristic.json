@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NonlinearGaussCharacteristic.lean",
+  "source_sha256": "d532e6bcf044f09dab6212a48fd5199915eeb12a7a81b44e822b8c9e4cbaa393",
+  "exit_code": 0,
+  "seconds": 15.72,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NonlinearGaussCharacteristic.lean:19:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.gauss_parameter_constant_relation_constructs_original_common_vertex`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

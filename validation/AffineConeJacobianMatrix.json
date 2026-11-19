@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineConeJacobianMatrix.lean",
+  "source_sha256": "9504021ba2c510e2161c5a630add3bfe199365f081f02154b3c60e40881e435c",
+  "exit_code": 0,
+  "seconds": 22.7,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\AffineConeJacobianMatrix.lean:89:6: warning: This simp argument is unused:\n  affine_partial_polynomial_parameter_chain_rule\n\nHint: Omit it from the simp argument list.\n  [apply] simp [homogeneousAffineChartJacobian, affineConeJacobianMatrix, coneRankOneChartMatrix,\n    affineConeMixedPolynomial, affineConeParameterGradient, h0, h1, h2, h3, Derivation.leibniz, smul_eq_mul]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FiniteTrdegSelfEmbedding.lean",
+  "source_sha256": "8caaf350ced3be58230011ed0d0a53989caa883b18d444613ab724a2e81927ac",
+  "exit_code": 0,
+  "seconds": 19.98,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\FiniteTrdegSelfEmbedding.lean:30:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\FiniteTrdegSelfEmbedding.lean:32:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

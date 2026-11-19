@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ImageConeGaussRealization.lean",
+  "source_sha256": "2802a4ad8a9905651f6150bf3fcae1a41f6a7901b24771eeb21c76123a892d54",
+  "exit_code": 0,
+  "seconds": 15.99,
+  "log": "type checking took 109ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 108ms\nimport took 8.18s\n.olean serialization took 232ms\ncumulative profiling times:\n\t.olean serialization 232ms\n\tattribute application 0.0469ms\n\telaboration 160ms\n\tfix level params 1.21ms\n\timport 8.18s\n\tinitialization 27.8ms\n\tinstantiate metavars 0.978ms\n\tinterpretation 6.43s\n\tlet-to-have transformation 9.46ms\n\tlinting 5.17ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 26.2ms\n\tparsing 3.84ms\n\tprocess pre-definitions 11.2ms\n\tshare common exprs 3.84ms\n\ttactic execution 240ms\n\ttacticAnalysis 56.8ms\n\ttype checking 494ms\n\ttypeclass inference 710ms\n"
+}

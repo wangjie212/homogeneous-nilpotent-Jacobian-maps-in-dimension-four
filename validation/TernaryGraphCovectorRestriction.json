@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryGraphCovectorRestriction.lean",
+  "source_sha256": "7c2bb7febab254d92b5c32b7dd90ed3516275cde488596dcf5b7fe12656396f7",
+  "exit_code": 0,
+  "seconds": 25.26,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryGraphCovectorRestriction.lean:89:4: warning: Unused tactic linter: `change\n  algebraMap K F (l 0) * ∂ j (ι (H 0)) + algebraMap K F (l 1) * ∂ j (ι (H 1)) + algebraMap K F (l 2) * ∂ j (ι (H 2)) =\n    0` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\n"
+}

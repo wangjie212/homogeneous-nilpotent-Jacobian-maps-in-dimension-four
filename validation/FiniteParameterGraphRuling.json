@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FiniteParameterGraphRuling.lean",
+  "source_sha256": "b9bd28f669325ae6ee775b4205f958bceccd1af7a67bf05aa25e166eb102d8c2",
+  "exit_code": 0,
+  "seconds": 17.83,
+  "log": "typeclass inference of Module took 126ms\ninterpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 126ms\ntypeclass inference of Module took 125ms\ntypeclass inference of Module took 120ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 131ms\ntypeclass inference of Module took 120ms\ntypeclass inference of Module took 179ms\ntypeclass inference of AddMonoidHomClass took 260ms\ntypeclass inference of Module took 104ms\nelaboration took 117ms\nelaboration took 117ms\ntactic execution of Lean.Parser.Tactic.obtain took 189ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 7.84s\n.olean serialization took 338ms\ncumulative profiling times:\n\t.olean serialization 338ms\n\tattribute application 2.25ms\n\tcongr simp thm 0.888ms\n\telaboration 359ms\n\tfix level params 3.29ms\n\timport 7.84s\n\tinitialization 26.9ms\n\tinstantiate metavars 3.29ms\n\tinterpretation 6.61s\n\tlet-to-have transformation 0.657ms\n\tlinting 16.4ms\n\tmodule linting 0.0014ms\n\tnorm_num 3.15ms\n\toverlappingInstancesLinter 25.6ms\n\tparsing 5.91ms\n\tprocess pre-definitions 13.6ms\n\tshare common exprs 7.79ms\n\tsimp 98.3ms\n\ttactic execution 723ms\n\ttacticAnalysis 50.1ms\n\ttype checking 314ms\n\ttypeclass inference 3.85s\n"
+}

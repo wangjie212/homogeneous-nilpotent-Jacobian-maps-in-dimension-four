@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryQuasiTranslationDependence.lean",
+  "source_sha256": "a0ea807d0b33e9dffaa88b146bdf36e567a7d4f08380dd15e062891b6835f6c0",
+  "exit_code": 0,
+  "seconds": 18.84,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryQuasiTranslationDependence.lean:64:30: warning: Variable name `hd` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _hd\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\n"
+}

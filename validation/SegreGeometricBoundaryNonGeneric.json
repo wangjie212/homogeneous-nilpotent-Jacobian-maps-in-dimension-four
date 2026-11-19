@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreGeometricBoundaryNonGeneric.lean",
+  "source_sha256": "2258a8d4b49feac4eda6da22998471449ce22fbb66bb53cdc1b8534fc4ac4750",
+  "exit_code": 0,
+  "seconds": 21.04,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreGeometricBoundaryNonGeneric.lean:19:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.geometric_output_extended_projective_generic`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

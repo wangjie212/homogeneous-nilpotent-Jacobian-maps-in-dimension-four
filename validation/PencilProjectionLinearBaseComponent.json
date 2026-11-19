@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PencilProjectionLinearBaseComponent.lean",
+  "source_sha256": "350391f1df2f5a03c7a660f91c6ae539ebe4bcc5d0ec16c0365c73602b3725b2",
+  "exit_code": 0,
+  "seconds": 18.0,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PencilProjectionLinearBaseComponent.lean:29:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

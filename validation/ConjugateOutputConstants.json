@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConjugateOutputConstants.lean",
+  "source_sha256": "341bf1c317ec4adafa96a2da1005e438a3ffb7de265dd408c32ea47ffc93d6a1",
+  "exit_code": 0,
+  "seconds": 16.03,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ConjugateOutputConstants.lean:28:0: warning: Definition `DimensionFourDependence.conjugateOutputAlgebra` of class type is semireducible. Most type class instances should be instance-reducible, so consider marking this\ndefinition with `@[instance_reducible]`. If it is intentionally semireducible, this warning can be disabled with `set_option warn.classDefReducibility false`.\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ConjugateOutputConstants.lean:46:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ConjugateOutputConstants.lean:64:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

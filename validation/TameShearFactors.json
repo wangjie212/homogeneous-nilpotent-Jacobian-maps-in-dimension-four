@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TameShearFactors.lean",
+  "source_sha256": "3996f973d4a83d36dac85a512b13a22ebcb2f43c27f4e9454efe5cbbc88cc70c",
+  "exit_code": 0,
+  "seconds": 15.15,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TameShearFactors.lean:45:6: warning: Try `simp at h` instead of `simpa using h`\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TameShearFactors.lean:48:6: warning: Try `simp at h` instead of `simpa using h`\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TameShearFactors.lean:65:4: warning: Try `simp at h` instead of `simpa using h`\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\n"
+}

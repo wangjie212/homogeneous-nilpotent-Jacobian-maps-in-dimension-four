@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveRestrictionKernelCriterion.lean",
+  "source_sha256": "fb4027476a2e48dee0e626578eac1bbb508d01e8228a780ffa2a7761ecdea789",
+  "exit_code": 0,
+  "seconds": 19.18,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ProjectiveRestrictionKernelCriterion.lean:15:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.projective_image_eq_of_relation_ideal_eq`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

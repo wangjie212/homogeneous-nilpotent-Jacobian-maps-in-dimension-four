@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CompatibleGeometricParameterFrame.lean",
+  "source_sha256": "7a9ad1aba6466c98e697c21f873fefa8d802e85f25d88d5092807451668636da",
+  "exit_code": 0,
+  "seconds": 20.62,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CompatibleGeometricParameterFrame.lean:53:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.compatible_closed_parameter_source_realization`:\n  [CharZero K]\n  [Algebra.IsAlgebraic S₀ F]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] [Algebra.IsAlgebraic S₀ F] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CompatibleGeometricParameterFrame.lean:74:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.compatible_closed_parameter_constructs_constant_value_and_nonzero_vertex_partial`:\n  [IsScalarTower K E F]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsScalarTower K E F] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

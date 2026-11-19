@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveSectionProjectionRegularity.lean",
+  "source_sha256": "2ce651e77b3562e56cf770902a8c5ee6534c550d2f116a5197726e5831ab2de9",
+  "exit_code": 0,
+  "seconds": 16.89,
+  "log": "typeclass inference of SMul took 274ms\ntypeclass inference of SMul took 279ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 109ms\nimport took 8.46s\n.olean serialization took 216ms\ncumulative profiling times:\n\t.olean serialization 216ms\n\tattribute application 0.0115ms\n\tcongr simp thm 0.549ms\n\telaboration 21.8ms\n\tfix level params 1.11ms\n\timport 8.46s\n\tinitialization 28.5ms\n\tinstantiate metavars 2.71ms\n\tinterpretation 6.66s\n\tlet-to-have transformation 0.0817ms\n\tlinting 7.84ms\n\tmodule linting 0.002ms\n\tnorm_num 3.1ms\n\toverlappingInstancesLinter 27.8ms\n\tparsing 3.3ms\n\tprocess pre-definitions 2.99ms\n\tshare common exprs 3.08ms\n\tsimp 18ms\n\ttactic execution 102ms\n\ttacticAnalysis 82.9ms\n\ttype checking 37.5ms\n\ttypeclass inference 1.09s\n"
+}

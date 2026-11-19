@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalizationPrimeFunctionField.lean",
+  "source_sha256": "e48337f8b816785ed2236caba45a95d008578ecf04cba6b06af4345975f04485",
+  "exit_code": 0,
+  "seconds": 20.87,
+  "log": "type checking took 109ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 125ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 129ms\nimport took 10.3s\n.olean serialization took 261ms\ncumulative profiling times:\n\t.olean serialization 261ms\n\tattribute application 0.0803ms\n\telaboration 30.8ms\n\tfix level params 0.383ms\n\timport 10.3s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.238ms\n\tinterpretation 8.66s\n\tlet-to-have transformation 61.4ms\n\tlinting 4.03ms\n\tmodule linting 0.0022ms\n\toverlappingInstancesLinter 28.7ms\n\tparsing 3.77ms\n\tprocess pre-definitions 6.25ms\n\tshare common exprs 0.974ms\n\ttactic execution 217ms\n\ttacticAnalysis 18.1ms\n\ttype checking 294ms\n\ttypeclass inference 1.47s\n"
+}

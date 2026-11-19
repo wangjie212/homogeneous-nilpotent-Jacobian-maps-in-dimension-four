@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/VertexLinePrimeIdentification.lean",
+  "source_sha256": "75b517bcc6d1530dba8677683d1b002722fa8d20acf3bea80b4e02f12c75b6e1",
+  "exit_code": 0,
+  "seconds": 19.81,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\VertexLinePrimeIdentification.lean:83:2: warning: `push_neg` has been deprecated. Prefer using `push Not` instead.\nIf you'd rather continue using `push_neg` in your project, you can implement it as follows:\n```\nopen Lean.Parser.Tactic in\nmacro \"push_neg\" cfg:optConfig loc:(location)? : tactic =>\n  `(tactic| push $cfg:optConfig Not $[$loc]?)\n```\n"
+}

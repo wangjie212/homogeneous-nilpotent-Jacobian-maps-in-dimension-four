@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveBoundaryImageClosure.lean",
+  "source_sha256": "4de1effe34deeaf5611c931af2bf01c24a41763f684b5e7c633067bb0cd7af50",
+  "exit_code": 0,
+  "seconds": 15.83,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ProjectiveBoundaryImageClosure.lean:20:8: warning: automatically included section variable(s) unused in theorem `_private.DimensionFourDependence.ProjectiveBoundaryImageClosure.0.DimensionFourDependence.projectiveFieldPointMap_coefficients_composed`:\n  [Finite σ]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [Finite σ] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

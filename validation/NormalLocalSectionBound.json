@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalLocalSectionBound.lean",
+  "source_sha256": "d8a7a39910e6e7d81dcfb739af5a39f3c3c6b78444713252ad9bcb9c5f33d27d",
+  "exit_code": 0,
+  "seconds": 18.13,
+  "log": "typeclass inference of SMul took 327ms\ntypeclass inference of SMul took 287ms\ntypeclass inference of FaithfulSMul took 383ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 269ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 8.28s\n.olean serialization took 207ms\ncumulative profiling times:\n\t.olean serialization 207ms\n\tattribute application 0.0113ms\n\telaboration 16.2ms\n\tfix level params 0.466ms\n\timport 8.28s\n\tinitialization 27.5ms\n\tinstantiate metavars 0.394ms\n\tinterpretation 6.95s\n\tlet-to-have transformation 0.0542ms\n\tlinting 5.69ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 27.2ms\n\tparsing 2.55ms\n\tprocess pre-definitions 5.06ms\n\tshare common exprs 1.27ms\n\ttactic execution 429ms\n\ttacticAnalysis 96.4ms\n\ttype checking 41.5ms\n\ttypeclass inference 2.03s\n"
+}

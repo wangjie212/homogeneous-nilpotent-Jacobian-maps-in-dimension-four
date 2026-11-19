@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalizedHyperplaneTransitions.lean",
+  "source_sha256": "eeea88946b1c0864dc22db944c916f01f35018aea492d9ecf4cf7dfd71ad88a6",
+  "exit_code": 0,
+  "seconds": 114.57,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 156ms\ntypeclass inference of CoeFun took 425ms\ntypeclass inference of CoeFun took 430ms\ntype checking took 91.4s\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 119ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 114ms\nimport took 10.9s\n.olean serialization took 293ms\ncumulative profiling times:\n\t.olean serialization 293ms\n\tattribute application 4.14ms\n\tcongr simp thm 0.285ms\n\telaboration 109ms\n\tfix level params 0.976ms\n\timport 10.9s\n\tinitialization 28.2ms\n\tinstantiate metavars 0.825ms\n\tinterpretation 9.49s\n\tlet-to-have transformation 114ms\n\tlinting 7.88ms\n\tmodule linting 0.0032ms\n\tnorm_num 3.31ms\n\toverlappingInstancesLinter 27.9ms\n\tparsing 4.89ms\n\tprocess pre-definitions 17.4ms\n\tshare common exprs 2.92ms\n\tsimp 14.9ms\n\ttactic execution 235ms\n\ttacticAnalysis 70.4ms\n\ttype checking 91.7s\n\ttypeclass inference 1.79s\n"
+}

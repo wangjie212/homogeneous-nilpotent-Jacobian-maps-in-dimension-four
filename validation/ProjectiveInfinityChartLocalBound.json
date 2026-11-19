@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveInfinityChartLocalBound.lean",
+  "source_sha256": "f5e7283987c54b2edd549dcfc357622d579f2abf516aad1ff8fec202e633cdb1",
+  "exit_code": 0,
+  "seconds": 21.0,
+  "log": "typeclass inference of DistribMulAction took 175ms\ntypeclass inference of Module took 199ms\ntypeclass inference of DistribMulAction took 237ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 102ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 149ms\nimport took 10.4s\n.olean serialization took 300ms\ncumulative profiling times:\n\t.olean serialization 300ms\n\tattribute application 0.671ms\n\tcongr simp thm 2.16ms\n\telaboration 70.6ms\n\tfix level params 1.21ms\n\timport 10.4s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.994ms\n\tinterpretation 9.09s\n\tlet-to-have transformation 44.4ms\n\tlinting 14.5ms\n\tmodule linting 0.0027ms\n\toverlappingInstancesLinter 33.7ms\n\tparsing 6.48ms\n\tprocess pre-definitions 5.07ms\n\tshare common exprs 3.55ms\n\tsimp 63.8ms\n\ttactic execution 111ms\n\ttacticAnalysis 105ms\n\ttype checking 65.1ms\n\ttypeclass inference 1.22s\n"
+}

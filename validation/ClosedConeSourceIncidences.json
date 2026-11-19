@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ClosedConeSourceIncidences.lean",
+  "source_sha256": "2e91177d566c072a8968fe12d3b7ac0d3f19f3dfc070dd0d7f6f6e4cb59ea661",
+  "exit_code": 0,
+  "seconds": 19.22,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ClosedConeSourceIncidences.lean:33:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.actual_closed_cone_presentation_constructs_directrix_normal_incidences`:\n  [Algebra.IsAlgebraic S₀ F]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [Algebra.IsAlgebraic S₀ F] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

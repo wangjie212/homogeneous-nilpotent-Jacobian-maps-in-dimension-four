@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalScaleCoefficientResidue.lean",
+  "source_sha256": "926e93d6d61d2dec83a66265ddc33604a6973f55197eef2fb31c5e5a8385b98c",
+  "exit_code": 0,
+  "seconds": 16.38,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\RationalScaleCoefficientResidue.lean:27:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

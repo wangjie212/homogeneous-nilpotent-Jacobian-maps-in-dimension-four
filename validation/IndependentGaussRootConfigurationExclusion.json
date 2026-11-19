@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/IndependentGaussRootConfigurationExclusion.lean",
+  "source_sha256": "ce503141c9c8b143ccd23452437e0b0765273bdaff42a8527be6972cc635dca8",
+  "exit_code": 0,
+  "seconds": 42.18,
+  "log": "type checking took 116ms\ntype checking took 110ms\ntypeclass inference of Module took 364ms\nelaboration took 114ms\ntactic execution of Lean.Parser.Tactic.obtain took 11.4s\ntype checking took 1.72s\ntactic execution of Lean.Parser.Tactic.obtain took 166ms\nelaboration took 603ms\ntype checking took 651ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 7.9s\n.olean serialization took 10s\ncumulative profiling times:\n\t.olean serialization 10s\n\tattribute application 3.3ms\n\tblocked (unaccounted) 137ms\n\tcompilation (IR) 1.53ms\n\tcompilation (LCNF base) 69.1ms\n\tcompilation (LCNF impure) 8.93ms\n\tcompilation (LCNF mono) 20ms\n\telaboration 1.21s\n\tfix level params 2.82ms\n\timport 7.9s\n\tinitialization 27.5ms\n\tinstantiate metavars 1.12ms\n\tinterpretation 6.71s\n\tlet-to-have transformation 0.746ms\n\tlinting 21.4ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 51.3ms\n\tparsing 3.32ms\n\tprocess pre-definitions 19ms\n\tshare common exprs 7.03ms\n\ttactic execution 11.6s\n\ttacticAnalysis 179ms\n\ttype checking 2.61s\n\ttypeclass inference 3.69s\n"
+}

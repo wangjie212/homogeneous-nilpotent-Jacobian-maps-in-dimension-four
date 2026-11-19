@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NativeProportionalRootIdentities.lean",
+  "source_sha256": "c30d483135a4350bb8b13b0cd27ca478ed70e22292a67506c13faf261f622f9e",
+  "exit_code": 0,
+  "seconds": 20.37,
+  "log": "type checking took 108ms\ntype checking took 104ms\ntype checking took 124ms\ntype checking took 123ms\ntype checking took 118ms\ntype checking took 129ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 8.9s\n.olean serialization took 295ms\ncumulative profiling times:\n\t.olean serialization 295ms\n\tattribute application 3.26ms\n\tblocked (unaccounted) 149ms\n\tcompilation (IR) 1.7ms\n\tcompilation (LCNF base) 74.4ms\n\tcompilation (LCNF impure) 9.02ms\n\tcompilation (LCNF mono) 21.1ms\n\tcongr simp thm 1.6ms\n\telaboration 660ms\n\tfix level params 1.89ms\n\timport 8.9s\n\tinitialization 28.6ms\n\tinstantiate metavars 0.628ms\n\tinterpretation 6.76s\n\tlet-to-have transformation 0.862ms\n\tlinting 25.1ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 41ms\n\tparsing 4.62ms\n\tprocess pre-definitions 15.5ms\n\tshare common exprs 7.19ms\n\tsimp 29.8ms\n\ttactic execution 110ms\n\ttacticAnalysis 166ms\n\ttype checking 725ms\n\ttypeclass inference 3.64s\n"
+}

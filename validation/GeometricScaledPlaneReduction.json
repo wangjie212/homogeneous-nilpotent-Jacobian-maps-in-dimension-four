@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GeometricScaledPlaneReduction.lean",
+  "source_sha256": "725a4f65dbb72df204b9b670f838299fbb333a0946f434ca398da924212988c2",
+  "exit_code": 0,
+  "seconds": 27.66,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GeometricScaledPlaneReduction.lean:47:7: warning: Variable name `hY` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _hY\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GeometricScaledPlaneReduction.lean:49:7: warning: Variable name `hh` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _hh\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GeometricScaledPlaneReduction.lean:51:9: warning: Variable name `hpara` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _hpara\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\n"
+}

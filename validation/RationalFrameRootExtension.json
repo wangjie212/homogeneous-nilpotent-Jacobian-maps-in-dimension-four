@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalFrameRootExtension.lean",
+  "source_sha256": "5fc3223a53254b964623b11454688c204d610ab9beca0fd4f69de3d74cf0a263",
+  "exit_code": 0,
+  "seconds": 15.53,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 8.13s\n.olean serialization took 222ms\ncumulative profiling times:\n\t.olean serialization 222ms\n\tattribute application 0.896ms\n\telaboration 75ms\n\tfix level params 0.62ms\n\timport 8.13s\n\tinitialization 27.4ms\n\tinstantiate metavars 0.239ms\n\tinterpretation 6.96s\n\tlet-to-have transformation 0.145ms\n\tlinting 13.1ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 28.4ms\n\tparsing 3.21ms\n\tprocess pre-definitions 3.88ms\n\tshare common exprs 1.35ms\n\ttactic execution 32.5ms\n\ttacticAnalysis 81.8ms\n\ttype checking 30.6ms\n\ttypeclass inference 140ms\n"
+}

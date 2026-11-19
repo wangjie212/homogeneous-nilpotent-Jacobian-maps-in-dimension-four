@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ParameterDirectionAlgebraicity.lean",
+  "source_sha256": "6e7b0a51261ca0fb3c67bc6bc84637344c0f042ed6819ec509e78707cc4d8142",
+  "exit_code": 0,
+  "seconds": 16.78,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ParameterDirectionAlgebraicity.lean:15:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.parameter_directrix_decomposition_direction_isAlgebraic`:\n  [CharZero F]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero F] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ParameterDirectionAlgebraicity.lean:38:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.parameter_normal_derivative_direction_pairing_isAlgebraic`:\n  [CharZero F]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero F] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

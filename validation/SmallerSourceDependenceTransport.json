@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SmallerSourceDependenceTransport.lean",
+  "source_sha256": "88d1fea64a8a0b68c3926c9bae720532ad0cea9c49ab0c6fd2cdc8d7ce7d5dd0",
+  "exit_code": 0,
+  "seconds": 18.72,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SmallerSourceDependenceTransport.lean:63:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SmallerSourceDependenceTransport.lean:64:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SmallerSourceDependenceTransport.lean:75:10: warning: This simp argument is unused:\n  Pi.single_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [hji] at h\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

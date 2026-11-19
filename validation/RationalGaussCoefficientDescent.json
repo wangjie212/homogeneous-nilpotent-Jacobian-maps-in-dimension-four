@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalGaussCoefficientDescent.lean",
+  "source_sha256": "310a84fd4cefc731a10712bd2ae542eb3008de4a73206dbd370077e2b07e8f90",
+  "exit_code": 0,
+  "seconds": 23.17,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\RationalGaussCoefficientDescent.lean:29:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.closed_gauss_rational_ternary_polynomial_source_value`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

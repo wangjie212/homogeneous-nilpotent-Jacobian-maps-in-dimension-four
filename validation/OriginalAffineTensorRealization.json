@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalAffineTensorRealization.lean",
+  "source_sha256": "235adb3c85d81a937e0ec2eda0f6cacec9ccd6cc315d841b80be275cf57afc35",
+  "exit_code": 0,
+  "seconds": 33.52,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\OriginalAffineTensorRealization.lean:48:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\OriginalAffineTensorRealization.lean:49:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

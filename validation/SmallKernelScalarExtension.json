@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SmallKernelScalarExtension.lean",
+  "source_sha256": "384dc1389f6eadc3e85cbc10d55ecf63ea80500e150f52f74b87514cdc3d0d42",
+  "exit_code": 0,
+  "seconds": 16.27,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 153ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 8.69s\n.olean serialization took 218ms\ncumulative profiling times:\n\t.olean serialization 218ms\n\tattribute application 0.0187ms\n\tcongr simp thm 1.46ms\n\telaboration 21.1ms\n\tfix level params 1.52ms\n\timport 8.69s\n\tinitialization 26.2ms\n\tinstantiate metavars 2.27ms\n\tinterpretation 6.7s\n\tlet-to-have transformation 0.118ms\n\tlinting 9.93ms\n\tmodule linting 0.0013ms\n\tnorm_num 3.64ms\n\toverlappingInstancesLinter 21.1ms\n\tparsing 3.25ms\n\tprocess pre-definitions 3.57ms\n\tring 53ms\n\tshare common exprs 4.01ms\n\tsimp 74.3ms\n\ttactic execution 101ms\n\ttacticAnalysis 47.7ms\n\ttype checking 53ms\n\ttypeclass inference 409ms\n"
+}

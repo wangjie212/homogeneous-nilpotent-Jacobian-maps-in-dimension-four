@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/BinaryPencilBaseFrame.lean",
+  "source_sha256": "cfb69f600c306741ed48e521e47650a32867832b587b7187a8ef658872ce640d",
+  "exit_code": 0,
+  "seconds": 17.02,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\BinaryPencilBaseFrame.lean:42:49: warning: This simp argument is unused:\n  eq_comm\n\nHint: Omit it from the simp argument list.\n  [apply] simp [linearPolynomialMap, Matrix.one_apply]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

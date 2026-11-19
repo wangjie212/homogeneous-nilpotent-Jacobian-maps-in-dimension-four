@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GeometricSourceMultiplicity.lean",
+  "source_sha256": "cfba6b74e02653904ccf19468ca616dc5519756c85ed8bc4d52630e213e852a0",
+  "exit_code": 0,
+  "seconds": 32.41,
+  "log": "elaboration took 104ms\ntypeclass inference of Module took 401ms\nsimp took 142ms\nelaboration took 117ms\ntype checking took 511ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.57s\n.olean serialization took 9.84s\ncumulative profiling times:\n\t.olean serialization 9.84s\n\tattribute application 2.63ms\n\tblocked (unaccounted) 224ms\n\tcompilation (IR) 2.48ms\n\tcompilation (LCNF base) 113ms\n\tcompilation (LCNF impure) 13ms\n\tcompilation (LCNF mono) 29.5ms\n\tcongr simp thm 70.2ms\n\telaboration 860ms\n\tfix level params 1.32ms\n\timport 8.57s\n\tinitialization 29.4ms\n\tinstantiate metavars 0.631ms\n\tinterpretation 6.95s\n\tlet-to-have transformation 0.635ms\n\tlinting 24.7ms\n\tmodule linting 0.0024ms\n\toverlappingInstancesLinter 43.8ms\n\tparsing 3.13ms\n\tprocess pre-definitions 15.9ms\n\tshare common exprs 5.52ms\n\tsimp 146ms\n\ttactic execution 131ms\n\ttacticAnalysis 192ms\n\ttype checking 518ms\n\ttypeclass inference 5.17s\n"
+}

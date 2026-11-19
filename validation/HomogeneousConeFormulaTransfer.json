@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/HomogeneousConeFormulaTransfer.lean",
+  "source_sha256": "ac0e084cd65bbe9fbe46f2deb667d773df1b84fbf1cc5879f1ff474ff5cd0e71",
+  "exit_code": 0,
+  "seconds": 19.3,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\HomogeneousConeFormulaTransfer.lean:101:55: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\HomogeneousConeFormulaTransfer.lean:103:56: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ReindexedProjectionFieldGenerator.lean",
+  "source_sha256": "357478f3a3badabc1f32260180254e6f8f88b505c968e29f3e81695c6f2c6678",
+  "exit_code": 0,
+  "seconds": 18.25,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 117ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 115ms\nimport took 9.66s\n.olean serialization took 252ms\ncumulative profiling times:\n\t.olean serialization 252ms\n\tattribute application 0.0163ms\n\telaboration 11.5ms\n\tfix level params 0.497ms\n\timport 9.66s\n\tinitialization 28.7ms\n\tinstantiate metavars 1.03ms\n\tinterpretation 8.33s\n\tlet-to-have transformation 0.0408ms\n\tlinting 2.83ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 30.5ms\n\tparsing 1.79ms\n\tprocess pre-definitions 1.52ms\n\tshare common exprs 1.14ms\n\ttactic execution 25.7ms\n\ttacticAnalysis 93.6ms\n\ttype checking 9.15ms\n\ttypeclass inference 44ms\n"
+}

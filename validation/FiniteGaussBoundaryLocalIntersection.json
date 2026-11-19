@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FiniteGaussBoundaryLocalIntersection.lean",
+  "source_sha256": "892b0b498f53de04c4fe2acf40df7a722b164f351eca5e9389811febf97aa5fa",
+  "exit_code": 0,
+  "seconds": 21.06,
+  "log": "typeclass inference of DistribMulAction took 153ms\ntypeclass inference of Module took 122ms\ntypeclass inference of DistribMulAction took 129ms\ntypeclass inference of Module took 107ms\nelaboration took 124ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 131ms\nimport took 10.4s\n.olean serialization took 285ms\ncumulative profiling times:\n\t.olean serialization 285ms\n\tattribute application 0.0246ms\n\tcongr simp thm 0.471ms\n\telaboration 155ms\n\tfix level params 3.78ms\n\timport 10.4s\n\tinitialization 27.9ms\n\tinstantiate metavars 1.92ms\n\tinterpretation 8.23s\n\tlet-to-have transformation 22ms\n\tlinting 11.9ms\n\tmodule linting 0.0025ms\n\tnorm_num 26.9ms\n\toverlappingInstancesLinter 30.8ms\n\tparsing 5.89ms\n\tprocess pre-definitions 12.3ms\n\tshare common exprs 5.98ms\n\tsimp 41.5ms\n\ttactic execution 289ms\n\ttacticAnalysis 57.5ms\n\ttype checking 107ms\n\ttypeclass inference 1.22s\n"
+}

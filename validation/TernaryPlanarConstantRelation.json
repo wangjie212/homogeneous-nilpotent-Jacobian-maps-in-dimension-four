@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryPlanarConstantRelation.lean",
+  "source_sha256": "1ca935b3a99fa6e5b56397ba13aae9d69e7b813ccef12f454ccaa1fe719afc4f",
+  "exit_code": 0,
+  "seconds": 22.56,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryPlanarConstantRelation.lean:20:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.ternary_planar_jacobian_nilpotent_lifts`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualFiberBoundaryResidue.lean",
+  "source_sha256": "29c348ceb9a78ea89b35dd94fb68e46a41957bf68a4e8d2e39b0a8857487cb0e",
+  "exit_code": 0,
+  "seconds": 19.63,
+  "log": "typeclass inference of SMul took 117ms\ntypeclass inference of SMul took 497ms\ntype checking took 126ms\ntypeclass inference of SMul took 117ms\ntypeclass inference of SMul took 493ms\ntypeclass inference of MulAction took 172ms\ntypeclass inference of Module took 634ms\ntype checking took 167ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 8.03s\n.olean serialization took 253ms\ncumulative profiling times:\n\t.olean serialization 253ms\n\tattribute application 0.65ms\n\tblocked (unaccounted) 70.4ms\n\tcompilation (IR) 0.899ms\n\tcompilation (LCNF base) 34.3ms\n\tcompilation (LCNF impure) 4.93ms\n\tcompilation (LCNF mono) 10.4ms\n\telaboration 253ms\n\tfix level params 1.31ms\n\timport 8.03s\n\tinitialization 27.3ms\n\tinstantiate metavars 0.342ms\n\tinterpretation 6.34s\n\tlet-to-have transformation 0.581ms\n\tlinting 11.5ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 33.8ms\n\tparsing 3.35ms\n\tprocess pre-definitions 7.58ms\n\tshare common exprs 3.82ms\n\ttactic execution 134ms\n\ttacticAnalysis 113ms\n\ttype checking 342ms\n\ttypeclass inference 4.52s\n"
+}

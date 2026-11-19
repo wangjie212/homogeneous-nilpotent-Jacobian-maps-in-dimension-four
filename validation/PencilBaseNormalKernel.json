@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PencilBaseNormalKernel.lean",
+  "source_sha256": "a7ff74c4d512ddb823eefdf9e031923613fff3cfc1739995d70fa772069b7477",
+  "exit_code": 0,
+  "seconds": 18.23,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PencilBaseNormalKernel.lean:36:4: warning: try 'simp' instead of 'simpa'\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\n"
+}

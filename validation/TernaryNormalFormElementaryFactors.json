@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryNormalFormElementaryFactors.lean",
+  "source_sha256": "e488b72a653d2e50ef4bc3bb949ba2cc0656e0422ded29987a6b2430d0ddcf99",
+  "exit_code": 0,
+  "seconds": 17.99,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalFormElementaryFactors.lean:28:4: warning: Try `simp at hx` instead of `simpa using hx`\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalFormElementaryFactors.lean:34:4: warning: Try `simp at hz` instead of `simpa using hz`\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalFormElementaryFactors.lean:42:4: warning: Try `simp at hz` instead of `simpa using hz`\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalFormElementaryFactors.lean:49:4: warning: Try `simp at hz` instead of `simpa using hz`\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalFormElementaryFactors.lean:50:4: warning: Try `simp at h` instead of `simpa using h`\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\n"
+}

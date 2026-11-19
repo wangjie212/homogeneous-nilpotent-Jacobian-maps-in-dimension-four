@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GlobalCurveDivisorOrders.lean",
+  "source_sha256": "a40fea6d72f6f318c4534b02023d6f0c39a9461f9de690e62c54a7b577cab02b",
+  "exit_code": 0,
+  "seconds": 17.07,
+  "log": "type checking took 125ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8s\n.olean serialization took 236ms\ncumulative profiling times:\n\t.olean serialization 236ms\n\tattribute application 1.2ms\n\tblocked (unaccounted) 67.9ms\n\tcompilation (IR) 0.863ms\n\tcompilation (LCNF base) 34.6ms\n\tcompilation (LCNF impure) 4.54ms\n\tcompilation (LCNF mono) 9.11ms\n\telaboration 224ms\n\tfix level params 0.405ms\n\timport 8s\n\tinitialization 27.9ms\n\tinstantiate metavars 0.0638ms\n\tinterpretation 6.95s\n\tlet-to-have transformation 0.201ms\n\tlinting 7.28ms\n\tmodule linting 0.0046ms\n\toverlappingInstancesLinter 37.4ms\n\tparsing 1.26ms\n\tprocess pre-definitions 3.58ms\n\tshare common exprs 1.36ms\n\ttactic execution 8.49ms\n\ttacticAnalysis 151ms\n\ttype checking 126ms\n\ttypeclass inference 1.48s\n"
+}

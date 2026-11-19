@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveConeRootLift.lean",
+  "source_sha256": "72f6b0805d9a57949d256b75d20922e59a0dcb3611ee391d526deaa5a3b2e6e1",
+  "exit_code": 0,
+  "seconds": 17.32,
+  "log": "typeclass inference of Algebra took 106ms\ntypeclass inference of Algebra took 105ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 140ms\ntypeclass inference of Algebra took 105ms\ntypeclass inference of Algebra took 104ms\ntypeclass inference of AddHomClass took 128ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 198ms\ntypeclass inference of CharZero took 215ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 8.07s\n.olean serialization took 225ms\ncumulative profiling times:\n\t.olean serialization 225ms\n\tattribute application 0.426ms\n\tblocked (unaccounted) 514ms\n\tcompilation (IR) 0.404ms\n\tcompilation (LCNF base) 18.9ms\n\tcompilation (LCNF impure) 2.22ms\n\tcompilation (LCNF mono) 4.61ms\n\tcongr simp thm 0.859ms\n\tdsimp 4.17ms\n\telaboration 151ms\n\tfix level params 1.28ms\n\timport 8.07s\n\tinitialization 29ms\n\tinstantiate metavars 0.956ms\n\tinterpretation 6.37s\n\tlet-to-have transformation 0.317ms\n\tlinting 13.9ms\n\tmodule linting 0.0018ms\n\tnorm_num 1.92ms\n\toverlappingInstancesLinter 29.5ms\n\tparsing 4.71ms\n\tprocess pre-definitions 6.95ms\n\tring 57ms\n\tshare common exprs 3.98ms\n\tsimp 4.38ms\n\ttactic execution 678ms\n\ttacticAnalysis 66.5ms\n\ttype checking 198ms\n\ttypeclass inference 2.48s\n"
+}

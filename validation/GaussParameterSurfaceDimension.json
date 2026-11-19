@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GaussParameterSurfaceDimension.lean",
+  "source_sha256": "c13a073d5508fd31b830335868a27ce4c5562a18f18e8d6f58e4ea29d5e802d0",
+  "exit_code": 0,
+  "seconds": 16.34,
+  "log": "typeclass inference of FaithfulSMul took 606ms\ntypeclass inference of FaithfulSMul took 616ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.1s\n.olean serialization took 216ms\ncumulative profiling times:\n\t.olean serialization 216ms\n\tattribute application 0.585ms\n\telaboration 47.4ms\n\tfix level params 0.734ms\n\timport 8.1s\n\tinitialization 28.7ms\n\tinstantiate metavars 0.502ms\n\tinterpretation 6.39s\n\tlet-to-have transformation 0.157ms\n\tlinting 6.17ms\n\tmodule linting 0.0024ms\n\tnorm_num 16.9ms\n\toverlappingInstancesLinter 26.2ms\n\tparsing 2.44ms\n\tprocess pre-definitions 2.44ms\n\tshare common exprs 1.88ms\n\ttactic execution 263ms\n\ttacticAnalysis 57.6ms\n\ttype checking 143ms\n\ttypeclass inference 2.34s\n"
+}

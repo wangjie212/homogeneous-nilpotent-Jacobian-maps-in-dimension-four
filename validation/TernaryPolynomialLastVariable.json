@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryPolynomialLastVariable.lean",
+  "source_sha256": "1bcd5c983afa433553ce7932f91ea753558b704c10658498e992c7b00b4e41ac",
+  "exit_code": 0,
+  "seconds": 16.22,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryPolynomialLastVariable.lean:87:12: warning: This simp argument is unused:\n  Pi.single_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryPolynomialLastVariable.lean:88:15: warning: This simp argument is unused:\n  Ne.symm h\n\nHint: Omit it from the simp argument list.\n  [apply] simp [h, Fin.castSucc_inj, Pi.single_apply]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryPolynomialLastVariable.lean:88:44: warning: This simp argument is unused:\n  Pi.single_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [h, Ne.symm h, Fin.castSucc_inj]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

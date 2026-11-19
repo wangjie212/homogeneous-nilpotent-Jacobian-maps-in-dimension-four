@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CoefficientField.lean",
+  "source_sha256": "646684d6b3599ce0754b213553e39380dc777ca9cda9137a748ffa17400976df",
+  "exit_code": 0,
+  "seconds": 16.12,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CoefficientField.lean:71:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.vertical_derivation_kills_output_field`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

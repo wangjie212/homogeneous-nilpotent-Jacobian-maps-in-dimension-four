@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreZeroPairingFiberEquations.lean",
+  "source_sha256": "cf36ec063de9d1c0238063c953cc80d4ed7554431e45360bb7437ff61b4e7c4e",
+  "exit_code": 0,
+  "seconds": 18.32,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreZeroPairingFiberEquations.lean:74:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreZeroPairingFiberEquations.lean:84:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.segre_zero_pairing_second_invariant_radial_product_is_negative_determinant`:\n  [CharZero E]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero E] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

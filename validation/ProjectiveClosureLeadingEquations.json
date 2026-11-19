@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveClosureLeadingEquations.lean",
+  "source_sha256": "f5b90fbafc09ba74e8ec49067dac010029a3ee699b4b89544e7cab1c9bc4ab6e",
+  "exit_code": 0,
+  "seconds": 15.16,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 8.16s\n.olean serialization took 224ms\ncumulative profiling times:\n\t.olean serialization 224ms\n\tattribute application 0.648ms\n\tcongr simp thm 0.588ms\n\telaboration 13.5ms\n\tfix level params 0.528ms\n\timport 8.16s\n\tinitialization 28.2ms\n\tinstantiate metavars 0.505ms\n\tinterpretation 6.44s\n\tlet-to-have transformation 0.0589ms\n\tlinting 4.92ms\n\tmodule linting 0.0024ms\n\tnorm_num 21.8ms\n\toverlappingInstancesLinter 25.4ms\n\tparsing 2.15ms\n\tprocess pre-definitions 1.53ms\n\tshare common exprs 1.33ms\n\tsimp 22.2ms\n\ttactic execution 35.6ms\n\ttacticAnalysis 66.2ms\n\ttype checking 19ms\n\ttypeclass inference 65.5ms\n"
+}

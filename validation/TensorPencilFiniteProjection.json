@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TensorPencilFiniteProjection.lean",
+  "source_sha256": "103dc64170193bb311233424786bc50150b4f29f6766feb146997ba7fbf4d463",
+  "exit_code": 0,
+  "seconds": 20.26,
+  "log": "typeclass inference of Module took 385ms\nlet-to-have transformation took 198ms\ntactic execution of Lean.Parser.Tactic.obtain took 754ms\ntypeclass inference of Module took 358ms\ntactic execution of Lean.Parser.Tactic.obtain took 972ms\ntactic execution of Lean.Parser.Tactic.exact took 113ms\nlet-to-have transformation took 202ms\ntype checking took 268ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 7.93s\n.olean serialization took 405ms\ncumulative profiling times:\n\t.olean serialization 405ms\n\tattribute application 0.99ms\n\tblocked (unaccounted) 57.9ms\n\tcompilation (IR) 0.737ms\n\tcompilation (LCNF base) 28.2ms\n\tcompilation (LCNF impure) 4.31ms\n\tcompilation (LCNF mono) 7.78ms\n\telaboration 176ms\n\tfix level params 2.81ms\n\timport 7.93s\n\tinitialization 28ms\n\tinstantiate metavars 2.87ms\n\tinterpretation 6.6s\n\tlet-to-have transformation 400ms\n\tlinting 13ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 39.5ms\n\tparsing 1.92ms\n\tprocess pre-definitions 13.5ms\n\tshare common exprs 6.46ms\n\ttactic execution 1.89s\n\ttacticAnalysis 146ms\n\ttype checking 269ms\n\ttypeclass inference 2.57s\n"
+}

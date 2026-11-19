@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SchemeParameterSpread.lean",
+  "source_sha256": "bec840c0eb665be3e46040e977fb7cc79009acca6b5208ec635ac592fdd43bc9",
+  "exit_code": 0,
+  "seconds": 15.1,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 7.9s\n.olean serialization took 218ms\ncumulative profiling times:\n\t.olean serialization 218ms\n\tattribute application 0.0502ms\n\tcongr simp thm 0.0646ms\n\telaboration 38.9ms\n\tfix level params 0.321ms\n\timport 7.9s\n\tinitialization 27.5ms\n\tinstantiate metavars 0.106ms\n\tinterpretation 7.09s\n\tlet-to-have transformation 0.0965ms\n\tlinting 9.02ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 35.4ms\n\tparsing 3.08ms\n\tprocess pre-definitions 2.41ms\n\tshare common exprs 0.888ms\n\tsimp 0.854ms\n\ttactic execution 15.9ms\n\ttacticAnalysis 112ms\n\ttype checking 9.43ms\n\ttypeclass inference 34.3ms\n"
+}

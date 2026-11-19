@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RulingFormNonvanishing.lean",
+  "source_sha256": "0cbe8406248bb70b9eb4bced5529aafb97b26a2144c137b71bb9717c7d7ee981",
+  "exit_code": 0,
+  "seconds": 18.0,
+  "log": "type checking took 116ms\ntype checking took 109ms\ntype checking took 119ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 8.63s\n.olean serialization took 238ms\ncumulative profiling times:\n\t.olean serialization 238ms\n\tattribute application 2.79ms\n\tblocked (unaccounted) 86.1ms\n\tcompilation (IR) 1.14ms\n\tcompilation (LCNF base) 42.5ms\n\tcompilation (LCNF impure) 5.72ms\n\tcompilation (LCNF mono) 11.7ms\n\tcongr simp thm 1.23ms\n\telaboration 340ms\n\tfix level params 0.97ms\n\timport 8.63s\n\tinitialization 29ms\n\tinstantiate metavars 0.26ms\n\tinterpretation 6.49s\n\tlet-to-have transformation 0.399ms\n\tlinting 13.1ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 29.4ms\n\tparsing 2.83ms\n\tprocess pre-definitions 8.38ms\n\tshare common exprs 3.4ms\n\tsimp 13.7ms\n\ttactic execution 38.5ms\n\ttacticAnalysis 86.4ms\n\ttype checking 370ms\n\ttypeclass inference 2.01s\n"
+}

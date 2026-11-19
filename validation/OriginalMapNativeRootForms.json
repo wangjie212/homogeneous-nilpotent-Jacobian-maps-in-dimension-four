@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalMapNativeRootForms.lean",
+  "source_sha256": "53f1710f431bd79ec758e785faeeec9b48e8e4bce2f17e5c4122546a6e906615",
+  "exit_code": 0,
+  "seconds": 15.91,
+  "log": "tactic execution of Lean.Parser.Tactic.obtain took 183ms\ntype checking took 155ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 8.27s\n.olean serialization took 237ms\ncumulative profiling times:\n\t.olean serialization 237ms\n\tattribute application 0.0194ms\n\telaboration 27.1ms\n\tfix level params 2.27ms\n\timport 8.27s\n\tinitialization 27.4ms\n\tinstantiate metavars 1.92ms\n\tinterpretation 6.57s\n\tlet-to-have transformation 0.117ms\n\tlinting 16.2ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 31.2ms\n\tparsing 1.2ms\n\tprocess pre-definitions 5.55ms\n\tshare common exprs 4.62ms\n\ttactic execution 310ms\n\ttacticAnalysis 92ms\n\ttype checking 155ms\n\ttypeclass inference 126ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineConeTrace.lean",
+  "source_sha256": "6fe135cfd8741749afb9645c124d0e231a8591d6129a6b01a89ade39c7af8323",
+  "exit_code": 0,
+  "seconds": 17.56,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\AffineConeTrace.lean:81:8: warning: This simp argument is unused:\n  affine_partial_polynomial_parameter_chain_rule\n\nHint: Omit it from the simp argument list.\n  [apply] simp [Derivation.leibniz, smul_eq_mul] at ht\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PlanarCoefficientRelationDescent.lean",
+  "source_sha256": "ad00ba8457fe07600ed90ac68ff9d62cc9668960653deb3a25629caa3dc0c1c1",
+  "exit_code": 0,
+  "seconds": 20.54,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PlanarCoefficientRelationDescent.lean:42:16: warning: `MvPolynomial.coeff_add` has been deprecated: Use `AddMonoidAlgebra.coeff_add` instead\n\nNote: The updated constant has a different type:\n  ∀ {R : Type u_1} {M : Type u_4} [inst : Semiring R] (x y : AddMonoidAlgebra R M), (x + y).coeff = x.coeff + y.coeff\ninstead of\n  ∀ {R : Type u} {σ : Type u_1} [inst : CommSemiring R] (m : σ →₀ ℕ) (p q : MvPolynomial σ R),\n    (p + q).coeff m = p.coeff m + q.coeff m\n\nNote: The updated constant is in a different namespace. Dot notation may need to be changed (e.g., from `x.coeff_add` to `AddMonoidAlgebra.coeff_add x`).\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PlanarCoefficientRelationDescent.lean:42:53: warning: `MvPolynomial.coeff_zero` has been deprecated: Use `AddMonoidAlgebra.coeff_zero` instead\n\nNote: The updated constant has a different type:\n  ∀ {R : Type u_1} {M : Type u_4} [inst : Semiring R], AddMonoidAlgebra.coeff 0 = 0\ninstead of\n  ∀ {R : Type u} {σ : Type u_1} [inst : CommSemiring R], AddMonoidAlgebra.coeff 0 = 0\n\nNote: The updated constant is in a different namespace. Dot notation may need to be changed (e.g., from `x.coeff_zero` to `AddMonoidAlgebra.coeff_zero x`).\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FixedNormalKernelTransport.lean",
+  "source_sha256": "5fc90f9cf5a5874630b22b89beffee020218f33e28406eaaa8fdf13165d23ba6",
+  "exit_code": 0,
+  "seconds": 15.07,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.82s\n.olean serialization took 222ms\ncumulative profiling times:\n\t.olean serialization 222ms\n\tattribute application 0.0213ms\n\tcongr simp thm 2.1ms\n\tdsimp 1.13ms\n\telaboration 75.5ms\n\tfix level params 1.2ms\n\timport 7.82s\n\tinitialization 29.2ms\n\tinstantiate metavars 1.5ms\n\tinterpretation 6.28s\n\tlet-to-have transformation 0.189ms\n\tlinting 8.4ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 24ms\n\tparsing 3.94ms\n\tprocess pre-definitions 3.44ms\n\tshare common exprs 2.96ms\n\tsimp 34.7ms\n\ttactic execution 161ms\n\ttacticAnalysis 66.1ms\n\ttype checking 89.8ms\n\ttypeclass inference 360ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualBoundaryRulingExclusion.lean",
+  "source_sha256": "2ac358997f84b6be92f6b36c79046a77a0744530df9899bf05dccfa05a18a83b",
+  "exit_code": 0,
+  "seconds": 21.53,
+  "log": "typeclass inference of Module took 127ms\ntypeclass inference of Module took 124ms\ntypeclass inference of Module took 303ms\ntype checking took 155ms\ntypeclass inference of Module took 124ms\ntypeclass inference of Module took 125ms\ntypeclass inference of Module took 298ms\ntactic execution of Lean.Parser.Tactic.obtain took 1.03s\ntype checking took 171ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.26s\n.olean serialization took 1.35s\ncumulative profiling times:\n\t.olean serialization 1.35s\n\tattribute application 1.54ms\n\tblocked (unaccounted) 79.5ms\n\tcompilation (IR) 1.07ms\n\tcompilation (LCNF base) 38.8ms\n\tcompilation (LCNF impure) 5.62ms\n\tcompilation (LCNF mono) 11.5ms\n\telaboration 419ms\n\tfix level params 3.42ms\n\timport 8.26s\n\tinitialization 27.7ms\n\tinstantiate metavars 1.19ms\n\tinterpretation 6.67s\n\tlet-to-have transformation 0.964ms\n\tlinting 16.7ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 36.6ms\n\tparsing 3.4ms\n\tprocess pre-definitions 11.6ms\n\tshare common exprs 7.52ms\n\ttactic execution 1.07s\n\ttacticAnalysis 127ms\n\ttype checking 328ms\n\ttypeclass inference 3.54s\n"
+}

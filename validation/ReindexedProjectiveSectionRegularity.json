@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ReindexedProjectiveSectionRegularity.lean",
+  "source_sha256": "6422a20b5a0805c692e455a289f53a16d28da0d2b9594f777c7669d8656cb582",
+  "exit_code": 0,
+  "seconds": 20.67,
+  "log": "typeclass inference of SMul took 412ms\ntypeclass inference of SMul took 430ms\ninterpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 154ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 118ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 111ms\nimport took 9.64s\n.olean serialization took 202ms\ncumulative profiling times:\n\t.olean serialization 202ms\n\tattribute application 0.0153ms\n\tcongr simp thm 0.675ms\n\telaboration 34.6ms\n\tfix level params 3.82ms\n\timport 9.64s\n\tinitialization 28.7ms\n\tinstantiate metavars 3.3ms\n\tinterpretation 8.51s\n\tlet-to-have transformation 0.123ms\n\tlinting 9.34ms\n\tmodule linting 0.0032ms\n\tnorm_num 3.17ms\n\toverlappingInstancesLinter 39.8ms\n\tparsing 3.45ms\n\tprocess pre-definitions 5.12ms\n\tshare common exprs 9.76ms\n\tsimp 25.3ms\n\ttactic execution 170ms\n\ttacticAnalysis 87ms\n\ttype checking 64.1ms\n\ttypeclass inference 1.73s\n"
+}

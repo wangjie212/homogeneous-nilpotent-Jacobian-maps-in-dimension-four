@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PrimitiveBoundaryImage.lean",
+  "source_sha256": "e8b912db2273cf0243099fe585a5f25282aa111afc2cda464a20ebe53babace6",
+  "exit_code": 0,
+  "seconds": 15.09,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 118ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 8.01s\n.olean serialization took 208ms\ncumulative profiling times:\n\t.olean serialization 208ms\n\tattribute application 0.609ms\n\tcongr simp thm 1.42ms\n\tdsimp 0.221ms\n\telaboration 24.4ms\n\tfix level params 0.896ms\n\timport 8.01s\n\tinitialization 28.9ms\n\tinstantiate metavars 0.992ms\n\tinterpretation 6.54s\n\tlet-to-have transformation 0.115ms\n\tlinting 10.2ms\n\tmodule linting 0.0019ms\n\tnorm_num 15.1ms\n\toverlappingInstancesLinter 61.1ms\n\tparsing 3.41ms\n\tprocess pre-definitions 2.94ms\n\tring 139ms\n\tshare common exprs 2.84ms\n\tsimp 38.9ms\n\ttactic execution 80.1ms\n\ttacticAnalysis 76.5ms\n\ttype checking 35.3ms\n\ttypeclass inference 177ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SchemeRationalSectionFunctions.lean",
+  "source_sha256": "9a79559ca0360e3ac3b0e46812cd2896db51b410be3ef2fb18ac9d7d368ed46d",
+  "exit_code": 0,
+  "seconds": 15.59,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.08s\n.olean serialization took 217ms\ncumulative profiling times:\n\t.olean serialization 217ms\n\tattribute application 0.0597ms\n\tcongr simp thm 2.51ms\n\telaboration 36.4ms\n\tfix level params 0.418ms\n\timport 8.08s\n\tinitialization 27.9ms\n\tinstantiate metavars 0.314ms\n\tinterpretation 6.67s\n\tlet-to-have transformation 0.0932ms\n\tlinting 3.22ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 25ms\n\tparsing 1.8ms\n\tprocess pre-definitions 8.38ms\n\tshare common exprs 1.22ms\n\tsimp 138ms\n\ttactic execution 20.1ms\n\ttacticAnalysis 82.7ms\n\ttype checking 48.7ms\n\ttypeclass inference 329ms\n"
+}

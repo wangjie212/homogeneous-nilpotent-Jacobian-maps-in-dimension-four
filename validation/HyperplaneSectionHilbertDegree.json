@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/HyperplaneSectionHilbertDegree.lean",
+  "source_sha256": "415d0c409a825c16010edbf48e86321e0df49dc9a41d4c6d3dccb50e220d7d7e",
+  "exit_code": 0,
+  "seconds": 15.38,
+  "log": "interpretation of Mathlib.Tactic._aux_Mathlib_Tactic_Linarith_Frontend___elabRules_Mathlib_Tactic_nlinarith_1._boxed took 328ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 7.95s\n.olean serialization took 207ms\ncumulative profiling times:\n\t.olean serialization 207ms\n\tattribute application 0.653ms\n\tcongr simp thm 1.17ms\n\telaboration 23ms\n\tfix level params 0.439ms\n\timport 7.95s\n\tinitialization 28.4ms\n\tinstantiate metavars 0.405ms\n\tinterpretation 6.99s\n\tlet-to-have transformation 0.0697ms\n\tlinting 5.8ms\n\tmodule linting 0.0016ms\n\tnorm_num 3.51ms\n\toverlappingInstancesLinter 37.6ms\n\tparsing 2.63ms\n\tprocess pre-definitions 1.64ms\n\tring 76.6ms\n\tshare common exprs 1.94ms\n\tsimp 17ms\n\ttactic execution 48.7ms\n\ttacticAnalysis 84.4ms\n\ttype checking 30.8ms\n\ttypeclass inference 110ms\n"
+}

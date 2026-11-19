@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalGraphTensorValues.lean",
+  "source_sha256": "d46478d315cd1d674f6e41235d65722d6f4c1f4ccf20db40923599c4d0e4d67d",
+  "exit_code": 0,
+  "seconds": 20.78,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\OriginalGraphTensorValues.lean:43:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.originalGraphFullOutputCoordinate_source_value`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/DvrPolynomialMultiplicity.lean",
+  "source_sha256": "10957af9cc465eb4982e83988b2292bd8533251c2cb3da1fa983ccd3307323b2",
+  "exit_code": 0,
+  "seconds": 15.11,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 8.17s\n.olean serialization took 188ms\ncumulative profiling times:\n\t.olean serialization 188ms\n\tattribute application 0.011ms\n\telaboration 9.33ms\n\tfix level params 0.104ms\n\timport 8.17s\n\tinitialization 28.2ms\n\tinstantiate metavars 0.047ms\n\tinterpretation 6.28s\n\tlet-to-have transformation 0.033ms\n\tlinting 1.98ms\n\tmodule linting 0.0021ms\n\toverlappingInstancesLinter 28.1ms\n\tparsing 0.783ms\n\tprocess pre-definitions 0.347ms\n\tshare common exprs 0.255ms\n\ttactic execution 3.33ms\n\ttacticAnalysis 23.8ms\n\ttype checking 1.94ms\n\ttypeclass inference 112ms\n"
+}

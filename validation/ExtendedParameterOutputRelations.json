@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedParameterOutputRelations.lean",
+  "source_sha256": "76813ec8d66a59531b81bbaf7792c8c3e644df9292b5006a6c4a53a955ea7b1d",
+  "exit_code": 0,
+  "seconds": 17.4,
+  "log": "type checking took 117ms\ntype checking took 111ms\ntype checking took 122ms\ntype checking took 175ms\ntype checking took 120ms\nimport took 8.03s\n.olean serialization took 261ms\ncumulative profiling times:\n\t.olean serialization 261ms\n\tattribute application 3.1ms\n\tblocked (unaccounted) 61.6ms\n\tcompilation (IR) 0.67ms\n\tcompilation (LCNF base) 30ms\n\tcompilation (LCNF impure) 3.51ms\n\tcompilation (LCNF mono) 7.76ms\n\tcongr simp thm 2.21ms\n\telaboration 301ms\n\tfix level params 1.66ms\n\timport 8.03s\n\tinitialization 28.2ms\n\tinstantiate metavars 1.13ms\n\tinterpretation 6.45s\n\tlet-to-have transformation 0.467ms\n\tlinting 12.7ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 44.7ms\n\tparsing 3.15ms\n\tprocess pre-definitions 8.08ms\n\tshare common exprs 4.71ms\n\tsimp 130ms\n\ttactic execution 64ms\n\ttacticAnalysis 137ms\n\ttype checking 663ms\n\ttypeclass inference 2.12s\n"
+}

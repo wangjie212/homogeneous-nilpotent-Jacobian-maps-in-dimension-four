@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/LinearMonicProjectionChoice.lean",
+  "source_sha256": "9a240dfe0394e6903ecd53eb52d7d4e8a7d19a234b1b986c2aaa3322d151b7dd",
+  "exit_code": 0,
+  "seconds": 17.07,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 108ms\nimport took 9.8s\n.olean serialization took 212ms\ncumulative profiling times:\n\t.olean serialization 212ms\n\tattribute application 0.0272ms\n\tcongr simp thm 1.92ms\n\telaboration 15.8ms\n\tfix level params 0.95ms\n\timport 9.8s\n\tinitialization 27.5ms\n\tinstantiate metavars 1.14ms\n\tinterpretation 6.99s\n\tlet-to-have transformation 0.574ms\n\tlinting 5.8ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 32.3ms\n\tparsing 3.54ms\n\tprocess pre-definitions 2.99ms\n\tshare common exprs 2.49ms\n\tsimp 55.7ms\n\ttactic execution 95ms\n\ttacticAnalysis 112ms\n\ttype checking 23.8ms\n\ttypeclass inference 171ms\n"
+}

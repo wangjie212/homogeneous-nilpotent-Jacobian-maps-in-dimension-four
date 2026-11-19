@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalInfinityTargetAction.lean",
+  "source_sha256": "6b3c6f34ed17ef91feea602a02761edcecab8c92128a04d81aa70d6b52bcca14",
+  "exit_code": 0,
+  "seconds": 19.09,
+  "log": "typeclass inference of SMul took 329ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 124ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 182ms\nimport took 9.88s\n.olean serialization took 240ms\ncumulative profiling times:\n\t.olean serialization 240ms\n\tattribute application 1.32ms\n\tblocked (unaccounted) 0.0121ms\n\telaboration 12.4ms\n\tfix level params 0.123ms\n\timport 9.88s\n\tinitialization 29.4ms\n\tinstantiate metavars 0.0354ms\n\tinterpretation 8.04s\n\tlet-to-have transformation 2.26ms\n\tlinting 1.82ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 29.8ms\n\tparsing 0.988ms\n\tprocess pre-definitions 1.32ms\n\tshare common exprs 0.297ms\n\ttactic execution 4ms\n\ttacticAnalysis 30.9ms\n\ttype checking 20.6ms\n\ttypeclass inference 608ms\n"
+}

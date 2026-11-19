@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedSourceFormLocalIdeals.lean",
+  "source_sha256": "12eec2f24d1362291e65ef15a03264b26cf2a88675f4b39fe105ee6668469ed5",
+  "exit_code": 0,
+  "seconds": 18.21,
+  "log": "type checking took 115ms\ntype checking took 111ms\ntype checking took 114ms\ntype checking took 113ms\ntype checking took 113ms\ntype checking took 119ms\ntype checking took 127ms\ntype checking took 130ms\ntype checking took 122ms\ntype checking took 122ms\ntype checking took 127ms\ntype checking took 114ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 122ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 100ms\nimport took 7.81s\n.olean serialization took 332ms\ncumulative profiling times:\n\t.olean serialization 332ms\n\tattribute application 5.77ms\n\tblocked (unaccounted) 69.8ms\n\tcompilation (IR) 1.09ms\n\tcompilation (LCNF base) 34ms\n\tcompilation (LCNF impure) 4.16ms\n\tcompilation (LCNF mono) 9.92ms\n\tcongr simp thm 4.81ms\n\telaboration 487ms\n\tfix level params 2.56ms\n\timport 7.81s\n\tinitialization 28.3ms\n\tinstantiate metavars 0.655ms\n\tinterpretation 6.79s\n\tlet-to-have transformation 0.81ms\n\tlinting 30.3ms\n\tmodule linting 0.0016ms\n\tnorm_num 1.75ms\n\toverlappingInstancesLinter 39.4ms\n\tparsing 5.62ms\n\tprocess pre-definitions 13.9ms\n\tring 81.1ms\n\tshare common exprs 8.06ms\n\tsimp 17.1ms\n\ttactic execution 151ms\n\ttacticAnalysis 131ms\n\ttype checking 1.45s\n\ttypeclass inference 2.57s\n"
+}

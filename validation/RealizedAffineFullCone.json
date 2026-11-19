@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RealizedAffineFullCone.lean",
+  "source_sha256": "832849b6cf367b10f596676bbc2c0e8a095db1126ea9d3a5e42ae92e5ab7cbf4",
+  "exit_code": 0,
+  "seconds": 21.57,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\RealizedAffineFullCone.lean:62:5: warning: Variable name `hvertex` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _hvertex\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RegularFrameIntegerOrder.lean",
+  "source_sha256": "63cece293850b0e617891d5889f4d06d636056b77eeee13b604785db2a34b60f",
+  "exit_code": 0,
+  "seconds": 8.77,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 3.79s\ncumulative profiling times:\n\t.olean serialization 78.4ms\n\tattribute application 0.024ms\n\telaboration 17.1ms\n\tfix level params 0.132ms\n\timport 3.79s\n\tinitialization 27.4ms\n\tinstantiate metavars 0.164ms\n\tinterpretation 4.7s\n\tlet-to-have transformation 0.0315ms\n\tlinting 2.8ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 16.1ms\n\tparsing 1.33ms\n\tprocess pre-definitions 0.502ms\n\tshare common exprs 0.385ms\n\ttactic execution 21.8ms\n\ttacticAnalysis 50.3ms\n\ttype checking 6.58ms\n\ttypeclass inference 97.1ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/IndependentProjectionField.lean",
+  "source_sha256": "0c069b7af724ea36f338500111f46704b0e320e1fafa289e443f811ce5b8879d",
+  "exit_code": 0,
+  "seconds": 18.18,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 104ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 9.46s\n.olean serialization took 261ms\ncumulative profiling times:\n\t.olean serialization 261ms\n\tattribute application 0.0981ms\n\telaboration 53.9ms\n\tfix level params 0.78ms\n\timport 9.46s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.275ms\n\tinterpretation 7.92s\n\tlet-to-have transformation 19.2ms\n\tlinting 7.11ms\n\tmodule linting 0.0025ms\n\toverlappingInstancesLinter 35.9ms\n\tparsing 3.7ms\n\tprocess pre-definitions 6.06ms\n\tshare common exprs 2.02ms\n\ttactic execution 51.2ms\n\ttacticAnalysis 57.6ms\n\ttype checking 90.2ms\n\ttypeclass inference 406ms\n"
+}

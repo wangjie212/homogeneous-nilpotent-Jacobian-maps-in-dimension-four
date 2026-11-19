@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/IntegralSchemeFunctionFieldIso.lean",
+  "source_sha256": "9687afb46b6027a4772d8d478edcd3c3e039b651ca5214da5ee773faac5c22ac",
+  "exit_code": 0,
+  "seconds": 14.64,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 7.91s\n.olean serialization took 205ms\ncumulative profiling times:\n\t.olean serialization 205ms\n\tattribute application 0.0244ms\n\tcongr simp thm 0.498ms\n\telaboration 14.7ms\n\tfix level params 0.166ms\n\timport 7.91s\n\tinitialization 27.9ms\n\tinstantiate metavars 0.071ms\n\tinterpretation 6.65s\n\tlet-to-have transformation 0.0336ms\n\tlinting 2.04ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 41.6ms\n\tparsing 1.37ms\n\tprocess pre-definitions 1.46ms\n\tshare common exprs 0.416ms\n\tsimp 2.16ms\n\ttactic execution 14.4ms\n\ttacticAnalysis 143ms\n\ttype checking 6.2ms\n\ttypeclass inference 42.6ms\n"
+}

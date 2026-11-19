@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ReducedPencilVertexDifferential.lean",
+  "source_sha256": "2eb6897bc879de4673711105cc485ebf159c0a481f0514610a4721060f357fd1",
+  "exit_code": 0,
+  "seconds": 18.0,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ReducedPencilVertexDifferential.lean:32:12: warning: This simp argument is unused:\n  Finsupp.single_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [hj]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ReducedPencilVertexDifferential.lean:45:40: warning: Variable name `hq` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _hq\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\n"
+}

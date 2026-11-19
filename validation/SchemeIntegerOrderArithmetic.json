@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SchemeIntegerOrderArithmetic.lean",
+  "source_sha256": "0473b45fc3cda8cd42771a9e38df333e7deff512cf2d0e919ca6fe4ddfd9d0ed",
+  "exit_code": 0,
+  "seconds": 8.44,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 186ms\ninterpretation of Mathlib.Tactic._aux_Mathlib_Tactic_Linarith_Frontend___elabRules_Mathlib_Tactic_nlinarith_1._boxed took 211ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 3.74s\ncumulative profiling times:\n\t.olean serialization 77.1ms\n\tattribute application 0.041ms\n\tblocked (unaccounted) 0.0076ms\n\tcongr simp thm 1.32ms\n\telaboration 34.8ms\n\tfix level params 0.732ms\n\timport 3.74s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.747ms\n\tinterpretation 5.42s\n\tlet-to-have transformation 0.1ms\n\tlinting 10.9ms\n\tmodule linting 0.002ms\n\tnorm_num 27.9ms\n\toverlappingInstancesLinter 171ms\n\tparsing 3.21ms\n\tprocess pre-definitions 2.77ms\n\tring 96.5ms\n\tshare common exprs 2.84ms\n\tsimp 30.1ms\n\ttactic execution 120ms\n\ttacticAnalysis 115ms\n\ttype checking 42.3ms\n\ttypeclass inference 179ms\n"
+}

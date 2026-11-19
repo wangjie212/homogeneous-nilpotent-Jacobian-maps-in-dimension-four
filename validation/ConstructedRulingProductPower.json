@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConstructedRulingProductPower.lean",
+  "source_sha256": "99e46f4fb8ee3a3ffeb2919915cd26d5d69672de6bc2d11c479caabc8a7ba9ff",
+  "exit_code": 0,
+  "seconds": 20.67,
+  "log": "type checking took 113ms\ntype checking took 109ms\ntype checking took 133ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 10s\n.olean serialization took 267ms\ncumulative profiling times:\n\t.olean serialization 267ms\n\tattribute application 3.14ms\n\tblocked (unaccounted) 136ms\n\tcompilation (IR) 1.43ms\n\tcompilation (LCNF base) 67.7ms\n\tcompilation (LCNF impure) 7.56ms\n\tcompilation (LCNF mono) 18.1ms\n\telaboration 526ms\n\tfix level params 1.24ms\n\timport 10s\n\tinitialization 26.2ms\n\tinstantiate metavars 0.702ms\n\tinterpretation 6.65s\n\tlet-to-have transformation 0.471ms\n\tlinting 16.6ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 38.9ms\n\tparsing 2.6ms\n\tprocess pre-definitions 13.3ms\n\tshare common exprs 4.24ms\n\ttactic execution 94.5ms\n\ttacticAnalysis 150ms\n\ttype checking 375ms\n\ttypeclass inference 2.83s\n"
+}

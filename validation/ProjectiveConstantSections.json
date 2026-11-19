@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveConstantSections.lean",
+  "source_sha256": "dd833345742264ac24970b231cc8eee8930dc1754be21d7e4455aa5b422c280d",
+  "exit_code": 0,
+  "seconds": 16.41,
+  "log": "type checking took 241ms\ntype checking took 365ms\nsimp took 232ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 122ms\nimport took 7.78s\n.olean serialization took 263ms\ncumulative profiling times:\n\t.olean serialization 263ms\n\tattribute application 1.02ms\n\tblocked (unaccounted) 35.7ms\n\tcompilation (IR) 0.445ms\n\tcompilation (LCNF base) 17.4ms\n\tcompilation (LCNF impure) 2.51ms\n\tcompilation (LCNF mono) 4.65ms\n\tcongr simp thm 2.25ms\n\telaboration 189ms\n\tfix level params 1.76ms\n\timport 7.78s\n\tinitialization 28.6ms\n\tinstantiate metavars 1.18ms\n\tinterpretation 6.89s\n\tlet-to-have transformation 0.29ms\n\tlinting 8.54ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 36.3ms\n\tparsing 3.82ms\n\tprocess pre-definitions 53ms\n\tshare common exprs 5.07ms\n\tsimp 242ms\n\ttactic execution 204ms\n\ttacticAnalysis 131ms\n\ttype checking 1.07s\n\ttypeclass inference 549ms\n"
+}

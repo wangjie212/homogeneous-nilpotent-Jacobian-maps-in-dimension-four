@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FiniteRulingSimpleHessian.lean",
+  "source_sha256": "5e494b6c09d2dc074bb25942279ff50916feab712216a59c7ec1b79bc1713d58",
+  "exit_code": 0,
+  "seconds": 20.33,
+  "log": "typeclass inference of Module took 103ms\nelaboration took 128ms\ntactic execution of Lean.Parser.Tactic.obtain took 285ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 112ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 128ms\nimport took 10.3s\n.olean serialization took 358ms\ncumulative profiling times:\n\t.olean serialization 358ms\n\tattribute application 0.0195ms\n\tcongr simp thm 0.215ms\n\telaboration 177ms\n\tfix level params 4.63ms\n\timport 10.3s\n\tinitialization 28ms\n\tinstantiate metavars 3.43ms\n\tinterpretation 7.78s\n\tlet-to-have transformation 0.307ms\n\tlinting 10.6ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 24.8ms\n\tparsing 5.83ms\n\tprocess pre-definitions 8.21ms\n\tshare common exprs 8.21ms\n\tsimp 30.1ms\n\ttactic execution 736ms\n\ttacticAnalysis 56.6ms\n\ttype checking 78.9ms\n\ttypeclass inference 859ms\n"
+}

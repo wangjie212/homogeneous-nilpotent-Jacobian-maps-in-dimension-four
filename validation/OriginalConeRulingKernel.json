@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalConeRulingKernel.lean",
+  "source_sha256": "fa9658951d690c4cdd0296a2ebdf0102915c75fbbb04399aeb00282e58316faf",
+  "exit_code": 0,
+  "seconds": 14.95,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 7.73s\n.olean serialization took 211ms\ncumulative profiling times:\n\t.olean serialization 211ms\n\tattribute application 0.0211ms\n\tcongr simp thm 1ms\n\telaboration 66.8ms\n\tfix level params 0.814ms\n\timport 7.73s\n\tinitialization 28.3ms\n\tinstantiate metavars 0.653ms\n\tinterpretation 6.46s\n\tlet-to-have transformation 0.189ms\n\tlinting 6.14ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 31ms\n\tparsing 3.11ms\n\tprocess pre-definitions 3.32ms\n\tshare common exprs 2.14ms\n\tsimp 36.2ms\n\ttactic execution 130ms\n\ttacticAnalysis 75.8ms\n\ttype checking 130ms\n\ttypeclass inference 298ms\n"
+}

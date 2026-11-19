@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PolynomialPlaneParameterRigidity.lean",
+  "source_sha256": "e9e3222c7f307026c45096e0d390a76ca0af74658e352e8d2f4929b87f8f5b87",
+  "exit_code": 0,
+  "seconds": 14.73,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 7.77s\n.olean serialization took 209ms\ncumulative profiling times:\n\t.olean serialization 209ms\n\tattribute application 0.0218ms\n\telaboration 29.6ms\n\tfix level params 0.465ms\n\timport 7.77s\n\tinitialization 27.9ms\n\tinstantiate metavars 0.139ms\n\tinterpretation 6.33s\n\tlet-to-have transformation 0.141ms\n\tlinting 3.38ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 21.4ms\n\tparsing 1.92ms\n\tprocess pre-definitions 1.72ms\n\tshare common exprs 1.03ms\n\ttactic execution 29ms\n\ttacticAnalysis 69.9ms\n\ttype checking 41.5ms\n\ttypeclass inference 181ms\n"
+}

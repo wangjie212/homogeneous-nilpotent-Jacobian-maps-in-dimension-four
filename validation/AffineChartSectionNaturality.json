@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineChartSectionNaturality.lean",
+  "source_sha256": "8e6ff07e6c16f0f62b7296e0d90247ac1eb5685e90094ceab4d531c49da34d6d",
+  "exit_code": 0,
+  "seconds": 14.74,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.85s\n.olean serialization took 210ms\ncumulative profiling times:\n\t.olean serialization 210ms\n\tattribute application 0.0187ms\n\tcongr simp thm 0.894ms\n\telaboration 32.6ms\n\tfix level params 0.5ms\n\timport 7.85s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.453ms\n\tinterpretation 6.61s\n\tlet-to-have transformation 0.0849ms\n\tlinting 4.54ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 19.1ms\n\tparsing 1.93ms\n\tprocess pre-definitions 2.12ms\n\tshare common exprs 1.43ms\n\tsimp 16ms\n\ttactic execution 68.7ms\n\ttacticAnalysis 138ms\n\ttype checking 94.2ms\n\ttypeclass inference 96.5ms\n"
+}

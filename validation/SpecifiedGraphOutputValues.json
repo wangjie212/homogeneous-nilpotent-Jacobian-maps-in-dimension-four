@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SpecifiedGraphOutputValues.lean",
+  "source_sha256": "08163ac158696c2f404a1c6dcefeaa85c1fc5c4016747a38b6bb7ed16064d97e",
+  "exit_code": 0,
+  "seconds": 40.54,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SpecifiedGraphOutputValues.lean:58:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.specified_graph_coefficient_embedding_retains_original_euler_equation`:\n  [Algebra.IsAlgebraic (↥C₀) E]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [Algebra.IsAlgebraic (↥C₀) E] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

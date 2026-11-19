@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CoefficientSourceCompatibility.lean",
+  "source_sha256": "eee0f1982896cce77eabcc053730bec91d796fc9700ce75e826207f63f1159b0",
+  "exit_code": 0,
+  "seconds": 15.28,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.27s\n.olean serialization took 206ms\ncumulative profiling times:\n\t.olean serialization 206ms\n\tattribute application 0.013ms\n\telaboration 8.34ms\n\tfix level params 0.107ms\n\timport 8.27s\n\tinitialization 28.9ms\n\tinstantiate metavars 0.0491ms\n\tinterpretation 6.5s\n\tlet-to-have transformation 0.0234ms\n\tlinting 1.77ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 23.9ms\n\tparsing 0.784ms\n\tprocess pre-definitions 0.525ms\n\tshare common exprs 0.237ms\n\ttactic execution 2.24ms\n\ttacticAnalysis 31.4ms\n\ttype checking 1.62ms\n\ttypeclass inference 21ms\n"
+}

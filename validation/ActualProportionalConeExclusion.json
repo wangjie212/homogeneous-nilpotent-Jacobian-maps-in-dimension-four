@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualProportionalConeExclusion.lean",
+  "source_sha256": "97d33776c589e47d18e60141d94dfd6e0c23625432b9945a3a1e388ca4d74887",
+  "exit_code": 0,
+  "seconds": 19.65,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ActualProportionalConeExclusion.lean:43:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

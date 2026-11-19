@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/DominantQuadricWronskian.lean",
+  "source_sha256": "a28c8df580804afb5df0c0ecdf6a31fe83eb2450bd1271f8f7c93dd2b77125ca",
+  "exit_code": 0,
+  "seconds": 17.22,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\DominantQuadricWronskian.lean:48:15: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedRationalRootMultiplicity.lean",
+  "source_sha256": "79390220ae5d01669c9f3b648b95a75fd23aa4f869466617f14164ae9b30c325",
+  "exit_code": 0,
+  "seconds": 22.28,
+  "log": "type checking took 115ms\ntype checking took 118ms\ntype checking took 113ms\ntype checking took 133ms\ntype checking took 115ms\ntype checking took 132ms\ntype checking took 117ms\ntype checking took 130ms\ntype checking took 143ms\ntype checking took 124ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 11.8s\n.olean serialization took 312ms\ncumulative profiling times:\n\t.olean serialization 312ms\n\tattribute application 3.87ms\n\tblocked (unaccounted) 89.4ms\n\tcompilation (IR) 0.962ms\n\tcompilation (LCNF base) 45.8ms\n\tcompilation (LCNF impure) 5.06ms\n\tcompilation (LCNF mono) 12ms\n\tdsimp 1.55ms\n\telaboration 542ms\n\tfix level params 2ms\n\timport 11.8s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.435ms\n\tinterpretation 6.64s\n\tlet-to-have transformation 0.747ms\n\tlinting 24.3ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 37.9ms\n\tparsing 5.71ms\n\tprocess pre-definitions 15.5ms\n\tshare common exprs 5.87ms\n\ttactic execution 95ms\n\ttacticAnalysis 132ms\n\ttype checking 1.26s\n\ttypeclass inference 2.76s\n"
+}

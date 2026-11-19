@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualBoundaryDirectionDominance.lean",
+  "source_sha256": "7a768e3d76982dc2571c5929654a2f37b563acea0777069b7974bd0e3ba4e838",
+  "exit_code": 0,
+  "seconds": 19.91,
+  "log": "tactic execution of Lean.Parser.Tactic.rewriteSeq took 511ms\ntactic execution of Lean.Parser.Tactic.refine took 180ms\ntype checking took 180ms\ntype checking took 127ms\ntype checking took 148ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 8.77s\n.olean serialization took 1.43s\ncumulative profiling times:\n\t.olean serialization 1.43s\n\tattribute application 2.17ms\n\tblocked (unaccounted) 97.6ms\n\tcompilation (IR) 1.3ms\n\tcompilation (LCNF base) 48.4ms\n\tcompilation (LCNF impure) 6.63ms\n\tcompilation (LCNF mono) 13.8ms\n\tcongr simp thm 0.654ms\n\telaboration 454ms\n\tfix level params 2.4ms\n\timport 8.77s\n\tinitialization 29ms\n\tinstantiate metavars 0.647ms\n\tinterpretation 6.69s\n\tlet-to-have transformation 0.903ms\n\tlinting 20.7ms\n\tmodule linting 0.0021ms\n\toverlappingInstancesLinter 43.4ms\n\tparsing 4.66ms\n\tprocess pre-definitions 11ms\n\tshare common exprs 7.5ms\n\tsimp 39.1ms\n\ttactic execution 788ms\n\ttacticAnalysis 136ms\n\ttype checking 458ms\n\ttypeclass inference 2.31s\n"
+}

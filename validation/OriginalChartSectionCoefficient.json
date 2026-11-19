@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalChartSectionCoefficient.lean",
+  "source_sha256": "fc1467a42fc37f2df45def0d9b7975e1daa5c5fc6f960fb7bf563d255e747c9b",
+  "exit_code": 0,
+  "seconds": 17.09,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 111ms\nimport took 8.96s\n.olean serialization took 256ms\ncumulative profiling times:\n\t.olean serialization 256ms\n\tattribute application 0.0306ms\n\telaboration 66.5ms\n\tfix level params 0.419ms\n\timport 8.96s\n\tinitialization 27.2ms\n\tinstantiate metavars 0.182ms\n\tinterpretation 7.31s\n\tlet-to-have transformation 40.1ms\n\tlinting 4.71ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 28.3ms\n\tparsing 3.66ms\n\tprocess pre-definitions 4.53ms\n\tshare common exprs 1.25ms\n\ttactic execution 87.4ms\n\ttacticAnalysis 75.7ms\n\ttype checking 98ms\n\ttypeclass inference 609ms\n"
+}

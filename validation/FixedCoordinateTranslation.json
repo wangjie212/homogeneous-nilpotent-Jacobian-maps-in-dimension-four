@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FixedCoordinateTranslation.lean",
+  "source_sha256": "8856b251f14c233d4eb5c595558a8be4ea1cb250a8a4130b32094962199bbfa4",
+  "exit_code": 0,
+  "seconds": 17.34,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\FixedCoordinateTranslation.lean:20:4: warning: Try `simp at h` instead of `simpa using h`\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\FixedCoordinateTranslation.lean:78:35: warning: This simp argument is unused:\n  map_add\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [Fin.lastCases_last, aeval_X, map_zero, add_zero]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\FixedCoordinateTranslation.lean:78:53: warning: This simp argument is unused:\n  map_zero\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [Fin.lastCases_last, map_add, aeval_X, add_zero]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

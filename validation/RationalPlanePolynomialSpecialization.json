@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalPlanePolynomialSpecialization.lean",
+  "source_sha256": "867d866edb77c6e077fd0db5c981eeb89a41fdd14ac93eae292b4ee1ea9aa149",
+  "exit_code": 0,
+  "seconds": 14.79,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 7.76s\n.olean serialization took 218ms\ncumulative profiling times:\n\t.olean serialization 218ms\n\tattribute application 0.0204ms\n\telaboration 17.2ms\n\tfix level params 0.378ms\n\timport 7.76s\n\tinitialization 28.4ms\n\tinstantiate metavars 0.224ms\n\tinterpretation 6.45s\n\tlet-to-have transformation 0.083ms\n\tlinting 2.65ms\n\tmodule linting 0.0019ms\n\tnorm_num 1.8ms\n\toverlappingInstancesLinter 19.9ms\n\tparsing 1.38ms\n\tprocess pre-definitions 1.22ms\n\tring 37.3ms\n\tshare common exprs 1.51ms\n\ttactic execution 13.6ms\n\ttacticAnalysis 44.7ms\n\ttype checking 13.4ms\n\ttypeclass inference 70.8ms\n"
+}

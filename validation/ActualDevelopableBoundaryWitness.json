@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualDevelopableBoundaryWitness.lean",
+  "source_sha256": "8756743318f9cdf6788b13217e344685508b586d9503a1326b010e5993564de3",
+  "exit_code": 0,
+  "seconds": 24.44,
+  "log": "typeclass inference of SMul took 118ms\ntypeclass inference of SMul took 507ms\ntypeclass inference of MulAction took 173ms\ntypeclass inference of Module took 701ms\nelaboration took 184ms\ntype checking took 128ms\ntypeclass inference of SMul took 116ms\ntypeclass inference of SMul took 526ms\ntype checking took 260ms\nimport took 7.84s\n.olean serialization took 249ms\ncumulative profiling times:\n\t.olean serialization 249ms\n\tattribute application 2.6ms\n\tblocked (unaccounted) 142ms\n\tcompilation (IR) 1.93ms\n\tcompilation (LCNF base) 70.1ms\n\tcompilation (LCNF impure) 8.89ms\n\tcompilation (LCNF mono) 20.5ms\n\tcongr simp thm 0.128ms\n\tdsimp 10.4ms\n\telaboration 695ms\n\tfix level params 3.28ms\n\timport 7.84s\n\tinitialization 27.3ms\n\tinstantiate metavars 1.86ms\n\tinterpretation 6.42s\n\tlet-to-have transformation 0.578ms\n\tlinting 26.7ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 36.3ms\n\tparsing 4.48ms\n\tprocess pre-definitions 38.4ms\n\tshare common exprs 8.58ms\n\tsimp 2.94ms\n\ttactic execution 314ms\n\ttacticAnalysis 163ms\n\ttype checking 657ms\n\ttypeclass inference 8.37s\n"
+}

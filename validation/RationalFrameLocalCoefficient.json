@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalFrameLocalCoefficient.lean",
+  "source_sha256": "7566e1c78d1566aa39f223d7de5f08ec1a0fb8ca0ee47b373c936bdbb2c68de1",
+  "exit_code": 0,
+  "seconds": 15.77,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 125ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 8.63s\n.olean serialization took 196ms\ncumulative profiling times:\n\t.olean serialization 196ms\n\tattribute application 0.0084ms\n\tcongr simp thm 0.352ms\n\telaboration 9.76ms\n\tfix level params 0.483ms\n\timport 8.63s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.576ms\n\tinterpretation 6.91s\n\tlet-to-have transformation 0.0305ms\n\tlinting 3.48ms\n\tmodule linting 0.0031ms\n\tnorm_num 3.32ms\n\toverlappingInstancesLinter 29.9ms\n\tparsing 0.94ms\n\tprocess pre-definitions 0.988ms\n\tshare common exprs 1.22ms\n\tsimp 4.21ms\n\ttactic execution 19.1ms\n\ttacticAnalysis 91ms\n\ttype checking 9.23ms\n\ttypeclass inference 50.2ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SpreadOutPencilDivisorOrders.lean",
+  "source_sha256": "4a4a68a8b40074cf6504fb7997c8666c8ae4b7480940511073393f35a059776f",
+  "exit_code": 0,
+  "seconds": 19.2,
+  "log": "type checking took 132ms\ntype checking took 132ms\ntype checking took 128ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 8.24s\n.olean serialization took 254ms\ncumulative profiling times:\n\t.olean serialization 254ms\n\tattribute application 1.26ms\n\tblocked (unaccounted) 70ms\n\tcompilation (IR) 0.895ms\n\tcompilation (LCNF base) 35.4ms\n\tcompilation (LCNF impure) 4.68ms\n\tcompilation (LCNF mono) 9.51ms\n\telaboration 349ms\n\tfix level params 0.986ms\n\timport 8.24s\n\tinitialization 28.9ms\n\tinstantiate metavars 0.0781ms\n\tinterpretation 6.68s\n\tlet-to-have transformation 0.438ms\n\tlinting 12.4ms\n\tmodule linting 0.0021ms\n\toverlappingInstancesLinter 35.2ms\n\tparsing 2.82ms\n\tprocess pre-definitions 5.44ms\n\tshare common exprs 3.18ms\n\ttactic execution 16.5ms\n\ttacticAnalysis 135ms\n\ttype checking 394ms\n\ttypeclass inference 3.61s\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActivePencilLinearFrame.lean",
+  "source_sha256": "0ed3aceebcc89932270471092f123173e9c694078931d1010868d1dfde78ec05",
+  "exit_code": 0,
+  "seconds": 16.65,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ActivePencilLinearFrame.lean:59:33: warning: This simp argument is unused:\n  vertexPreservingMatrix_castSucc\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [activePencilMatrix, vertexPreservingMatrix, Fin.lastCases_last, Fin.lastCases_castSucc, map_zero,\n    zero_mul, add_zero]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

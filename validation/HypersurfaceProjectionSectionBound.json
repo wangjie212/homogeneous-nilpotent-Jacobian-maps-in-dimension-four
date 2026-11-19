@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/HypersurfaceProjectionSectionBound.lean",
+  "source_sha256": "7f20c0c9bcab96c843c5ff0a4761e06b42d8cb596b2e589e57c1c7b57d34ec49",
+  "exit_code": 0,
+  "seconds": 16.12,
+  "log": "typeclass inference of SMul took 285ms\ntypeclass inference of SMul took 278ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 7.86s\n.olean serialization took 209ms\ncumulative profiling times:\n\t.olean serialization 209ms\n\tattribute application 0.0107ms\n\telaboration 17ms\n\tfix level params 0.256ms\n\timport 7.86s\n\tinitialization 27.5ms\n\tinstantiate metavars 0.138ms\n\tinterpretation 6.76s\n\tlet-to-have transformation 0.0671ms\n\tlinting 3.19ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 25.2ms\n\tparsing 1.16ms\n\tprocess pre-definitions 0.679ms\n\tshare common exprs 0.569ms\n\ttactic execution 8.62ms\n\ttacticAnalysis 68.6ms\n\ttype checking 18.3ms\n\ttypeclass inference 954ms\n"
+}

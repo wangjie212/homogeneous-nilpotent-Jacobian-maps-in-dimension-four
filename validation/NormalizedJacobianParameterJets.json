@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalizedJacobianParameterJets.lean",
+  "source_sha256": "971b502415eed38b7f7804d8e0c0cab6c24f71b5a5b1dbf2c719107eca395ba0",
+  "exit_code": 0,
+  "seconds": 18.17,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NormalizedJacobianParameterJets.lean:45:8: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NormalizedJacobianParameterJets.lean:49:29: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NormalizedJacobianParameterJets.lean:49:29: warning: This simp argument is unused:\n  if_pos rfl\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [hz, mul_zero] at h\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NormalizedJacobianParameterJets.lean:92:47: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead\n"
+}

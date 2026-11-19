@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/LocalParameterDvr.lean",
+  "source_sha256": "33f2b983c41547c07d39aa518e7f5af49cf1504e809402f1bf2c335377720623",
+  "exit_code": 0,
+  "seconds": 176.87,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 169s\n.olean serialization took 192ms\ncumulative profiling times:\n\t.olean serialization 192ms\n\tattribute application 0.269ms\n\tblocked (unaccounted) 20.7ms\n\tcompilation (IR) 0.278ms\n\tcompilation (LCNF base) 9.83ms\n\tcompilation (LCNF impure) 1.59ms\n\tcompilation (LCNF mono) 2.7ms\n\tcongr simp thm 0.513ms\n\telaboration 41ms\n\tfix level params 0.55ms\n\timport 169s\n\tinitialization 29.1ms\n\tinstantiate metavars 0.397ms\n\tinterpretation 6.71s\n\tlet-to-have transformation 4.19ms\n\tlinting 6.93ms\n\tmodule linting 0.0021ms\n\toverlappingInstancesLinter 45.9ms\n\tparsing 4.16ms\n\tprocess pre-definitions 5.5ms\n\tshare common exprs 1.59ms\n\tsimp 6.61ms\n\ttactic execution 88ms\n\ttacticAnalysis 76.3ms\n\ttype checking 100ms\n\ttypeclass inference 248ms\n"
+}

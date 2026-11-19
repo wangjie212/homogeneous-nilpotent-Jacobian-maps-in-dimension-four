@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalProjectionCoordinateIntegrality.lean",
+  "source_sha256": "d96292bd5f735fd107a46cb463472200c93789929eda01b351c21449790c5e95",
+  "exit_code": 0,
+  "seconds": 17.8,
+  "log": "typeclass inference of SMul took 285ms\ntypeclass inference of SMul took 283ms\ntypeclass inference of SMul took 283ms\ntypeclass inference of SMul took 290ms\ntypeclass inference of SMul took 285ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.48s\n.olean serialization took 209ms\ncumulative profiling times:\n\t.olean serialization 209ms\n\tattribute application 0.0455ms\n\tblocked (unaccounted) 0.0346ms\n\tcongr simp thm 0.296ms\n\telaboration 27ms\n\tfix level params 0.466ms\n\timport 8.48s\n\tinitialization 29.6ms\n\tinstantiate metavars 0.221ms\n\tinterpretation 6.6s\n\tlet-to-have transformation 0.144ms\n\tlinting 5.06ms\n\tmodule linting 0.0022ms\n\tnorm_num 19.9ms\n\toverlappingInstancesLinter 34.6ms\n\tparsing 2.61ms\n\tprocess pre-definitions 1.36ms\n\tshare common exprs 1.12ms\n\tsimp 5.63ms\n\ttactic execution 33.3ms\n\ttacticAnalysis 98.2ms\n\ttype checking 36.2ms\n\ttypeclass inference 2.43s\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PlanarInvariantPolynomialKernel.lean",
+  "source_sha256": "a64cb100939cb5a884f0e5bd059642c83f026a8a7649798c0996152a4500a0e6",
+  "exit_code": 0,
+  "seconds": 16.35,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PlanarInvariantPolynomialKernel.lean:43:25: warning: This simp argument is unused:\n  Finsupp.single_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [U, pderiv_X]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

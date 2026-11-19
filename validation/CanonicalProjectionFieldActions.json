@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CanonicalProjectionFieldActions.lean",
+  "source_sha256": "8446edffeec02068812183bd39c169aff978ccb206e0af3bb839dc49cfd24c75",
+  "exit_code": 0,
+  "seconds": 23.54,
+  "log": "typeclass inference of Algebra took 128ms\ntypeclass inference of Algebra took 146ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 152ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 170ms\nimport took 10.9s\n.olean serialization took 300ms\ncumulative profiling times:\n\t.olean serialization 300ms\n\tattribute application 0.0378ms\n\tcongr simp thm 0.22ms\n\telaboration 142ms\n\tfix level params 0.772ms\n\timport 10.9s\n\tinitialization 28.6ms\n\tinstantiate metavars 0.695ms\n\tinterpretation 10.1s\n\tlet-to-have transformation 93.5ms\n\tlinting 6.13ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 40.7ms\n\tparsing 2.62ms\n\tprocess pre-definitions 6.12ms\n\tshare common exprs 1.85ms\n\tsimp 3.64ms\n\ttactic execution 77.4ms\n\ttacticAnalysis 115ms\n\ttype checking 207ms\n\ttypeclass inference 1.77s\n"
+}

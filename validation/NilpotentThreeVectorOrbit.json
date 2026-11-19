@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NilpotentThreeVectorOrbit.lean",
+  "source_sha256": "7602afe181f6be102f8a84ca209dd146430b123fdd7221216bf5fc6b95d7511a",
+  "exit_code": 0,
+  "seconds": 16.92,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NilpotentThreeVectorOrbit.lean:63:17: warning: This simp argument is unused:\n  Matrix.mulVec_add\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [Matrix.mulVec_smul, hwadd, Matrix.mulVec_zero, h0, h1, zero_smul, zero_add] at he\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

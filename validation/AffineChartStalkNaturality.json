@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineChartStalkNaturality.lean",
+  "source_sha256": "bcc62c0b10d83413e7efebe6fe2535bacfaba4a6670729fe0c28f7b25dc47969",
+  "exit_code": 0,
+  "seconds": 14.92,
+  "log": "type checking took 133ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 7.86s\n.olean serialization took 222ms\ncumulative profiling times:\n\t.olean serialization 222ms\n\tattribute application 0.0344ms\n\tcongr simp thm 0.686ms\n\telaboration 50.5ms\n\tfix level params 0.807ms\n\timport 7.86s\n\tinitialization 28.5ms\n\tinstantiate metavars 0.521ms\n\tinterpretation 6.72s\n\tlet-to-have transformation 0.186ms\n\tlinting 6.6ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 45.2ms\n\tparsing 2.65ms\n\tprocess pre-definitions 2.15ms\n\tshare common exprs 2.56ms\n\tsimp 11.2ms\n\ttactic execution 143ms\n\ttacticAnalysis 112ms\n\ttype checking 175ms\n\ttypeclass inference 154ms\n"
+}

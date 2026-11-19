@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NativeSpecifiedPowerBoundary.lean",
+  "source_sha256": "b68339c4a8962aaf0d3a73dbecd7e43266c88e19e4e016019a9f2c144ff505b7",
+  "exit_code": 0,
+  "seconds": 34.64,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NativeSpecifiedPowerBoundary.lean:96:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NativeSpecifiedPowerBoundary.lean:97:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

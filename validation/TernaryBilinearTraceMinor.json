@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryBilinearTraceMinor.lean",
+  "source_sha256": "df5bf165b2a0fdc7247e46250f8c56cc72551772bb2a475b040f8ac8d5155851",
+  "exit_code": 0,
+  "seconds": 16.57,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryBilinearTraceMinor.lean:18:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.ternary_bilinear_output_jacobian`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryBilinearTraceMinor.lean:31:46: warning: This simp argument is unused:\n  smul_eq_mul\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [map_add, pderiv_mul, pderiv_C, mul_zero, add_zero]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryBilinearTraceMinor.lean:31:59: warning: This simp argument is unused:\n  mul_zero\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [map_add, pderiv_mul, pderiv_C, smul_eq_mul, add_zero]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

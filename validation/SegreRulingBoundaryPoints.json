@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreRulingBoundaryPoints.lean",
+  "source_sha256": "0238cce3750e817ec536e697c8f9f46edaacae27de86f44d3b2d5f2d472941b3",
+  "exit_code": 0,
+  "seconds": 18.56,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreRulingBoundaryPoints.lean:61:31: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreRulingBoundaryPoints.lean:76:31: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

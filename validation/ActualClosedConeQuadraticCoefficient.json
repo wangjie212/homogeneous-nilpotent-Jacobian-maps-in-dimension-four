@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualClosedConeQuadraticCoefficient.lean",
+  "source_sha256": "7d1936a015cfd2e999eb9af17d1e1a017c3316f2b01d3a2abfb24363c71c53af",
+  "exit_code": 0,
+  "seconds": 23.49,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ActualClosedConeQuadraticCoefficient.lean:104:72: warning: This simp argument is unused:\n  zero_mul\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [Derivation.leibniz_pow, hconst, smul_eq_mul, mul_zero, nsmul_zero, zero_add]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

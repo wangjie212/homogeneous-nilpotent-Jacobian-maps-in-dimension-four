@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConeParameterDifferential.lean",
+  "source_sha256": "650e45a800871cb4db9fe64066208fa6d1467fe2cdea0915babd62780562e2ad",
+  "exit_code": 0,
+  "seconds": 15.61,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 8.04s\n.olean serialization took 216ms\ncumulative profiling times:\n\t.olean serialization 216ms\n\tattribute application 0.401ms\n\tblocked (unaccounted) 346ms\n\tcompilation (IR) 0.508ms\n\tcompilation (LCNF base) 19.8ms\n\tcompilation (LCNF impure) 2.86ms\n\tcompilation (LCNF mono) 5.46ms\n\tcongr simp thm 1ms\n\telaboration 103ms\n\tfix level params 1.33ms\n\timport 8.04s\n\tinitialization 27.4ms\n\tinstantiate metavars 1.01ms\n\tinterpretation 6.46s\n\tlet-to-have transformation 0.261ms\n\tlinting 9.38ms\n\tmodule linting 0.0019ms\n\tnorm_num 2.64ms\n\toverlappingInstancesLinter 51.7ms\n\tparsing 3.45ms\n\tprocess pre-definitions 5.15ms\n\tring 97ms\n\tshare common exprs 4.09ms\n\tsimp 57.3ms\n\ttactic execution 98.6ms\n\ttacticAnalysis 60.4ms\n\ttype checking 38.8ms\n\ttypeclass inference 610ms\n"
+}

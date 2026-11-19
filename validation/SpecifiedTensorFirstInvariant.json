@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SpecifiedTensorFirstInvariant.lean",
+  "source_sha256": "cc9f11feb5088827875a7caa073cc50b11cc448539be1aa5957b1b2a436918d8",
+  "exit_code": 0,
+  "seconds": 36.06,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SpecifiedTensorFirstInvariant.lean:52:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.compatible_graph_and_finite_coefficients_retain_closed_source_values`:\n  [Algebra.IsAlgebraic (↥C₀) E]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [Algebra.IsAlgebraic (↥C₀) E] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ScaledPlaneVertexAffineFiberBoundary.lean",
+  "source_sha256": "c0ac8c01a7b24c8b3364b2d4767ec6e1c7abb648fb26cc29b3bf7fa42b931ed8",
+  "exit_code": 0,
+  "seconds": 30.03,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ScaledPlaneVertexAffineFiberBoundary.lean:86:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.actual_normal_hyperplane_projective_graph_maps_vertex_to_infinity`:\n  [IsAlgClosed K]\n  [Algebra.IsAlgebraic (↥C₀) E]\n  [Module.Finite (↥C₀) E]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsAlgClosed K] [Algebra.IsAlgebraic (↥C₀) E] [Module.Finite (↥C₀) E] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

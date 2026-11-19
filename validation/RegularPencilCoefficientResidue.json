@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RegularPencilCoefficientResidue.lean",
+  "source_sha256": "836ad849d64c89115922bf732c86c7574955d782ccf54007b7177aa5cb09dc08",
+  "exit_code": 0,
+  "seconds": 15.33,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\RegularPencilCoefficientResidue.lean:30:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\RegularPencilCoefficientResidue.lean:31:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

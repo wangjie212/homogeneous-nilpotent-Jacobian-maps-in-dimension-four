@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/LocalCoordinateMultiplicity.lean",
+  "source_sha256": "4fdc55df64012944b51431609cfebd80d78d0f6bcf12714b9ffb27a9481622be",
+  "exit_code": 0,
+  "seconds": 15.56,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\LocalCoordinateMultiplicity.lean:32:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 8.01s\n.olean serialization took 193ms\ncumulative profiling times:\n\t.olean serialization 193ms\n\tattribute application 0.0125ms\n\telaboration 13.8ms\n\tfix level params 0.419ms\n\timport 8.01s\n\tinitialization 27.5ms\n\tinstantiate metavars 0.567ms\n\tinterpretation 6.4s\n\tlet-to-have transformation 0.0374ms\n\tlinting 3.66ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 29.6ms\n\tparsing 2.2ms\n\tprocess pre-definitions 5.31ms\n\tshare common exprs 1.18ms\n\ttactic execution 103ms\n\ttacticAnalysis 61ms\n\ttype checking 84.1ms\n\ttypeclass inference 520ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalChartCanonicalSectionOrder.lean",
+  "source_sha256": "d72a0c690d6d0666e4df734929a82113c81554f9b1d23cea170c4afd879cd063",
+  "exit_code": 0,
+  "seconds": 17.78,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 150ms\nimport took 9.1s\n.olean serialization took 275ms\ncumulative profiling times:\n\t.olean serialization 275ms\n\tattribute application 0.0118ms\n\telaboration 30.6ms\n\tfix level params 0.443ms\n\timport 9.1s\n\tinitialization 26.9ms\n\tinstantiate metavars 0.328ms\n\tinterpretation 8.02s\n\tlet-to-have transformation 0.0947ms\n\tlinting 5.75ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 32.7ms\n\tparsing 1.18ms\n\tprocess pre-definitions 2.25ms\n\tshare common exprs 1.23ms\n\ttactic execution 36.5ms\n\ttacticAnalysis 89.6ms\n\ttype checking 48.4ms\n\ttypeclass inference 303ms\n"
+}

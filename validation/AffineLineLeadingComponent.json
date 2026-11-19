@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineLineLeadingComponent.lean",
+  "source_sha256": "88e0b30dbff7716008dfe3285b31f49c6e6043bfdfffeb52d483f336bd5a1800",
+  "exit_code": 0,
+  "seconds": 15.5,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\AffineLineLeadingComponent.lean:23:48: warning: try 'simp' instead of 'simpa'\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\n"
+}

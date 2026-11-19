@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveBoundaryCoefficientComponent.lean",
+  "source_sha256": "f2f180ea1cd674e37a66a757370ac81e9ac0d936632607908f32bc6b0b38c957",
+  "exit_code": 0,
+  "seconds": 14.82,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ProjectiveBoundaryCoefficientComponent.lean:50:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ProjectiveBoundaryCoefficientComponent.lean:58:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ProjectiveBoundaryCoefficientComponent.lean:85:10: warning: Variable name `hqa` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _hqa\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\n"
+}

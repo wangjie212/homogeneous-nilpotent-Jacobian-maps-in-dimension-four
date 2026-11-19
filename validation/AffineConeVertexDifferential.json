@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineConeVertexDifferential.lean",
+  "source_sha256": "dcb6f3ffb6f71829171579be8a5de0cf2ddee193d3764655bee7d1fbc443202a",
+  "exit_code": 0,
+  "seconds": 20.0,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\AffineConeVertexDifferential.lean:78:62: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/DeterminantShearAlphaOnly.lean",
+  "source_sha256": "14efb24ffb51e8bd8c68a95c92dca1859ea770619b1871df0b90ca437453e70c",
+  "exit_code": 0,
+  "seconds": 16.75,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\DeterminantShearAlphaOnly.lean:13:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.DeterminantShear.alpha_only_parameter4`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\DeterminantShearAlphaOnly.lean:54:37: warning: This simp argument is unused:\n  hC\n\nHint: Omit it from the simp argument list.\n  [apply] simp [map_add, map_sub, map_mul, splitFlowProduct4_X, splitInverseEquiv4_X, splitInverseEquiv4_half_value,\n    htwo]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

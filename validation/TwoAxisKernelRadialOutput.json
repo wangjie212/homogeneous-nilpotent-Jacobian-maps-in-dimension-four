@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TwoAxisKernelRadialOutput.lean",
+  "source_sha256": "ed6edaeca12164f9df90c2a68ac3e6059ad58246296c0ebc931c214e4762404a",
+  "exit_code": 0,
+  "seconds": 23.19,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TwoAxisKernelRadialOutput.lean:20:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.binary_homogeneous_wronskian_radial_pairing_zero`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

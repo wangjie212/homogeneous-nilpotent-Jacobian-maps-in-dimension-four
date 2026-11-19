@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveChartPolynomialCoefficientChange.lean",
+  "source_sha256": "d13075eb541882b6a290d1c53a291f5f897047066228fd98b04353cef8b89af5",
+  "exit_code": 0,
+  "seconds": 17.08,
+  "log": "tactic execution of Lean.Parser.Tactic.change took 143ms\ntactic execution of Lean.Parser.Tactic.change took 138ms\nsimp took 105ms\ntype checking took 1.94s\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 111ms\nimport took 7.62s\n.olean serialization took 237ms\ncumulative profiling times:\n\t.olean serialization 237ms\n\tattribute application 1.3ms\n\tblocked (unaccounted) 88ms\n\tcompilation (IR) 0.938ms\n\tcompilation (LCNF base) 44.6ms\n\tcompilation (LCNF impure) 5.29ms\n\tcompilation (LCNF mono) 11.6ms\n\tcongr simp thm 2.73ms\n\telaboration 182ms\n\tfix level params 1.45ms\n\timport 7.62s\n\tinitialization 27.9ms\n\tinstantiate metavars 1.54ms\n\tinterpretation 6.65s\n\tlet-to-have transformation 0.34ms\n\tlinting 8.9ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 56ms\n\tparsing 3.04ms\n\tprocess pre-definitions 10.3ms\n\tshare common exprs 4.86ms\n\tsimp 238ms\n\ttactic execution 623ms\n\ttacticAnalysis 149ms\n\ttype checking 2.05s\n\ttypeclass inference 243ms\n"
+}

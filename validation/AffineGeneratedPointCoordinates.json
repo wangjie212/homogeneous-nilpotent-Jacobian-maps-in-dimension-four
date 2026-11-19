@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineGeneratedPointCoordinates.lean",
+  "source_sha256": "cf0f417e6f97072827616031a948d030c30478ede05bb0f207256cddc060c322",
+  "exit_code": 0,
+  "seconds": 14.48,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 110ms\nimport took 7.62s\n.olean serialization took 198ms\ncumulative profiling times:\n\t.olean serialization 198ms\n\tattribute application 0.0221ms\n\tblocked (unaccounted) 0.0136ms\n\tcongr simp thm 0.225ms\n\telaboration 14.9ms\n\tfix level params 0.342ms\n\timport 7.62s\n\tinitialization 27.1ms\n\tinstantiate metavars 0.335ms\n\tinterpretation 6.41s\n\tlet-to-have transformation 0.0541ms\n\tlinting 2.61ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 32.8ms\n\tparsing 1.65ms\n\tprocess pre-definitions 1.96ms\n\tshare common exprs 0.885ms\n\tsimp 5.67ms\n\ttactic execution 85.3ms\n\ttacticAnalysis 53.1ms\n\ttype checking 25.2ms\n\ttypeclass inference 108ms\n"
+}

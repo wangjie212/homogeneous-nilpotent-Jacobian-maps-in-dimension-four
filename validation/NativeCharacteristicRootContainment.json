@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NativeCharacteristicRootContainment.lean",
+  "source_sha256": "7f3656c17334748aefbe3da014442a40a12e0f12eba36824afc6f58f0f33873c",
+  "exit_code": 0,
+  "seconds": 32.38,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NativeCharacteristicRootContainment.lean:88:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NativeCharacteristicRootContainment.lean:92:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

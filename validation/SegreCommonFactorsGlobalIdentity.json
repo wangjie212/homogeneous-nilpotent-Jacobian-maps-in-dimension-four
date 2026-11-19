@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreCommonFactorsGlobalIdentity.lean",
+  "source_sha256": "735a0df606ed281e0edff1e9460b67e95032d8f96a280d14bbced516094a513e",
+  "exit_code": 0,
+  "seconds": 18.08,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreCommonFactorsGlobalIdentity.lean:32:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

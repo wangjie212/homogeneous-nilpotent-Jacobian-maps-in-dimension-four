@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RulingRootProductIdentity.lean",
+  "source_sha256": "b39b445d45028aa145a3544bfc2f5ca7f87d295b154e33615ccf7b8976bfda5d",
+  "exit_code": 0,
+  "seconds": 15.86,
+  "log": "type checking took 113ms\ntype checking took 112ms\ntype checking took 117ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 7.56s\n.olean serialization took 244ms\ncumulative profiling times:\n\t.olean serialization 244ms\n\tattribute application 2.3ms\n\tblocked (unaccounted) 44.4ms\n\tcompilation (IR) 0.536ms\n\tcompilation (LCNF base) 21.6ms\n\tcompilation (LCNF impure) 2.85ms\n\tcompilation (LCNF mono) 5.9ms\n\telaboration 220ms\n\tfix level params 0.787ms\n\timport 7.56s\n\tinitialization 28.2ms\n\tinstantiate metavars 0.147ms\n\tinterpretation 6.63s\n\tlet-to-have transformation 0.31ms\n\tlinting 9.36ms\n\tmodule linting 0.0026ms\n\tnorm_num 1.73ms\n\toverlappingInstancesLinter 29ms\n\tparsing 2.6ms\n\tprocess pre-definitions 5.78ms\n\tring 44.3ms\n\tshare common exprs 2.35ms\n\ttactic execution 93.3ms\n\ttacticAnalysis 142ms\n\ttype checking 363ms\n\ttypeclass inference 1.16s\n"
+}

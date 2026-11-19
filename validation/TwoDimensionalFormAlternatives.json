@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TwoDimensionalFormAlternatives.lean",
+  "source_sha256": "cff4abc7d76678f6629edee00bc120acdbed8fa9eea027d259824b6e2ee5ab52",
+  "exit_code": 0,
+  "seconds": 15.35,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TwoDimensionalFormAlternatives.lean:19:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.two_dimensional_independent_pair_binary_span`:\n  [FiniteDimensional F V]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [FiniteDimensional F V] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 8.58s\n.olean serialization took 194ms\ncumulative profiling times:\n\t.olean serialization 194ms\n\tattribute application 0.0162ms\n\tcongr simp thm 0.372ms\n\telaboration 9.93ms\n\tfix level params 0.277ms\n\timport 8.58s\n\tinitialization 29ms\n\tinstantiate metavars 0.26ms\n\tinterpretation 6.42s\n\tlet-to-have transformation 0.0347ms\n\tlinting 2.95ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 21.5ms\n\tparsing 1.44ms\n\tprocess pre-definitions 0.918ms\n\tshare common exprs 0.603ms\n\tsimp 7.3ms\n\ttactic execution 23.5ms\n\ttacticAnalysis 35.4ms\n\ttype checking 6.23ms\n\ttypeclass inference 64.2ms\n"
+}

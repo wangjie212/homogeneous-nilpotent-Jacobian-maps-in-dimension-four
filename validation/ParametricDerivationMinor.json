@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ParametricDerivationMinor.lean",
+  "source_sha256": "0767ff14cbba16aa12ca4e663229666debd8e4c71e1391cb87ed2275ad3c89c7",
+  "exit_code": 0,
+  "seconds": 19.77,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ParametricDerivationMinor.lean:14:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.scaled_parameter_derivation_minor_identity`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

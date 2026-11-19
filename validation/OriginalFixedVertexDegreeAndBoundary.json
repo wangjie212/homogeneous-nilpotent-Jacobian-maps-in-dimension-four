@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalFixedVertexDegreeAndBoundary.lean",
+  "source_sha256": "0ab7c40332f993692a21bb287162999ba6a37285cf8aebc0c4203c101044ea23",
+  "exit_code": 0,
+  "seconds": 24.07,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\OriginalFixedVertexDegreeAndBoundary.lean:60:7: warning: Variable name `hh` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _hh\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\OriginalFixedVertexDegreeAndBoundary.lean:61:7: warning: Variable name `e` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _e\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\n"
+}

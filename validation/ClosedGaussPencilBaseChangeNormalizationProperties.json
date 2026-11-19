@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ClosedGaussPencilBaseChangeNormalizationProperties.lean",
+  "source_sha256": "589faa6a3d78a1c022c09de0fc468e001a00dfba8b3f76105db01ffbd2440a41",
+  "exit_code": 0,
+  "seconds": 15.54,
+  "log": "type checking took 112ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 8.11s\n.olean serialization took 213ms\ncumulative profiling times:\n\t.olean serialization 213ms\n\tattribute application 0.0103ms\n\telaboration 29.6ms\n\tfix level params 0.144ms\n\timport 8.11s\n\tinitialization 27.5ms\n\tinstantiate metavars 0.0417ms\n\tinterpretation 6.67s\n\tlet-to-have transformation 0.0678ms\n\tlinting 2.14ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 32.8ms\n\tparsing 0.803ms\n\tprocess pre-definitions 0.502ms\n\tshare common exprs 0.39ms\n\ttactic execution 20.7ms\n\ttacticAnalysis 104ms\n\ttype checking 112ms\n\ttypeclass inference 256ms\n"
+}

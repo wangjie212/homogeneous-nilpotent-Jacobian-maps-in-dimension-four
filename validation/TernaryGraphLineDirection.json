@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryGraphLineDirection.lean",
+  "source_sha256": "d702c43f61f5893505526107e0760f4ae025f40120a240805e03f09017b0bef9",
+  "exit_code": 0,
+  "seconds": 26.41,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryGraphLineDirection.lean:155:53: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualBoundaryNativeRoot.lean",
+  "source_sha256": "bced833a2e888889d372d60073a61c4d33b667cb13e8403c938dc297aa5a8e02",
+  "exit_code": 0,
+  "seconds": 27.74,
+  "log": "type checking took 113ms\ntype checking took 111ms\nelaboration took 116ms\ntypeclass inference of SMul took 469ms\ntypeclass inference of SMul took 482ms\ntactic execution of Lean.Parser.Tactic.obtain took 287ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 217ms\ntactic execution of Lean.Parser.Tactic.simpa took 222ms\ntype checking took 318ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 8.17s\n.olean serialization took 279ms\ncumulative profiling times:\n\t.olean serialization 279ms\n\tattribute application 4.48ms\n\tblocked (unaccounted) 182ms\n\tcompilation (IR) 2.13ms\n\tcompilation (LCNF base) 90ms\n\tcompilation (LCNF impure) 10.9ms\n\tcompilation (LCNF mono) 24.7ms\n\tcongr simp thm 1.7ms\n\telaboration 1.07s\n\tfix level params 3.05ms\n\timport 8.17s\n\tinitialization 28.2ms\n\tinstantiate metavars 2.69ms\n\tinterpretation 6.64s\n\tlet-to-have transformation 0.82ms\n\tlinting 32.6ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 50.3ms\n\tparsing 4.3ms\n\tprocess pre-definitions 18.8ms\n\tshare common exprs 9.32ms\n\tsimp 102ms\n\ttactic execution 1.03s\n\ttacticAnalysis 207ms\n\ttype checking 566ms\n\ttypeclass inference 9.98s\n"
+}

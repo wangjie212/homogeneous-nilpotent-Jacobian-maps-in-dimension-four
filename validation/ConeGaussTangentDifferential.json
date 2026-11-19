@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConeGaussTangentDifferential.lean",
+  "source_sha256": "47de6185ee9f539140cce9045a6d44149a583894af95793dba29d52a366429f4",
+  "exit_code": 0,
+  "seconds": 15.53,
+  "log": "import took 7.91s\n.olean serialization took 223ms\ncumulative profiling times:\n\t.olean serialization 223ms\n\tattribute application 0.296ms\n\tblocked (unaccounted) 168ms\n\tcompilation (IR) 0.388ms\n\tcompilation (LCNF base) 13.2ms\n\tcompilation (LCNF impure) 2.17ms\n\tcompilation (LCNF mono) 4.06ms\n\tcongr simp thm 1.26ms\n\telaboration 146ms\n\tfix level params 1.13ms\n\timport 7.91s\n\tinitialization 28.2ms\n\tinstantiate metavars 1.09ms\n\tinterpretation 6.29s\n\tlet-to-have transformation 0.319ms\n\tlinting 8.3ms\n\tmodule linting 0.0021ms\n\tnorm_num 2.05ms\n\toverlappingInstancesLinter 24.8ms\n\tparsing 3.24ms\n\tprocess pre-definitions 3.58ms\n\tring 35.6ms\n\tshare common exprs 3.29ms\n\tsimp 39ms\n\ttactic execution 135ms\n\ttacticAnalysis 55.4ms\n\ttype checking 141ms\n\ttypeclass inference 474ms\n"
+}

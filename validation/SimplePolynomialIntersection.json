@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SimplePolynomialIntersection.lean",
+  "source_sha256": "db1b4b43028aa2c956f54b6a00f977c7bfa98874e25e54b4d3f39d092cdd43a7",
+  "exit_code": 0,
+  "seconds": 9.73,
+  "log": "tactic execution of Lean.Parser.Tactic.exact took 188ms\ntactic execution of Lean.Parser.Tactic.refine took 515ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 108ms\nimport took 3.54s\ncumulative profiling times:\n\t.olean serialization 81.2ms\n\tattribute application 0.0927ms\n\tblocked (unaccounted) 12.2ms\n\tcongr simp thm 1.79ms\n\telaboration 47.4ms\n\tfix level params 1.75ms\n\timport 3.54s\n\tinitialization 27.6ms\n\tinstantiate metavars 1.97ms\n\tinterpretation 4.87s\n\tlet-to-have transformation 0.28ms\n\tlinting 9.28ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 61.1ms\n\tparsing 5.38ms\n\tprocess pre-definitions 7.47ms\n\tshare common exprs 4.53ms\n\tsimp 43ms\n\ttactic execution 895ms\n\ttacticAnalysis 95.7ms\n\ttype checking 101ms\n\ttypeclass inference 1.47s\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectivePullbackRationalCoordinates.lean",
+  "source_sha256": "4bf1695007b2897ee301bbd114d50f5b44bfd23f31ebd50e757b0b8bae36df7f",
+  "exit_code": 0,
+  "seconds": 15.34,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 7.68s\n.olean serialization took 236ms\ncumulative profiling times:\n\t.olean serialization 236ms\n\tattribute application 0.979ms\n\tblocked (unaccounted) 40.9ms\n\tcompilation (IR) 0.504ms\n\tcompilation (LCNF base) 19.6ms\n\tcompilation (LCNF impure) 2.89ms\n\tcompilation (LCNF mono) 5.65ms\n\tcongr simp thm 2.99ms\n\telaboration 257ms\n\tfix level params 1.31ms\n\timport 7.68s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.602ms\n\tinterpretation 6.52s\n\tlet-to-have transformation 5.11ms\n\tlinting 9ms\n\tmodule linting 0.0021ms\n\toverlappingInstancesLinter 37.6ms\n\tparsing 4.16ms\n\tprocess pre-definitions 9.78ms\n\tshare common exprs 3.62ms\n\tsimp 11.4ms\n\ttactic execution 296ms\n\ttacticAnalysis 132ms\n\ttype checking 143ms\n\ttypeclass inference 693ms\n"
+}

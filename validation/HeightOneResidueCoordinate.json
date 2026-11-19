@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/HeightOneResidueCoordinate.lean",
+  "source_sha256": "158f2252c16110220423d55cee2709fa3f2838e89dfe25879773bff022f4cb56",
+  "exit_code": 0,
+  "seconds": 15.78,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 9s\n.olean serialization took 199ms\ncumulative profiling times:\n\t.olean serialization 199ms\n\tattribute application 0.0155ms\n\telaboration 14.2ms\n\tfix level params 0.286ms\n\timport 9s\n\tinitialization 28.3ms\n\tinstantiate metavars 0.239ms\n\tinterpretation 6.47s\n\tlet-to-have transformation 0.0596ms\n\tlinting 4.45ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 24.2ms\n\tparsing 1.46ms\n\tprocess pre-definitions 0.976ms\n\tshare common exprs 0.64ms\n\ttactic execution 13.7ms\n\ttacticAnalysis 43ms\n\ttype checking 5.72ms\n\ttypeclass inference 47.2ms\n"
+}

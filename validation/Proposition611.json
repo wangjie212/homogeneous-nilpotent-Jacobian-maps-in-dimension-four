@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/Proposition611.lean",
+  "source_sha256": "eb7063445faa093f40f50b117e847d5a60452a6fd72236dc32d2c1972fd2ee91",
+  "exit_code": 0,
+  "seconds": 19.03,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\Proposition611.lean:40:33: warning: This simp argument is unused:\n  Matrix.one_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [J, Matrix.mul_apply, Fin.sum_univ_succ]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

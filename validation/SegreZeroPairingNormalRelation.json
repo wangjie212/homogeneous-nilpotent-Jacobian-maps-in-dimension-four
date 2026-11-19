@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreZeroPairingNormalRelation.lean",
+  "source_sha256": "730a0ea9b426b3ba056a961e7f2a1779dd5fbd67d1f23b61b2f5149db0c89129",
+  "exit_code": 0,
+  "seconds": 25.01,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreZeroPairingNormalRelation.lean:46:28: warning: This simp argument is unused:\n  Matrix.cons_val_one\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [segre_graph_gradient δ U hcoord hU0, Fin.sum_univ_succ, Fin.sum_univ_zero, Matrix.cons_val_zero,\n    map_div₀, map_mul, map_neg, map_pow, add_zero]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

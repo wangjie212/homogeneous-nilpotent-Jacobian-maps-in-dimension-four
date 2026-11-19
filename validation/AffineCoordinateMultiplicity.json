@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineCoordinateMultiplicity.lean",
+  "source_sha256": "8bfe25d11866a85c64ad91e8955c6e2be2a00ab8941813b3ea35b120bf06c965",
+  "exit_code": 0,
+  "seconds": 15.96,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\AffineCoordinateMultiplicity.lean:36:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.affine_hypersurface_normalization_coordinate_order_le_totalDegree`:\n  [IsDomain A]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsDomain A] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\ninterpretation of Mathlib.Tactic.Tauto._aux_Mathlib_Tactic_Tauto___elabRules_Mathlib_Tactic_Tauto_tauto_1._boxed took 437ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 108ms\nimport took 8.02s\n.olean serialization took 211ms\ncumulative profiling times:\n\t.olean serialization 211ms\n\tattribute application 0.0168ms\n\tcongr simp thm 0.36ms\n\telaboration 15.2ms\n\tfix level params 0.446ms\n\timport 8.02s\n\tinitialization 28.2ms\n\tinstantiate metavars 0.715ms\n\tinterpretation 7.01s\n\tlet-to-have transformation 0.0526ms\n\tlinting 5.52ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 33.5ms\n\tparsing 2ms\n\tprocess pre-definitions 1.63ms\n\tshare common exprs 1.15ms\n\tsimp 8.63ms\n\ttactic execution 315ms\n\ttacticAnalysis 74ms\n\ttype checking 7.11ms\n\ttypeclass inference 154ms\n"
+}

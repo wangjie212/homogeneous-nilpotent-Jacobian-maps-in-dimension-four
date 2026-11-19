@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NativeRootNonvanishingTransfer.lean",
+  "source_sha256": "c560e055e5a04268ec4f99272f0743db9e086ddaa067d1cfe0644649f4c415ff",
+  "exit_code": 0,
+  "seconds": 17.74,
+  "log": "type checking took 118ms\ntype checking took 108ms\ntype checking took 145ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 111ms\nimport took 8.59s\n.olean serialization took 230ms\ncumulative profiling times:\n\t.olean serialization 230ms\n\tattribute application 2.78ms\n\tblocked (unaccounted) 67.8ms\n\tcompilation (IR) 0.678ms\n\tcompilation (LCNF base) 34.6ms\n\tcompilation (LCNF impure) 3.63ms\n\tcompilation (LCNF mono) 9ms\n\telaboration 281ms\n\tfix level params 1.07ms\n\timport 8.59s\n\tinitialization 26.6ms\n\tinstantiate metavars 0.383ms\n\tinterpretation 6.98s\n\tlet-to-have transformation 0.376ms\n\tlinting 11.6ms\n\tmodule linting 0.0015ms\n\toverlappingInstancesLinter 43.8ms\n\tparsing 2.39ms\n\tprocess pre-definitions 7.04ms\n\tshare common exprs 3.26ms\n\ttactic execution 44.6ms\n\ttacticAnalysis 108ms\n\ttype checking 404ms\n\ttypeclass inference 1.72s\n"
+}

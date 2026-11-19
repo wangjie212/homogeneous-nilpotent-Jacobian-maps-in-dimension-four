@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SimpleFieldDegreeBound.lean",
+  "source_sha256": "eab1cb4efc4a9ac7677c52b0cf30d1c828549753649b6241f7848d6fc1f6d38c",
+  "exit_code": 0,
+  "seconds": 14.89,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.07s\n.olean serialization took 195ms\ncumulative profiling times:\n\t.olean serialization 195ms\n\tattribute application 0.0103ms\n\telaboration 4.78ms\n\tfix level params 0.197ms\n\timport 8.07s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.185ms\n\tinterpretation 6.21s\n\tlet-to-have transformation 0.0221ms\n\tlinting 2ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 21.2ms\n\tparsing 0.784ms\n\tprocess pre-definitions 1ms\n\tshare common exprs 0.443ms\n\ttactic execution 31.2ms\n\ttacticAnalysis 38.6ms\n\ttype checking 9.28ms\n\ttypeclass inference 63ms\n"
+}

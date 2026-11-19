@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedGaussPointAtlas.lean",
+  "source_sha256": "4877047a5120f1f79fd3c3c082484ad2814cb04e3b3194f407340b945548502b",
+  "exit_code": 0,
+  "seconds": 21.12,
+  "log": "typeclass inference of Module took 370ms\ntactic execution of Lean.Parser.Tactic.obtain took 2.03s\ntype checking took 680ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 9.09s\n.olean serialization took 1.74s\ncumulative profiling times:\n\t.olean serialization 1.74s\n\tattribute application 0.0115ms\n\telaboration 65.6ms\n\tfix level params 0.449ms\n\timport 9.09s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.148ms\n\tinterpretation 6.72s\n\tlet-to-have transformation 0.16ms\n\tlinting 3.23ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 32.1ms\n\tparsing 0.855ms\n\tprocess pre-definitions 2.72ms\n\tshare common exprs 1.14ms\n\ttactic execution 2.09s\n\ttacticAnalysis 118ms\n\ttype checking 680ms\n\ttypeclass inference 927ms\n"
+}

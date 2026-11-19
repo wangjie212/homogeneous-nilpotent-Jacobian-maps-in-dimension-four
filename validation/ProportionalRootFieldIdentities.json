@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProportionalRootFieldIdentities.lean",
+  "source_sha256": "1586518271b0fc4ce3718519b5d4a500657630f64208d184c1fcdb2edae937af",
+  "exit_code": 0,
+  "seconds": 15.64,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 180ms\ninterpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 159ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 8.47s\n.olean serialization took 206ms\ncumulative profiling times:\n\t.olean serialization 206ms\n\tattribute application 0.0152ms\n\tblocked (unaccounted) 0.463ms\n\tcongr simp thm 0.0749ms\n\telaboration 7.18ms\n\tfix level params 0.329ms\n\timport 8.47s\n\tinitialization 26ms\n\tinstantiate metavars 0.267ms\n\tinterpretation 7.09s\n\tlet-to-have transformation 0.0301ms\n\tlinting 3.19ms\n\tmodule linting 0.0019ms\n\tnorm_num 10.4ms\n\toverlappingInstancesLinter 39.4ms\n\tparsing 1ms\n\tprocess pre-definitions 0.89ms\n\tring 75.6ms\n\tshare common exprs 1.28ms\n\tsimp 1.9ms\n\ttactic execution 14.7ms\n\ttacticAnalysis 121ms\n\ttype checking 15.3ms\n\ttypeclass inference 32ms\n"
+}

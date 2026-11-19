@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveCoordinateRatioSections.lean",
+  "source_sha256": "4358a8ae4a83fce74e49f96dd315b7bd94d625b93b6bfa10d261f14deb75bbd5",
+  "exit_code": 0,
+  "seconds": 14.86,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 7.65s\n.olean serialization took 246ms\ncumulative profiling times:\n\t.olean serialization 246ms\n\tattribute application 2.22ms\n\tblocked (unaccounted) 56.9ms\n\tcompilation (IR) 0.648ms\n\tcompilation (LCNF base) 26.4ms\n\tcompilation (LCNF impure) 3.87ms\n\tcompilation (LCNF mono) 7.77ms\n\tcongr simp thm 0.498ms\n\telaboration 149ms\n\tfix level params 0.927ms\n\timport 7.65s\n\tinitialization 28.4ms\n\tinstantiate metavars 0.317ms\n\tinterpretation 6.65s\n\tlet-to-have transformation 0.287ms\n\tlinting 7.11ms\n\tmodule linting 0.0018ms\n\tnorm_num 2.94ms\n\toverlappingInstancesLinter 41.9ms\n\tparsing 2.88ms\n\tprocess pre-definitions 9.55ms\n\tring 38.3ms\n\tshare common exprs 2.77ms\n\tsimp 38.8ms\n\ttactic execution 91ms\n\ttacticAnalysis 144ms\n\ttype checking 130ms\n\ttypeclass inference 312ms\n"
+}

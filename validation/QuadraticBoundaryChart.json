@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/QuadraticBoundaryChart.lean",
+  "source_sha256": "585cd34c5f5753e3e80e2d44f42cacaa30332212b37c70afdf1700206427deb1",
+  "exit_code": 0,
+  "seconds": 20.41,
+  "log": "simp took 129ms\nsimp took 1.3s\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 108ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 114ms\nimport took 10.3s\n.olean serialization took 291ms\ncumulative profiling times:\n\t.olean serialization 291ms\n\tattribute application 0.0637ms\n\tblocked (unaccounted) 0.0354ms\n\tcongr simp thm 4.43ms\n\tdsimp 1.38ms\n\telaboration 48.1ms\n\tfix level params 4.21ms\n\timport 10.3s\n\tinitialization 28.5ms\n\tinstantiate metavars 1.41ms\n\tinterpretation 7.97s\n\tlet-to-have transformation 0.225ms\n\tlinting 6.36ms\n\tmodule linting 0.0019ms\n\tnorm_num 1.72ms\n\toverlappingInstancesLinter 39.7ms\n\tparsing 4.52ms\n\tprocess pre-definitions 8.51ms\n\tring 64.5ms\n\tshare common exprs 10.1ms\n\tsimp 1.68s\n\ttactic execution 76.1ms\n\ttacticAnalysis 59.5ms\n\ttype checking 93.3ms\n\ttypeclass inference 1.24s\n"
+}

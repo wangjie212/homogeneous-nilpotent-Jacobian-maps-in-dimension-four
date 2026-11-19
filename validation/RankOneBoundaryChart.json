@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RankOneBoundaryChart.lean",
+  "source_sha256": "3f9907af207f2d7bb339ae45febe9235e7f815e13ee2dc0e152745aa9ae9fbac",
+  "exit_code": 0,
+  "seconds": 18.93,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 148ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 135ms\nimport took 9.88s\n.olean serialization took 241ms\ncumulative profiling times:\n\t.olean serialization 241ms\n\tattribute application 0.0309ms\n\tcongr simp thm 0.656ms\n\telaboration 30.3ms\n\tfix level params 0.966ms\n\timport 9.88s\n\tinitialization 28.9ms\n\tinstantiate metavars 0.742ms\n\tinterpretation 8.45s\n\tlet-to-have transformation 0.166ms\n\tlinting 6.95ms\n\tmodule linting 0.0023ms\n\tnorm_num 9.73ms\n\toverlappingInstancesLinter 27.4ms\n\tparsing 4.03ms\n\tprocess pre-definitions 3.61ms\n\tring 107ms\n\tshare common exprs 3.04ms\n\tsimp 46.9ms\n\ttactic execution 60.4ms\n\ttacticAnalysis 59.8ms\n\ttype checking 26.9ms\n\ttypeclass inference 284ms\n"
+}

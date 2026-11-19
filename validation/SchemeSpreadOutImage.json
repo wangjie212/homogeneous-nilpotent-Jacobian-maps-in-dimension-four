@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SchemeSpreadOutImage.lean",
+  "source_sha256": "2ce9dd763f771620025cf35b0186164032ce2d3ab6e4e085b51c7ef9ebb7450d",
+  "exit_code": 0,
+  "seconds": 15.75,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 106ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 110ms\nimport took 8.52s\n.olean serialization took 216ms\ncumulative profiling times:\n\t.olean serialization 216ms\n\tattribute application 0.0149ms\n\telaboration 7.03ms\n\tfix level params 0.0918ms\n\timport 8.52s\n\tinitialization 28.8ms\n\tinstantiate metavars 0.0623ms\n\tinterpretation 6.85s\n\tlet-to-have transformation 0.0355ms\n\tlinting 1.97ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 20.1ms\n\tparsing 0.767ms\n\tprocess pre-definitions 0.357ms\n\tshare common exprs 0.282ms\n\ttactic execution 9.35ms\n\ttacticAnalysis 56.2ms\n\ttype checking 1.76ms\n\ttypeclass inference 14.6ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalFractionPolePrime.lean",
+  "source_sha256": "3095554adb047175ace3717f3f7bbff7dce7c0eb05baa17e5df5468989c1c57a",
+  "exit_code": 0,
+  "seconds": 18.79,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NormalFractionPolePrime.lean:52:4: warning: Try this: intro Q hQ hQP r hr\n"
+}

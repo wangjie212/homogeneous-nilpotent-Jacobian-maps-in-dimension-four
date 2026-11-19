@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CurveValuationResidueAlgebraic.lean",
+  "source_sha256": "d094ce03ad197f5cb6b152a3a27fa15252615244ff43bc5b7089a3b2bf5d4367",
+  "exit_code": 0,
+  "seconds": 14.67,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 7.67s\n.olean serialization took 208ms\ncumulative profiling times:\n\t.olean serialization 208ms\n\tattribute application 0.0344ms\n\tcongr simp thm 0.845ms\n\tdsimp 0.283ms\n\telaboration 22.5ms\n\tfix level params 1.51ms\n\timport 7.67s\n\tinitialization 27.3ms\n\tinstantiate metavars 0.914ms\n\tinterpretation 6.16s\n\tlet-to-have transformation 0.111ms\n\tlinting 9.29ms\n\tmodule linting 0.0029ms\n\toverlappingInstancesLinter 20.7ms\n\tparsing 3.45ms\n\tprocess pre-definitions 4.88ms\n\tshare common exprs 2.07ms\n\tsimp 14.3ms\n\ttactic execution 112ms\n\ttacticAnalysis 46.3ms\n\ttype checking 49ms\n\ttypeclass inference 376ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalizationResidueCoordinateField.lean",
+  "source_sha256": "49d9fca3e00c16e68359b03f8b5c83fd5561020bf0cb81ffc0bc2d7a03a15937",
+  "exit_code": 0,
+  "seconds": 17.58,
+  "log": "typeclass inference of Algebra took 173ms\ntypeclass inference of IsFractionRing took 234ms\ntype checking took 114ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 101ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 7.98s\n.olean serialization took 228ms\ncumulative profiling times:\n\t.olean serialization 227ms\n\tattribute application 0.113ms\n\telaboration 67.6ms\n\tfix level params 0.671ms\n\timport 7.98s\n\tinitialization 27.5ms\n\tinstantiate metavars 0.351ms\n\tinterpretation 6.49s\n\tlet-to-have transformation 0.231ms\n\tlinting 5.42ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 21.9ms\n\tparsing 2.97ms\n\tprocess pre-definitions 13.9ms\n\tshare common exprs 1.93ms\n\ttactic execution 115ms\n\ttacticAnalysis 45.6ms\n\ttype checking 594ms\n\ttypeclass inference 4.23s\n"
+}

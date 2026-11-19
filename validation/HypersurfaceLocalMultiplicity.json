@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/HypersurfaceLocalMultiplicity.lean",
+  "source_sha256": "63c55a654d6a5f73c47da8e87eddc3b4782811468e73a566c7f3ac94557ba889",
+  "exit_code": 0,
+  "seconds": 14.94,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\HypersurfaceLocalMultiplicity.lean:37:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.9s\n.olean serialization took 198ms\ncumulative profiling times:\n\t.olean serialization 198ms\n\tattribute application 0.0104ms\n\telaboration 13.2ms\n\tfix level params 0.223ms\n\timport 7.9s\n\tinitialization 27.9ms\n\tinstantiate metavars 0.213ms\n\tinterpretation 6.24s\n\tlet-to-have transformation 0.0434ms\n\tlinting 2.37ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 29.6ms\n\tparsing 1.18ms\n\tprocess pre-definitions 1.32ms\n\tshare common exprs 0.638ms\n\ttactic execution 41.2ms\n\ttacticAnalysis 76.2ms\n\ttype checking 37.8ms\n\ttypeclass inference 217ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualFiberBoundaryExistence.lean",
+  "source_sha256": "74b8e9e6e6ad49c4c4476c6974c5b3debc360f5409ae42374fb0ee01810cd886",
+  "exit_code": 0,
+  "seconds": 20.55,
+  "log": "tactic execution of Lean.Parser.Tactic.rewriteSeq took 233ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 305ms\ntype checking took 139ms\ntactic execution of Lean.Parser.Tactic.obtain took 1.4s\nelaboration took 360ms\ntype checking took 131ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.67s\n.olean serialization took 885ms\ncumulative profiling times:\n\t.olean serialization 885ms\n\tattribute application 1.26ms\n\tblocked (unaccounted) 1.14s\n\tcompilation (IR) 0.956ms\n\tcompilation (LCNF base) 39.1ms\n\tcompilation (LCNF impure) 5.05ms\n\tcompilation (LCNF mono) 11.3ms\n\tcongr simp thm 2.24ms\n\telaboration 767ms\n\tfix level params 4.29ms\n\timport 7.67s\n\tinitialization 28.1ms\n\tinstantiate metavars 2.58ms\n\tinterpretation 6.8s\n\tlet-to-have transformation 0.761ms\n\tlinting 18.1ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 29.6ms\n\tparsing 4.87ms\n\tprocess pre-definitions 15.4ms\n\tshare common exprs 9.3ms\n\tsimp 14.8ms\n\ttactic execution 2.43s\n\ttacticAnalysis 108ms\n\ttype checking 392ms\n\ttypeclass inference 2.19s\n"
+}

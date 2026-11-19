@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ParametricWeightedRulingFactorization.lean",
+  "source_sha256": "d2c70e1583c066bb8e4b09234fc872491d8b4a22c0450cd12702b7b997207db7",
+  "exit_code": 0,
+  "seconds": 15.99,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.46s\n.olean serialization took 223ms\ncumulative profiling times:\n\t.olean serialization 223ms\n\tattribute application 0.0122ms\n\tcongr simp thm 0.515ms\n\telaboration 35.6ms\n\tfix level params 1.62ms\n\timport 8.46s\n\tinitialization 28.3ms\n\tinstantiate metavars 1.34ms\n\tinterpretation 6.51s\n\tlet-to-have transformation 0.0779ms\n\tlinting 8.45ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 27.7ms\n\tparsing 2.32ms\n\tprocess pre-definitions 5.03ms\n\tshare common exprs 2.9ms\n\tsimp 17.2ms\n\ttactic execution 219ms\n\ttacticAnalysis 69.2ms\n\ttype checking 37.9ms\n\ttypeclass inference 158ms\n"
+}

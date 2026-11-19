@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FractionDenominatorIdeal.lean",
+  "source_sha256": "86de8b3ac39337508d7d229d2494a5572d191fe4ccad89b2d6f36d7fe3c63959",
+  "exit_code": 0,
+  "seconds": 18.28,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\FractionDenominatorIdeal.lean:76:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.nonregular_fraction_constructs_prime_denominator`:\n  [IsDomain R]\n  [IsFractionRing R F]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsDomain R] [IsFractionRing R F] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

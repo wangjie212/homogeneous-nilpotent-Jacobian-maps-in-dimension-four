@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CharacteristicPencilOutputField.lean",
+  "source_sha256": "05120a3f33315cd2f5be7a10c786914afcff36921feae925e62339c69d575f1e",
+  "exit_code": 0,
+  "seconds": 18.14,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CharacteristicPencilOutputField.lean:76:8: warning: this tactic is never executed\n\nNote: This linter can be disabled with `set_option linter.unreachableTactic false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CharacteristicPencilOutputField.lean:76:8: warning: Unused tactic linter: `ring` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CharacteristicPencilOutputField.lean:101:8: warning: this tactic is never executed\n\nNote: This linter can be disabled with `set_option linter.unreachableTactic false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CharacteristicPencilOutputField.lean:101:8: warning: Unused tactic linter: `ring` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\n"
+}

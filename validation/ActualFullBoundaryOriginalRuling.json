@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualFullBoundaryOriginalRuling.lean",
+  "source_sha256": "41f720aaa46adb72dbb8ccac05e91a42f985dabc001b7b3360e321ff8cb0b8a6",
+  "exit_code": 0,
+  "seconds": 23.21,
+  "log": "tactic execution of Lean.Parser.Tactic.refine took 115ms\nsimp took 215ms\nsimp took 208ms\ntype checking took 234ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 565ms\ntypeclass inference of AddMonoidHomClass took 169ms\ntype checking took 188ms\ntype checking took 166ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 8.08s\n.olean serialization took 1.57s\ncumulative profiling times:\n\t.olean serialization 1.57s\n\tattribute application 2.31ms\n\tblocked (unaccounted) 1.65s\n\tcompilation (IR) 1.68ms\n\tcompilation (LCNF base) 65.3ms\n\tcompilation (LCNF impure) 8.65ms\n\tcompilation (LCNF mono) 19.3ms\n\tcongr simp thm 23.1ms\n\telaboration 598ms\n\tfix level params 5.82ms\n\timport 8.08s\n\tinitialization 28.1ms\n\tinstantiate metavars 3.98ms\n\tinterpretation 6.76s\n\tlet-to-have transformation 1.15ms\n\tlinting 37ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 40.8ms\n\tparsing 5.66ms\n\tprocess pre-definitions 20.1ms\n\tshare common exprs 12.4ms\n\tsimp 463ms\n\ttactic execution 1.11s\n\ttacticAnalysis 148ms\n\ttype checking 593ms\n\ttypeclass inference 5.09s\n"
+}

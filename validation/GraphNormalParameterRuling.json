@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GraphNormalParameterRuling.lean",
+  "source_sha256": "b565efe84c844d2e9614aadeaa5fe7847654261775f442ed77c77f3a053aad5b",
+  "exit_code": 0,
+  "seconds": 15.91,
+  "log": "tactic execution of Lean.Parser.Tactic.rewriteSeq took 251ms\ntactic execution of Lean.Parser.Tactic.obtain took 124ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 105ms\ntype checking took 132ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 7.94s\n.olean serialization took 230ms\ncumulative profiling times:\n\t.olean serialization 230ms\n\tattribute application 0.594ms\n\tcongr simp thm 0.654ms\n\telaboration 36ms\n\tfix level params 2ms\n\timport 7.94s\n\tinitialization 27.5ms\n\tinstantiate metavars 2.43ms\n\tinterpretation 6.63s\n\tlet-to-have transformation 0.142ms\n\tlinting 11.5ms\n\tmodule linting 0.0021ms\n\tnorm_num 4.37ms\n\toverlappingInstancesLinter 27.2ms\n\tparsing 3.56ms\n\tprocess pre-definitions 5.26ms\n\tring 113ms\n\tshare common exprs 5.85ms\n\tsimp 6.04ms\n\ttactic execution 610ms\n\ttacticAnalysis 74.6ms\n\ttype checking 146ms\n\ttypeclass inference 526ms\n"
+}

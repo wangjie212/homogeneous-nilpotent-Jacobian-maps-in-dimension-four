@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ClosedGaussNormalJetRealization.lean",
+  "source_sha256": "040032bb2bd80f40719c284601812fa7b87683794a00b23e8611f298800505ef",
+  "exit_code": 0,
+  "seconds": 19.32,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ClosedGaussNormalJetRealization.lean:19:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.independent_normal_jet_drop_zero_vertex`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

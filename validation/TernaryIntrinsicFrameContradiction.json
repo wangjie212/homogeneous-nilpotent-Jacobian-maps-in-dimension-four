@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryIntrinsicFrameContradiction.lean",
+  "source_sha256": "cba6850d9dd0f316c91bef52d005b74ce1db16d9ced72903e8d5e463a284de2f",
+  "exit_code": 0,
+  "seconds": 19.04,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryIntrinsicFrameContradiction.lean:19:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.ternary_fixed_coordinate_in_prime_constructs_nonzero_inverse_frame_covector`:\n  [IsAlgClosed K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsAlgClosed K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

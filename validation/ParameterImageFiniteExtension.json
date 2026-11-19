@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ParameterImageFiniteExtension.lean",
+  "source_sha256": "574bdff3a39994c25dd6dc253f7f05e86f67a4ef7a6b38c4aa3b78801335a443",
+  "exit_code": 0,
+  "seconds": 15.85,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 108ms\nimport took 8.24s\n.olean serialization took 235ms\ncumulative profiling times:\n\t.olean serialization 235ms\n\tattribute application 0.0713ms\n\telaboration 129ms\n\tfix level params 0.893ms\n\timport 8.24s\n\tinitialization 27.9ms\n\tinstantiate metavars 0.289ms\n\tinterpretation 6.44s\n\tlet-to-have transformation 0.301ms\n\tlinting 4.34ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 24.4ms\n\tparsing 2.71ms\n\tprocess pre-definitions 5.92ms\n\tshare common exprs 2.21ms\n\ttactic execution 79ms\n\ttacticAnalysis 33.6ms\n\ttype checking 124ms\n\ttypeclass inference 555ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GraphNormalSecondJet.lean",
+  "source_sha256": "4abae7b8327fdfc7f6a8bdb6cb0f5be778ec6dc5f5df4c8fc83040bd415c921b",
+  "exit_code": 0,
+  "seconds": 15.41,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 8.5s\n.olean serialization took 199ms\ncumulative profiling times:\n\t.olean serialization 199ms\n\tattribute application 0.0209ms\n\tcongr simp thm 0.403ms\n\telaboration 16.3ms\n\tfix level params 0.724ms\n\timport 8.5s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.307ms\n\tinterpretation 6.66s\n\tlet-to-have transformation 0.0826ms\n\tlinting 4.56ms\n\tmodule linting 0.0017ms\n\tnorm_num 2.82ms\n\toverlappingInstancesLinter 36.9ms\n\tparsing 2.3ms\n\tprocess pre-definitions 2.17ms\n\tring 57.9ms\n\tshare common exprs 1.99ms\n\tsimp 29ms\n\ttactic execution 46.2ms\n\ttacticAnalysis 72.7ms\n\ttype checking 14.2ms\n\ttypeclass inference 277ms\n"
+}

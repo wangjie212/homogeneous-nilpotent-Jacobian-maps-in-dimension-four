@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryGraphMixedHessian.lean",
+  "source_sha256": "25d285f509edc4c10587340fd4eca1a3ee6f422c6b11f3ec50df240af3a00899",
+  "exit_code": 0,
+  "seconds": 22.21,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryGraphMixedHessian.lean:78:16: warning: This simp argument is unused:\n  zero_add\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [map_sub, Derivation.leibniz, hc, hEu, hEv, smul_eq_mul, mul_zero, add_zero, mul_one]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryGraphMixedHessian.lean:36:16: warning: Unused tactic linter: `change E (D (D w)) = 0` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryGraphMixedHessian.lean:39:16: warning: Unused tactic linter: `change D (E (E w)) = 0` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\n"
+}

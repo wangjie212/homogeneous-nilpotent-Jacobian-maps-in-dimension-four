@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalizedJacobianSimplePole.lean",
+  "source_sha256": "03c91afe70c866f858c549900db87e0c51f2431411dfa49c4ec798e8a00d191d",
+  "exit_code": 0,
+  "seconds": 15.15,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 125ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 7.82s\n.olean serialization took 217ms\ncumulative profiling times:\n\t.olean serialization 217ms\n\tattribute application 0.0379ms\n\tblocked (unaccounted) 0.0556ms\n\tcongr simp thm 1.32ms\n\telaboration 43.6ms\n\tfix level params 1.41ms\n\timport 7.82s\n\tinitialization 28ms\n\tinstantiate metavars 1.68ms\n\tinterpretation 6.76s\n\tlet-to-have transformation 0.2ms\n\tlinting 10.9ms\n\tmodule linting 0.0018ms\n\tnorm_num 19.2ms\n\toverlappingInstancesLinter 29ms\n\tparsing 4.79ms\n\tprocess pre-definitions 3.48ms\n\tring 105ms\n\tshare common exprs 5.22ms\n\tsimp 68ms\n\ttactic execution 70.9ms\n\ttacticAnalysis 66.6ms\n\ttype checking 36.4ms\n\ttypeclass inference 459ms\n"
+}

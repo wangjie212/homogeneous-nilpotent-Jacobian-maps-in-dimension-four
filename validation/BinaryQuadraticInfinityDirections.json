@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/BinaryQuadraticInfinityDirections.lean",
+  "source_sha256": "7d4ba6dfffb99b69ba604a883a2cf8caa2590c4b2d379573174330db78b26502",
+  "exit_code": 0,
+  "seconds": 7.28,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\BinaryQuadraticInfinityDirections.lean:46:39: warning: This simp argument is unused:\n  head_cons\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [binaryQuadraticValue, tail_cons]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\BinaryQuadraticInfinityDirections.lean:46:50: warning: This simp argument is unused:\n  tail_cons\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [binaryQuadraticValue, head_cons]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

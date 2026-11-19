@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalizedRulingAlgebraicity.lean",
+  "source_sha256": "5467ffc94793cf3a06b3a16bb27acf2b3177e994ba22a6cc65e8025f757794f3",
+  "exit_code": 0,
+  "seconds": 178.32,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 171s\n.olean serialization took 215ms\ncumulative profiling times:\n\t.olean serialization 215ms\n\tattribute application 0.0213ms\n\telaboration 29ms\n\tfix level params 0.611ms\n\timport 171s\n\tinitialization 28.4ms\n\tinstantiate metavars 0.375ms\n\tinterpretation 6.32s\n\tlet-to-have transformation 0.144ms\n\tlinting 5.58ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 38.2ms\n\tparsing 2.25ms\n\tprocess pre-definitions 1.96ms\n\tshare common exprs 1.5ms\n\ttactic execution 83ms\n\ttacticAnalysis 68.1ms\n\ttype checking 27.1ms\n\ttypeclass inference 209ms\n"
+}

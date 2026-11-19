@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreGeometricBoundaryAlgebraicity.lean",
+  "source_sha256": "03bab77db662bc3398dc5f332b4b8061475841df8fde5545740a911c3b32c5d0",
+  "exit_code": 0,
+  "seconds": 22.99,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreGeometricBoundaryAlgebraicity.lean:76:21: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

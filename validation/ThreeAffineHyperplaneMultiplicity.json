@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ThreeAffineHyperplaneMultiplicity.lean",
+  "source_sha256": "01bef1de894f4b7b0919558eee2b643a5a3fec5b220e3c1e2080f143bf2a6ddd",
+  "exit_code": 0,
+  "seconds": 15.51,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 8.15s\n.olean serialization took 211ms\ncumulative profiling times:\n\t.olean serialization 211ms\n\tattribute application 0.0303ms\n\tcongr simp thm 0.907ms\n\telaboration 29.8ms\n\tfix level params 0.641ms\n\timport 8.15s\n\tinitialization 29ms\n\tinstantiate metavars 0.533ms\n\tinterpretation 7.33s\n\tlet-to-have transformation 0.249ms\n\tlinting 7.77ms\n\tmodule linting 0.0025ms\n\tnorm_num 3.96ms\n\toverlappingInstancesLinter 74.5ms\n\tparsing 3.36ms\n\tprocess pre-definitions 2.39ms\n\tring 58.3ms\n\tshare common exprs 1.54ms\n\tsimp 23.9ms\n\ttactic execution 95.5ms\n\ttacticAnalysis 158ms\n\ttype checking 39.6ms\n\ttypeclass inference 265ms\n"
+}

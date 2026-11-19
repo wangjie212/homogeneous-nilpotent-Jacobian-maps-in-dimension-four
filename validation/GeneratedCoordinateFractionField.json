@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GeneratedCoordinateFractionField.lean",
+  "source_sha256": "e6c35dab8afbe6360832ff9ca79dfcd4fc39c8db29a0a76769c3cfbb11390f3c",
+  "exit_code": 0,
+  "seconds": 15.99,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 8.98s\n.olean serialization took 182ms\ncumulative profiling times:\n\t.olean serialization 182ms\n\tattribute application 0.0081ms\n\telaboration 4.96ms\n\tfix level params 0.194ms\n\timport 8.98s\n\tinitialization 29.3ms\n\tinstantiate metavars 0.158ms\n\tinterpretation 6.43s\n\tlet-to-have transformation 0.0187ms\n\tlinting 1.65ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 20.2ms\n\tparsing 0.81ms\n\tprocess pre-definitions 0.624ms\n\tshare common exprs 0.317ms\n\ttactic execution 31.2ms\n\ttacticAnalysis 26.8ms\n\ttype checking 3.06ms\n\ttypeclass inference 21.6ms\n"
+}

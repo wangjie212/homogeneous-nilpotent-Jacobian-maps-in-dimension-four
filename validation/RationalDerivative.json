@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalDerivative.lean",
+  "source_sha256": "b071aaf854f9b6bbe2811418c9e7dd4ed44c16b7b85c55739238f8ecdf9c0ef4",
+  "exit_code": 0,
+  "seconds": 19.6,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\RationalDerivative.lean:196:20: warning: This simp argument is unused:\n  Pi.single_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [pderiv_X, h, Ne.symm h]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

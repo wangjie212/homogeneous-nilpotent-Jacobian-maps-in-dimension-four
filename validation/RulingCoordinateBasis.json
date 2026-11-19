@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RulingCoordinateBasis.lean",
+  "source_sha256": "b0b0c48d308ad700aeb640789363164f38337501acd8530419c0000cf660c2f3",
+  "exit_code": 0,
+  "seconds": 15.57,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 115ms\nimport took 8.61s\n.olean serialization took 199ms\ncumulative profiling times:\n\t.olean serialization 199ms\n\tattribute application 0.0375ms\n\tcongr simp thm 0.321ms\n\telaboration 27.7ms\n\tfix level params 0.961ms\n\timport 8.61s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.805ms\n\tinterpretation 6.54s\n\tlet-to-have transformation 0.164ms\n\tlinting 8.16ms\n\tmodule linting 0.0019ms\n\tnorm_num 2.49ms\n\toverlappingInstancesLinter 23.5ms\n\tparsing 3.6ms\n\tprocess pre-definitions 2.94ms\n\tring 69.2ms\n\tshare common exprs 2.62ms\n\tsimp 8.03ms\n\ttactic execution 63.1ms\n\ttacticAnalysis 55.9ms\n\ttype checking 21.9ms\n\ttypeclass inference 118ms\n"
+}

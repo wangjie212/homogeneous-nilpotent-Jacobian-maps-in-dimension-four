@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GeometricComponentDegreeComparison.lean",
+  "source_sha256": "2c4067420bc6967b95183f4bf75f2f70211f5efa73cd3487d2c85e0bed4b1466",
+  "exit_code": 0,
+  "seconds": 15.41,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GeometricComponentDegreeComparison.lean:31:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GeometricComponentDegreeComparison.lean:19:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.geometric_generic_component_curve_degree_le_original`:\n  [Algebra.IsAlgebraic M E]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [Algebra.IsAlgebraic M E] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

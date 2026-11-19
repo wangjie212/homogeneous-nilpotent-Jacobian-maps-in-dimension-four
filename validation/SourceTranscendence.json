@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SourceTranscendence.lean",
+  "source_sha256": "73bfc5e00d06a755b627013696e20cf4a421c7c4e2010aaa576ee2bcf8784291",
+  "exit_code": 0,
+  "seconds": 16.18,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SourceTranscendence.lean:40:19: warning: `if_false` has been deprecated: Use `ite_false` instead\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SourceTranscendence.lean:89:60: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

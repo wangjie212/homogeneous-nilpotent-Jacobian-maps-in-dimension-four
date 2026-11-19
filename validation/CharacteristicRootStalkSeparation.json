@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CharacteristicRootStalkSeparation.lean",
+  "source_sha256": "cec8876c7f070b819ed08cf6d53de2e1a18303314e9679f71e0a1ebf489bd75a",
+  "exit_code": 0,
+  "seconds": 24.0,
+  "log": "type checking took 118ms\ntype checking took 120ms\ntactic execution of Lean.Parser.Tactic.obtain took 163ms\nelaboration took 444ms\ntype checking took 456ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 8.73s\n.olean serialization took 260ms\ncumulative profiling times:\n\t.olean serialization 260ms\n\tattribute application 3.69ms\n\tblocked (unaccounted) 179ms\n\tcompilation (IR) 1.87ms\n\tcompilation (LCNF base) 90.9ms\n\tcompilation (LCNF impure) 9.62ms\n\tcompilation (LCNF mono) 24.8ms\n\telaboration 1.11s\n\tfix level params 1.51ms\n\timport 8.73s\n\tinitialization 28.4ms\n\tinstantiate metavars 0.616ms\n\tinterpretation 6.76s\n\tlet-to-have transformation 0.389ms\n\tlinting 21.8ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 38.9ms\n\tparsing 2.8ms\n\tprocess pre-definitions 16.5ms\n\tshare common exprs 4.97ms\n\ttactic execution 217ms\n\ttacticAnalysis 157ms\n\ttype checking 715ms\n\ttypeclass inference 6.23s\n"
+}

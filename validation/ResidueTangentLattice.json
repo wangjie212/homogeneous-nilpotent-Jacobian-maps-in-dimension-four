@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ResidueTangentLattice.lean",
+  "source_sha256": "051e35fdd00ebdb62d16af0f73dab9e2cb84017c8a6bd7db9e0bb430824d928d",
+  "exit_code": 0,
+  "seconds": 14.78,
+  "log": "import took 7.76s\n.olean serialization took 211ms\ncumulative profiling times:\n\t.olean serialization 211ms\n\tattribute application 0.0561ms\n\tcompilation (IR) 0.192ms\n\tcompilation (LCNF base) 4.59ms\n\tcompilation (LCNF impure) 0.782ms\n\tcompilation (LCNF mono) 1.97ms\n\tcongr simp thm 0.997ms\n\telaboration 38.1ms\n\tfix level params 0.785ms\n\timport 7.76s\n\tinitialization 28.7ms\n\tinstantiate metavars 0.525ms\n\tinterpretation 6.16s\n\tlet-to-have transformation 0.159ms\n\tlinting 6.62ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 22.1ms\n\tparsing 4.01ms\n\tprocess pre-definitions 6.53ms\n\tshare common exprs 1.63ms\n\tsimp 59.7ms\n\ttactic execution 55.5ms\n\ttacticAnalysis 40ms\n\ttype checking 23.2ms\n\ttypeclass inference 389ms\n"
+}

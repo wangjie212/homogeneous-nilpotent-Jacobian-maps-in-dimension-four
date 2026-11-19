@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedNormalizedChartGerms.lean",
+  "source_sha256": "24b6701c1d7513eff036f88e62666d430c1dc2ff9d23db14262be329510b47f2",
+  "exit_code": 0,
+  "seconds": 237.03,
+  "log": "typeclass inference of Module took 362ms\ntype checking took 133ms\ntypeclass inference of Module took 381ms\nelaboration took 110ms\ntype checking took 686ms\ntypeclass inference of Module took 372ms\ntypeclass inference of Module took 366ms\ntypeclass inference of Algebra took 3.62s\nelaboration took 103ms\ntypeclass inference of Module took 362ms\ntypeclass inference of Algebra took 3.78s\ntactic execution of Lean.Parser.Tactic.exact took 98.6s\nelaboration took 132ms\ntype checking took 2.06s\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.53s\n.olean serialization took 106s\ncumulative profiling times:\n\t.olean serialization 106s\n\tattribute application 2.5ms\n\tblocked (unaccounted) 115ms\n\tcompilation (IR) 1.3ms\n\tcompilation (LCNF base) 56.1ms\n\tcompilation (LCNF impure) 7.16ms\n\tcompilation (LCNF mono) 16.1ms\n\telaboration 761ms\n\tfix level params 2.58ms\n\timport 8.53s\n\tinitialization 27.3ms\n\tinstantiate metavars 1.31ms\n\tinterpretation 6.83s\n\tlet-to-have transformation 0.705ms\n\tlinting 14.1ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 38.1ms\n\tparsing 2.27ms\n\tprocess pre-definitions 29.5ms\n\tshare common exprs 8.16ms\n\ttactic execution 98.8s\n\ttacticAnalysis 141ms\n\ttype checking 2.89s\n\ttypeclass inference 14.2s\n"
+}

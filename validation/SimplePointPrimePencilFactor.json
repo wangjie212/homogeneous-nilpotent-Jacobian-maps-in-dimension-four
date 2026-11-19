@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SimplePointPrimePencilFactor.lean",
+  "source_sha256": "605ac89fe2a32a3e446c208a9f242cf33b8b0339fed3a81304f3def53f05da4e",
+  "exit_code": 0,
+  "seconds": 19.79,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SimplePointPrimePencilFactor.lean:21:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

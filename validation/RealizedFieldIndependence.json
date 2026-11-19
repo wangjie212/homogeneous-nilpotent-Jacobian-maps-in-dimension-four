@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RealizedFieldIndependence.lean",
+  "source_sha256": "90de930eea0c3f3ee70ae348ab4ca666cf2df7eef862be11dfb8d9ebe5874c23",
+  "exit_code": 0,
+  "seconds": 17.12,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\RealizedFieldIndependence.lean:18:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.independent_source_coordinates_over_realized_coefficient_field`:\n  [IsScalarTower K C M]\n  [Algebra E G]\n  [IsScalarTower K E G]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsScalarTower K C M] [Algebra E G] [IsScalarTower K E G] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

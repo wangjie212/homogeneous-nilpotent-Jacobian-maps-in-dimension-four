@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RankThreeActualParabolicCone.lean",
+  "source_sha256": "25ca63632b099f3538f6ab02b28d2eade9f66c2e4210da14cbebd17383b8b66c",
+  "exit_code": 0,
+  "seconds": 19.82,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\RankThreeActualParabolicCone.lean:61:72: warning: This simp argument is unused:\n  zero_mul\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [Derivation.leibniz_pow, hconst, smul_eq_mul, mul_zero, nsmul_zero, zero_add]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CharacteristicPencilDivisorDegreeTwo.lean",
+  "source_sha256": "8d3bd3f952685979d4f744865e25741ac6da59e0dd090c79808b4593720baa01",
+  "exit_code": 0,
+  "seconds": 22.11,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CharacteristicPencilDivisorDegreeTwo.lean:55:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CharacteristicPencilDivisorDegreeTwo.lean:56:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryFixedAxisProjectionPolynomial.lean",
+  "source_sha256": "2a92cffd5bd0b929ad00f4798b15a4c97a2429e47d50475629f6ae709bb6658c",
+  "exit_code": 0,
+  "seconds": 17.97,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryFixedAxisProjectionPolynomial.lean:48:18: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

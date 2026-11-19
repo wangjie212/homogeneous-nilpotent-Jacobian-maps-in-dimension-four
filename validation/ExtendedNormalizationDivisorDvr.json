@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedNormalizationDivisorDvr.lean",
+  "source_sha256": "0dbcaa747f796977c7713e6a3df551c56f2afe4d23b8fc010894d7c33c653a90",
+  "exit_code": 0,
+  "seconds": 18.06,
+  "log": "type checking took 158ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 100ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 114ms\nimport took 9.62s\n.olean serialization took 263ms\ncumulative profiling times:\n\t.olean serialization 263ms\n\tattribute application 0.0133ms\n\telaboration 48.2ms\n\tfix level params 0.146ms\n\timport 9.62s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.0289ms\n\tinterpretation 7.64s\n\tlet-to-have transformation 1.14ms\n\tlinting 2.95ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 31.9ms\n\tparsing 1.06ms\n\tprocess pre-definitions 0.746ms\n\tshare common exprs 0.4ms\n\ttactic execution 25.2ms\n\ttacticAnalysis 111ms\n\ttype checking 158ms\n\ttypeclass inference 351ms\n"
+}

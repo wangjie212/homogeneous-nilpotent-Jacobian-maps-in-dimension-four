@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/MonicHypersurfaceProjection.lean",
+  "source_sha256": "61d7d8d8714f89270182a41f10a22863f118f865e5eecca3a1564151ae57df0b",
+  "exit_code": 0,
+  "seconds": 15.39,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 8.35s\n.olean serialization took 211ms\ncumulative profiling times:\n\t.olean serialization 211ms\n\tattribute application 0.0154ms\n\tcongr simp thm 2.21ms\n\telaboration 13.3ms\n\tfix level params 0.76ms\n\timport 8.35s\n\tinitialization 28.8ms\n\tinstantiate metavars 0.953ms\n\tinterpretation 6.45s\n\tlet-to-have transformation 0.0494ms\n\tlinting 6.46ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 30ms\n\tparsing 2.99ms\n\tprocess pre-definitions 2.79ms\n\tshare common exprs 1.89ms\n\tsimp 48.3ms\n\ttactic execution 90.7ms\n\ttacticAnalysis 85.8ms\n\ttype checking 28.4ms\n\ttypeclass inference 156ms\n"
+}

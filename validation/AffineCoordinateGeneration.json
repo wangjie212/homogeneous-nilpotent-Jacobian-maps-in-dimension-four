@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineCoordinateGeneration.lean",
+  "source_sha256": "98be30b02c0ae6a9cd1e470bf51c173b8a1f42f566f7ef502bc76667b5aade69",
+  "exit_code": 0,
+  "seconds": 15.13,
+  "log": "tactic execution of Lean.Parser.Tactic.exact took 132ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 8.08s\n.olean serialization took 209ms\ncumulative profiling times:\n\t.olean serialization 209ms\n\tattribute application 0.0353ms\n\tblocked (unaccounted) 0.0032ms\n\tcongr simp thm 2.88ms\n\telaboration 15.8ms\n\tfix level params 0.555ms\n\timport 8.08s\n\tinitialization 27.8ms\n\tinstantiate metavars 0.298ms\n\tinterpretation 6.6s\n\tlet-to-have transformation 0.0646ms\n\tlinting 4.22ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 49.9ms\n\tparsing 2.41ms\n\tprocess pre-definitions 2ms\n\tshare common exprs 1.31ms\n\tsimp 63ms\n\ttactic execution 151ms\n\ttacticAnalysis 87.2ms\n\ttype checking 14.4ms\n\ttypeclass inference 136ms\n"
+}

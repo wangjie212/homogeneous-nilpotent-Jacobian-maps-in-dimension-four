@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PolynomialNormOrderBound.lean",
+  "source_sha256": "7d5f0ac69afbdac72552a93723fa9799e4a3b763241d8d0d18eaf8485ddde434",
+  "exit_code": 0,
+  "seconds": 15.74,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 115ms\nimport took 8.61s\n.olean serialization took 194ms\ncumulative profiling times:\n\t.olean serialization 194ms\n\tattribute application 0.0095ms\n\telaboration 9.64ms\n\tfix level params 0.131ms\n\timport 8.61s\n\tinitialization 28.3ms\n\tinstantiate metavars 0.0961ms\n\tinterpretation 6.39s\n\tlet-to-have transformation 0.0273ms\n\tlinting 1.99ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 28.3ms\n\tparsing 1.27ms\n\tprocess pre-definitions 0.759ms\n\tshare common exprs 0.331ms\n\ttactic execution 16.3ms\n\ttacticAnalysis 19.4ms\n\ttype checking 5.96ms\n\ttypeclass inference 114ms\n"
+}

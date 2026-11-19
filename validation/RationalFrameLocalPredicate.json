@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalFrameLocalPredicate.lean",
+  "source_sha256": "3ba5515751ef86c46b38632b1e46d2c62c2c5ca175b5358ad01ab362a10fc1d3",
+  "exit_code": 0,
+  "seconds": 17.94,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 10.9s\n.olean serialization took 211ms\ncumulative profiling times:\n\t.olean serialization 211ms\n\tattribute application 0.0233ms\n\telaboration 22.3ms\n\tfix level params 0.906ms\n\timport 10.9s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.973ms\n\tinterpretation 6.66s\n\tlet-to-have transformation 0.0447ms\n\tlinting 3.73ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 31.6ms\n\tparsing 1.6ms\n\tprocess pre-definitions 5.91ms\n\tshare common exprs 1.64ms\n\ttactic execution 30.5ms\n\ttacticAnalysis 70.3ms\n\ttype checking 13.3ms\n\ttypeclass inference 45.6ms\n"
+}

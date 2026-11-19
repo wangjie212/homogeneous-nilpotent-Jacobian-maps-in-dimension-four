@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/IndependentRationalProjection.lean",
+  "source_sha256": "b080f355b7f9ba9c2e61ac5861aee6a60b6009174b447fa6ddcaaf4a2c5637cc",
+  "exit_code": 0,
+  "seconds": 22.15,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 135ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 174ms\nimport took 11.4s\n.olean serialization took 309ms\ncumulative profiling times:\n\t.olean serialization 309ms\n\tattribute application 0.0156ms\n\tcongr simp thm 0.468ms\n\telaboration 18.9ms\n\tfix level params 0.409ms\n\timport 11.4s\n\tinitialization 27.5ms\n\tinstantiate metavars 0.593ms\n\tinterpretation 9.99s\n\tlet-to-have transformation 0.0363ms\n\tlinting 4.71ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 27.8ms\n\tparsing 2.98ms\n\tprocess pre-definitions 2.64ms\n\tshare common exprs 1.02ms\n\tsimp 12.8ms\n\ttactic execution 137ms\n\ttacticAnalysis 61.5ms\n\ttype checking 67.1ms\n\ttypeclass inference 203ms\n"
+}

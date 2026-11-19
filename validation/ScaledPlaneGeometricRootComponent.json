@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ScaledPlaneGeometricRootComponent.lean",
+  "source_sha256": "a5cab03a479d24c12167cc0f945a2619edf70ee8752383e11f1a9dde5e393b2c",
+  "exit_code": 0,
+  "seconds": 47.94,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ScaledPlaneGeometricRootComponent.lean:79:4: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ScaledPlaneGeometricRootComponent.lean:62:12: warning: Variable name `hqa` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _hqa\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\n"
+}

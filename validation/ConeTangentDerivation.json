@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConeTangentDerivation.lean",
+  "source_sha256": "a2547df26f6850528fbfbad3ef2298372d69c32008da499423dcfb909880376c",
+  "exit_code": 0,
+  "seconds": 18.89,
+  "log": "typeclass inference of AddHomClass took 103ms\ntypeclass inference of MulActionHomClass took 105ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 8.24s\n.olean serialization took 231ms\ncumulative profiling times:\n\t.olean serialization 231ms\n\tattribute application 0.325ms\n\tblocked (unaccounted) 29.4ms\n\tcompilation (IR) 0.394ms\n\tcompilation (LCNF base) 13.9ms\n\tcompilation (LCNF impure) 2.34ms\n\tcompilation (LCNF mono) 4.07ms\n\tcongr simp thm 2.3ms\n\tdsimp 2.34ms\n\telaboration 125ms\n\tfix level params 2.53ms\n\timport 8.24s\n\tinitialization 27.5ms\n\tinstantiate metavars 1.81ms\n\tinterpretation 6.76s\n\tlet-to-have transformation 0.183ms\n\tlinting 14.7ms\n\tmodule linting 0.0019ms\n\tnorm_num 1.82ms\n\toverlappingInstancesLinter 24.9ms\n\tparsing 3.2ms\n\tprocess pre-definitions 12.5ms\n\tring 43.5ms\n\tshare common exprs 5.89ms\n\tsimp 315ms\n\ttactic execution 286ms\n\ttacticAnalysis 60.6ms\n\ttype checking 117ms\n\ttypeclass inference 2.69s\n"
+}

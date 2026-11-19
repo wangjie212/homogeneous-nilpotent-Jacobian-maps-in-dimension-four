@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalChartResidueProjectionBound.lean",
+  "source_sha256": "7ad5658e45a1eca947d0f342a206020e1dc0338165e151c1dc44ee5d2957da5b",
+  "exit_code": 0,
+  "seconds": 19.85,
+  "log": "typeclass inference of SMul took 724ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 147ms\nimport took 9.72s\n.olean serialization took 249ms\ncumulative profiling times:\n\t.olean serialization 249ms\n\tattribute application 0.0124ms\n\telaboration 28.7ms\n\tfix level params 0.383ms\n\timport 9.72s\n\tinitialization 28.3ms\n\tinstantiate metavars 0.322ms\n\tinterpretation 8.49s\n\tlet-to-have transformation 0.245ms\n\tlinting 6.24ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 46.7ms\n\tparsing 2.4ms\n\tprocess pre-definitions 3.15ms\n\tshare common exprs 0.991ms\n\ttactic execution 56.1ms\n\ttacticAnalysis 385ms\n\ttype checking 22.2ms\n\ttypeclass inference 1.49s\n"
+}

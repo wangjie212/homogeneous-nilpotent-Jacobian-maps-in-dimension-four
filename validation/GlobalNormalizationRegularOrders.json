@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GlobalNormalizationRegularOrders.lean",
+  "source_sha256": "2717bfd0d02f92b4cd50443a388cf9b14270d4300e76400bd1235b99f8670770",
+  "exit_code": 0,
+  "seconds": 30.55,
+  "log": "typeclass inference of Module took 397ms\nelaboration took 110ms\ntype checking took 326ms\ntypeclass inference of Module took 395ms\ntypeclass inference of Algebra took 106ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 190ms\ntactic execution of Lean.Parser.Tactic.exact took 105ms\nelaboration took 130ms\ntype checking took 432ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 8.13s\n.olean serialization took 7.16s\ncumulative profiling times:\n\t.olean serialization 7.16s\n\tattribute application 2.55ms\n\tblocked (unaccounted) 252ms\n\tcompilation (IR) 2.63ms\n\tcompilation (LCNF base) 130ms\n\tcompilation (LCNF impure) 13.9ms\n\tcompilation (LCNF mono) 33.9ms\n\telaboration 1.11s\n\tfix level params 2.31ms\n\timport 8.13s\n\tinitialization 27.6ms\n\tinstantiate metavars 0.51ms\n\tinterpretation 6.81s\n\tlet-to-have transformation 0.902ms\n\tlinting 28.4ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 48.6ms\n\tparsing 3.33ms\n\tprocess pre-definitions 19.3ms\n\tshare common exprs 8.38ms\n\ttactic execution 415ms\n\ttacticAnalysis 192ms\n\ttype checking 765ms\n\ttypeclass inference 6.47s\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PrimeLocalizationResidueField.lean",
+  "source_sha256": "6a834ca5df08d2272e8bb38ca97dbb261c466a2c02ea898982b9323911f3b119",
+  "exit_code": 0,
+  "seconds": 47.7,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 125ms\nimport took 39.7s\n.olean serialization took 251ms\ncumulative profiling times:\n\t.olean serialization 251ms\n\tattribute application 0.0374ms\n\telaboration 27.3ms\n\tfix level params 0.358ms\n\timport 39.7s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.179ms\n\tinterpretation 7.48s\n\tlet-to-have transformation 0.141ms\n\tlinting 3ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 32.1ms\n\tparsing 2.3ms\n\tprocess pre-definitions 2.88ms\n\tshare common exprs 0.759ms\n\ttactic execution 34.5ms\n\ttacticAnalysis 62.7ms\n\ttype checking 22ms\n\ttypeclass inference 111ms\n"
+}

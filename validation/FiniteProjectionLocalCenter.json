@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FiniteProjectionLocalCenter.lean",
+  "source_sha256": "5445fe1752534a4541dc2ebd1d52139d05577a42ccd6534b776ac29e80ed287e",
+  "exit_code": 0,
+  "seconds": 17.93,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 112ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 192ms\nimport took 9.11s\n.olean serialization took 228ms\ncumulative profiling times:\n\t.olean serialization 228ms\n\tattribute application 0.0183ms\n\tblocked (unaccounted) 27.9ms\n\telaboration 15.3ms\n\tfix level params 0.311ms\n\timport 9.11s\n\tinitialization 27.5ms\n\tinstantiate metavars 0.206ms\n\tinterpretation 8.09s\n\tlet-to-have transformation 0.054ms\n\tlinting 4.03ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 43.1ms\n\tparsing 2.2ms\n\tprocess pre-definitions 1.71ms\n\tshare common exprs 0.718ms\n\ttactic execution 37ms\n\ttacticAnalysis 54.7ms\n\ttype checking 13.3ms\n\ttypeclass inference 394ms\n"
+}

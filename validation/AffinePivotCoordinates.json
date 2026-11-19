@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffinePivotCoordinates.lean",
+  "source_sha256": "a5794050feb7de977def84700cc3bccf211876afa66b7c5cdd7b868552e77c57",
+  "exit_code": 0,
+  "seconds": 15.29,
+  "log": "tactic execution of Lean.Parser.Tactic.congr took 180ms\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\AffinePivotCoordinates.lean:99:15: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 109ms\nimport took 8.08s\n.olean serialization took 208ms\ncumulative profiling times:\n\t.olean serialization 208ms\n\tattribute application 0.0468ms\n\tblocked (unaccounted) 0.0173ms\n\tcongr simp thm 1.22ms\n\telaboration 19.2ms\n\tfix level params 0.692ms\n\timport 8.08s\n\tinitialization 27.8ms\n\tinstantiate metavars 0.622ms\n\tinterpretation 6.66s\n\tlet-to-have transformation 0.0771ms\n\tlinting 5.79ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 34.6ms\n\tparsing 3.25ms\n\tprocess pre-definitions 2.93ms\n\tshare common exprs 1.89ms\n\tsimp 42.9ms\n\ttactic execution 243ms\n\ttacticAnalysis 95.6ms\n\ttype checking 22.3ms\n\ttypeclass inference 130ms\n"
+}

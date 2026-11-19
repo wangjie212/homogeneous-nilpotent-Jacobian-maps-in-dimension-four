@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedNativeConeRoots.lean",
+  "source_sha256": "4bab721de8bd370d2c1c5c7f72474dee2561e81ccc35897a751e975a7419328b",
+  "exit_code": 0,
+  "seconds": 20.97,
+  "log": "type checking took 122ms\ntype checking took 109ms\ntype checking took 118ms\ntype checking took 111ms\ntype checking took 112ms\ntype checking took 126ms\ntype checking took 171ms\ntype checking took 129ms\ntype checking took 140ms\ntype checking took 139ms\ntype checking took 153ms\ntypeclass inference of Algebra took 181ms\ntype checking took 178ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 109ms\nimport took 8.07s\n.olean serialization took 983ms\ncumulative profiling times:\n\t.olean serialization 983ms\n\tattribute application 3.57ms\n\tblocked (unaccounted) 145ms\n\tcompilation (IR) 1.58ms\n\tcompilation (LCNF base) 73.9ms\n\tcompilation (LCNF impure) 8.26ms\n\tcompilation (LCNF mono) 19.6ms\n\tcongr simp thm 0.749ms\n\telaboration 873ms\n\tfix level params 2.57ms\n\timport 8.07s\n\tinitialization 27.4ms\n\tinstantiate metavars 0.57ms\n\tinterpretation 6.84s\n\tlet-to-have transformation 0.926ms\n\tlinting 27.4ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 53.9ms\n\tparsing 6.08ms\n\tprocess pre-definitions 24.9ms\n\tshare common exprs 7.68ms\n\tsimp 10.2ms\n\ttactic execution 139ms\n\ttacticAnalysis 203ms\n\ttype checking 1.63s\n\ttypeclass inference 4.32s\n"
+}

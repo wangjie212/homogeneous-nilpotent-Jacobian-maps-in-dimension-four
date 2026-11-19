@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConstantCoefficientShearTameness.lean",
+  "source_sha256": "f1732f18e4d81dde6f3fe96b8a261bf651998f4f291845eb316001c36b801e17",
+  "exit_code": 0,
+  "seconds": 16.51,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ConstantCoefficientShearTameness.lean:34:17: warning: This simp argument is unused:\n  Matrix.cons_val_zero\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [invariant4, hz, zero_mul, zero_add]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

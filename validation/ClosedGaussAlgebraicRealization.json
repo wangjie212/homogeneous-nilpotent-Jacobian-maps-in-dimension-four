@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ClosedGaussAlgebraicRealization.lean",
+  "source_sha256": "7bc43dad9f043952ee2bdef74de117214acd1a7e0f09f7557f3ba6dd19befdbf",
+  "exit_code": 0,
+  "seconds": 38.13,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ClosedGaussAlgebraicRealization.lean:103:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.compatible_algebraic_coefficient_chosen_normal_value`:\n  [IsAlgClosed E]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsAlgClosed E] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

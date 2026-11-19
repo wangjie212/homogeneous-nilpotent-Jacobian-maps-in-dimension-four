@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PowerRemainderUniqueness.lean",
+  "source_sha256": "777dfc5bc99f5eb5fccd0d883139a4b7bee1ae22ad0f5d78e1eaa6c3a1ea3484",
+  "exit_code": 0,
+  "seconds": 17.72,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PowerRemainderUniqueness.lean:15:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.factorization_eq_of_associated`:\n  [Nontrivial R]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [Nontrivial R] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PowerRemainderUniqueness.lean:23:5: warning: Variable name `hP` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _hP\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\n"
+}

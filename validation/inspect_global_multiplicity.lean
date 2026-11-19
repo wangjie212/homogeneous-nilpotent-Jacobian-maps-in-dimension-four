@@ -1,0 +1,3 @@
+import DimensionFourDependence.ActualProjectiveImageMultiplicity
+set_option pp.universes true
+#check @DimensionFourDependence.actual_projective_divisor_image_common_factor_degree

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualGaussRootUnitCoefficients.lean",
+  "source_sha256": "d2aa4940d6d4b1f141ef3b7c33184226dd6d264c7cf2fae39aa77659a6a7435d",
+  "exit_code": 0,
+  "seconds": 19.19,
+  "log": "type checking took 119ms\ntype checking took 113ms\ntype checking took 129ms\nelaboration took 127ms\ntype checking took 375ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 8.27s\n.olean serialization took 277ms\ncumulative profiling times:\n\t.olean serialization 277ms\n\tattribute application 3.62ms\n\tblocked (unaccounted) 100ms\n\tcompilation (IR) 1.13ms\n\tcompilation (LCNF base) 50.4ms\n\tcompilation (LCNF impure) 6.14ms\n\tcompilation (LCNF mono) 13.8ms\n\telaboration 573ms\n\tfix level params 1.27ms\n\timport 8.27s\n\tinitialization 28.3ms\n\tinstantiate metavars 0.415ms\n\tinterpretation 6.63s\n\tlet-to-have transformation 0.524ms\n\tlinting 17.4ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 43.6ms\n\tparsing 2.95ms\n\tprocess pre-definitions 10.6ms\n\tshare common exprs 4.45ms\n\ttactic execution 99.3ms\n\ttacticAnalysis 176ms\n\ttype checking 756ms\n\ttypeclass inference 2.98s\n"
+}

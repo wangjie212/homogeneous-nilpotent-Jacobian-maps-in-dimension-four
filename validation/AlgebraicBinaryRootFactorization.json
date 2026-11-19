@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AlgebraicBinaryRootFactorization.lean",
+  "source_sha256": "0e2dbee47c1a904320fb2383235d599f7a1b8e54cb2d5d48cd90bca7f7af91fd",
+  "exit_code": 0,
+  "seconds": 15.46,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.9s\n.olean serialization took 215ms\ncumulative profiling times:\n\t.olean serialization 215ms\n\tattribute application 0.579ms\n\tblocked (unaccounted) 70.2ms\n\tcompilation (IR) 0.873ms\n\tcompilation (LCNF base) 34.6ms\n\tcompilation (LCNF impure) 4.63ms\n\tcompilation (LCNF mono) 9.58ms\n\tcongr simp thm 2.5ms\n\telaboration 114ms\n\tfix level params 1.52ms\n\timport 7.9s\n\tinitialization 28.3ms\n\tinstantiate metavars 1.25ms\n\tinterpretation 6.14s\n\tlet-to-have transformation 0.255ms\n\tlinting 12.1ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 26.7ms\n\tparsing 3.84ms\n\tprocess pre-definitions 7.68ms\n\tshare common exprs 4.01ms\n\tsimp 41.7ms\n\ttactic execution 100ms\n\ttacticAnalysis 62ms\n\ttype checking 43ms\n\ttypeclass inference 736ms\n"
+}

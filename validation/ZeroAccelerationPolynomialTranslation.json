@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ZeroAccelerationPolynomialTranslation.lean",
+  "source_sha256": "1edfe814a86f3798ad2cea1790e8b0621f20518d5795dfbaacbcefe1d2fd18af",
+  "exit_code": 0,
+  "seconds": 18.43,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ZeroAccelerationPolynomialTranslation.lean:33:16: warning: This simp argument is unused:\n  Polynomial.derivative_sub\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [map_sub, he, polynomialCoefficientDerivation_C, hp, map_zero, sub_zero, Polynomial.derivative_C]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ZeroAccelerationPolynomialTranslation.lean:44:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.polynomialDirectionTranslation_X`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

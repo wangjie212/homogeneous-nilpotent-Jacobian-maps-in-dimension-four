@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FixedVertexScaledOutputSpan.lean",
+  "source_sha256": "028ebe88372c9a1cd27d531f7b9807e5fe195d783d4a2cca6d65da5a1afa0247",
+  "exit_code": 0,
+  "seconds": 25.68,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\FixedVertexScaledOutputSpan.lean:85:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.actual_nonzero_output_covector_restriction_ne_zero`:\n  hvertex\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit hvertex in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

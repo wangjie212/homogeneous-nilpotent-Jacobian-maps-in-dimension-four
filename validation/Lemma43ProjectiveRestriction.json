@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/Lemma43ProjectiveRestriction.lean",
+  "source_sha256": "9d290d2f016242e46c06b758ed16586f7a8439cb080c70af4ac0d65587471395",
+  "exit_code": 0,
+  "seconds": 14.77,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 7.84s\n.olean serialization took 216ms\ncumulative profiling times:\n\t.olean serialization 216ms\n\tattribute application 0.617ms\n\tblocked (unaccounted) 0.0941ms\n\telaboration 39.1ms\n\tfix level params 0.354ms\n\timport 7.84s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.197ms\n\tinterpretation 6.52s\n\tlet-to-have transformation 7.48ms\n\tlinting 5.29ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 62.9ms\n\tparsing 2.49ms\n\tprocess pre-definitions 2.37ms\n\tshare common exprs 1.23ms\n\ttactic execution 21.4ms\n\ttacticAnalysis 134ms\n\ttype checking 63.5ms\n\ttypeclass inference 121ms\n"
+}

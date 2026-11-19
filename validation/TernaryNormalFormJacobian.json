@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryNormalFormJacobian.lean",
+  "source_sha256": "061922745a5ddb2e4c0b5bb649e91d4afb197f5e04f86bb7bd4d6675ed629c56",
+  "exit_code": 0,
+  "seconds": 17.84,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalFormJacobian.lean:41:42: warning: This simp argument is unused:\n  pderiv_mul\n\nHint: Omit it from the simp argument list.\n  [apply] simp [jac, perturbation3, hchain, h₂, pderiv_pow, pderiv_X, Pi.single_apply]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalFormJacobian.lean:41:54: warning: This simp argument is unused:\n  pderiv_pow\n\nHint: Omit it from the simp argument list.\n  [apply] simp [jac, perturbation3, hchain, h₂, pderiv_mul, pderiv_X, Pi.single_apply]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalFormJacobian.lean:41:76: warning: This simp argument is unused:\n  Pi.single_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [jac, perturbation3, hchain, h₂, pderiv_mul, pderiv_pow, pderiv_X]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

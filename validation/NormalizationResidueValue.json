@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalizationResidueValue.lean",
+  "source_sha256": "c5e0ebe99cea7dc6b45c8a6b61d99d939971d3dfd5addc737f0c4bed39e5816b",
+  "exit_code": 0,
+  "seconds": 18.55,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NormalizationResidueValue.lean:18:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\NormalizationResidueValue.lean:19:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

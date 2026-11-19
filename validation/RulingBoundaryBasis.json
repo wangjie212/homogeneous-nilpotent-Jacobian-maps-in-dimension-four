@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RulingBoundaryBasis.lean",
+  "source_sha256": "f642cc7cc0725dd1b16e9975dff0db4954a2d48de4aaee20c5c8bdb514fa7fbe",
+  "exit_code": 0,
+  "seconds": 19.08,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 146ms\nimport took 9.69s\n.olean serialization took 265ms\ncumulative profiling times:\n\t.olean serialization 265ms\n\tattribute application 0.045ms\n\tcongr simp thm 0.566ms\n\telaboration 23.7ms\n\tfix level params 1.06ms\n\timport 9.69s\n\tinitialization 28.2ms\n\tinstantiate metavars 1.55ms\n\tinterpretation 8.91s\n\tlet-to-have transformation 0.107ms\n\tlinting 8.98ms\n\tmodule linting 0.0022ms\n\toverlappingInstancesLinter 31.8ms\n\tparsing 3.9ms\n\tprocess pre-definitions 3.4ms\n\tshare common exprs 2.43ms\n\tsimp 81.3ms\n\ttactic execution 54.4ms\n\ttacticAnalysis 71.9ms\n\ttype checking 25ms\n\ttypeclass inference 91.3ms\n"
+}

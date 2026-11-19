@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GeneralRationalLevelDivisors.lean",
+  "source_sha256": "b304b5e4abe8645c00fbae7b6eba1aa15b26931bd442c6aff51b19e534c8fc4e",
+  "exit_code": 0,
+  "seconds": 18.21,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GeneralRationalLevelDivisors.lean:20:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.rationalLevelLocus_constant_unique`:\n  [IsDomain R]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsDomain R] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GeneralRationalLevelDivisors.lean:46:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.rationalLevelLocus_original_quotient_equation`:\n  [IsDomain R]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsDomain R] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreResidueChartWeights.lean",
+  "source_sha256": "23500e87c531b10ac65e66aa7036acc9bc9d3f6626c21cdb214626e3ebba76d3",
+  "exit_code": 0,
+  "seconds": 19.33,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreResidueChartWeights.lean:48:8: warning: This simp argument is unused:\n  Derivation.add_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [Derivation.smul_apply, smul_eq_mul, hDx, hDy, h0x, h1x, h0y, h1y, h1t]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

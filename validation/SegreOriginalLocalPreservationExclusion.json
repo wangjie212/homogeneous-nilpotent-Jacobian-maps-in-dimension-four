@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreOriginalLocalPreservationExclusion.lean",
+  "source_sha256": "1c728cfd849aee0bed765cc3d418bab8dc735afed8af49d9fe7d4c75234d9b98",
+  "exit_code": 0,
+  "seconds": 20.2,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreOriginalLocalPreservationExclusion.lean:49:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

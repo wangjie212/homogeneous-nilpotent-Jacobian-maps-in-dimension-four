@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ScaledPlaneGenericTargetFiber.lean",
+  "source_sha256": "97245a409a2edb340fd8a63577c39e54b6e111dabf2869488a66712dca1f6023",
+  "exit_code": 0,
+  "seconds": 27.33,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ScaledPlaneGenericTargetFiber.lean:47:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.actual_scaled_plane_normalized_source_constructs_generic_target_equations`:\n  [IsAlgClosed K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsAlgClosed K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RelativeNormalizationIso.lean",
+  "source_sha256": "8293914466cd64ca43df52cc29dee3398a4ef7001ab4c6dbc2051010f7e1f7c0",
+  "exit_code": 0,
+  "seconds": 14.88,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\RelativeNormalizationIso.lean:20:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.normalization_arrow_iso_reverse_square`:\n  [QuasiCompact f]\n  [QuasiSeparated f]\n  [QuasiCompact g]\n  [QuasiSeparated g]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [QuasiCompact f] [QuasiSeparated f] [QuasiCompact g] [QuasiSeparated g] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 8.01s\n.olean serialization took 213ms\ncumulative profiling times:\n\t.olean serialization 213ms\n\tattribute application 0.0444ms\n\tcongr simp thm 15.2ms\n\tdsimp 1.74ms\n\telaboration 34.8ms\n\tfix level params 0.363ms\n\timport 8.01s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.344ms\n\tinterpretation 6.62s\n\tlet-to-have transformation 1.14ms\n\tlinting 7.01ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 29.8ms\n\tparsing 2.97ms\n\tprocess pre-definitions 3.07ms\n\tshare common exprs 1.04ms\n\tsimp 9.4ms\n\ttactic execution 28ms\n\ttacticAnalysis 131ms\n\ttype checking 10.8ms\n\ttypeclass inference 29.4ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/QuinticAuxiliaryFlowIdentities.lean",
+  "source_sha256": "7284947db3f87f9b339bc24b237eb011008e7b717770e07ac4c3dba4838dc758",
+  "exit_code": 0,
+  "seconds": 15.58,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\QuinticAuxiliaryFlowIdentities.lean:43:10: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\QuinticAuxiliaryFlowIdentities.lean:53:10: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

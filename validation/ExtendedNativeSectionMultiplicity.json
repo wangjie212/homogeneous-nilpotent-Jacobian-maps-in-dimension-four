@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedNativeSectionMultiplicity.lean",
+  "source_sha256": "4ff3f777ee351cbc30beaa020974ad565f89a8cb236d30b2cc6c425c600573ed",
+  "exit_code": 0,
+  "seconds": 29.62,
+  "log": "type checking took 113ms\ntype checking took 115ms\ntypeclass inference of Module took 358ms\ntype checking took 126ms\ntypeclass inference of Module took 357ms\ntactic execution of Lean.Parser.Tactic.exact took 2.68s\nelaboration took 1.35s\ntype checking took 617ms\ntypeclass inference of Module took 348ms\nelaboration took 365ms\ntype checking took 266ms\ntactic execution of Lean.Parser.Tactic.obtain took 140ms\nelaboration took 1.83s\ntype checking took 231ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 7.66s\n.olean serialization took 5.54s\ncumulative profiling times:\n\t.olean serialization 5.54s\n\tattribute application 4.48ms\n\tblocked (unaccounted) 127ms\n\tcompilation (IR) 1.46ms\n\tcompilation (LCNF base) 62.4ms\n\tcompilation (LCNF impure) 8.05ms\n\tcompilation (LCNF mono) 17.5ms\n\telaboration 4.19s\n\tfix level params 2ms\n\timport 7.66s\n\tinitialization 27.6ms\n\tinstantiate metavars 0.374ms\n\tinterpretation 6.75s\n\tlet-to-have transformation 8.52ms\n\tlinting 26.3ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 46.3ms\n\tparsing 4.69ms\n\tprocess pre-definitions 20.7ms\n\tshare common exprs 7.41ms\n\ttactic execution 2.89s\n\ttacticAnalysis 195ms\n\ttype checking 1.47s\n\ttypeclass inference 5.2s\n"
+}

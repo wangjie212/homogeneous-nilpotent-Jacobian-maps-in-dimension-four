@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/WeightedAffineRootFactorization.lean",
+  "source_sha256": "0a8d930bce24edb3bd31ef6dff2ed5d8c9078d7d3180ccb014d9923fb40d1efa",
+  "exit_code": 0,
+  "seconds": 15.11,
+  "log": "ring took 101ms\ninterpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 283ms\nring took 124ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 7.91s\n.olean serialization took 206ms\ncumulative profiling times:\n\t.olean serialization 206ms\n\tattribute application 0.0282ms\n\tcongr simp thm 1.34ms\n\tdsimp 1.76ms\n\telaboration 23.8ms\n\tfix level params 1.57ms\n\timport 7.91s\n\tinitialization 27.8ms\n\tinstantiate metavars 1.88ms\n\tinterpretation 7.05s\n\tlet-to-have transformation 0.104ms\n\tlinting 11.2ms\n\tmodule linting 0.002ms\n\tnorm_num 55.9ms\n\toverlappingInstancesLinter 46.9ms\n\tparsing 3.51ms\n\tprocess pre-definitions 4.93ms\n\tring 241ms\n\tshare common exprs 5.86ms\n\tsimp 69.4ms\n\ttactic execution 143ms\n\ttacticAnalysis 176ms\n\ttype checking 32.9ms\n\ttypeclass inference 290ms\n"
+}

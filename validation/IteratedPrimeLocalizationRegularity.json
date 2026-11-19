@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/IteratedPrimeLocalizationRegularity.lean",
+  "source_sha256": "4409db5d353ad4c065777aef6add6f51b244c1dea2efaaf1b2228ca726330377",
+  "exit_code": 0,
+  "seconds": 17.94,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\IteratedPrimeLocalizationRegularity.lean:56:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.localized_prime_under_height_eq`:\n  [IsDomain A]\n  [IsDomain R]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsDomain A] [IsDomain R] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SchemeRegularOrderBounds.lean",
+  "source_sha256": "0d63f661fee8775ab0c46304344d995707df59ef71b832d1b3a31219d9234180",
+  "exit_code": 0,
+  "seconds": 7.64,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 3.43s\ncumulative profiling times:\n\t.olean serialization 71.2ms\n\tattribute application 0.0205ms\n\tcongr simp thm 1.05ms\n\telaboration 20.1ms\n\tfix level params 0.348ms\n\timport 3.43s\n\tinitialization 28ms\n\tinstantiate metavars 0.339ms\n\tinterpretation 4.12s\n\tlet-to-have transformation 0.0645ms\n\tlinting 5.52ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 28.5ms\n\tparsing 1.6ms\n\tprocess pre-definitions 1.12ms\n\tshare common exprs 1.03ms\n\tsimp 19.9ms\n\ttactic execution 37.7ms\n\ttacticAnalysis 80.2ms\n\ttype checking 13.5ms\n\ttypeclass inference 130ms\n"
+}

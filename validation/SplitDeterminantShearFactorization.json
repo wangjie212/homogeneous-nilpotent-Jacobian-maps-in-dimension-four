@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SplitDeterminantShearFactorization.lean",
+  "source_sha256": "e7099314368b87be7a9b02f39eb9c594bad94d1eb4a4db9af3608f7b6b6a7ef2",
+  "exit_code": 0,
+  "seconds": 202.82,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SplitDeterminantShearFactorization.lean:20:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.DeterminantShear.splitFlowProduct4_X`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SplitDeterminantShearFactorization.lean:28:80: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SplitDeterminantShearFactorization.lean:79:50: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

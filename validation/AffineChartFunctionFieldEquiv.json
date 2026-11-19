@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineChartFunctionFieldEquiv.lean",
+  "source_sha256": "084b30724c796af38faf9c17449ac8ddccfed061409ab4bd34749b055118e15a",
+  "exit_code": 0,
+  "seconds": 14.89,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 7.96s\n.olean serialization took 205ms\ncumulative profiling times:\n\t.olean serialization 205ms\n\tattribute application 0.026ms\n\tcongr simp thm 0.636ms\n\telaboration 28.6ms\n\tfix level params 0.384ms\n\timport 7.96s\n\tinitialization 29.8ms\n\tinstantiate metavars 0.214ms\n\tinterpretation 6.3s\n\tlet-to-have transformation 0.704ms\n\tlinting 2.75ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 26.5ms\n\tparsing 1.49ms\n\tprocess pre-definitions 1.57ms\n\tshare common exprs 1.15ms\n\tsimp 9.43ms\n\ttactic execution 26.9ms\n\ttacticAnalysis 54.8ms\n\ttype checking 14.5ms\n\ttypeclass inference 220ms\n"
+}

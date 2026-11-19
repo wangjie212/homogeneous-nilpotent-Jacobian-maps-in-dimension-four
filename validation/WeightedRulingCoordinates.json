@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/WeightedRulingCoordinates.lean",
+  "source_sha256": "10af0dd65b208b62c282eff78930a5b94a55a527950d35e88c32fa6079747a2e",
+  "exit_code": 0,
+  "seconds": 14.94,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 106ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 7.74s\n.olean serialization took 203ms\ncumulative profiling times:\n\t.olean serialization 203ms\n\tattribute application 0.0203ms\n\tcongr simp thm 0.641ms\n\telaboration 18.6ms\n\tfix level params 0.784ms\n\timport 7.74s\n\tinitialization 27.6ms\n\tinstantiate metavars 0.899ms\n\tinterpretation 6.61s\n\tlet-to-have transformation 0.0696ms\n\tlinting 5.72ms\n\tmodule linting 0.0022ms\n\tnorm_num 2.77ms\n\toverlappingInstancesLinter 54ms\n\tparsing 2.78ms\n\tprocess pre-definitions 2.18ms\n\tring 88.8ms\n\tshare common exprs 2.67ms\n\tsimp 32.4ms\n\ttactic execution 71ms\n\ttacticAnalysis 50.9ms\n\ttype checking 17.2ms\n\ttypeclass inference 121ms\n"
+}

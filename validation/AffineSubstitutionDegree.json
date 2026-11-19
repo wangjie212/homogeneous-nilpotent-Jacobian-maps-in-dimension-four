@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineSubstitutionDegree.lean",
+  "source_sha256": "ed6944983c2365075075cda3e9846f46f2910e445dd293723496430e065d6175",
+  "exit_code": 0,
+  "seconds": 15.17,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 8.12s\n.olean serialization took 203ms\ncumulative profiling times:\n\t.olean serialization 203ms\n\tattribute application 0.0103ms\n\tcongr simp thm 0.491ms\n\telaboration 4.65ms\n\tfix level params 0.147ms\n\timport 8.12s\n\tinitialization 27.6ms\n\tinstantiate metavars 0.115ms\n\tinterpretation 6.49s\n\tlet-to-have transformation 0.0198ms\n\tlinting 1.8ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 25.7ms\n\tparsing 0.815ms\n\tprocess pre-definitions 0.49ms\n\tshare common exprs 0.383ms\n\tsimp 16.9ms\n\ttactic execution 13.5ms\n\ttacticAnalysis 67.1ms\n\ttype checking 5.02ms\n\ttypeclass inference 44.9ms\n"
+}

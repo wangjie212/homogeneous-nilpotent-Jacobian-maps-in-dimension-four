@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualGaussBoundaryAcceleration.lean",
+  "source_sha256": "af8d84978f07cd73c4ed76295b076350a3b89d576e6be32d88d697f90028e4aa",
+  "exit_code": 0,
+  "seconds": 16.44,
+  "log": "typeclass inference of SMul took 102ms\nelaboration took 123ms\ntype checking took 162ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 8.03s\n.olean serialization took 323ms\ncumulative profiling times:\n\t.olean serialization 323ms\n\tattribute application 0.825ms\n\telaboration 138ms\n\tfix level params 1.13ms\n\timport 8.03s\n\tinitialization 27.5ms\n\tinstantiate metavars 0.0904ms\n\tinterpretation 6.43s\n\tlet-to-have transformation 139ms\n\tlinting 7.26ms\n\tmodule linting 0.0021ms\n\toverlappingInstancesLinter 36.1ms\n\tparsing 3.03ms\n\tprocess pre-definitions 2.24ms\n\tshare common exprs 3.27ms\n\ttactic execution 60.1ms\n\ttacticAnalysis 126ms\n\ttype checking 162ms\n\ttypeclass inference 1.06s\n"
+}

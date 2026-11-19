@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ParametricGraphCubic.lean",
+  "source_sha256": "bc0f789f81f82c88a377e9080df9644a35713c13485edeccf77635b4926766ff",
+  "exit_code": 0,
+  "seconds": 16.38,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 280ms\nring took 194ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 112ms\nimport took 8.38s\n.olean serialization took 240ms\ncumulative profiling times:\n\t.olean serialization 240ms\n\tattribute application 0.584ms\n\tblocked (unaccounted) 54.5ms\n\tcompilation (IR) 0.729ms\n\tcompilation (LCNF base) 27.2ms\n\tcompilation (LCNF impure) 3.82ms\n\tcompilation (LCNF mono) 8.89ms\n\tcongr simp thm 0.837ms\n\telaboration 151ms\n\tfix level params 2.53ms\n\timport 8.38s\n\tinitialization 26.9ms\n\tinstantiate metavars 1.75ms\n\tinterpretation 7.64s\n\tlet-to-have transformation 0.284ms\n\tlinting 13.3ms\n\tmodule linting 0.0023ms\n\tnorm_num 7.75ms\n\toverlappingInstancesLinter 35.8ms\n\tparsing 3.79ms\n\tprocess pre-definitions 8.51ms\n\tring 224ms\n\tshare common exprs 13.5ms\n\tsimp 55.4ms\n\ttactic execution 90.7ms\n\ttacticAnalysis 124ms\n\ttype checking 59.7ms\n\ttypeclass inference 276ms\n"
+}

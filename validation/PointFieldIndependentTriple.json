@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PointFieldIndependentTriple.lean",
+  "source_sha256": "157b7422ff1cfbefd5fe67554a4b8acc19f481fa08f3e88cf581bfdd37bd01d9",
+  "exit_code": 1,
+  "seconds": 19.38,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PointFieldIndependentTriple.lean:36:37: error(lean.unknownIdentifier): Unknown constant `Cardinal.natCast_le`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PointFieldIndependentTriple.lean:36:4: error: Type mismatch: After simplification, term\n  he\n has type\n  LE.le.{u + 1} 3 ↑(Fintype.card ↑S)\nbut is expected to have type\n  LE.le.{0} 3 (Fintype.card ↑S)\n"
+}

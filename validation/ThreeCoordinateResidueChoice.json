@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ThreeCoordinateResidueChoice.lean",
+  "source_sha256": "98542459caf44eb62740f83615b9a9a08eb9296723bd8a17e0844fbb02366917",
+  "exit_code": 0,
+  "seconds": 16.12,
+  "log": "interpretation of Mathlib.Tactic.Tauto._aux_Mathlib_Tactic_Tauto___elabRules_Mathlib_Tactic_Tauto_tauto_1._boxed took 165ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 109ms\nimport took 8.61s\n.olean serialization took 213ms\ncumulative profiling times:\n\t.olean serialization 213ms\n\tattribute application 0.0099ms\n\tcongr simp thm 0.592ms\n\telaboration 11.4ms\n\tfix level params 0.345ms\n\timport 8.61s\n\tinitialization 28.9ms\n\tinstantiate metavars 0.552ms\n\tinterpretation 6.59s\n\tlet-to-have transformation 0.0423ms\n\tlinting 4.44ms\n\tmodule linting 0.0021ms\n\toverlappingInstancesLinter 23.1ms\n\tparsing 2.09ms\n\tprocess pre-definitions 1.14ms\n\tshare common exprs 0.945ms\n\tsimp 15.2ms\n\ttactic execution 157ms\n\ttacticAnalysis 43.2ms\n\ttype checking 7.16ms\n\ttypeclass inference 139ms\n"
+}

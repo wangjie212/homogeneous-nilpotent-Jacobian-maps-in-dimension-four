@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalMapRootAlternatives.lean",
+  "source_sha256": "b0eb14dd37d620f011de1f1108d0be3fed2e73b4dcfc00b2700459269e0ce3da",
+  "exit_code": 0,
+  "seconds": 15.68,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.37s\n.olean serialization took 234ms\ncumulative profiling times:\n\t.olean serialization 234ms\n\tattribute application 0.012ms\n\telaboration 22.6ms\n\tfix level params 0.834ms\n\timport 8.37s\n\tinitialization 27.8ms\n\tinstantiate metavars 0.501ms\n\tinterpretation 6.56s\n\tlet-to-have transformation 0.114ms\n\tlinting 5.72ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 30.4ms\n\tparsing 0.968ms\n\tprocess pre-definitions 2.95ms\n\tshare common exprs 1.53ms\n\ttactic execution 76.7ms\n\ttacticAnalysis 93.7ms\n\ttype checking 93.5ms\n\ttypeclass inference 122ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FramedRationalStalkComparison.lean",
+  "source_sha256": "9833df83cbe1da52faceb0eda686309a4bef8dedb31304aa05a4dc5ec1e7f4b3",
+  "exit_code": 0,
+  "seconds": 14.68,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 113ms\nimport took 7.79s\n.olean serialization took 191ms\ncumulative profiling times:\n\t.olean serialization 191ms\n\tattribute application 0.0158ms\n\telaboration 14.6ms\n\tfix level params 0.398ms\n\timport 7.79s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.206ms\n\tinterpretation 6.39s\n\tlet-to-have transformation 2.66ms\n\tlinting 2.09ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 23.6ms\n\tparsing 1.24ms\n\tprocess pre-definitions 2.66ms\n\tshare common exprs 0.701ms\n\ttactic execution 23ms\n\ttacticAnalysis 21.7ms\n\ttype checking 19.7ms\n\ttypeclass inference 67.9ms\n"
+}

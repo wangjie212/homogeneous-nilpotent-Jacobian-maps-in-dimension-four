@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RegularSectionIntegerMultiplicity.lean",
+  "source_sha256": "0f20336f015d0ece786b5ab050f0b2ca4c79af03b189e89261e0e0197155cf06",
+  "exit_code": 0,
+  "seconds": 16.2,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 118ms\nimport took 8.82s\n.olean serialization took 198ms\ncumulative profiling times:\n\t.olean serialization 198ms\n\tattribute application 0.0105ms\n\telaboration 9.16ms\n\tfix level params 0.141ms\n\timport 8.82s\n\tinitialization 27.1ms\n\tinstantiate metavars 0.161ms\n\tinterpretation 7.07s\n\tlet-to-have transformation 0.0222ms\n\tlinting 2.07ms\n\tmodule linting 0.0014ms\n\toverlappingInstancesLinter 24.3ms\n\tparsing 0.692ms\n\tprocess pre-definitions 0.489ms\n\tshare common exprs 0.311ms\n\ttactic execution 9.93ms\n\ttacticAnalysis 67.2ms\n\ttype checking 2.67ms\n\ttypeclass inference 44.9ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ReindexedResidueProjectionBound.lean",
+  "source_sha256": "5e04947c8cc4ac6c8b5fe8c6bddcff28107dd7ac8e8eab0df7170f8b458a1bcf",
+  "exit_code": 0,
+  "seconds": 20.09,
+  "log": "typeclass inference of SMul took 809ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 108ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 156ms\nimport took 9.94s\n.olean serialization took 255ms\ncumulative profiling times:\n\t.olean serialization 255ms\n\tattribute application 0.0119ms\n\telaboration 23.5ms\n\tfix level params 0.323ms\n\timport 9.94s\n\tinitialization 28ms\n\tinstantiate metavars 0.313ms\n\tinterpretation 8.48s\n\tlet-to-have transformation 0.09ms\n\tlinting 4.73ms\n\tmodule linting 0.0025ms\n\toverlappingInstancesLinter 42ms\n\tparsing 2.35ms\n\tprocess pre-definitions 2.65ms\n\tshare common exprs 0.995ms\n\ttactic execution 53.4ms\n\ttacticAnalysis 153ms\n\ttype checking 21.1ms\n\ttypeclass inference 1.57s\n"
+}

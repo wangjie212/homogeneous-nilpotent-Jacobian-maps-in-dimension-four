@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryFixedCoordinateTriangularForm.lean",
+  "source_sha256": "79d3591d239f28a0ebd9f62acfe8390489ff379186c1fb60dacd276ac2c700c1",
+  "exit_code": 0,
+  "seconds": 16.62,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryFixedCoordinateTriangularForm.lean:17:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.ternary_planar_relation_before_normalization`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryFixedCoordinateTriangularForm.lean:66:10: warning: This simp argument is unused:\n  pderiv_mul\n\nHint: Omit it from the simp argument list.\n  [apply] simp [pderiv_pow]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryFixedCoordinateTriangularForm.lean:66:22: warning: This simp argument is unused:\n  pderiv_pow\n\nHint: Omit it from the simp argument list.\n  [apply] simp [pderiv_mul]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/HomogeneousQuasiTranslationSpan.lean",
+  "source_sha256": "b096fc284267a03a3eb33446463eec2ed6dd2c176f6db0522875120bfd183197",
+  "exit_code": 0,
+  "seconds": 18.3,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\HomogeneousQuasiTranslationSpan.lean:59:30: warning: Variable name `hd` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _hd\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\n"
+}

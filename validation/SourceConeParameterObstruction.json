@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SourceConeParameterObstruction.lean",
+  "source_sha256": "7426abcec1dc063e09228fbb66f53945c92489d53c0e35060b594ebeeb786fb9",
+  "exit_code": 0,
+  "seconds": 16.66,
+  "log": "typeclass inference of SMul took 224ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 112ms\nimport took 7.97s\n.olean serialization took 218ms\ncumulative profiling times:\n\t.olean serialization 218ms\n\tattribute application 0.495ms\n\tblocked (unaccounted) 48.8ms\n\tcompilation (IR) 0.564ms\n\tcompilation (LCNF base) 24ms\n\tcompilation (LCNF impure) 3.12ms\n\tcompilation (LCNF mono) 6.26ms\n\tcongr simp thm 1.1ms\n\telaboration 124ms\n\tfix level params 1.66ms\n\timport 7.97s\n\tinitialization 27.7ms\n\tinstantiate metavars 1.44ms\n\tinterpretation 6.62s\n\tlet-to-have transformation 0.268ms\n\tlinting 12.9ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 28ms\n\tparsing 4.2ms\n\tprocess pre-definitions 6.23ms\n\tshare common exprs 3.89ms\n\tsimp 42ms\n\ttactic execution 282ms\n\ttacticAnalysis 65.3ms\n\ttype checking 76.6ms\n\ttypeclass inference 1.12s\n"
+}

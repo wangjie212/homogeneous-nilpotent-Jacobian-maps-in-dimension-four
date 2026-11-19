@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveNormalizedSectionFieldMap.lean",
+  "source_sha256": "412d46e74b6d5327bc5853f5184ce0551bfc9fb4d70a0060e4ecf561e09b6e79",
+  "exit_code": 0,
+  "seconds": 14.61,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 7.7s\n.olean serialization took 209ms\ncumulative profiling times:\n\t.olean serialization 209ms\n\tattribute application 0.341ms\n\tcongr simp thm 0.264ms\n\telaboration 35ms\n\tfix level params 0.424ms\n\timport 7.7s\n\tinitialization 28.7ms\n\tinstantiate metavars 0.206ms\n\tinterpretation 6.27s\n\tlet-to-have transformation 0.0973ms\n\tlinting 3.34ms\n\tmodule linting 0.0015ms\n\toverlappingInstancesLinter 29.2ms\n\tparsing 2.34ms\n\tprocess pre-definitions 4.22ms\n\tshare common exprs 1.02ms\n\tsimp 7.13ms\n\ttactic execution 48.7ms\n\ttacticAnalysis 47.4ms\n\ttype checking 93.6ms\n\ttypeclass inference 95.8ms\n"
+}

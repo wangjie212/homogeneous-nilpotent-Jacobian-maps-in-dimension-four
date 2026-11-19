@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PrimitiveHomogeneousQuasiTranslationRank.lean",
+  "source_sha256": "c0a43bce4dbf72cd97dc013972b2689a7bb591ad32ad4a566201f999721d8642",
+  "exit_code": 0,
+  "seconds": 21.1,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PrimitiveHomogeneousQuasiTranslationRank.lean:38:36: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead\n"
+}

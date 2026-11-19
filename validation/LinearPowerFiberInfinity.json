@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/LinearPowerFiberInfinity.lean",
+  "source_sha256": "c90cdf270004a792087d3be08de0fb04538ed1995137bb7b451f6fe6fae42daf",
+  "exit_code": 0,
+  "seconds": 17.91,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\LinearPowerFiberInfinity.lean:64:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.original_linear_power_output_identity_all_fiber_infinity_points`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

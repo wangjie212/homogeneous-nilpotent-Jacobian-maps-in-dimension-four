@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualRootCharacteristicComparison.lean",
+  "source_sha256": "b1f38fc2f9e053f5a39e433de71161f0ca1724245e74eb8a8d42b17cf667336a",
+  "exit_code": 0,
+  "seconds": 21.64,
+  "log": "type checking took 124ms\ntype checking took 192ms\ntactic execution of Lean.Parser.Tactic.change took 101ms\ntactic execution of Lean.Parser.Tactic.exact took 115ms\ntype checking took 133ms\nimport took 8.04s\n.olean serialization took 323ms\ncumulative profiling times:\n\t.olean serialization 323ms\n\tattribute application 2.62ms\n\tblocked (unaccounted) 373ms\n\tcompilation (IR) 2.73ms\n\tcompilation (LCNF base) 110ms\n\tcompilation (LCNF impure) 13.1ms\n\tcompilation (LCNF mono) 32.5ms\n\tcongr simp thm 6.53ms\n\telaboration 855ms\n\tfix level params 2.89ms\n\timport 8.04s\n\tinitialization 28ms\n\tinstantiate metavars 0.958ms\n\tinterpretation 6.83s\n\tlet-to-have transformation 1.11ms\n\tlinting 35.4ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 52.6ms\n\tparsing 6.48ms\n\tprocess pre-definitions 27.1ms\n\tshare common exprs 9.82ms\n\tsimp 60.4ms\n\ttactic execution 460ms\n\ttacticAnalysis 214ms\n\ttype checking 879ms\n\ttypeclass inference 5.31s\n"
+}

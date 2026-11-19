@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalParameterTangentTransport.lean",
+  "source_sha256": "4492d89a5d38cabf51e681474721049a5e5ad5f4b660647027eddebdc7cd900b",
+  "exit_code": 0,
+  "seconds": 14.63,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 150ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 7.49s\n.olean serialization took 229ms\ncumulative profiling times:\n\t.olean serialization 229ms\n\tattribute application 0.0491ms\n\tcongr simp thm 1.52ms\n\telaboration 44.9ms\n\tfix level params 1.63ms\n\timport 7.49s\n\tinitialization 28ms\n\tinstantiate metavars 2.35ms\n\tinterpretation 6.82s\n\tlet-to-have transformation 0.156ms\n\tlinting 10.2ms\n\tmodule linting 0.002ms\n\tnorm_num 17.8ms\n\toverlappingInstancesLinter 68.4ms\n\tparsing 3.64ms\n\tprocess pre-definitions 4.92ms\n\tring 198ms\n\tshare common exprs 6.84ms\n\tsimp 158ms\n\ttactic execution 108ms\n\ttacticAnalysis 89.5ms\n\ttype checking 40.4ms\n\ttypeclass inference 387ms\n"
+}

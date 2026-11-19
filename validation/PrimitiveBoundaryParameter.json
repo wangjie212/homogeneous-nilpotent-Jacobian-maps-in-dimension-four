@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PrimitiveBoundaryParameter.lean",
+  "source_sha256": "30ef13569750b85db437991239772735ce50059d1a0df8683cece203cf820045",
+  "exit_code": 0,
+  "seconds": 14.96,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 112ms\nimport took 7.77s\n.olean serialization took 226ms\ncumulative profiling times:\n\t.olean serialization 226ms\n\tattribute application 0.692ms\n\tcongr simp thm 0.433ms\n\telaboration 95.8ms\n\tfix level params 0.991ms\n\timport 7.77s\n\tinitialization 26.9ms\n\tinstantiate metavars 0.856ms\n\tinterpretation 6.45s\n\tlet-to-have transformation 0.265ms\n\tlinting 11.8ms\n\tmodule linting 0.0025ms\n\toverlappingInstancesLinter 37.1ms\n\tparsing 4.03ms\n\tprocess pre-definitions 4.41ms\n\tshare common exprs 3.33ms\n\tsimp 9.08ms\n\ttactic execution 142ms\n\ttacticAnalysis 107ms\n\ttype checking 85.6ms\n\ttypeclass inference 362ms\n"
+}

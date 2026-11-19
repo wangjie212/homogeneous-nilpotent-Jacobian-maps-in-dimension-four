@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SimplePoleNilpotentObstruction.lean",
+  "source_sha256": "64ee41cfac2515aabded99470afbeb6375202ce0e7d6d2092c443c890c1428bc",
+  "exit_code": 0,
+  "seconds": 15.81,
+  "log": "interpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 104ms\nimport took 8.19s\n.olean serialization took 216ms\ncumulative profiling times:\n\t.olean serialization 216ms\n\tattribute application 0.0214ms\n\tcongr simp thm 0.761ms\n\tdsimp 0.578ms\n\telaboration 28.7ms\n\tfix level params 1.35ms\n\timport 8.19s\n\tinitialization 28.1ms\n\tinstantiate metavars 1.07ms\n\tinterpretation 6.82s\n\tlet-to-have transformation 0.134ms\n\tlinting 9.29ms\n\tmodule linting 0.0018ms\n\tnorm_num 1.89ms\n\toverlappingInstancesLinter 25.3ms\n\tparsing 4.13ms\n\tprocess pre-definitions 3.23ms\n\tring 58.9ms\n\tshare common exprs 2.82ms\n\tsimp 23ms\n\ttactic execution 174ms\n\ttacticAnalysis 73.7ms\n\ttype checking 26.9ms\n\ttypeclass inference 281ms\n"
+}

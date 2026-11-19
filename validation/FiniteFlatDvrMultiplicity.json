@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FiniteFlatDvrMultiplicity.lean",
+  "source_sha256": "b93b686237bf384b0d996c5fdf13e1a7fbaf4d0ff9ac3821c80c533002d67143",
+  "exit_code": 0,
+  "seconds": 18.24,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\FiniteFlatDvrMultiplicity.lean:17:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.finite_dedekind_prime_source_injective`:\n  [IsDomain A]\n  [IsDiscreteValuationRing A]\n  [Module.Finite A S]\n  [Module.Flat A S]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsDomain A] [IsDiscreteValuationRing A] [Module.Finite A S] [Module.Flat A S] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 11.3s\n.olean serialization took 207ms\ncumulative profiling times:\n\t.olean serialization 207ms\n\tattribute application 0.0179ms\n\tcongr simp thm 0.0915ms\n\telaboration 10.5ms\n\tfix level params 0.213ms\n\timport 11.3s\n\tinitialization 27.6ms\n\tinstantiate metavars 0.218ms\n\tinterpretation 6.39s\n\tlet-to-have transformation 0.0374ms\n\tlinting 3.12ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 25.8ms\n\tparsing 1.61ms\n\tprocess pre-definitions 1.26ms\n\tshare common exprs 0.669ms\n\tsimp 2.38ms\n\ttactic execution 53.6ms\n\ttacticAnalysis 45.5ms\n\ttype checking 13.8ms\n\ttypeclass inference 107ms\n"
+}

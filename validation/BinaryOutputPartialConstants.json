@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/BinaryOutputPartialConstants.lean",
+  "source_sha256": "817bf59ed9eae3c452eeaa388395d98d8f1d4629a3a8b3bd92b787b0311657fd",
+  "exit_code": 0,
+  "seconds": 18.3,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\BinaryOutputPartialConstants.lean:55:16: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffinePointFieldDimension.lean",
+  "source_sha256": "3080c4e79004157847bfb8863716c8c3aba12f7204007ccb2551ebdaaadda177",
+  "exit_code": 0,
+  "seconds": 14.5,
+  "log": "import took 7.39s\n.olean serialization took 202ms\ncumulative profiling times:\n\t.olean serialization 202ms\n\tattribute application 0.01ms\n\tcongr simp thm 0.366ms\n\telaboration 29.6ms\n\tfix level params 0.279ms\n\timport 7.39s\n\tinitialization 27ms\n\tinstantiate metavars 0.239ms\n\tinterpretation 6.2s\n\tlet-to-have transformation 0.0629ms\n\tlinting 3.32ms\n\tmodule linting 0.0049ms\n\toverlappingInstancesLinter 20.5ms\n\tparsing 1.28ms\n\tprocess pre-definitions 1.74ms\n\tshare common exprs 0.764ms\n\tsimp 13.9ms\n\ttactic execution 33.4ms\n\ttacticAnalysis 57.3ms\n\ttype checking 29.9ms\n\ttypeclass inference 265ms\n"
+}

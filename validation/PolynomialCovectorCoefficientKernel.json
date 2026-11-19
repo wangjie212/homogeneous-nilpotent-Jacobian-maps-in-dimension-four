@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PolynomialCovectorCoefficientKernel.lean",
+  "source_sha256": "dc4e24425a021bd5311e454c3fcdfd6578077ee547ea481114a4b1a27156335d",
+  "exit_code": 0,
+  "seconds": 15.55,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 113ms\nimport took 8.7s\n.olean serialization took 202ms\ncumulative profiling times:\n\t.olean serialization 202ms\n\tattribute application 0.0318ms\n\tblocked (unaccounted) 0.213ms\n\tcongr simp thm 1.11ms\n\tdsimp 0.316ms\n\telaboration 21.5ms\n\tfix level params 0.674ms\n\timport 8.7s\n\tinitialization 28.5ms\n\tinstantiate metavars 0.497ms\n\tinterpretation 6.7s\n\tlet-to-have transformation 0.077ms\n\tlinting 4.46ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 87.6ms\n\tparsing 2.99ms\n\tprocess pre-definitions 2.01ms\n\tshare common exprs 1.3ms\n\tsimp 55.3ms\n\ttactic execution 25.6ms\n\ttacticAnalysis 91.1ms\n\ttype checking 18.9ms\n\ttypeclass inference 55.5ms\n"
+}

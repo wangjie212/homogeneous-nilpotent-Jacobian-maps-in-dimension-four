@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreZeroPairingFiniteSquare.lean",
+  "source_sha256": "0719d6372822fefd85a9fa0b5d36fa2e89f7b7caf64338e77abcb34d49083216",
+  "exit_code": 0,
+  "seconds": 65.76,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreZeroPairingFiniteSquare.lean:121:23: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

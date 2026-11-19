@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalFrameGlobalValueArithmetic.lean",
+  "source_sha256": "3ad8115054620f1c85d6ce89c408ff1a03c5bba461a464d72794eb6664e0c3bb",
+  "exit_code": 0,
+  "seconds": 14.82,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 7.92s\n.olean serialization took 210ms\ncumulative profiling times:\n\t.olean serialization 210ms\n\tattribute application 4.94ms\n\telaboration 40ms\n\tfix level params 0.228ms\n\timport 7.92s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.099ms\n\tinterpretation 6.44s\n\tlet-to-have transformation 0.0701ms\n\tlinting 7.11ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 66.5ms\n\tparsing 1.36ms\n\tprocess pre-definitions 1.07ms\n\tshare common exprs 0.741ms\n\ttactic execution 25.5ms\n\ttacticAnalysis 128ms\n\ttype checking 22.3ms\n\ttypeclass inference 100ms\n"
+}

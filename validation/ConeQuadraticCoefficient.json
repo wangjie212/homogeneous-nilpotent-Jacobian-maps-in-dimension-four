@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConeQuadraticCoefficient.lean",
+  "source_sha256": "e0d1216248078fb85983ab3be315df8679d9fdeb932529abd92da0b9d07ec4ac",
+  "exit_code": 0,
+  "seconds": 143.04,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ConeQuadraticCoefficient.lean:43:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.parameter_normal_linear_form_mixed_directional_values`:\n  [CharZero F]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero F] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ConeQuadraticCoefficient.lean:64:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.parameter_cone_slope_constructs_acceleration`:\n  [CharZero F]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero F] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

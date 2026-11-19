@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GenericReducedHomogeneousPencil.lean",
+  "source_sha256": "731f15971fdb82fa3beff18be32521c536fe703aea6105364f811cd81a253999",
+  "exit_code": 0,
+  "seconds": 18.7,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GenericReducedHomogeneousPencil.lean:49:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

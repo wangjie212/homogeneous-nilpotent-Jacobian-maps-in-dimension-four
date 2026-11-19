@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ClosedGaussCoefficientRealization.lean",
+  "source_sha256": "2b12b6c41aaf8051e1630ecdcb726f4057d4a384088785fc1ae380621d16faef",
+  "exit_code": 0,
+  "seconds": 19.23,
+  "log": "typeclass inference of SMul took 102ms\ntypeclass inference of Algebra.IsIntegral took 328ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 108ms\ntype checking took 131ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 127ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 106ms\ntype checking took 116ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 8.07s\n.olean serialization took 475ms\ncumulative profiling times:\n\t.olean serialization 475ms\n\tattribute application 3.67ms\n\tblocked (unaccounted) 1.26s\n\tcompilation (IR) 1.07ms\n\tcompilation (LCNF base) 42.2ms\n\tcompilation (LCNF impure) 5.85ms\n\tcompilation (LCNF mono) 12.2ms\n\tcongr simp thm 9.05ms\n\telaboration 573ms\n\tfix level params 4.16ms\n\timport 8.07s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.818ms\n\tinterpretation 6.66s\n\tlet-to-have transformation 1.3ms\n\tlinting 19.9ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 44.5ms\n\tparsing 5.66ms\n\tprocess pre-definitions 30.9ms\n\tshare common exprs 10.2ms\n\tsimp 18.9ms\n\ttactic execution 664ms\n\ttacticAnalysis 170ms\n\ttype checking 839ms\n\ttypeclass inference 3.01s\n"
+}

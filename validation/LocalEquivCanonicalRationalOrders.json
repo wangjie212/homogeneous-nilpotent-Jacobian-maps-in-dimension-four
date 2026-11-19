@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/LocalEquivCanonicalRationalOrders.lean",
+  "source_sha256": "325bf9c4509aed9f6f1ddce9ccf353bd218638d3538f7e802209b86ab412765b",
+  "exit_code": 0,
+  "seconds": 15.35,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 8.34s\n.olean serialization took 211ms\ncumulative profiling times:\n\t.olean serialization 211ms\n\tattribute application 0.0177ms\n\tcongr simp thm 1.92ms\n\telaboration 10ms\n\tfix level params 0.657ms\n\timport 8.34s\n\tinitialization 27.3ms\n\tinstantiate metavars 0.495ms\n\tinterpretation 6.43s\n\tlet-to-have transformation 0.0268ms\n\tlinting 2.84ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 32.1ms\n\tparsing 1.47ms\n\tprocess pre-definitions 1.75ms\n\tshare common exprs 1.13ms\n\tsimp 5.22ms\n\ttactic execution 51.3ms\n\ttacticAnalysis 48.5ms\n\ttype checking 28.4ms\n\ttypeclass inference 146ms\n"
+}

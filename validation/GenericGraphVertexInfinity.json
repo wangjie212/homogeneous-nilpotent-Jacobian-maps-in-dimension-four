@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GenericGraphVertexInfinity.lean",
+  "source_sha256": "f1044d04f87922a38fa22ded9727aa27b8f4d53d38fbe492f0ee12084b03c2ad",
+  "exit_code": 0,
+  "seconds": 18.08,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GenericGraphVertexInfinity.lean:40:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GenericGraphVertexInfinity.lean:41:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

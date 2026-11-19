@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveConeFractionConstants.lean",
+  "source_sha256": "246b045016526d23fd4624020c1dab28d280ed7daeaf03990cc02821d12ddfc3",
+  "exit_code": 0,
+  "seconds": 15.55,
+  "log": "tactic execution of Lean.Parser.Tactic.exact took 113ms\ntactic execution of Lean.Parser.Tactic.change took 113ms\nimport took 7.47s\n.olean serialization took 216ms\ncumulative profiling times:\n\t.olean serialization 216ms\n\tattribute application 0.396ms\n\tblocked (unaccounted) 38ms\n\tcompilation (IR) 0.395ms\n\tcompilation (LCNF base) 18.8ms\n\tcompilation (LCNF impure) 2.18ms\n\tcompilation (LCNF mono) 4.63ms\n\tcongr simp thm 0.485ms\n\telaboration 99.5ms\n\tfix level params 0.871ms\n\timport 7.47s\n\tinitialization 27.3ms\n\tinstantiate metavars 0.444ms\n\tinterpretation 6.25s\n\tlet-to-have transformation 42.4ms\n\tlinting 6.35ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 30.3ms\n\tparsing 2.98ms\n\tprocess pre-definitions 14.6ms\n\tshare common exprs 2.37ms\n\tsimp 8.12ms\n\ttactic execution 709ms\n\ttacticAnalysis 30.9ms\n\ttype checking 313ms\n\ttypeclass inference 1.45s\n"
+}

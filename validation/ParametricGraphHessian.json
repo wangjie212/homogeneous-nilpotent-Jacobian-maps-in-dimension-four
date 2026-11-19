@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ParametricGraphHessian.lean",
+  "source_sha256": "813586fe7f9a970cd8fc7022381086399eb5a0414eab1e2f46ece790f45edf30",
+  "exit_code": 0,
+  "seconds": 15.12,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 7.96s\n.olean serialization took 226ms\ncumulative profiling times:\n\t.olean serialization 226ms\n\tattribute application 0.0519ms\n\tblocked (unaccounted) 0.175ms\n\tcongr simp thm 0.489ms\n\telaboration 45.3ms\n\tfix level params 1.54ms\n\timport 7.96s\n\tinitialization 28.1ms\n\tinstantiate metavars 1.06ms\n\tinterpretation 6.89s\n\tlet-to-have transformation 0.294ms\n\tlinting 10.6ms\n\tmodule linting 0.0019ms\n\tnorm_num 2.85ms\n\toverlappingInstancesLinter 121ms\n\tparsing 5.27ms\n\tprocess pre-definitions 4.57ms\n\tring 122ms\n\tshare common exprs 4.59ms\n\tsimp 22.3ms\n\ttactic execution 96.5ms\n\ttacticAnalysis 70.6ms\n\ttype checking 54ms\n\ttypeclass inference 206ms\n"
+}

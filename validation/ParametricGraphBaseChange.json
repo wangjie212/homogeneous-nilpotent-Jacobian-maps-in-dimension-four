@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ParametricGraphBaseChange.lean",
+  "source_sha256": "0d16fa18c870ca97972f795d55f7b821a40b67e4598fd96acb63c55c21ee8888",
+  "exit_code": 0,
+  "seconds": 14.45,
+  "log": "simp took 122ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 108ms\nimport took 7.5s\n.olean serialization took 197ms\ncumulative profiling times:\n\t.olean serialization 197ms\n\tattribute application 0.0246ms\n\tblocked (unaccounted) 0.009ms\n\tcongr simp thm 1.18ms\n\telaboration 15ms\n\tfix level params 0.615ms\n\timport 7.5s\n\tinitialization 27.6ms\n\tinstantiate metavars 0.256ms\n\tinterpretation 6.48s\n\tlet-to-have transformation 0.0588ms\n\tlinting 2.69ms\n\tmodule linting 0.0017ms\n\tnorm_num 1.84ms\n\toverlappingInstancesLinter 50.3ms\n\tparsing 1.36ms\n\tprocess pre-definitions 1.25ms\n\tring 87ms\n\tshare common exprs 1.64ms\n\tsimp 185ms\n\ttactic execution 7.47ms\n\ttacticAnalysis 47.2ms\n\ttype checking 19.2ms\n\ttypeclass inference 222ms\n"
+}

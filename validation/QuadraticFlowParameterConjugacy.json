@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/QuadraticFlowParameterConjugacy.lean",
+  "source_sha256": "d2d01a0007495c2b123c9e72491cd62b87d86e8f29d329a7d3cc91104fc14bcc",
+  "exit_code": 0,
+  "seconds": 17.57,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\QuadraticFlowParameterConjugacy.lean:22:4: warning: Try `simp at h` instead of `simpa using h`\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\QuadraticFlowParameterConjugacy.lean:76:10: warning: This simp argument is unused:\n  AlgEquiv.coe_toAlgHom\n\nHint: Omit it from the simp argument list.\n  [apply] simp [AlgEquiv.mul_apply, auxiliaryShift4_inv_X, automorphism4_X, auxiliaryShift4_X, automorphism4_quadratic,\n    auxiliaryShift4_quadratic, auxiliaryShift4_parameter, map_add, map_mul, map_pow, map_neg, hC, hE, htwo]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ParametricSimpleFixedRoot.lean",
+  "source_sha256": "5747ccb4c4ba3416b410b88fbfdda5433ebc9e69d03004d66bb3f0698c33412d",
+  "exit_code": 0,
+  "seconds": 16.77,
+  "log": "typeclass inference of Algebra.IsAlgebraic took 528ms\ntypeclass inference of Module took 127ms\ntactic execution of Lean.Parser.Tactic.obtain took 124ms\ntypeclass inference of Module took 122ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 8.04s\n.olean serialization took 323ms\ncumulative profiling times:\n\t.olean serialization 323ms\n\tattribute application 0.0397ms\n\tcongr simp thm 0.6ms\n\telaboration 234ms\n\tfix level params 2.11ms\n\timport 8.04s\n\tinitialization 27.6ms\n\tinstantiate metavars 1.62ms\n\tinterpretation 6.49s\n\tlet-to-have transformation 0.499ms\n\tlinting 12ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 25.1ms\n\tparsing 5.15ms\n\tprocess pre-definitions 8.12ms\n\tshare common exprs 6.27ms\n\tsimp 37.8ms\n\ttactic execution 299ms\n\ttacticAnalysis 48.1ms\n\ttype checking 140ms\n\ttypeclass inference 2.45s\n"
+}

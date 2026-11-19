@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineTriangularFlow.lean",
+  "source_sha256": "6b9f0564973f4f086e494a60de516887e23883ea3f9b0fdfac449051fa0a5b79",
+  "exit_code": 0,
+  "seconds": 17.87,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\AffineTriangularFlow.lean:97:37: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

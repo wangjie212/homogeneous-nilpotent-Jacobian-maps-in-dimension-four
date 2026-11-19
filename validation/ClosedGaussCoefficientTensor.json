@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ClosedGaussCoefficientTensor.lean",
+  "source_sha256": "7ec53efa608ba685a4f14cb5850c381cc586b5b4306b64b1265b687cfc54f314",
+  "exit_code": 0,
+  "seconds": 22.83,
+  "log": "elaboration took 108ms\ntype checking took 128ms\ntypeclass inference of SMul took 456ms\ntypeclass inference of SMul took 513ms\ntype checking took 102ms\ntypeclass inference of SMul took 501ms\ntype checking took 166ms\ntypeclass inference of Module took 1.09s\ntactic execution of Lean.Parser.Tactic.exact took 146ms\ntype checking took 233ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.77s\n.olean serialization took 228ms\ncumulative profiling times:\n\t.olean serialization 228ms\n\tattribute application 1.29ms\n\tblocked (unaccounted) 74.4ms\n\tcompilation (IR) 1.03ms\n\tcompilation (LCNF base) 36.3ms\n\tcompilation (LCNF impure) 5.17ms\n\tcompilation (LCNF mono) 10.4ms\n\telaboration 482ms\n\tfix level params 2.6ms\n\timport 8.77s\n\tinitialization 25.4ms\n\tinstantiate metavars 0.65ms\n\tinterpretation 6.68s\n\tlet-to-have transformation 0.935ms\n\tlinting 17.9ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 33.3ms\n\tparsing 4.91ms\n\tprocess pre-definitions 30.4ms\n\tshare common exprs 6.87ms\n\ttactic execution 358ms\n\ttacticAnalysis 88.7ms\n\ttype checking 843ms\n\ttypeclass inference 7.86s\n"
+}

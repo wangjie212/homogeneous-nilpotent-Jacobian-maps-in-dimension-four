@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CanonicalOriginalChartSectionBound.lean",
+  "source_sha256": "dc083b6e9f508690647a085a08635e332accc53ac0095d1a09d862fd0b5fb0d4",
+  "exit_code": 0,
+  "seconds": 21.5,
+  "log": "typeclass inference of Algebra took 171ms\ntypeclass inference of AddMonoid took 114ms\ntypeclass inference of SMul took 348ms\ntypeclass inference of Algebra took 109ms\ntypeclass inference of IsDomain took 157ms\ntactic execution of Lean.Parser.Tactic.exact took 231ms\ntype checking took 221ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 163ms\nimport took 9.82s\n.olean serialization took 241ms\ncumulative profiling times:\n\t.olean serialization 241ms\n\tattribute application 0.0334ms\n\tcongr simp thm 0.617ms\n\telaboration 103ms\n\tfix level params 1.09ms\n\timport 9.82s\n\tinitialization 27.9ms\n\tinstantiate metavars 1.71ms\n\tinterpretation 9.13s\n\tlet-to-have transformation 38.4ms\n\tlinting 13.2ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 33.1ms\n\tparsing 3.65ms\n\tprocess pre-definitions 13.8ms\n\tshare common exprs 2.97ms\n\tsimp 20.1ms\n\ttactic execution 437ms\n\ttacticAnalysis 128ms\n\ttype checking 352ms\n\ttypeclass inference 3.18s\n"
+}

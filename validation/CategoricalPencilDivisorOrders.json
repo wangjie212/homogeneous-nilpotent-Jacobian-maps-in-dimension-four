@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CategoricalPencilDivisorOrders.lean",
+  "source_sha256": "f615094ddfd5f1c67b4c6b7f67e545e4ac748bd3949a519cab520e1a78626e84",
+  "exit_code": 0,
+  "seconds": 18.17,
+  "log": "type checking took 129ms\ntype checking took 125ms\ntype checking took 123ms\ntype checking took 129ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 8.12s\n.olean serialization took 261ms\ncumulative profiling times:\n\t.olean serialization 261ms\n\tattribute application 1.38ms\n\tblocked (unaccounted) 87.3ms\n\tcompilation (IR) 1.07ms\n\tcompilation (LCNF base) 43.5ms\n\tcompilation (LCNF impure) 5.66ms\n\tcompilation (LCNF mono) 11.8ms\n\telaboration 387ms\n\tfix level params 1.17ms\n\timport 8.12s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.173ms\n\tinterpretation 6.51s\n\tlet-to-have transformation 0.524ms\n\tlinting 13.1ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 41ms\n\tparsing 3.23ms\n\tprocess pre-definitions 8.04ms\n\tshare common exprs 3.45ms\n\ttactic execution 59.1ms\n\ttacticAnalysis 139ms\n\ttype checking 509ms\n\ttypeclass inference 2.74s\n"
+}

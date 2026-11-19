@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveAffineRatioCoordinates.lean",
+  "source_sha256": "71bb054e08b440e2d7f7b274d00f9218dd962c980e17d84f40f1dd6a1fe4a921",
+  "exit_code": 0,
+  "seconds": 18.98,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 137ms\nimport took 10.7s\ncumulative profiling times:\n\t.olean serialization 3.67ms\n\tattribute application 0.0105ms\n\telaboration 3.87ms\n\tfix level params 0.0166ms\n\timport 10.7s\n\tinitialization 27.9ms\n\tinstantiate metavars 0.0074ms\n\tinterpretation 8.04s\n\tlet-to-have transformation 0.0101ms\n\tlinting 1.13ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 53.6ms\n\tparsing 0.726ms\n\tprocess pre-definitions 0.303ms\n\tshare common exprs 0.0491ms\n\ttacticAnalysis 99.1ms\n\ttype checking 0.18ms\n\ttypeclass inference 3.35ms\n"
+}

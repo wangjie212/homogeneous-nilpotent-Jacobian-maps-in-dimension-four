@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/FiniteFlatRamificationBound.lean",
+  "source_sha256": "fb25468859ee77461f369708cd527054077dfffa40984123ac97c934525adca9",
+  "exit_code": 0,
+  "seconds": 14.9,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 8.01s\n.olean serialization took 186ms\ncumulative profiling times:\n\t.olean serialization 186ms\n\tattribute application 0.0101ms\n\telaboration 4.7ms\n\tfix level params 0.066ms\n\timport 8.01s\n\tinitialization 28.2ms\n\tinstantiate metavars 0.0511ms\n\tinterpretation 6.33s\n\tlet-to-have transformation 0.0166ms\n\tlinting 1.39ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 19.3ms\n\tparsing 0.816ms\n\tprocess pre-definitions 0.319ms\n\tshare common exprs 0.166ms\n\ttactic execution 26.4ms\n\ttacticAnalysis 16.8ms\n\ttype checking 0.995ms\n\ttypeclass inference 40.7ms\n"
+}

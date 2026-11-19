@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CanonicalFiniteProjectionSectionBound.lean",
+  "source_sha256": "dae5790bcd81db23a9107079eb7816409504dec1149c33df94810cd56d32749c",
+  "exit_code": 0,
+  "seconds": 20.42,
+  "log": "tactic execution of Lean.Parser.Tactic.exact took 199ms\ntype checking took 207ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 116ms\nimport took 9.1s\n.olean serialization took 286ms\ncumulative profiling times:\n\t.olean serialization 286ms\n\tattribute application 0.0121ms\n\tcongr simp thm 1.61ms\n\telaboration 65.2ms\n\tfix level params 1.3ms\n\timport 9.1s\n\tinitialization 28.3ms\n\tinstantiate metavars 7.34ms\n\tinterpretation 9.01s\n\tlet-to-have transformation 36.9ms\n\tlinting 12.3ms\n\tmodule linting 0.0038ms\n\toverlappingInstancesLinter 33.3ms\n\tparsing 10.5ms\n\tprocess pre-definitions 7.14ms\n\tshare common exprs 7.29ms\n\tsimp 56.7ms\n\ttactic execution 414ms\n\ttacticAnalysis 141ms\n\ttype checking 207ms\n\ttypeclass inference 1.37s\n"
+}

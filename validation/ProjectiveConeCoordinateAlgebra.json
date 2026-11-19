@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveConeCoordinateAlgebra.lean",
+  "source_sha256": "21480361a7805cb94703a66c7bbc6ab323317142c843d615745e4b76b8fc5d9b",
+  "exit_code": 0,
+  "seconds": 15.49,
+  "log": "typeclass inference of Algebra took 103ms\ntypeclass inference of Algebra took 112ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 126ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.47s\n.olean serialization took 218ms\ncumulative profiling times:\n\t.olean serialization 218ms\n\tattribute application 0.1ms\n\tblocked (unaccounted) 0.018ms\n\tcongr simp thm 0.252ms\n\telaboration 186ms\n\tfix level params 0.89ms\n\timport 7.47s\n\tinitialization 27.3ms\n\tinstantiate metavars 0.514ms\n\tinterpretation 6.64s\n\tlet-to-have transformation 0.209ms\n\tlinting 5.27ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 83.9ms\n\tparsing 4.34ms\n\tprocess pre-definitions 9.91ms\n\tshare common exprs 2.2ms\n\tsimp 4ms\n\ttactic execution 239ms\n\ttacticAnalysis 100ms\n\ttype checking 151ms\n\ttypeclass inference 774ms\n"
+}

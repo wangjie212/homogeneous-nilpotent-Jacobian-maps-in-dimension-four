@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedHomogeneousSectionCoefficients.lean",
+  "source_sha256": "9d342bd5748b03d49fa0dad1d7ed09a8f8645021a31c6e708d38c92bdd1e9cd3",
+  "exit_code": 0,
+  "seconds": 18.54,
+  "log": "type checking took 120ms\ntype checking took 115ms\ntype checking took 115ms\ntype checking took 119ms\ntype checking took 132ms\ntype checking took 125ms\ntype checking took 125ms\ntype checking took 135ms\ntype checking took 130ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 8.59s\n.olean serialization took 247ms\ncumulative profiling times:\n\t.olean serialization 247ms\n\tattribute application 3.28ms\n\tblocked (unaccounted) 92.9ms\n\tcompilation (IR) 1.03ms\n\tcompilation (LCNF base) 46.4ms\n\tcompilation (LCNF impure) 5.28ms\n\tcompilation (LCNF mono) 12.7ms\n\telaboration 431ms\n\tfix level params 1.3ms\n\timport 8.59s\n\tinitialization 28.2ms\n\tinstantiate metavars 0.219ms\n\tinterpretation 6.79s\n\tlet-to-have transformation 0.445ms\n\tlinting 14.8ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 43.2ms\n\tparsing 3.24ms\n\tprocess pre-definitions 17.1ms\n\tshare common exprs 4.32ms\n\ttactic execution 69.6ms\n\ttacticAnalysis 162ms\n\ttype checking 1.13s\n\ttypeclass inference 2.2s\n"
+}

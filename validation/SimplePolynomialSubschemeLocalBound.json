@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SimplePolynomialSubschemeLocalBound.lean",
+  "source_sha256": "9e7707707fd1e8a1775ae08a532cce6d399a84593453c05334dfb031c4eded6a",
+  "exit_code": 0,
+  "seconds": 21.02,
+  "log": "typeclass inference of DistribMulAction took 142ms\ntypeclass inference of Module took 147ms\ntypeclass inference of DistribMulAction took 202ms\ntypeclass inference of DistribMulAction took 186ms\ntypeclass inference of Module took 192ms\ntypeclass inference of DistribMulAction took 174ms\ninterpretation of Mathlib.Tactic.ToAdditive.guessNameExt took 102ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 166ms\nimport took 9.97s\n.olean serialization took 306ms\ncumulative profiling times:\n\t.olean serialization 306ms\n\tattribute application 0.0189ms\n\tcongr simp thm 0.172ms\n\telaboration 30.1ms\n\tfix level params 0.405ms\n\timport 9.97s\n\tinitialization 28.5ms\n\tinstantiate metavars 0.421ms\n\tinterpretation 8.77s\n\tlet-to-have transformation 70.5ms\n\tlinting 4.08ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 19.3ms\n\tparsing 1.97ms\n\tprocess pre-definitions 1.83ms\n\tshare common exprs 1.06ms\n\tsimp 2.25ms\n\ttactic execution 60.5ms\n\ttacticAnalysis 61.2ms\n\ttype checking 29.3ms\n\ttypeclass inference 1.61s\n"
+}

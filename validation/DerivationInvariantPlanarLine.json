@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/DerivationInvariantPlanarLine.lean",
+  "source_sha256": "d346ba99b0276adf1edeca6a227ac7289db211d82ca3976d2bb621a9f627cd01",
+  "exit_code": 0,
+  "seconds": 16.2,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\DerivationInvariantPlanarLine.lean:25:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\DerivationInvariantPlanarLine.lean:53:26: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead\n"
+}

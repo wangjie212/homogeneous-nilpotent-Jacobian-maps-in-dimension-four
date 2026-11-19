@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedNormalizationHyperplaneSheaf.lean",
+  "source_sha256": "0d1e17e1e20824553579c5655113e8dfc332df769dd0db62eb8c643a4792b76c",
+  "exit_code": 0,
+  "seconds": 18.12,
+  "log": "type checking took 114ms\ntype checking took 124ms\ntype checking took 138ms\ntype checking took 136ms\ntype checking took 119ms\ntype checking took 118ms\ntype checking took 136ms\ntype checking took 127ms\ntype checking took 153ms\ntype checking took 113ms\ntype checking took 112ms\ntype checking took 124ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 110ms\nimport took 7.76s\n.olean serialization took 293ms\ncumulative profiling times:\n\t.olean serialization 293ms\n\tattribute application 2.13ms\n\tblocked (unaccounted) 49.3ms\n\tcompilation (IR) 0.637ms\n\tcompilation (LCNF base) 24.4ms\n\tcompilation (LCNF impure) 3.43ms\n\tcompilation (LCNF mono) 6.85ms\n\tcongr simp thm 2.46ms\n\telaboration 427ms\n\tfix level params 2.02ms\n\timport 7.76s\n\tinitialization 26.9ms\n\tinstantiate metavars 0.186ms\n\tinterpretation 6.85s\n\tlet-to-have transformation 0.782ms\n\tlinting 12.8ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 49.4ms\n\tparsing 4.84ms\n\tprocess pre-definitions 16.2ms\n\tshare common exprs 6.35ms\n\tsimp 12.4ms\n\ttactic execution 75.6ms\n\ttacticAnalysis 145ms\n\ttype checking 1.54s\n\ttypeclass inference 2.17s\n"
+}

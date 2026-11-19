@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ModifiedCubicFiberBoundary.lean",
+  "source_sha256": "561f1fa0fe528690b25c9233d8d985c2c85494aa1a579c017ac68bd61eed185a",
+  "exit_code": 0,
+  "seconds": 14.84,
+  "log": "import took 7.75s\n.olean serialization took 215ms\ncumulative profiling times:\n\t.olean serialization 215ms\n\tattribute application 0.0366ms\n\tcongr simp thm 1.46ms\n\telaboration 32.4ms\n\tfix level params 1.38ms\n\timport 7.75s\n\tinitialization 28ms\n\tinstantiate metavars 1.85ms\n\tinterpretation 6.64s\n\tlet-to-have transformation 0.117ms\n\tlinting 11.4ms\n\tmodule linting 0.0019ms\n\tnorm_num 31ms\n\toverlappingInstancesLinter 62.2ms\n\tparsing 4.5ms\n\tprocess pre-definitions 4.46ms\n\tring 122ms\n\tshare common exprs 5.54ms\n\tsimp 92.2ms\n\ttactic execution 82.7ms\n\ttacticAnalysis 122ms\n\ttype checking 46.9ms\n\ttypeclass inference 358ms\n"
+}

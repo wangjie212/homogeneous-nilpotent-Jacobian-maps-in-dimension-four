@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/LinearProjectionCoordinateChange.lean",
+  "source_sha256": "86e7bc7001fc93f6a66776f3e3de08b5c9e3e478febd2dc26f4887f6f6fac373",
+  "exit_code": 0,
+  "seconds": 15.34,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 8.33s\n.olean serialization took 223ms\ncumulative profiling times:\n\t.olean serialization 223ms\n\tattribute application 2.65ms\n\tblocked (unaccounted) 0.119ms\n\tcongr simp thm 0.938ms\n\telaboration 33.1ms\n\tfix level params 0.577ms\n\timport 8.33s\n\tinitialization 27.8ms\n\tinstantiate metavars 0.802ms\n\tinterpretation 6.55s\n\tlet-to-have transformation 0.129ms\n\tlinting 5.27ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 59.6ms\n\tparsing 3.48ms\n\tprocess pre-definitions 4.1ms\n\tshare common exprs 1.68ms\n\tsimp 18.1ms\n\ttactic execution 81.6ms\n\ttacticAnalysis 90.6ms\n\ttype checking 25.3ms\n\ttypeclass inference 204ms\n"
+}

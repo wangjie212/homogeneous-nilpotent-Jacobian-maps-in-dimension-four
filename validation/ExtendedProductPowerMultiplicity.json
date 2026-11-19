@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedProductPowerMultiplicity.lean",
+  "source_sha256": "79f364b1b09ec0b8049d2bef26f7a4311e69919087f0c73b3df01018af70025b",
+  "exit_code": 0,
+  "seconds": 18.73,
+  "log": "type checking took 111ms\ntype checking took 112ms\ntype checking took 112ms\ntype checking took 107ms\ntype checking took 128ms\ntype checking took 122ms\ntype checking took 135ms\ntype checking took 140ms\ntype checking took 131ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 109ms\nimport took 7.94s\n.olean serialization took 324ms\ncumulative profiling times:\n\t.olean serialization 324ms\n\tattribute application 5.16ms\n\tblocked (unaccounted) 97.2ms\n\tcompilation (IR) 0.998ms\n\tcompilation (LCNF base) 50.4ms\n\tcompilation (LCNF impure) 5.32ms\n\tcompilation (LCNF mono) 12.9ms\n\telaboration 572ms\n\tfix level params 2.25ms\n\timport 7.94s\n\tinitialization 27.9ms\n\tinstantiate metavars 1.17ms\n\tinterpretation 6.82s\n\tlet-to-have transformation 0.667ms\n\tlinting 31ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 38.4ms\n\tparsing 5.56ms\n\tprocess pre-definitions 14.2ms\n\tshare common exprs 6.55ms\n\ttactic execution 182ms\n\ttacticAnalysis 136ms\n\ttype checking 1.12s\n\ttypeclass inference 2.81s\n"
+}

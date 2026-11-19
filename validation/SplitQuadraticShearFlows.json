@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SplitQuadraticShearFlows.lean",
+  "source_sha256": "2da5a9d199dfb13cdeee3f1c92625532b32e2fb732343b7d9536a15865f16d29",
+  "exit_code": 0,
+  "seconds": 18.66,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SplitQuadraticShearFlows.lean:22:33: warning: This simp argument is unused:\n  Matrix.mul_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [reflectionSwapMatrix4, Fin.sum_univ_succ]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SplitQuadraticShearFlows.lean:77:30: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SplitQuadraticShearFlows.lean:95:15: warning: This simp argument is unused:\n  map_sub\n\nHint: Omit it from the simp argument list.\n  [apply] simp [minusFlow4, AlgEquiv.mul_apply, reflectionSwapEquiv4_X, QuadraticFlow.automorphism4_X,\n    minusFlowParameter3_reflected_value, map_add, map_mul, map_pow, map_neg, htwo]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SplitQuadraticShearFlows.lean:95:57: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

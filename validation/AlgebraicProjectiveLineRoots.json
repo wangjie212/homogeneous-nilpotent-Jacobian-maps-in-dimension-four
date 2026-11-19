@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AlgebraicProjectiveLineRoots.lean",
+  "source_sha256": "f558d40e01b1bf7f8c20d3465e9473e1211973693f772e714faaf4f2d5fdabeb",
+  "exit_code": 0,
+  "seconds": 14.78,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.84s\n.olean serialization took 216ms\ncumulative profiling times:\n\t.olean serialization 216ms\n\tattribute application 0.0291ms\n\tcongr simp thm 1.25ms\n\tdsimp 0.449ms\n\telaboration 20ms\n\tfix level params 2.32ms\n\timport 7.84s\n\tinitialization 27.8ms\n\tinstantiate metavars 6.09ms\n\tinterpretation 6.77s\n\tlet-to-have transformation 0.0749ms\n\tlinting 11.1ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 28.3ms\n\tparsing 4.37ms\n\tprocess pre-definitions 8.31ms\n\tshare common exprs 5.44ms\n\tsimp 52.6ms\n\ttactic execution 155ms\n\ttacticAnalysis 75ms\n\ttype checking 43.6ms\n\ttypeclass inference 184ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/InfinityScaledMonicRoot.lean",
+  "source_sha256": "6beb31f1da31fecff688511bd068fd958ce3ca428b994fecdd700548bfe80e71",
+  "exit_code": 0,
+  "seconds": 15.76,
+  "log": "interpretation of Mathlib.Tactic._aux_Mathlib_Tactic_Linarith_Frontend___elabRules_Mathlib_Tactic_linarith_1._boxed took 124ms\ntypeclass inference of SMul took 286ms\ntypeclass inference of SMul took 272ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 109ms\nimport took 7.93s\n.olean serialization took 213ms\ncumulative profiling times:\n\t.olean serialization 213ms\n\tattribute application 0.0186ms\n\tcongr simp thm 0.619ms\n\telaboration 15.2ms\n\tfix level params 0.581ms\n\timport 7.93s\n\tinitialization 28.4ms\n\tinstantiate metavars 0.625ms\n\tinterpretation 6.4s\n\tlet-to-have transformation 0.0597ms\n\tlinting 4.57ms\n\tmodule linting 0.0018ms\n\tnorm_num 2.61ms\n\toverlappingInstancesLinter 24.3ms\n\tparsing 2.03ms\n\tprocess pre-definitions 2.38ms\n\tring 69.7ms\n\tshare common exprs 2.71ms\n\tsimp 13.6ms\n\ttactic execution 100ms\n\ttacticAnalysis 73.9ms\n\ttype checking 37ms\n\ttypeclass inference 1.05s\n"
+}

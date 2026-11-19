@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/AffineQuadraticShearInvariants.lean",
+  "source_sha256": "a327580d2f924dcca42a5d0194a3a2031314d3cf56105d847787a1efe40c7bd9",
+  "exit_code": 0,
+  "seconds": 25.78,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\AffineQuadraticShearInvariants.lean:124:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.quadratic_graph_polynomial_gradient_lifts_invariant`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\AffineQuadraticShearInvariants.lean:137:10: warning: This simp argument is unused:\n  affine_partial_polynomial_parameter_chain_rule\n\nHint: Omit it from the simp argument list.\n  [apply] simp [h0, h1, binary_rename_vertex_pderiv_zero]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

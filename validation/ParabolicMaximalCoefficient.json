@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ParabolicMaximalCoefficient.lean",
+  "source_sha256": "10eeb0d03f0d341865358dec132f2db5400102becc5fea6c0ae1876a006dacef",
+  "exit_code": 0,
+  "seconds": 20.97,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ParabolicMaximalCoefficient.lean:40:10: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\ParabolicMaximalCoefficient.lean:42:10: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead\n"
+}

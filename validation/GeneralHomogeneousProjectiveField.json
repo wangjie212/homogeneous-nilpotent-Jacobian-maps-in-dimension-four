@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GeneralHomogeneousProjectiveField.lean",
+  "source_sha256": "eed4d8716b19454a79daab9a8d5703a6002fe72a9d81390096b53ca6d075af8e",
+  "exit_code": 0,
+  "seconds": 19.01,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GeneralHomogeneousProjectiveField.lean:16:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.general_projective_ratio_field_common_weight_constants`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GeneralHomogeneousProjectiveField.lean:28:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.general_projective_ratio_field_adjoin_output_eq_full`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

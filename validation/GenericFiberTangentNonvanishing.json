@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GenericFiberTangentNonvanishing.lean",
+  "source_sha256": "d63e73a5a89506af37c0ebf5af4a5b666847268c3075536985a7620fc966532d",
+  "exit_code": 0,
+  "seconds": 20.32,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GenericFiberTangentNonvanishing.lean:61:4: warning: try 'simp' instead of 'simpa'\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GenericFiberTangentNonvanishing.lean:40:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.independent_fiber_source_constructs_nonzero_tangent_base_value`:\n  [IsScalarTower K E G]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsScalarTower K E G] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryNormalFormFirstFactor.lean",
+  "source_sha256": "705a7c1f448c3729fcbffbff3d31052793c26038b1621f4274cd030dddcab7d1",
+  "exit_code": 0,
+  "seconds": 19.17,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalFormFirstFactor.lean:19:2: warning: Try `simp at hh` instead of `simpa using hh`\n\nNote: This linter can be disabled with `set_option linter.unnecessarySimpa false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalFormFirstFactor.lean:46:74: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalFormFirstFactor.lean:55:68: warning: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice\n\nNote: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`\n"
+}

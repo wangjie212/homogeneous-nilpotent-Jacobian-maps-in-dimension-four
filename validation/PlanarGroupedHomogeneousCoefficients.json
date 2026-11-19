@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PlanarGroupedHomogeneousCoefficients.lean",
+  "source_sha256": "252d5b381e1358aeb91e260101d1c2065b6d8d4e9464924400dea6f631a5e9a4",
+  "exit_code": 0,
+  "seconds": 19.34,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PlanarGroupedHomogeneousCoefficients.lean:60:8: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PlanarGroupedHomogeneousCoefficients.lean:66:8: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead\n"
+}

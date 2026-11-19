@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/DominantConeGaussRestriction.lean",
+  "source_sha256": "2956102e84434e7d562dcde91f1a251d7cd433b429eb4203d80d5696132226af",
+  "exit_code": 0,
+  "seconds": 20.83,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 13.4s\n.olean serialization took 221ms\ncumulative profiling times:\n\t.olean serialization 221ms\n\tattribute application 0.0293ms\n\tcongr simp thm 0.315ms\n\tdsimp 0.996ms\n\telaboration 91.7ms\n\tfix level params 0.991ms\n\timport 13.4s\n\tinitialization 27ms\n\tinstantiate metavars 0.929ms\n\tinterpretation 6.23s\n\tlet-to-have transformation 5.16ms\n\tlinting 7.84ms\n\tmodule linting 0.0018ms\n\tnorm_num 2.36ms\n\toverlappingInstancesLinter 23ms\n\tparsing 3.17ms\n\tprocess pre-definitions 6.71ms\n\tring 72.1ms\n\tshare common exprs 2.96ms\n\tsimp 12.6ms\n\ttactic execution 139ms\n\ttacticAnalysis 56.5ms\n\ttype checking 115ms\n\ttypeclass inference 351ms\n"
+}

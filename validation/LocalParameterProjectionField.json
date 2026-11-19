@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/LocalParameterProjectionField.lean",
+  "source_sha256": "1028be75f83593646d208f12c85608efc48fc3aff494fde630c3e855b1902115",
+  "exit_code": 0,
+  "seconds": 14.96,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.06s\n.olean serialization took 200ms\ncumulative profiling times:\n\t.olean serialization 200ms\n\tattribute application 0.0468ms\n\tblocked (unaccounted) 0.188ms\n\telaboration 26.7ms\n\tfix level params 0.245ms\n\timport 8.06s\n\tinitialization 27.4ms\n\tinstantiate metavars 0.0849ms\n\tinterpretation 6.2s\n\tlet-to-have transformation 0.0565ms\n\tlinting 2.78ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 27ms\n\tparsing 1.22ms\n\tprocess pre-definitions 3.08ms\n\tshare common exprs 0.522ms\n\ttactic execution 11.6ms\n\ttacticAnalysis 24.2ms\n\ttype checking 31.5ms\n\ttypeclass inference 290ms\n"
+}

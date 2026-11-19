@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RootFactorizationScaledTarget.lean",
+  "source_sha256": "58c40fc5ce74dc7e2521f1dcfebdbb7514a803854dfe273f818ea13ace1924ea",
+  "exit_code": 0,
+  "seconds": 15.09,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\RootFactorizationScaledTarget.lean:26:6: warning: this tactic is never executed\n\nNote: This linter can be disabled with `set_option linter.unreachableTactic false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\RootFactorizationScaledTarget.lean:26:6: warning: Unused tactic linter: `ring` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\n"
+}

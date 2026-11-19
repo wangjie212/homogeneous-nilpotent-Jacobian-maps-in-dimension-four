@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RationalPartial.lean",
+  "source_sha256": "1e5b62d9b893402e71dc4ead576506350a5c95ff6242c6a9a19dda14e3bca88c",
+  "exit_code": 0,
+  "seconds": 16.33,
+  "log": "typeclass inference of AddHomClass took 132ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 132ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.3s\n.olean serialization took 215ms\ncumulative profiling times:\n\t.olean serialization 215ms\n\tattribute application 0.051ms\n\tcongr simp thm 0.865ms\n\telaboration 72.7ms\n\tfix level params 1.03ms\n\timport 8.3s\n\tinitialization 28.2ms\n\tinstantiate metavars 1.1ms\n\tinterpretation 6.47s\n\tlet-to-have transformation 12.4ms\n\tlinting 5.39ms\n\tmodule linting 0.0023ms\n\toverlappingInstancesLinter 28.3ms\n\tparsing 2.71ms\n\tprocess pre-definitions 7.25ms\n\tshare common exprs 2.47ms\n\tsimp 175ms\n\ttactic execution 269ms\n\ttacticAnalysis 65.3ms\n\ttype checking 84.6ms\n\ttypeclass inference 789ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/BinaryFirstOrderDivision.lean",
+  "source_sha256": "f6ed13b00c0e7def838e009fb94fdd8eef3c0ad5f38cbb46038c471b5ce06ea5",
+  "exit_code": 0,
+  "seconds": 9.26,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 3.72s\ncumulative profiling times:\n\t.olean serialization 78.2ms\n\tattribute application 0.0227ms\n\tblocked (unaccounted) 0.087ms\n\tcongr simp thm 2.28ms\n\telaboration 29.5ms\n\tfix level params 2.24ms\n\timport 3.72s\n\tinitialization 28.6ms\n\tinstantiate metavars 3.5ms\n\tinterpretation 4.8s\n\tlet-to-have transformation 0.138ms\n\tlinting 8.2ms\n\tmodule linting 0.0018ms\n\tnorm_num 2.9ms\n\toverlappingInstancesLinter 39.3ms\n\tparsing 3.69ms\n\tprocess pre-definitions 5.94ms\n\tring 72.1ms\n\tshare common exprs 6.88ms\n\tsimp 220ms\n\ttactic execution 94.8ms\n\ttacticAnalysis 83ms\n\ttype checking 33ms\n\ttypeclass inference 655ms\n"
+}

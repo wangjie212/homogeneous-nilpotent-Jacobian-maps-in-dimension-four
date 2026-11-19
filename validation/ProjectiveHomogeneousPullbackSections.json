@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ProjectiveHomogeneousPullbackSections.lean",
+  "source_sha256": "b7786f297a5877508af6690d6d11fcccb6fb19810b77d7d6a2f972b7d4d73ad9",
+  "exit_code": 0,
+  "seconds": 14.62,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 7.54s\n.olean serialization took 221ms\ncumulative profiling times:\n\t.olean serialization 221ms\n\tattribute application 0.822ms\n\tblocked (unaccounted) 16.1ms\n\tcompilation (IR) 0.337ms\n\tcompilation (LCNF base) 6.89ms\n\tcompilation (LCNF impure) 2.14ms\n\tcompilation (LCNF mono) 2.94ms\n\tdsimp 1.85ms\n\telaboration 100ms\n\tfix level params 0.696ms\n\timport 7.54s\n\tinitialization 28.5ms\n\tinstantiate metavars 0.364ms\n\tinterpretation 6.45s\n\tlet-to-have transformation 24.1ms\n\tlinting 5.4ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 35.4ms\n\tparsing 2.38ms\n\tprocess pre-definitions 4.03ms\n\tshare common exprs 1.53ms\n\ttactic execution 28ms\n\ttacticAnalysis 103ms\n\ttype checking 37.3ms\n\ttypeclass inference 232ms\n"
+}

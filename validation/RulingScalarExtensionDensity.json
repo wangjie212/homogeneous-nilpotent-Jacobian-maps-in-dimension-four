@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RulingScalarExtensionDensity.lean",
+  "source_sha256": "fc5d50214b710140f2c5f19eb9ac74ee11f1aa0abfe5a945a923e38bb1cc8bb4",
+  "exit_code": 0,
+  "seconds": 15.58,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 105ms\nimport took 8.44s\n.olean serialization took 217ms\ncumulative profiling times:\n\t.olean serialization 217ms\n\tattribute application 0.021ms\n\telaboration 31.2ms\n\tfix level params 0.977ms\n\timport 8.44s\n\tinitialization 28.1ms\n\tinstantiate metavars 1.11ms\n\tinterpretation 6.4s\n\tlet-to-have transformation 0.139ms\n\tlinting 8.41ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 25.1ms\n\tparsing 2.67ms\n\tprocess pre-definitions 2.49ms\n\tshare common exprs 2.56ms\n\ttactic execution 107ms\n\ttacticAnalysis 87.1ms\n\ttype checking 33.6ms\n\ttypeclass inference 263ms\n"
+}

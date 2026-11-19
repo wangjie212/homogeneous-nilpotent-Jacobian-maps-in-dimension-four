@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedNativeSourceFormPullbacks.lean",
+  "source_sha256": "a591adb4590ec7aa698705f044a35c9afe9270cf462676260042ed4448c4021a",
+  "exit_code": 0,
+  "seconds": 20.45,
+  "log": "type checking took 113ms\ntype checking took 118ms\ntype checking took 123ms\ntype checking took 177ms\ntype checking took 145ms\ntype checking took 158ms\ntype checking took 148ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 8.03s\n.olean serialization took 335ms\ncumulative profiling times:\n\t.olean serialization 335ms\n\tattribute application 3.14ms\n\tblocked (unaccounted) 182ms\n\tcompilation (IR) 1.84ms\n\tcompilation (LCNF base) 93.8ms\n\tcompilation (LCNF impure) 9.37ms\n\tcompilation (LCNF mono) 23.9ms\n\tcongr simp thm 3.78ms\n\telaboration 750ms\n\tfix level params 2.41ms\n\timport 8.03s\n\tinitialization 27.6ms\n\tinstantiate metavars 0.898ms\n\tinterpretation 6.99s\n\tlet-to-have transformation 0.84ms\n\tlinting 28.4ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 44.6ms\n\tparsing 5.1ms\n\tprocess pre-definitions 15ms\n\tshare common exprs 7.4ms\n\tsimp 46.9ms\n\ttactic execution 221ms\n\ttacticAnalysis 185ms\n\ttype checking 987ms\n\ttypeclass inference 4.16s\n"
+}

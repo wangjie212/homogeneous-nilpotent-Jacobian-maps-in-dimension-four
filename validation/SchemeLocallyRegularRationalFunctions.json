@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SchemeLocallyRegularRationalFunctions.lean",
+  "source_sha256": "6983763a339b33ea53ca6c59724d80d049aec93802297ab08128001c0bb0f089",
+  "exit_code": 0,
+  "seconds": 15.27,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 8.1s\n.olean serialization took 210ms\ncumulative profiling times:\n\t.olean serialization 210ms\n\tattribute application 0.0156ms\n\telaboration 13.7ms\n\tfix level params 0.628ms\n\timport 8.1s\n\tinitialization 28ms\n\tinstantiate metavars 0.652ms\n\tinterpretation 7.09s\n\tlet-to-have transformation 0.0523ms\n\tlinting 4.25ms\n\tmodule linting 0.0022ms\n\toverlappingInstancesLinter 36.3ms\n\tparsing 1.38ms\n\tprocess pre-definitions 1.71ms\n\tshare common exprs 1.21ms\n\ttactic execution 63ms\n\ttacticAnalysis 164ms\n\ttype checking 19.7ms\n\ttypeclass inference 91ms\n"
+}

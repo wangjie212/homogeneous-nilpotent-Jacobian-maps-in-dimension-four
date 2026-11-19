@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ReducedHomogeneousPencilDegree.lean",
+  "source_sha256": "d412e5868ecb29013f280099884c5e55ff1f987b2477dac07de930c338198d8c",
+  "exit_code": 0,
+  "seconds": 15.21,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 8.07s\n.olean serialization took 220ms\ncumulative profiling times:\n\t.olean serialization 220ms\n\tattribute application 0.0303ms\n\tcongr simp thm 0.5ms\n\telaboration 35.9ms\n\tfix level params 0.921ms\n\timport 8.07s\n\tinitialization 28.5ms\n\tinstantiate metavars 0.631ms\n\tinterpretation 6.14s\n\tlet-to-have transformation 0.213ms\n\tlinting 6.53ms\n\tmodule linting 0.0018ms\n\toverlappingInstancesLinter 26.5ms\n\tparsing 3.06ms\n\tprocess pre-definitions 3.19ms\n\tshare common exprs 2.38ms\n\tsimp 55ms\n\ttactic execution 63ms\n\ttacticAnalysis 58.4ms\n\ttype checking 146ms\n\ttypeclass inference 540ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/UnitSectionCoefficientInverseIntegral.lean",
+  "source_sha256": "fb0d5211d2a3e1e5d69aa360bb7ea40c3e3e14713455b348b2593290511ee1f2",
+  "exit_code": 0,
+  "seconds": 17.48,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 170ms\ntypeclass inference of CharZero took 237ms\ntype checking took 118ms\ntype checking took 110ms\ntype checking took 105ms\ntype checking took 141ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 7.56s\n.olean serialization took 249ms\ncumulative profiling times:\n\t.olean serialization 249ms\n\tattribute application 4.47ms\n\tblocked (unaccounted) 526ms\n\tcompilation (IR) 0.995ms\n\tcompilation (LCNF base) 44.3ms\n\tcompilation (LCNF impure) 5.16ms\n\tcompilation (LCNF mono) 12ms\n\tcongr simp thm 1.73ms\n\tdsimp 1.98ms\n\telaboration 337ms\n\tfix level params 1.19ms\n\timport 7.56s\n\tinitialization 27.1ms\n\tinstantiate metavars 0.464ms\n\tinterpretation 6.98s\n\tlet-to-have transformation 0.295ms\n\tlinting 16.3ms\n\tmodule linting 0.0016ms\n\tnorm_num 3.39ms\n\toverlappingInstancesLinter 52.9ms\n\tparsing 3.68ms\n\tprocess pre-definitions 9.86ms\n\tring 41.6ms\n\tshare common exprs 3.49ms\n\tsimp 5.87ms\n\ttactic execution 159ms\n\ttacticAnalysis 303ms\n\ttype checking 514ms\n\ttypeclass inference 2.47s\n"
+}

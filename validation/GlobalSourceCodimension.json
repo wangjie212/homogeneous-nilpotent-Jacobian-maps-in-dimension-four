@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GlobalSourceCodimension.lean",
+  "source_sha256": "6b5e1b3346f66acf295b46c8b83787f26bd46a12661aaff04981f92d809f28bd",
+  "exit_code": 0,
+  "seconds": 22.79,
+  "log": "typeclass inference of Module took 418ms\nelaboration took 118ms\ntype checking took 227ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 9.1s\n.olean serialization took 1.7s\ncumulative profiling times:\n\t.olean serialization 1.7s\n\tattribute application 1.91ms\n\tblocked (unaccounted) 190ms\n\tcompilation (IR) 2.12ms\n\tcompilation (LCNF base) 98.1ms\n\tcompilation (LCNF impure) 11.6ms\n\tcompilation (LCNF mono) 25.3ms\n\tcongr simp thm 68.8ms\n\telaboration 681ms\n\tfix level params 0.675ms\n\timport 9.1s\n\tinitialization 28.1ms\n\tinstantiate metavars 0.173ms\n\tinterpretation 6.98s\n\tlet-to-have transformation 0.38ms\n\tlinting 15.8ms\n\tmodule linting 0.0016ms\n\toverlappingInstancesLinter 45.6ms\n\tparsing 2.08ms\n\tprocess pre-definitions 10.5ms\n\tshare common exprs 3.08ms\n\tsimp 6.18ms\n\ttactic execution 113ms\n\ttacticAnalysis 231ms\n\ttype checking 233ms\n\ttypeclass inference 3.9s\n"
+}

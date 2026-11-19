@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PlanarInvariantCoefficientDescent.lean",
+  "source_sha256": "7655f877029af28f956b6395aeace54f93556dd15057845170026867ec50fccf",
+  "exit_code": 0,
+  "seconds": 16.87,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PlanarInvariantCoefficientDescent.lean:62:17: warning: This simp argument is unused:\n  Polynomial.algebraMap_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [sx, S]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PlanarInvariantCoefficientDescent.lean:64:17: warning: This simp argument is unused:\n  Polynomial.algebraMap_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [sy, S]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

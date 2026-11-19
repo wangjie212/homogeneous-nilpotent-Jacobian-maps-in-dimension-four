@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NormalizedAffineLinearMultiplicity.lean",
+  "source_sha256": "8007691da5139fef8374b528bd4086e5bfcc73bdcc92350ee0a2ac60ef9ebf14",
+  "exit_code": 0,
+  "seconds": 14.73,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 102ms\nimport took 7.83s\n.olean serialization took 206ms\ncumulative profiling times:\n\t.olean serialization 206ms\n\tattribute application 0.0098ms\n\tcongr simp thm 0.111ms\n\telaboration 22.5ms\n\tfix level params 0.211ms\n\timport 7.83s\n\tinitialization 27.9ms\n\tinstantiate metavars 0.102ms\n\tinterpretation 6.41s\n\tlet-to-have transformation 0.0711ms\n\tlinting 3.87ms\n\tmodule linting 0.0021ms\n\toverlappingInstancesLinter 32.1ms\n\tparsing 1.35ms\n\tprocess pre-definitions 0.735ms\n\tshare common exprs 0.569ms\n\tsimp 1.88ms\n\ttactic execution 14.2ms\n\ttacticAnalysis 93.8ms\n\ttype checking 17.4ms\n\ttypeclass inference 54.9ms\n"
+}

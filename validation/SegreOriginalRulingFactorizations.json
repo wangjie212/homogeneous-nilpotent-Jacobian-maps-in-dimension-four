@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreOriginalRulingFactorizations.lean",
+  "source_sha256": "d77407e187b34b0a5a8bb697dc15a80987304dd781b082edc4d744b4dd32cdbf",
+  "exit_code": 0,
+  "seconds": 22.27,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreOriginalRulingFactorizations.lean:118:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

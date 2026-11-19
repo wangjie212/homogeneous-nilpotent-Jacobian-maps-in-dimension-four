@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/IntrinsicPencilFrameContradiction.lean",
+  "source_sha256": "a2230d7d2df281e23a51a1fa0ce7dc8a5e7c9361f9e68e2f38678573fc52af20",
+  "exit_code": 0,
+  "seconds": 19.96,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\IntrinsicPencilFrameContradiction.lean:22:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.intrinsic_primitive_pencil_base_frame_exclusion_forbids_fixed_plane_prime`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

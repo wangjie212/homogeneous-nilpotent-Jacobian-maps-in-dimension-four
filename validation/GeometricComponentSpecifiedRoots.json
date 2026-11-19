@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GeometricComponentSpecifiedRoots.lean",
+  "source_sha256": "28ffa4172f3be3c341c9160360691f41bc3e0121d053ccc44f4bb02aa8a0b86e",
+  "exit_code": 0,
+  "seconds": 21.98,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GeometricComponentSpecifiedRoots.lean:76:2: warning: Try this: \n  letI̵\n\nThe goal is a proposition, so `let` is preferred over `letI`.\nThe difference between `let` and `letI` is that `letI` inlines the value.\nBut this is not relevant for proofs because of proof irrelevance.\n\nNote: This linter can be disabled with `set_option linter.style.haveILetI false`\n"
+}

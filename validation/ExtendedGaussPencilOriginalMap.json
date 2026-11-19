@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedGaussPencilOriginalMap.lean",
+  "source_sha256": "f9b6a6821cfe3d511790440f03f90d871b296c35eca329ce290a7889b8ff0426",
+  "exit_code": 0,
+  "seconds": 19.92,
+  "log": "type checking took 168ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 102ms\ntype checking took 160ms\ntype checking took 104ms\ntype checking took 181ms\ntype checking took 233ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 195ms\ntype checking took 195ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 8.03s\n.olean serialization took 382ms\ncumulative profiling times:\n\t.olean serialization 382ms\n\tattribute application 2ms\n\tblocked (unaccounted) 142ms\n\tcompilation (IR) 1.53ms\n\tcompilation (LCNF base) 71.2ms\n\tcompilation (LCNF impure) 8.33ms\n\tcompilation (LCNF mono) 18.3ms\n\telaboration 625ms\n\tfix level params 1.76ms\n\timport 8.03s\n\tinitialization 27.7ms\n\tinstantiate metavars 0.662ms\n\tinterpretation 6.61s\n\tlet-to-have transformation 61.5ms\n\tlinting 16.1ms\n\tmodule linting 0.0021ms\n\toverlappingInstancesLinter 40.2ms\n\tparsing 3.95ms\n\tprocess pre-definitions 19.3ms\n\tshare common exprs 4.99ms\n\ttactic execution 574ms\n\ttacticAnalysis 144ms\n\ttype checking 1.15s\n\ttypeclass inference 3.7s\n"
+}

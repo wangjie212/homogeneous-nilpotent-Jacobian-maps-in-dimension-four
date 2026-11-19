@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/VertexParameterDerivationFrame.lean",
+  "source_sha256": "cbe7636772c756e26c4e9c6ca0daf99bd9aed712537ee05d4fa8ad8a989dd7f8",
+  "exit_code": 0,
+  "seconds": 16.72,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\VertexParameterDerivationFrame.lean:53:16: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\VertexParameterDerivationFrame.lean:56:8: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\VertexParameterDerivationFrame.lean:61:24: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\VertexParameterDerivationFrame.lean:61:62: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead\n"
+}

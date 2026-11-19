@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/OriginalMapGaussRootForms.lean",
+  "source_sha256": "cb93137d2abdff447e7f61a3bbf4c0826f22b5fe3e4a05738b4a41faaa7c3dbb",
+  "exit_code": 0,
+  "seconds": 16.62,
+  "log": "tactic execution of Lean.Parser.Tactic.obtain took 209ms\ntype checking took 134ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 107ms\nimport took 9.17s\n.olean serialization took 223ms\ncumulative profiling times:\n\t.olean serialization 223ms\n\tattribute application 0.0125ms\n\telaboration 35.6ms\n\tfix level params 2.46ms\n\timport 9.17s\n\tinitialization 29.6ms\n\tinstantiate metavars 2.13ms\n\tinterpretation 6.49s\n\tlet-to-have transformation 0.175ms\n\tlinting 14ms\n\tmodule linting 0.0015ms\n\toverlappingInstancesLinter 27.9ms\n\tparsing 1.08ms\n\tprocess pre-definitions 5.42ms\n\tshare common exprs 4.93ms\n\ttactic execution 377ms\n\ttacticAnalysis 87.3ms\n\ttype checking 134ms\n\ttypeclass inference 196ms\n"
+}

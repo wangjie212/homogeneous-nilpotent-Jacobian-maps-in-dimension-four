@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TwoParameterProjection.lean",
+  "source_sha256": "04eeb5d2560abcb445229fdeb4f73522e1b65f69cd13dd7c761551c7ac0a3bdb",
+  "exit_code": 0,
+  "seconds": 15.49,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 111ms\nimport took 8.24s\n.olean serialization took 195ms\ncumulative profiling times:\n\t.olean serialization 195ms\n\tattribute application 0.0146ms\n\tcongr simp thm 1.4ms\n\telaboration 7.01ms\n\tfix level params 0.333ms\n\timport 8.24s\n\tinitialization 28.2ms\n\tinstantiate metavars 0.397ms\n\tinterpretation 6.71s\n\tlet-to-have transformation 0.0262ms\n\tlinting 1.72ms\n\tmodule linting 0.0024ms\n\toverlappingInstancesLinter 31.9ms\n\tparsing 1.43ms\n\tprocess pre-definitions 2.07ms\n\tshare common exprs 0.817ms\n\tsimp 47.9ms\n\ttactic execution 52.5ms\n\ttacticAnalysis 61.7ms\n\ttype checking 30.6ms\n\ttypeclass inference 94.3ms\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedHomogeneousRootExistence.lean",
+  "source_sha256": "e9cfd5b8daea504946f13fb0e2bd4b6adff56f0d97d536fd62272cdee1919495",
+  "exit_code": 0,
+  "seconds": 16.41,
+  "log": "type checking took 110ms\ntype checking took 105ms\ntype checking took 116ms\ntype checking took 111ms\ntype checking took 116ms\ntype checking took 119ms\ntype checking took 119ms\ntype checking took 113ms\nimport took 7.65s\n.olean serialization took 277ms\ncumulative profiling times:\n\t.olean serialization 277ms\n\tattribute application 2.23ms\n\tblocked (unaccounted) 49.4ms\n\tcompilation (IR) 0.521ms\n\tcompilation (LCNF base) 25.4ms\n\tcompilation (LCNF impure) 2.87ms\n\tcompilation (LCNF mono) 6.01ms\n\telaboration 280ms\n\tfix level params 1.08ms\n\timport 7.65s\n\tinitialization 27.9ms\n\tinstantiate metavars 0.176ms\n\tinterpretation 6.44s\n\tlet-to-have transformation 0.397ms\n\tlinting 13.5ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 35.6ms\n\tparsing 2.68ms\n\tprocess pre-definitions 9.23ms\n\tshare common exprs 3.06ms\n\ttactic execution 19.7ms\n\ttacticAnalysis 114ms\n\ttype checking 926ms\n\ttypeclass inference 1.37s\n"
+}

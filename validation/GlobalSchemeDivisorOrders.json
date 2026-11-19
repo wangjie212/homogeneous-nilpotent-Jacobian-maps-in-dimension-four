@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GlobalSchemeDivisorOrders.lean",
+  "source_sha256": "eb320d33cdde3a6c8574678de17c5465e90c4db5863b85e5455ec6c2ba7bf144",
+  "exit_code": 0,
+  "seconds": 17.59,
+  "log": "type checking took 135ms\ntype checking took 123ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 8.44s\n.olean serialization took 238ms\ncumulative profiling times:\n\t.olean serialization 238ms\n\tattribute application 1.19ms\n\tblocked (unaccounted) 66.4ms\n\tcompilation (IR) 0.868ms\n\tcompilation (LCNF base) 33ms\n\tcompilation (LCNF impure) 4.35ms\n\tcompilation (LCNF mono) 9.04ms\n\telaboration 275ms\n\tfix level params 0.618ms\n\timport 8.44s\n\tinitialization 27.9ms\n\tinstantiate metavars 0.133ms\n\tinterpretation 6.61s\n\tlet-to-have transformation 0.269ms\n\tlinting 10ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 38.1ms\n\tparsing 1.96ms\n\tprocess pre-definitions 4.73ms\n\tshare common exprs 1.95ms\n\ttactic execution 27.8ms\n\ttacticAnalysis 134ms\n\ttype checking 260ms\n\ttypeclass inference 1.87s\n"
+}

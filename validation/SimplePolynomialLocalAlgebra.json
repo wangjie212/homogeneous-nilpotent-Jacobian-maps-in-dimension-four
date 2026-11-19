@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SimplePolynomialLocalAlgebra.lean",
+  "source_sha256": "e83437e116c28071b6bd67533b20301467667b52a5d150002697377a778cd4e0",
+  "exit_code": 0,
+  "seconds": 8.75,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 3.72s\ncumulative profiling times:\n\t.olean serialization 77.8ms\n\tattribute application 0.027ms\n\tcongr simp thm 1.33ms\n\telaboration 22.6ms\n\tfix level params 1.32ms\n\timport 3.72s\n\tinitialization 27.7ms\n\tinstantiate metavars 1.74ms\n\tinterpretation 4.81s\n\tlet-to-have transformation 0.116ms\n\tlinting 7.18ms\n\tmodule linting 0.0017ms\n\tnorm_num 2.38ms\n\toverlappingInstancesLinter 25.2ms\n\tparsing 3.47ms\n\tprocess pre-definitions 2.95ms\n\tring 72.4ms\n\tshare common exprs 3.11ms\n\tsimp 34.7ms\n\ttactic execution 58.5ms\n\ttacticAnalysis 79.6ms\n\ttype checking 23.6ms\n\ttypeclass inference 126ms\n"
+}

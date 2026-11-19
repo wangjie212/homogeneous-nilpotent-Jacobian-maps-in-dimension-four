@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ClosedGaussInvariantLinearForm.lean",
+  "source_sha256": "da715e0ea987924525c229b879683269adebcd05716d9317dfa3602bf000b030",
+  "exit_code": 0,
+  "seconds": 83.5,
+  "log": "type checking took 65.5s\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 8.97s\n.olean serialization took 266ms\ncumulative profiling times:\n\t.olean serialization 266ms\n\tattribute application 1.23ms\n\tblocked (unaccounted) 57.2ms\n\tcompilation (IR) 0.867ms\n\tcompilation (LCNF base) 28.2ms\n\tcompilation (LCNF impure) 4.49ms\n\tcompilation (LCNF mono) 8.57ms\n\tcongr simp thm 14.4ms\n\telaboration 237ms\n\tfix level params 1.47ms\n\timport 8.97s\n\tinitialization 27.9ms\n\tinstantiate metavars 0.645ms\n\tinterpretation 6.65s\n\tlet-to-have transformation 0.375ms\n\tlinting 10.8ms\n\tmodule linting 0.0019ms\n\tnorm_num 3.3ms\n\toverlappingInstancesLinter 31.1ms\n\tparsing 2.68ms\n\tprocess pre-definitions 12.5ms\n\tring 57.5ms\n\tshare common exprs 3.91ms\n\tsimp 51ms\n\ttactic execution 77.4ms\n\ttacticAnalysis 120ms\n\ttype checking 65.7s\n\ttypeclass inference 1.73s\n"
+}

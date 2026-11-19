@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryRulingDirection.lean",
+  "source_sha256": "a998386ffd92f611584501e6390b771417df6ca7b2e11b482b857602db5e3b5c",
+  "exit_code": 0,
+  "seconds": 17.82,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryRulingDirection.lean:82:25: warning: this tactic is never executed\n\nNote: This linter can be disabled with `set_option linter.unreachableTactic false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryRulingDirection.lean:82:25: warning: Unused tactic linter: `ring` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\n"
+}

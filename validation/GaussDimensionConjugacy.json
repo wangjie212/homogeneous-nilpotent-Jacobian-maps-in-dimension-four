@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/GaussDimensionConjugacy.lean",
+  "source_sha256": "543badbb6b8b04134979aaaa7fab07bb525e214c1dae88e5fc0fc023399bc7d9",
+  "exit_code": 0,
+  "seconds": 15.04,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GaussDimensionConjugacy.lean:56:40: warning: Variable name `hTS` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _hTS\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\GaussDimensionConjugacy.lean:56:58: warning: Variable name `hST` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _hST\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SegreRulingTangentFrame.lean",
+  "source_sha256": "62cc1d6ef32ce6743bbe02f7ca303352d4790aa667e9cadec59ed67edda80c70",
+  "exit_code": 0,
+  "seconds": 20.26,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreRulingTangentFrame.lean:40:25: warning: This simp argument is unused:\n  Matrix.one_apply\n\nHint: Omit it from the simp argument list.\n  [apply] simp [Matrix.mul_apply, segreRulingTangentFrame, segreRulingTangentFrameInverse, Fin.sum_univ_succ]\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreRulingTangentFrame.lean:40:47: warning: this tactic is never executed\n\nNote: This linter can be disabled with `set_option linter.unreachableTactic false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\SegreRulingTangentFrame.lean:40:47: warning: Unused tactic linter: `ring` does nothing\n\nNote: This linter can be disabled with `set_option linter.unusedTactic false`\n"
+}

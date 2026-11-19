@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/CharacteristicRootOriginalFiberDegree.lean",
+  "source_sha256": "18e56d8703a53a2c8761cf1f36c9f762eb6cf1f148b5ed614e90dc3be3e38ff3",
+  "exit_code": 0,
+  "seconds": 19.57,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\CharacteristicRootOriginalFiberDegree.lean:51:7: warning: Variable name `hY` is not explicitly referenced.\n\nHint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:\n  [apply] _hY\n\nNote: This linter can be disabled with `set_option linter.unusedVariables false`\n"
+}

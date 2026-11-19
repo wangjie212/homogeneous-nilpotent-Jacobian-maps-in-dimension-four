@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ScaledProjectionCoordinateIntegrality.lean",
+  "source_sha256": "c2623203d7da2f42c62dd457a62810c0b97878cd26f555b2c85520ddb6a64cea",
+  "exit_code": 0,
+  "seconds": 15.6,
+  "log": "interpretation of Mathlib.Tactic.FieldSimp._aux_Mathlib_Tactic_FieldSimp___elabRules_Mathlib_Tactic_FieldSimp_fieldSimp_1._boxed took 165ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 108ms\nimport took 8.28s\n.olean serialization took 224ms\ncumulative profiling times:\n\t.olean serialization 224ms\n\tattribute application 0.0383ms\n\tblocked (unaccounted) 0.0925ms\n\tcongr simp thm 1.63ms\n\telaboration 30.2ms\n\tfix level params 1.01ms\n\timport 8.28s\n\tinitialization 29.1ms\n\tinstantiate metavars 0.963ms\n\tinterpretation 7.31s\n\tlet-to-have transformation 0.131ms\n\tlinting 7.45ms\n\tmodule linting 0.0019ms\n\tnorm_num 8.94ms\n\toverlappingInstancesLinter 66.2ms\n\tparsing 3.93ms\n\tprocess pre-definitions 3.47ms\n\tring 72.8ms\n\tshare common exprs 3.1ms\n\tsimp 86.4ms\n\ttactic execution 54.7ms\n\ttacticAnalysis 104ms\n\ttype checking 28.3ms\n\ttypeclass inference 201ms\n"
+}

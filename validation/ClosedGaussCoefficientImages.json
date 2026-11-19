@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ClosedGaussCoefficientImages.lean",
+  "source_sha256": "432f08309dea2326882fe9c85f82118bec802b28359dce8a20810f9d625dcd04",
+  "exit_code": 0,
+  "seconds": 19.59,
+  "log": "typeclass inference of SMul took 223ms\ntype checking took 168ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 101ms\nimport took 7.85s\n.olean serialization took 212ms\ncumulative profiling times:\n\t.olean serialization 212ms\n\tattribute application 0.403ms\n\tblocked (unaccounted) 46.7ms\n\tcompilation (IR) 0.626ms\n\tcompilation (LCNF base) 22.9ms\n\tcompilation (LCNF impure) 3.06ms\n\tcompilation (LCNF mono) 6.9ms\n\telaboration 180ms\n\tfix level params 0.588ms\n\timport 7.85s\n\tinitialization 29.7ms\n\tinstantiate metavars 0.351ms\n\tinterpretation 6.07s\n\tlet-to-have transformation 0.223ms\n\tlinting 7.36ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 22.3ms\n\tparsing 1.36ms\n\tprocess pre-definitions 5.06ms\n\tshare common exprs 2.01ms\n\ttactic execution 129ms\n\ttacticAnalysis 52.7ms\n\ttype checking 169ms\n\ttypeclass inference 4.55s\n"
+}

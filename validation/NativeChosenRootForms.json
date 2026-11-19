@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/NativeChosenRootForms.lean",
+  "source_sha256": "cdbe2dea1ec3a628a607aa67bb1965dc846715d99d22627cce92d7456d663d8b",
+  "exit_code": 0,
+  "seconds": 22.49,
+  "log": "type checking took 116ms\ntype checking took 112ms\ntype checking took 117ms\ntype checking took 120ms\nelaboration took 105ms\nelaboration took 107ms\nelaboration took 103ms\nelaboration took 113ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 161ms\ntype checking took 187ms\ntype checking took 201ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 8.52s\n.olean serialization took 272ms\ncumulative profiling times:\n\t.olean serialization 272ms\n\tattribute application 4.49ms\n\tblocked (unaccounted) 204ms\n\tcompilation (IR) 2.26ms\n\tcompilation (LCNF base) 102ms\n\tcompilation (LCNF impure) 11.3ms\n\tcompilation (LCNF mono) 27.8ms\n\tcongr simp thm 2.66ms\n\telaboration 1.04s\n\tfix level params 2.26ms\n\timport 8.52s\n\tinitialization 28.5ms\n\tinstantiate metavars 0.696ms\n\tinterpretation 6.96s\n\tlet-to-have transformation 0.766ms\n\tlinting 27.3ms\n\tmodule linting 0.0017ms\n\tnorm_num 3.53ms\n\toverlappingInstancesLinter 49ms\n\tparsing 4.54ms\n\tprocess pre-definitions 20.7ms\n\tring 60.7ms\n\tshare common exprs 7.56ms\n\tsimp 18ms\n\ttactic execution 269ms\n\ttacticAnalysis 196ms\n\ttype checking 876ms\n\ttypeclass inference 5.53s\n"
+}

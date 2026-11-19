@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualGaussIndependentRootExclusion.lean",
+  "source_sha256": "651f16aa3b376a354d35def53ef13cf481b7eef5aef43219da4617fdd5a3198c",
+  "exit_code": 0,
+  "seconds": 28.26,
+  "log": "type checking took 121ms\ntype checking took 106ms\ntypeclass inference of Module took 351ms\nelaboration took 107ms\nelaboration took 612ms\ntype checking took 674ms\nimport took 7.99s\n.olean serialization took 3.96s\ncumulative profiling times:\n\t.olean serialization 3.96s\n\tattribute application 37.3ms\n\tblocked (unaccounted) 160ms\n\tcompilation (IR) 1.87ms\n\tcompilation (LCNF base) 79.9ms\n\tcompilation (LCNF impure) 9.57ms\n\tcompilation (LCNF mono) 22.3ms\n\telaboration 1.28s\n\tfix level params 1.61ms\n\timport 7.98s\n\tinitialization 28.2ms\n\tinstantiate metavars 0.775ms\n\tinterpretation 6.45s\n\tlet-to-have transformation 0.587ms\n\tlinting 21.7ms\n\tmodule linting 0.0019ms\n\toverlappingInstancesLinter 38.9ms\n\tparsing 2.96ms\n\tprocess pre-definitions 15.9ms\n\tshare common exprs 5.8ms\n\ttactic execution 151ms\n\ttacticAnalysis 115ms\n\ttype checking 929ms\n\ttypeclass inference 7.55s\n"
+}

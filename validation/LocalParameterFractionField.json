@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/LocalParameterFractionField.lean",
+  "source_sha256": "ebfdb6e94e102814e410d7bbbecb9fc9fc41290c6cc0c5530c1e45be2d2fec55",
+  "exit_code": 0,
+  "seconds": 25.77,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 18.9s\n.olean serialization took 199ms\ncumulative profiling times:\n\t.olean serialization 199ms\n\tattribute application 0.0543ms\n\telaboration 31.4ms\n\tfix level params 0.325ms\n\timport 18.9s\n\tinitialization 28ms\n\tinstantiate metavars 0.138ms\n\tinterpretation 6.4s\n\tlet-to-have transformation 0.0789ms\n\tlinting 4ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 34.8ms\n\tparsing 1.66ms\n\tprocess pre-definitions 3.34ms\n\tshare common exprs 0.843ms\n\ttactic execution 17ms\n\ttacticAnalysis 48.9ms\n\ttype checking 33.9ms\n\ttypeclass inference 481ms\n"
+}

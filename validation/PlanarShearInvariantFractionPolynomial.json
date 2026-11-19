@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/PlanarShearInvariantFractionPolynomial.lean",
+  "source_sha256": "8078bbba353001905087a68685bb68a8cf4e227037867a75ce17ff854041822c",
+  "exit_code": 0,
+  "seconds": 16.96,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PlanarShearInvariantFractionPolynomial.lean:21:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.Shear.activeFractionPolynomialHom_apply`:\n  [CharZero K]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [CharZero K] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\PlanarShearInvariantFractionPolynomial.lean:52:76: warning: This simp argument is unused:\n  neg_mul\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [pderiv_mul, pderiv_C, zero_mul, zero_add, map_neg, neg_zero] at htr\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\n"
+}

@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/TernaryNormalizedParameterJets.lean",
+  "source_sha256": "56a969efebf75b8a16e5fb32cf7f442d494b401d0ef81fcb090a60320b30ebec",
+  "exit_code": 0,
+  "seconds": 18.39,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalizedParameterJets.lean:45:8: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalizedParameterJets.lean:49:29: warning: `if_pos` has been deprecated: Use `ite_eq_left` instead\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalizedParameterJets.lean:49:29: warning: This simp argument is unused:\n  if_pos rfl\n\nHint: Omit it from the simp argument list.\n  [apply] simp only [hz, mul_zero] at h\n\nNote: This linter can be disabled with `set_option linter.unusedSimpArgs false`\nD:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\TernaryNormalizedParameterJets.lean:91:47: warning: `if_neg` has been deprecated: Use `ite_eq_right` instead\n"
+}

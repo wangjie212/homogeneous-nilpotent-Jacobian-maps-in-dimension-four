@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RadialIntegralUnitObstruction.lean",
+  "source_sha256": "27ad4f885114c8eb096b02ccee70147b76524cd3697e904c9b29e26840241adc",
+  "exit_code": 0,
+  "seconds": 15.48,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 112ms\nimport took 8.64s\n.olean serialization took 194ms\ncumulative profiling times:\n\t.olean serialization 194ms\n\tattribute application 0.0196ms\n\tcongr simp thm 0.14ms\n\telaboration 14.1ms\n\tfix level params 0.456ms\n\timport 8.64s\n\tinitialization 28.2ms\n\tinstantiate metavars 0.349ms\n\tinterpretation 6.42s\n\tlet-to-have transformation 0.05ms\n\tlinting 4.41ms\n\tmodule linting 0.0026ms\n\toverlappingInstancesLinter 34.1ms\n\tparsing 2.2ms\n\tprocess pre-definitions 1.78ms\n\tshare common exprs 1.09ms\n\tsimp 4.6ms\n\ttactic execution 42.4ms\n\ttacticAnalysis 20.4ms\n\ttype checking 23.5ms\n\ttypeclass inference 180ms\n"
+}

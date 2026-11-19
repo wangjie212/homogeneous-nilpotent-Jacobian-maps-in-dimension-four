@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/SymmetrizedCubicFactor.lean",
+  "source_sha256": "3c107784fb502a5ae2478b3aa0f30a9f8c4ceb7c74d4c957f73fc5c8d2bdfa95",
+  "exit_code": 0,
+  "seconds": 15.18,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 7.8s\n.olean serialization took 210ms\ncumulative profiling times:\n\t.olean serialization 210ms\n\tattribute application 0.011ms\n\tcongr simp thm 0.6ms\n\telaboration 11.8ms\n\tfix level params 1.24ms\n\timport 7.8s\n\tinitialization 27.6ms\n\tinstantiate metavars 1.14ms\n\tinterpretation 6.56s\n\tlet-to-have transformation 0.023ms\n\tlinting 6.23ms\n\tmodule linting 0.0019ms\n\tnorm_num 2.87ms\n\toverlappingInstancesLinter 26.6ms\n\tparsing 1.62ms\n\tprocess pre-definitions 3.82ms\n\tring 56.6ms\n\tshare common exprs 5.58ms\n\tsimp 106ms\n\ttactic execution 36.9ms\n\ttacticAnalysis 81.9ms\n\ttype checking 14.7ms\n\ttypeclass inference 184ms\n"
+}

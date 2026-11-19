@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/RegularQuotientIdealPowers.lean",
+  "source_sha256": "5a0058a9b62f0c27639bb7baf441834c7e8c9ad132dd1f628a51e361013b3466",
+  "exit_code": 0,
+  "seconds": 17.43,
+  "log": "D:\\data\\Jacobi\\dimension_four_dependence\\DimensionFourDependence\\RegularQuotientIdealPowers.lean:12:0: warning: automatically included section variable(s) unused in theorem `DimensionFourDependence.regular_quotient_constructs_numerator_multiple`:\n  [IsDomain R]\nconsider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:\n  omit [IsDomain R] in theorem ...\n\nNote: This linter can be disabled with `set_option linter.unusedSectionVars false`\n"
+}

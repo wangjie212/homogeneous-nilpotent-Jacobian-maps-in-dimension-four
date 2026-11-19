@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ConstructedAffineFiniteProjection.lean",
+  "source_sha256": "67a18369fb8a86277b313273f8adb71f2ccdc6a93cd26bf9abf8a41f32e58f50",
+  "exit_code": 0,
+  "seconds": 15.99,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 103ms\nimport took 8.51s\n.olean serialization took 229ms\ncumulative profiling times:\n\t.olean serialization 229ms\n\tattribute application 0.0106ms\n\telaboration 13.3ms\n\tfix level params 0.587ms\n\timport 8.51s\n\tinitialization 28ms\n\tinstantiate metavars 0.421ms\n\tinterpretation 6.99s\n\tlet-to-have transformation 4.11ms\n\tlinting 2.15ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 34.6ms\n\tparsing 0.937ms\n\tprocess pre-definitions 1.3ms\n\tshare common exprs 1.11ms\n\ttactic execution 13.7ms\n\ttacticAnalysis 80.1ms\n\ttype checking 6.65ms\n\ttypeclass inference 35.4ms\n"
+}

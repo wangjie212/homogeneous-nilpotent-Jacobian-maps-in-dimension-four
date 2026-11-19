@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ExtendedRationalRootSections.lean",
+  "source_sha256": "7dcf0f8eb5ef2d9704d9b0f255bbf0fccc4450d5b878f877f172916b9a0f93d0",
+  "exit_code": 0,
+  "seconds": 19.07,
+  "log": "type checking took 114ms\ntype checking took 110ms\ntype checking took 136ms\ntype checking took 116ms\ntype checking took 139ms\ntype checking took 132ms\ntype checking took 135ms\ntype checking took 134ms\ntype checking took 137ms\ntype checking took 115ms\ntype checking took 131ms\ntype checking took 122ms\ntype checking took 124ms\ntype checking took 128ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 106ms\nimport took 8.15s\n.olean serialization took 330ms\ncumulative profiling times:\n\t.olean serialization 330ms\n\tattribute application 2.8ms\n\tblocked (unaccounted) 92.9ms\n\tcompilation (IR) 1.01ms\n\tcompilation (LCNF base) 46.8ms\n\tcompilation (LCNF impure) 5.21ms\n\tcompilation (LCNF mono) 12.7ms\n\telaboration 646ms\n\tfix level params 2.04ms\n\timport 8.15s\n\tinitialization 28.5ms\n\tinstantiate metavars 0.195ms\n\tinterpretation 6.72s\n\tlet-to-have transformation 0.808ms\n\tlinting 28.2ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 39ms\n\tparsing 5.78ms\n\tprocess pre-definitions 21.9ms\n\tshare common exprs 6.1ms\n\ttactic execution 24.9ms\n\ttacticAnalysis 136ms\n\ttype checking 1.79s\n\ttypeclass inference 2.75s\n"
+}

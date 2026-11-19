@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ActualBoundaryGaussAlgebraicity.lean",
+  "source_sha256": "368a00eb0ad80ab8d31e86ae57997d0436b66f3b53496afef9cd9d9bc66ceff4",
+  "exit_code": 0,
+  "seconds": 20.03,
+  "log": "typeclass inference of Module took 127ms\ntypeclass inference of Module took 121ms\ntypeclass inference of Module took 289ms\ntactic execution of Lean.Parser.Tactic.refine took 164ms\ntactic execution of Lean.Parser.Tactic.rewriteSeq took 134ms\ntypeclass inference of SMul took 217ms\ntype checking took 315ms\ntype checking took 162ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 100ms\nimport took 7.97s\n.olean serialization took 814ms\ncumulative profiling times:\n\t.olean serialization 814ms\n\tattribute application 1.69ms\n\tblocked (unaccounted) 57.8ms\n\tcompilation (IR) 0.787ms\n\tcompilation (LCNF base) 28.8ms\n\tcompilation (LCNF impure) 4.25ms\n\tcompilation (LCNF mono) 8.39ms\n\telaboration 302ms\n\tfix level params 3.19ms\n\timport 7.97s\n\tinitialization 27.6ms\n\tinstantiate metavars 1.51ms\n\tinterpretation 6.44s\n\tlet-to-have transformation 0.817ms\n\tlinting 18.4ms\n\tmodule linting 0.0017ms\n\toverlappingInstancesLinter 37.3ms\n\tparsing 3.92ms\n\tprocess pre-definitions 20.1ms\n\tshare common exprs 7.87ms\n\ttactic execution 552ms\n\ttacticAnalysis 122ms\n\ttype checking 707ms\n\ttypeclass inference 3.91s\n"
+}

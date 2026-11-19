@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/MonicProjectionSectionBound.lean",
+  "source_sha256": "e8d04a9afa81b76ba30faed22a1ff0d23040c6c5ace77da5c426ef971cb1cf39",
+  "exit_code": 0,
+  "seconds": 16.31,
+  "log": "typeclass inference of SMul took 286ms\ntypeclass inference of SMul took 286ms\ninterpretation of Mathlib.Tactic.ToDual.guessNameExt took 110ms\nimport took 8.25s\n.olean serialization took 212ms\ncumulative profiling times:\n\t.olean serialization 212ms\n\tattribute application 0.0184ms\n\telaboration 20.9ms\n\tfix level params 0.382ms\n\timport 8.25s\n\tinitialization 27.4ms\n\tinstantiate metavars 0.275ms\n\tinterpretation 6.6s\n\tlet-to-have transformation 0.0828ms\n\tlinting 4.33ms\n\tmodule linting 0.0022ms\n\toverlappingInstancesLinter 30.9ms\n\tparsing 2.25ms\n\tprocess pre-definitions 1.33ms\n\tshare common exprs 0.921ms\n\ttactic execution 22.7ms\n\ttacticAnalysis 81.9ms\n\ttype checking 24.3ms\n\ttypeclass inference 1.04s\n"
+}

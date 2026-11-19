@@ -1,0 +1,7 @@
+{
+  "file": "DimensionFourDependence/ReducedClosureLift.lean",
+  "source_sha256": "754243a78a063516bfb7249e31b4114d14414358259c161240542115e2479311",
+  "exit_code": 0,
+  "seconds": 15.29,
+  "log": "interpretation of Mathlib.Tactic.ToDual.guessNameExt took 104ms\nimport took 8.28s\n.olean serialization took 205ms\ncumulative profiling times:\n\t.olean serialization 205ms\n\tattribute application 0.0237ms\n\tcongr simp thm 0.413ms\n\telaboration 9.96ms\n\tfix level params 0.193ms\n\timport 8.28s\n\tinitialization 27.6ms\n\tinstantiate metavars 0.13ms\n\tinterpretation 6.69s\n\tlet-to-have transformation 0.255ms\n\tlinting 2.79ms\n\tmodule linting 0.002ms\n\toverlappingInstancesLinter 24.7ms\n\tparsing 1.65ms\n\tprocess pre-definitions 1.27ms\n\tshare common exprs 0.498ms\n\tsimp 8.48ms\n\ttactic execution 21.2ms\n\ttacticAnalysis 100ms\n\ttype checking 8.08ms\n\ttypeclass inference 69.1ms\n"
+}
